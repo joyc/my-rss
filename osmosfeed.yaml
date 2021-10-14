@@ -1,4 +1,6 @@
 # cacheUrl: https://GITHUB_USERNAME.github.io/REPO_NAME/cache.json
 sources:
-  - href: href: https://nitter.net/awsstatusjp/rss
-# 
+  - href: https://qiita.com/popular-items/feed
+  - href: https://rss.itmedia.co.jp/rss/2.0/itmedia_all.xml
+siteTitle: "IT::News"
+cacheMaxDays: 5
