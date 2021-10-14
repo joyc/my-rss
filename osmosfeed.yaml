@@ -1,6 +1,6 @@
 cacheUrl: https://joyc.github.io/my-rss/cache.json
 sources:
-　- href: https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml
+  - href: https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml
   - href: https://qiita.com/popular-items/feed
   - href: https://japanese.engadget.com/rss.xml
   - href: https://rss.itmedia.co.jp/rss/2.0/topstory.xml
