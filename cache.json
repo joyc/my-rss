@@ -6,6 +6,150 @@
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
         {
+          "id": "https://www.itmedia.co.jp/news/articles/2110/19/news037.html",
+          "author": null,
+          "description": "LINK-Jは「脳は人工的につくれるのか？〜脳の情報処理のフロンティアに挑む」と題したトークイベントを開催。「意識を機械にアップロードする技術」など、最先端の脳研究を披露した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2110/19/news037.html",
+          "publishedOn": "2021-10-18T23:00:00.000Z",
+          "wordCount": 164,
+          "title": "「機械の脳」が現実に？　現実味を帯びてきた脳の人工再現――東大研究者たちが講演"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2110/19/news086.html",
+          "author": null,
+          "description": "Amazonは米国のホリデーシーズンに向けて、15万人を臨時雇用すると発表した。昨年は10万人を雇用した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2110/19/news086.html",
+          "publishedOn": "2021-10-18T22:59:00.000Z",
+          "wordCount": 144,
+          "title": "Amazon、年末商戦で15万人を臨時雇用（昨年は10万人）"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2110/19/news085.html",
+          "author": null,
+          "description": "米Apple初のプロ向けプロセッサ「M1 Pro」「M1 Max」を引っ提げて登場したMacBook Pro。14インチと16インチの2モデル構成になり、2016年から続いたデザインも刷新された。それに併せて、USB Type-Cだけだった端子類がいくつか復活した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2110/19/news085.html",
+          "publishedOn": "2021-10-18T22:30:00.000Z",
+          "wordCount": 213,
+          "title": "おかえり「MagSafe」「SDカードスロット」――新型MacBook Proで復活したものと消えたもの"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2110/19/news078.html",
+          "author": null,
+          "description": "Macにノッチがやってきた。なぜわざわざ。その理由を考えてみた。",
+          "link": "https://www.itmedia.co.jp/news/articles/2110/19/news078.html",
+          "publishedOn": "2021-10-18T20:37:00.000Z",
+          "wordCount": 147,
+          "title": "「Macにもノッチ」の理由　新型MacBook Proにあえて投入した切り欠きについて考えた"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2110/19/news076.html",
+          "author": null,
+          "description": "米Appleは、同社が開発した新チップ「M1 Pro」と「M1 Max」を発表。プロユーザーのために初めて設計されたプロセッサであり、同日に発表した、新型MacBook Proに搭載する。",
+          "link": "https://www.itmedia.co.jp/news/articles/2110/19/news076.html",
+          "publishedOn": "2021-10-18T19:35:00.000Z",
+          "wordCount": 190,
+          "title": "Appleが新チップ「M1 Pro」「M1 Max」発表　M1と比べてCPUは70％、GPUは最大4倍高速化"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2110/19/news074.html",
+          "author": null,
+          "description": "米Appleは10月18日（現地時間）、新型ノートブック「MacBook Pro」の14インチモデル、16インチモデルを発表した。同社が開発した新型プロセッサ「M1 Pro」と「M1 Max」を搭載。デザインも刷新しており、ディスプレイの縁がより薄くなって専有面積が拡大した他、キーボードは「Touch Bar」を廃止。磁力でくっつく「MagSafe 3」、SDカードスロット、HDMI端子などインタフェースも拡充された。",
+          "link": "https://www.itmedia.co.jp/news/articles/2110/19/news074.html",
+          "publishedOn": "2021-10-18T18:13:00.000Z",
+          "wordCount": 201,
+          "title": "MacBook Pro 14／16インチ登場　「M1 Pro」「M1 Max」搭載、Touch Bar廃止　約24万円から"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2110/19/news068.html",
+          "author": null,
+          "description": "米Appleは10月18日（現地時間）、第3世代「AirPods」を発表した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2110/19/news068.html",
+          "publishedOn": "2021-10-18T17:39:00.000Z",
+          "wordCount": 163,
+          "title": "「AirPods」に第3世代モデル、空間オーディオ対応　価格は2万3800円　26日から販売"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2110/18/news140.html",
+          "author": null,
+          "description": "Smart119社が開発した、AIによる脳卒中診断アルゴリズムについての論文が国際科学誌「Scientific Reports」に掲載された。救急患者の容体など情報を基に、脳卒中の中でも「くも膜下出血」「脳梗塞」「脳出血」「主管動脈閉鎖」のいずれに該当するかを判別できるという。",
+          "link": "https://www.itmedia.co.jp/news/articles/2110/18/news140.html",
+          "publishedOn": "2021-10-18T11:25:00.000Z",
+          "wordCount": 145,
+          "title": "AIで「くも膜下出血か脳梗塞か？」を即座に判別　千葉市で年度内に実用化へ"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2110/18/news139.html",
+          "author": null,
+          "description": "中国当局がソニーの中国法人に対し100万元（約1778万円）の罰金を科したと、共同通信が報じた。同社は7月7日に新製品を発表すると中国のSNS「微博」で予告していたが、日中戦争の発端となった盧溝橋事件と同じ日であるとして批判が集まっていた。",
+          "link": "https://www.itmedia.co.jp/news/articles/2110/18/news139.html",
+          "publishedOn": "2021-10-18T10:41:00.000Z",
+          "wordCount": 144,
+          "title": "ソニー、中国当局から約1778万円の罰金命令　7月7日の製品発表予告が「中国の威厳損なった」"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2110/18/news118.html",
+          "author": null,
+          "description": "楽天グループが「楽天ポイント利息」の提供を始めた。楽天IDを持つユーザーが任意のポイントを預け入れると、月利0.009％（年利0.108％）分を還元する。",
+          "link": "https://www.itmedia.co.jp/news/articles/2110/18/news118.html",
+          "publishedOn": "2021-10-18T09:00:00.000Z",
+          "wordCount": 147,
+          "title": "「楽天ポイント利息」スタート、年利0.108％で預金を体験　主要共通ポイントでは初"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2110/18/news115.html",
+          "author": null,
+          "description": "シャープは、バックライトの光源にmini LEDを採用する液晶テレビの新シリーズ「AQUOS XLED」（アクオス エックスレッド）を近日中に発表する。「CEATEC ONLINE 2021」で製品コンセプトを明らかにした。",
+          "link": "https://www.itmedia.co.jp/news/articles/2110/18/news115.html",
+          "publishedOn": "2021-10-18T08:40:00.000Z",
+          "wordCount": 187,
+          "title": "mini LED搭載の液晶テレビ「アクオス エックスレッド」、シャープが近日発表"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2110/18/news101.html",
+          "author": null,
+          "description": "ノーリツは18日、バンダイとのコラボレーションにより音声案内や音楽が流れる給湯器リモコンのカプセル玩具が登場すると発表した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2110/18/news101.html",
+          "publishedOn": "2021-10-18T06:25:00.000Z",
+          "wordCount": 144,
+          "title": "「おふろがわきました」　ノーリツの給湯器リモコンがガシャポンに　音声案内を再現"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2110/18/news097.html",
+          "author": null,
+          "description": "Teslaに乗り始めた山崎潤一郎さんが初の長距離ドライブ。なぜここまで燃費ならぬ電費が安いのか。その仕組みを明かします。",
+          "link": "https://www.itmedia.co.jp/news/articles/2110/18/news097.html",
+          "publishedOn": "2021-10-18T05:33:00.000Z",
+          "wordCount": 140,
+          "title": "Teslaでの長距離ドライブ、820km走って電費1000円いかないカラクリ"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2110/18/news093.html",
+          "author": null,
+          "description": "XR技術を使ったサービスを手掛けるPocket RDは、同社が提供する3Dアバター生成サービス「AVATARIUM」で「名探偵コナン」のコラボレーションアバターを実装。31日まで開催するバーチャル渋谷のハロウィーンイベントで利用できる。",
+          "link": "https://www.itmedia.co.jp/news/articles/2110/18/news093.html",
+          "publishedOn": "2021-10-18T05:19:00.000Z",
+          "wordCount": 155,
+          "title": "誰でもコナンや安室透になれる　バーチャル渋谷で使える「名探偵コナン」コラボアバター"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2110/18/news073.html",
+          "author": null,
+          "description": "すかいらーくホールディングスが、猫のような見た目が特徴の配膳ロボット「BellaBot」を導入し、2022年末までに「ガスト」「しゃぶ葉」など約2000店舗に配備する。感染症対策やスタッフの業務削減が目的という。",
+          "link": "https://www.itmedia.co.jp/news/articles/2110/18/news073.html",
+          "publishedOn": "2021-10-18T02:54:00.000Z",
+          "wordCount": 147,
+          "title": "“ネコミミ配膳ロボット”すかいらーくが導入　ガストやしゃぶ葉など約2000店に配備"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2110/18/news071.html",
+          "author": null,
+          "description": "テレビアニメ「機動戦士ガンダム」などで知られるサンライズは18日、本社を杉並区にあるビルに本社を移転すると発表した。新オフィスは「ホワイトベース」と名付ける。",
+          "link": "https://www.itmedia.co.jp/news/articles/2110/18/news071.html",
+          "publishedOn": "2021-10-18T02:32:00.000Z",
+          "wordCount": 151,
+          "title": "新オフィスは「ホワイトベース」　サンライズが本社移転"
+        },
+        {
           "id": "https://www.itmedia.co.jp/news/articles/2110/18/news061.html",
           "author": null,
           "description": "メタバース構築に注力するFacebookは、欧州でメタバース関連の人材を1万人採用する計画を発表した。メタバース構築計画の中心を欧州に置くとしている。",
@@ -76,33 +220,6 @@
           "publishedOn": "2021-10-16T22:47:00.000Z",
           "wordCount": 167,
           "title": "Steamではブロックチェーン採用ゲーム禁止　Valveが規約に文言追加"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2110/16/news047.html",
-          "author": null,
-          "description": "ポケモンGOで15日、恒例のハロウィンイベントが始まりました。しかし新実装の「ヤドキング（ガラルのすがた）」に不具合が発生しています。",
-          "link": "https://www.itmedia.co.jp/news/articles/2110/16/news047.html",
-          "publishedOn": "2021-10-16T05:30:00.000Z",
-          "wordCount": 157,
-          "title": "ポケモンGO、「ガラルヤドキング」の進化に不具合　ハロウィンイベントで新実装【修正済み】"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2110/16/news044.html",
-          "author": null,
-          "description": "買って試さなければ分からないことはある。そのために60km走ってきた。",
-          "link": "https://www.itmedia.co.jp/news/articles/2110/16/news044.html",
-          "publishedOn": "2021-10-16T03:33:00.000Z",
-          "wordCount": 156,
-          "title": "Apple Watch Series 7は自転車「サイコン」の代わりになる？　買って走って分かったこと"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2110/16/news037.html",
-          "author": null,
-          "description": "MicrosoftはE3で予告した「Xbox Series X」にそっくりなミニ冷蔵庫「Xbox Mini Fridge」を本当にホリデーシーズンに発売すると発表した。米国での販売価格は99.99ドル。「各国の規制当局の承認を待っている」。",
-          "link": "https://www.itmedia.co.jp/news/articles/2110/16/news037.html",
-          "publishedOn": "2021-10-15T23:13:00.000Z",
-          "wordCount": 191,
-          "title": "Microsoft、「Xbox Series X」そっくりなミニ冷蔵庫を100ドルで今冬発売"
         }
       ]
     },
@@ -111,6 +228,105 @@
       "feedUrl": "https://qiita.com/popular-items/feed",
       "siteUrl": "https://qiita.com/popular-items",
       "articles": [
+        {
+          "id": "https://qiita.com/yasomaru/items/fa708a1f21a79e637868?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "この記事について\n\nAWSのサービスをローカルで実行できるLocalStackについて紹介したいと思います。今回、AWS CLIの練習も兼ねてLocalStackを使用し、ローカルでAWS Lamb…",
+          "link": "https://qiita.com/yasomaru/items/fa708a1f21a79e637868?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-10-18T08:30:17.000Z",
+          "wordCount": 730,
+          "title": "LocalStackを使ってローカル環境でS3を立ち上げ、Lambdaでファイルをアップロードしてみた"
+        },
+        {
+          "id": "https://qiita.com/nukipei/items/aad014afdb024a72b639?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nこんにちは！\n本記事では、Fixstars社から提供されているイジングマシン（量子アニーリングマシンを含む）向けライブラリであるFixstars Amplify SDKを紹介し、その後、…",
+          "link": "https://qiita.com/nukipei/items/aad014afdb024a72b639?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-10-18T08:29:22.000Z",
+          "wordCount": 1204,
+          "title": "Fixstars Amplify SDKで、東京観光の最適巡回ルートを求めてみた！"
+        },
+        {
+          "id": "https://qiita.com/yoshi-kin/items/368b90ce75a4479006c3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nActionsを触り始めて間もないので、間違ってるところもあるかもです。ご指摘いただければ幸いです。\n\ndocker構築せずにseleniumを動かしたいという方は、こちらの記事を参考にし…",
+          "link": "https://qiita.com/yoshi-kin/items/368b90ce75a4479006c3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-10-18T06:14:01.000Z",
+          "wordCount": 442,
+          "title": "GithubActions上でDocker構築してseleniumを動かしたので簡単にまとめてみた（初心者）"
+        },
+        {
+          "id": "https://qiita.com/pik/items/aa4d4902c1efbfad9ff4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n今回の話は Windows 限定です。\n\nPx to DP\n\nDelphi 11.0 Alexandria から FireMonkey は High DPI 対応により Pixel ベースか…",
+          "link": "https://qiita.com/pik/items/aa4d4902c1efbfad9ff4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-10-18T06:12:25.000Z",
+          "wordCount": 660,
+          "title": "[Delphi] FireMonkey の座標系が DP に変わるけど心配要らないと言ったな。あれは嘘だ。"
+        },
+        {
+          "id": "https://qiita.com/sagae_twins_developper/items/da15cf7315672cc79dcd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nサービス立ち上げから、徐々にトラフィックが増えてきました。\nそこで少しでも運用の知見をアウトプットしたく、今回はStripeを実装した決済代行について書き連ねて見ようと思います。\n\n決済シ…",
+          "link": "https://qiita.com/sagae_twins_developper/items/da15cf7315672cc79dcd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-10-18T02:55:44.000Z",
+          "wordCount": 220,
+          "title": "月間売上100万、ユーザー数が600人を超えたサービスがStripe connectを導入して感じたこと"
+        },
+        {
+          "id": "https://qiita.com/mochan_tk/items/e1f390cc88046f92eec6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "こんにちは、もっちゃんと申します。\n\nLINEのAPIといえばMessaging API(LINE Botを作る時に使う)のイメージが強いですが、LINEを活用した通知の機能を導入するにあたってシンプ…",
+          "link": "https://qiita.com/mochan_tk/items/e1f390cc88046f92eec6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-10-18T01:00:42.000Z",
+          "wordCount": 394,
+          "title": "【2021年】はじめてのLINE Notify、IoTデバイスから通知を送ってみる with obniz"
+        },
+        {
+          "id": "https://qiita.com/Axross_SBiv/items/f4a914e5eb926d269999?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nAxrossを運営している藤原です。\n\nAxross とは、エンジニアの\"教育\"と\"実務\"のギャップに着目し、「学んだが活用できない人を減らしたい」という想いのもと、ソフトバンクの社内起業…",
+          "link": "https://qiita.com/Axross_SBiv/items/f4a914e5eb926d269999?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-10-17T23:22:58.000Z",
+          "wordCount": 231,
+          "title": "ディープラーニングを使って異常検知を実装するレシピの紹介"
+        },
+        {
+          "id": "https://qiita.com/taqro/items/4ed3f29b004634e2f1fe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nDevOpsのためのプラットフォームGitLabが2021年10月14日に時価総額約1兆2000億円で米NASDAQ市場に上場しました。途方も無い金額ですが、この上場に至るまでGitLa…",
+          "link": "https://qiita.com/taqro/items/4ed3f29b004634e2f1fe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-10-17T22:00:44.000Z",
+          "wordCount": 342,
+          "title": "全社員フルリモートで1兆2000億円で上場したGitLabに学ぶリモートワークの心得え"
+        },
+        {
+          "id": "https://qiita.com/Kyome/items/5cd1438f889b2a5e200f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "私はLEGOが好きです。最近は大人向けのセットも発売されており、LEGOブームの波が来ている気がします。そんな大人向けのシリーズの一つにLEGOアートというものがあります。要はドット絵なんですが、L…",
+          "link": "https://qiita.com/Kyome/items/5cd1438f889b2a5e200f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-10-17T12:55:43.000Z",
+          "wordCount": 669,
+          "title": "写真をLEGOアートみたいにしちゃうライブラリを作ってみた"
+        },
+        {
+          "id": "https://qiita.com/elliot_tk/items/02eb612e00e680df029f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "概要\n\n今回はLinuxのSSHにハニーポット設置してみたので、その方法と結果をシェアしたいと思います。\n\n参考\n\n今回SSHを設置する方法は、このYoutubeの動画を参考にしています。\n\nhttps:…",
+          "link": "https://qiita.com/elliot_tk/items/02eb612e00e680df029f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-10-17T12:38:53.000Z",
+          "wordCount": 297,
+          "title": "SSHハニーポットをLinuxに設置する方法と結果"
+        },
+        {
+          "id": "https://qiita.com/yaitaimo/items/08b75dd47b787e8b8b9b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nAPI ログを取っていますか、便利に使えていますか？\n\nログにもいろいろありますが、本記事では Backend API での、アクセスごとのリクエスト・レスポンスのログについて焦点を当てま…",
+          "link": "https://qiita.com/yaitaimo/items/08b75dd47b787e8b8b9b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-10-17T10:58:03.000Z",
+          "wordCount": 253,
+          "title": "React から利用する API のロギングでロケーション情報を格納する"
+        },
         {
           "id": "https://qiita.com/from_Unknown/items/705c28bda80a70ca4d48?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
@@ -139,6 +355,24 @@
           "title": "『ネットワーク』について"
         },
         {
+          "id": "https://qiita.com/munoman/items/6c2c9cc9846cd39ae017?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "皆さんはJSONというものをご存知でしょうか。\n要するにキーとバリューの組み合わせのテキストフォーマットです。\n厳密には違うかもしれませんが、ここではそれをJSONと定義して呼びます。\nキーには、主…",
+          "link": "https://qiita.com/munoman/items/6c2c9cc9846cd39ae017?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-10-17T07:38:35.000Z",
+          "wordCount": 175,
+          "title": "テレワーク時代はJSON形式で質問しよう"
+        },
+        {
+          "id": "https://qiita.com/gremito/items/ca115aeec32608403862?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "概要\n\n3~4年も前に公式のスタートガイドぐらいしか使ったことがなかったため、Firebase Functionsをちゃんと触るのは今回が初めてで、LINE Botも簡単なメッセージ返答ぐらいまでし…",
+          "link": "https://qiita.com/gremito/items/ca115aeec32608403862?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-10-17T05:48:42.000Z",
+          "wordCount": 321,
+          "title": "LINE Bot のカルーセルテンプレートを Firebase Functions で実装する方法について"
+        },
+        {
           "id": "https://qiita.com/kaizen_nagoya/items/15b222be5bfe7f26979a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
           "description": "ビギナー向け、無料で最強の海外独学サイトリスト @monsoonTropicalBird\n\nhttps://qiita.com/monsoonTropicalBird/items/a5a89cc689…",
@@ -155,6 +389,15 @@
           "publishedOn": "2021-10-17T01:35:36.000Z",
           "wordCount": 1125,
           "title": "Pytorch Template 個人的ベストプラクティス（解説付き）"
+        },
+        {
+          "id": "https://qiita.com/irohas_gawr/items/dea82ddedcb0a02db9a8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "どうも、Pythonを主軸に開発を行っている学生エンジニアのirohasです。\n今回は最近話題のGAS(GoogleAppsScript)を使用したLineBotを作ってみました。\n\n使用したもの\n・…",
+          "link": "https://qiita.com/irohas_gawr/items/dea82ddedcb0a02db9a8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-10-17T01:30:09.000Z",
+          "wordCount": 316,
+          "title": "GASでごはんのアイデアを送ってくれるBotを作成してみた。"
         },
         {
           "id": "https://qiita.com/greenteabiscuit/items/ecaaf35a1f7f9de07bb7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -184,6 +427,15 @@
           "title": "Dockerを使ってOneAPIとOpenMXのインストール"
         },
         {
+          "id": "https://qiita.com/zhang_yid/items/0f065098fe4a0e0066d0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "前書き\n\n最近は【Code: The Hidden Language of Computer Hardware and Software】という本を読んで、\n結構面白いと思って、この中に書いた Ad…",
+          "link": "https://qiita.com/zhang_yid/items/0f065098fe4a0e0066d0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-10-16T14:42:08.000Z",
+          "wordCount": 822,
+          "title": "全加算器について勉強しました"
+        },
+        {
           "id": "https://qiita.com/ushigai_sub/items/c4ade269dce25f15f9d0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
           "description": "はじめに\n\nセキュリティキャンプ全国大会2021に参加しました。応募するにあたって応募課題なるものを提出する必要があり、特に集中コースの応募課題はクソむずいです。\n\n本記事は私が応募したL-1 暗号解…",
@@ -209,123 +461,6 @@
           "publishedOn": "2021-10-16T14:09:38.000Z",
           "wordCount": 522,
           "title": "【JavaScript活用】リベンジしてみた！！→QiitaAPIでバイクが好きがいるか調べてみた"
-        },
-        {
-          "id": "https://qiita.com/manzyun/items/91fccc3cf1862776e03a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "「SSHで入ったサーバーに『ウィンドウマネージャ』や『デスクトップ環境』が入っている事は大変稀」\nと思う。\n\nそのサーバーやコマンドでの操作で、\n「実行後に出力が出るまで時間の掛るコマンド」\nを叩いた…",
-          "link": "https://qiita.com/manzyun/items/91fccc3cf1862776e03a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-10-16T12:25:24.000Z",
-          "wordCount": 480,
-          "title": "シェルコマンドで「あれもこれもそれも」とやりたい時・やらせた後の確認の仕方"
-        },
-        {
-          "id": "https://qiita.com/malleroid/items/1a20d87dd8ddb85c01ba?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "みなさん初めまして\n初登校です🎒\n\n少し前になりますが、2021/10/2に行われたABC221で入緑しました！🤗\n\n\n\n今回は私が入緑するのに必要だったアルゴリズムとデータ構造についてまとめていこうと思い…",
-          "link": "https://qiita.com/malleroid/items/1a20d87dd8ddb85c01ba?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-10-16T09:52:23.000Z",
-          "wordCount": 356,
-          "title": "AtCoderで入緑するために必要だったアルゴリズムとデータ構造 (2021年10月版)"
-        },
-        {
-          "id": "https://qiita.com/revvve44/items/718812b744d57938739a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "どうも、日系大手企業でパワポエンジニアをやっております\nファンタジスタ☆みゆきです。\n\nさて、今回は需要があるか分かりませんが、弊社の業務事情について日系大手企業に在籍したことがない人にも日系大手企業…",
-          "link": "https://qiita.com/revvve44/items/718812b744d57938739a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-10-16T09:32:06.000Z",
-          "wordCount": 250,
-          "title": "日系大手企業のパワポエンジニア事情【令和版】"
-        },
-        {
-          "id": "https://qiita.com/SAITO_Keita/items/472016123b79aebb2548?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "Git For Windowsをさわってみる from PowerShell＋【oh-my-poshとposh-gitも】　の記事で、PowerShellでgitを利用する過程でoh-my-poshとposh-gi…",
-          "link": "https://qiita.com/SAITO_Keita/items/472016123b79aebb2548?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-10-16T07:41:16.000Z",
-          "wordCount": 527,
-          "title": "Oh My Poshを利用してPowerShellプロンプトをいい感じにする"
-        },
-        {
-          "id": "https://qiita.com/totori-san/items/ed8077bda24d3462be05?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "Array.prototype.atは何ができるの\n\nPythonのように, 負数を指定すると配列の後ろから取得できます. 特に最後尾の数個や, 文字列での末尾からの指定など, 待ち望まれていた機能…",
-          "link": "https://qiita.com/totori-san/items/ed8077bda24d3462be05?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-10-16T07:20:51.000Z",
-          "wordCount": 876,
-          "title": "ES2022のArray.prototype.atは今の所遅い (2021/10/16時点)"
-        },
-        {
-          "id": "https://qiita.com/aaaasahi_17/items/506f2259698052b97aa8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "アケイベ\n\n\n\nアプリ概要\n\nコロナ渦で消えゆくゲームセンターを救いたい! という気持ちで作成したゲームセンター開催限定のイベント投稿型サービスです。\n\n作成した背景\n\nゲームセンター を救いたいという想い\n\n…",
-          "link": "https://qiita.com/aaaasahi_17/items/506f2259698052b97aa8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-10-16T07:01:08.000Z",
-          "wordCount": 315,
-          "title": "[Rails] 「ゲームセンターを救いたい!」という想いでポートフォリオ作りました。"
-        },
-        {
-          "id": "https://qiita.com/wolfmagnate/items/579a7b8dd007f6fbb5c3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "Unity設計入門の目次はこちら\n\n\n\nはじめに\n\n理論編では、ModelとViewを分離することの利点について解説しました。実践編では以下のようなアプリケーションを作って、ModelとViewが分離できて…",
-          "link": "https://qiita.com/wolfmagnate/items/579a7b8dd007f6fbb5c3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-10-15T23:51:03.000Z",
-          "wordCount": 593,
-          "title": "Unity設計入門：第1章「ModelとView」・実践編"
-        },
-        {
-          "id": "https://qiita.com/munieru_jp/items/7131bb2617041388622d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "Node.jsでディレクトリを再帰的に作成/削除するためのnpmパッケージとしてmkdirpやrimrafがありますが、現代のNode.js（v14.14.0以降）において、それらはもはや必要ありま…",
-          "link": "https://qiita.com/munieru_jp/items/7131bb2617041388622d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-10-15T23:20:42.000Z",
-          "wordCount": 286,
-          "title": "Node.jsでディレクトリを再帰的に作成/削除するのにmkdirpやrimrafはもう必要ない"
-        },
-        {
-          "id": "https://qiita.com/e99h2121/items/6a3dfe1bf041196fd154?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "リーダブルコード 「鍵となる考え」\n\n\n\nからなるほどと思ったところのピックアップです。\n\n1.5 でもやるんだよ\n\n\n「コードは他の人が最短時間で理解できるように書かなければいけない」\n「他の人」というのは…",
-          "link": "https://qiita.com/e99h2121/items/6a3dfe1bf041196fd154?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-10-15T21:25:11.000Z",
-          "wordCount": 199,
-          "title": "「リーダブルコード」を読んだので、その要点"
-        },
-        {
-          "id": "https://qiita.com/Kacy-Infra-Minzoku/items/ded8a4dbf467403b7604?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "急にやってくるのは「現実的な絶望」\n\nどうもこんにちは、ついさっきまで現実的な絶望噛み締めてましたそこらへんのぺーぺーエンジニアことけいしーです。\nそしたら急にやる気が沸き上がったので、頭に浮かんだ…",
-          "link": "https://qiita.com/Kacy-Infra-Minzoku/items/ded8a4dbf467403b7604?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-10-15T18:36:08.000Z",
-          "wordCount": 203,
-          "title": "サーバインフラエンジニアのやりがい【モチベ】"
-        },
-        {
-          "id": "https://qiita.com/alme/items/13d85dba0a4cdd7d0df4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "現状\n\n前の記事で書いた通り、私は社内ＳＥから転職を考え\n今まさに働きながら転職活動中の身です。\n決して若くない上に二度目の転職のため、そろそろ最低３～５年は居られる会社に勤めたいところ。\nとはいえ…",
-          "link": "https://qiita.com/alme/items/13d85dba0a4cdd7d0df4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-10-15T18:06:32.000Z",
-          "wordCount": 224,
-          "title": "働きながら転職するときに意識してる５つのこと"
-        },
-        {
-          "id": "https://qiita.com/nanato12/items/eb05472b37ba7eb58da8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "はじめに\n\n〇月〇日から△月△日まで〜 みたいなのをforで回したい時ありますよね。\n\nそんな時に使えそうなライブラリを作ったので投稿します。\n\nソースコード\n\n名前は dt-range めっちゃ普通。\n\n…",
-          "link": "https://qiita.com/nanato12/items/eb05472b37ba7eb58da8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-10-15T14:17:12.000Z",
-          "wordCount": 443,
-          "title": "【Python】日付をforで回したい （〇月〇日から△月△日まで〜）"
-        },
-        {
-          "id": "https://qiita.com/Nekoyama141592/items/6cb13dfecff3dae631f7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "数字が大きい順\n\nvoid sort() {\n  final List<Map<String,dynamic>> list = [\n    {'score': 1},\n    {'score': 2},\n    {'score…",
-          "link": "https://qiita.com/Nekoyama141592/items/6cb13dfecff3dae631f7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-10-15T13:26:49.000Z",
-          "wordCount": 293,
-          "title": "FlutterのList<Map<String,dynamic>>をintやDateTimeでsortする"
         }
       ]
     },
@@ -334,6 +469,231 @@
       "feedUrl": "https://japanese.engadget.com/rss.xml",
       "siteUrl": "http://japanese.engadget.com/",
       "articles": [
+        {
+          "id": "862f52d5-8f67-4a26-bf4f-fc3770a65369",
+          "author": "Ittousai",
+          "description": "PlayStation 5がスクリーンショットやビデオの自動クラウドアップロードに対応し、スマホのPS App からブラウズしてダウンロードや共有ができるようになりました。",
+          "link": "https://japanese.engadget.com/playstation-5-auto-cloud-upload-ps-app-235206093.html",
+          "publishedOn": "2021-10-18T23:52:06.000Z",
+          "wordCount": 279,
+          "title": "PS5がキャプチャの自動アップロード対応、PS Appから14日間アクセス可能に"
+        },
+        {
+          "id": "911568a7-4fe7-4160-b118-d78e27341370",
+          "author": "Ittousai",
+          "description": "新しい AirPods (第三世代モデル)の発表にあわせて、アップルが旧型になる第二世代 AirPods の価格を改定しました。\n\n新価格は税込1万6800円(Lightning有線充電ケース付属)。旧価格の税込1万9580円から約3000円の値下げです。",
+          "link": "https://japanese.engadget.com/airpods-price-2nd-3rd-with-or-without-wireless-233019742.html",
+          "publishedOn": "2021-10-18T23:40:19.000Z",
+          "wordCount": 255,
+          "title": "旧型AirPods(第二世代)が1万6800円へ値下げ。第三世代と7000円差で併売"
+        },
+        {
+          "id": "e823dba8-3f37-41b9-8d5a-dd54627d6479",
+          "author": "Ittousai",
+          "description": "フロム・ソフトウェアが、新作『ELDEN RING』(エルデンリング)の発売日を2022年2月25日に変更しました。同時に、11月に実施するネットワークテストへの参加者を募集しています。",
+          "link": "https://japanese.engadget.com/elden-ring-delayed-a-month-feb-2022-network-test-233002306.html",
+          "publishedOn": "2021-10-18T23:30:02.000Z",
+          "wordCount": 251,
+          "title": "フロム『ELDEN RING』が約一か月延期、2月25日発売へ。11月に公開ネットワークテスト実施"
+        },
+        {
+          "id": "43c770bc-6ee6-4807-99de-8c4f57f57e2a",
+          "author": "Munenori Taniguchi",
+          "description": "アップルが発表したM1 Proチップ搭載の14インチMacBook Proと、M1チップ搭載の13インチモデルの仕様比較をしてみました",
+          "link": "https://japanese.engadget.com/macbook-pro-13-14-comparison-222041325.html",
+          "publishedOn": "2021-10-18T22:20:41.000Z",
+          "wordCount": 438,
+          "title": "新しい14インチMacBook Proと既存13インチモデル仕様比較。大幅な進化と価格差"
+        },
+        {
+          "id": "99637e6e-c071-454a-8cbe-60a6cc3cdab9",
+          "author": "GREEN FUNDING with Engadget Staff",
+          "description": "「Hinebor」(ハインボール)主な特徴： 分離式デザイン・耐荷重200kg！男女兼用！ 腰・腹・尻・腕などのを同時に鍛える！擦れ音も小さい！ 使用簡単。トレーニング動作の補助装置としても！ テレビを見ながら利用可能、楽々運動！ 携帯や収納に便利、いつでもどこでもエクササイズ可能！ 「Hinebor」とは、自宅で腰回りや腕、腹、尻などの筋肉を鍛えられるエクササイズグッズです。ツイスト運動がお腹の筋肉を鍛えてウエストを引き締めます。また、腰をしっかり回転させるので腰のストレッチとしても役立ちます。上に乗って、腰をひねると凝り固まった筋肉の緊張がほぐれます。 従来のシェイプツイスターは一体型で、運動中に不安を感じることも。「Hinebor」は安定性が優れた分離式デザインで、両足の開き具合を自由に調整でき、男性でも女性でもご利用いただけます。また、動作音が小さいため、ご自宅で使用しても周囲へ迷惑をかけません。ほかのトレーニング動作と組み合わせればより効果的に！ 従来のシェイプツイスターは一体型のものが一般的です。上に乗ればバランスが崩れやすく、不安を感じてしまうことも。「Hinebor」は",
+          "link": "https://japanese.engadget.com/hinebor-shape-twister-222017990.html",
+          "publishedOn": "2021-10-18T22:20:17.000Z",
+          "wordCount": 279,
+          "title": "長時間のデスクワークで凝り固まった筋肉の緊張をほぐす。シェイプツイスター「Hinebor」"
+        },
+        {
+          "id": "dbc6df33-8615-4be3-ae42-78128a3c9c13",
+          "author": "本田雅一",
+          "description": "iPhone、iPad mini、Apple Watchと続いた新製品ラッシュにMacが加わることは確実と言われてきたが、噂されていたAirPodsに加え、HomePodも年内新製品のラインナップに顔を並べることになった。それぞれの製品についてはApple自身のプレゼンテーション、あるいは本誌をはじめとする速報レポートでその概要が伝えられているので、ここでは少し違う方向から見ていきたい。",
+          "link": "https://japanese.engadget.com/macbookpro-m1pro-m1max-215011805.html",
+          "publishedOn": "2021-10-18T21:50:11.000Z",
+          "wordCount": 297,
+          "title": "新型MacBook Proにみる、「シリコンの統合」がもたらす盤石の製品ライン（本田雅一）"
+        },
+        {
+          "id": "49de0be8-ddb4-4dbe-b1f9-bbbe4eeb2cf2",
+          "author": "こばやしなおき（Naoki Kobayashi）",
+          "description": "日本時間10月19日、Appleは「パワー全開。」と銘打ったスペシャルイベントを開催し、新型Macbook Proや第3世代のAirPods、HomePod miniの新色などを発表しました。\nなかでも注目は、新たなAppleシリコン「M1 Pro」および「M1 Max」を搭載した新型Macbook Pro。既存の「M1」と比べてかなりのパフォーマンスを備えているとのことで、実際どうなのかが気になるところです。\nそのあたりは実機レビューを待つとして、ここでは「パワー全開。」イベントにて発表された製品やサービスをまとめてご紹介します。",
+          "link": "https://japanese.engadget.com/macbookpro-airpods-homepodmini-211001997.html",
+          "publishedOn": "2021-10-18T21:10:01.000Z",
+          "wordCount": 314,
+          "title": "5分でわかるApple新製品まとめ。M1 Pro / M1 Max採用の新型MacBook Pro、第3世代AirPods、HomePod mini新色など"
+        },
+        {
+          "id": "04e5ce72-4ddb-4d23-86a9-b9f47811089e",
+          "author": "今日は何の日？",
+          "description": "ユニークな機能を備えたスマートフォンは数多くありますが、後から好みの機能を追加できる製品として登場したのが、「Moto Z/Moto Z Play」。\n\nこの、拡張性に優れたスマートフォンが発売されたのが、2016年の今日です。",
+          "link": "https://japanese.engadget.com/today-203027315.html",
+          "publishedOn": "2021-10-18T20:30:27.000Z",
+          "wordCount": 246,
+          "title": "2016年10月19日、Moto Modsで機能を拡張できるスマホ「Moto Z/Moto Z Play」が発売されました：今日は何の日？"
+        },
+        {
+          "id": "7aa9cac0-d61e-4260-b698-07b4aeffb44b",
+          "author": "Kiyoshi Tane",
+          "description": "アップルは19日未明の「パワー全開」イベントにて、新たなAppleシリコン「M1 Pro」および「M1 Max」を正式に発表しました。",
+          "link": "https://japanese.engadget.com/apple-silicon-m-1-pro-max-195555599.html",
+          "publishedOn": "2021-10-18T19:57:07.000Z",
+          "wordCount": 298,
+          "title": "最新Appleシリコン「M1 Pro」と「M1 Max」発表。最大RAMは64GB、GPUも大幅強化"
+        },
+        {
+          "id": "2abae6fc-c6cf-4ba3-84c8-2422581a4810",
+          "author": "小口貴宏(Takahiro Koguchi)",
+          "description": "アップルは、macOSの新バージョン「macOS Monterey」を日本時間10月26日に配信します。",
+          "link": "https://japanese.engadget.com/macos-montrey-195100142.html",
+          "publishedOn": "2021-10-18T19:51:00.000Z",
+          "wordCount": 250,
+          "title": "アップル「macOS Monterey」10月26日配信、ユニバーサルコントロールは後日"
+        },
+        {
+          "id": "5c0769f1-3c71-4308-b6ad-779264e2f76e",
+          "author": "Munenori Taniguchi",
+          "description": "新しい16インチMacBook Proについてインテルチップ搭載の既存モデルとの仕様比較をしてみました",
+          "link": "https://japanese.engadget.com/macbook-pro-16-comparison-195018431.html",
+          "publishedOn": "2021-10-18T19:50:18.000Z",
+          "wordCount": 490,
+          "title": "新旧16インチMacBook Proの仕様比較。M1 Pro、M1 Maxチップ採用で全てが新しく"
+        },
+        {
+          "id": "5f642fa0-87ba-4458-a885-a2ad5092dbff",
+          "author": "Kiyoshi Tane",
+          "description": "19日未明の「パワー全開」イベントにて、アップルが新型MacBook Proを発表しました。画面サイズは14インチと16インチであり、うち前者は実質的に旧13インチモデルの後継機となる位置づけです。",
+          "link": "https://japanese.engadget.com/14-16-macbookpro-m-1-x-miniled-180650914.html",
+          "publishedOn": "2021-10-18T18:06:50.000Z",
+          "wordCount": 299,
+          "title": "新型MacBook Pro発表。「M1 Pro」「M1 Max」とミニLED画面採用、Touch Bar廃止で外部ポート大充実"
+        },
+        {
+          "id": "3b8bc2f4-e900-424f-8ecd-368ac8887cd4",
+          "author": "Munenori Taniguchi",
+          "description": "Apple Musicに音声操作特化の新プラン「Voice Plan」が発表されました",
+          "link": "https://japanese.engadget.com/apple-music-voice-plan-174255049.html",
+          "publishedOn": "2021-10-18T17:42:55.000Z",
+          "wordCount": 247,
+          "title": "Apple Music Voice Plan発表。Siri操作に特化して安価に提供"
+        },
+        {
+          "id": "adb4554a-2be7-4b92-8070-4d896811de4e",
+          "author": "Kiyoshi Tane",
+          "description": "19日未明の「パワー全開」イベントにて、アップルがスマートスピーカーHomePod miniの新色を発表しました。イエロー、ブルー、オレンジの3色が新たに選択肢として追加されます。",
+          "link": "https://japanese.engadget.com/homepod-mini-color-variation-172313054.html",
+          "publishedOn": "2021-10-18T17:23:13.000Z",
+          "wordCount": 234,
+          "title": "HomePod miniに新色登場。イエロー、ブルー、オレンジが加わってカラバリ5色に"
+        },
+        {
+          "id": "2865cb23-8642-4b2e-91c2-f7d8a50c96cb",
+          "author": "Ittousai,Ittousai",
+          "description": "日本時間10月19日の「パワー全開。」スペシャルイベントで、アップルがワイヤレスイヤホン AirPods の新モデルを発表しました。",
+          "link": "https://japanese.engadget.com/apple-new-airpods-171919824.html",
+          "publishedOn": "2021-10-18T17:19:19.000Z",
+          "wordCount": 280,
+          "title": "速報：新 AirPods 発表。デザイン刷新、空間オーディオに初対応"
+        },
+        {
+          "id": "5958c2e4-45a7-48f8-a77d-84f88bfe1d0d",
+          "author": "塚本直樹(Naoki Tsukamoto)",
+          "description": "米Googleはクラウドサービス「Google Cloud」にて、利用者（企業）がサービス利用による炭素排出量を知ることができる機能「Carbon Footprint（カーボン・フットプリント）」を発表しました。",
+          "link": "https://japanese.engadget.com/google-cloud-130034438.html",
+          "publishedOn": "2021-10-18T13:00:34.000Z",
+          "wordCount": 223,
+          "title": "Google Cloudにて炭素排出量の表示が可能に　Earth Engineも企業向けに導入"
+        },
+        {
+          "id": "7b1713f6-1f90-4800-a412-80d477f2524a",
+          "author": "塚本直樹(Naoki Tsukamoto)",
+          "description": "iPadのサブディスプレイ化でおなじみLuna Displayにて、待望のWindowsのサポートがバージョン5.0にて追加されました。",
+          "link": "https://japanese.engadget.com/luna-display-120045166.html",
+          "publishedOn": "2021-10-18T12:00:45.000Z",
+          "wordCount": 233,
+          "title": "Luna DisplayがWindowsに対応、iPadをパソコンのサブディスプレイに"
+        },
+        {
+          "id": "83462df4-f4fe-4414-bff1-2425ed717d27",
+          "author": "本田雅一",
+          "description": "世界でもっとも多く売れているワイヤレスイヤホンの新型がそろそろ発表されると話題だ。予想通りなら、日本時間の10月19日早朝に発表されるであろうAppleのAirPodsは、ほとんどiPhone専用と言える作りにも関わらず、ワイヤレスイヤホンの市場で圧倒的なシェアを誇っている。しかし、その前にちょっと待った。今回はもっとも多くの人に楽しまれているワイヤレスイヤホンの”対極”にある製品をワイヤレス化する製品（ややこしい）を2つ紹介したい。",
+          "link": "https://japanese.engadget.com/shure-fiio-tws-adapter-113024137.html",
+          "publishedOn": "2021-10-18T11:30:24.000Z",
+          "wordCount": 274,
+          "title": "AirPodsもありだけど、手持ちの高音質イヤホンを完全ワイヤレスに。TWS化アダプタを試してみた（本田雅一）"
+        },
+        {
+          "id": "8d7c6d09-d64d-493f-bc7a-4c512c6e5e8d",
+          "author": "Munenori Taniguchi",
+          "description": "沖縄科学技術大学院大学(OIST)の研究者らが「脳が食欲や代謝を制御するのに重要な役割を果たす」物質「XRN1」タンパク質を特定したと発表しました",
+          "link": "https://japanese.engadget.com/protein-found-to-control-appetite-and-obesity-110050456.html",
+          "publishedOn": "2021-10-18T11:00:50.000Z",
+          "wordCount": 226,
+          "title": "食欲や肥満の抑制に関与するタンパク質を発見。欠損させたマウスでは食欲が2倍に"
+        },
+        {
+          "id": "608f43c2-808f-4522-9284-2203f3d2ce6b",
+          "author": "GREEN FUNDING with Engadget Staff",
+          "description": "cellight（セーライト）レーザーブラシの特徴 ・アプリで簡単に髪の毛の状態を把握 ・レーザー光による深層ケアで髪の毛の成長をサポート ・人体工学に沿ったブラシデザインで使い心地抜群 2019年のデータによると日本国内の20歳以上で約4,５５８万人の方が抜け毛・薄毛や脱毛において悩みを抱えていることになります。20歳以上の男性の10人に7人が薄毛・抜け毛に悩んでいると考えられます。 女性の薄毛はあまりなじみがなく、治療ができるということを知っている方が少ないのが現状です。 男性は10人に七人、女性は10人に一人。 あなたに薄毛の悩みはありませんか？ 参照URL：https://www.fnn.jp/articles/-/14925 そもそも薄毛の原因は一体何？ 薄毛は前頭部または頭頂部から起こることが多く、額の生え際から後退していくタイプ、頭頂部から薄くなるタイプ、これらの混合タイプなどさまざまな進行パターンがあります。 頭皮や顔が脂っぽい、毛が細く柔らかい、細くて短い抜け毛が目立つ、といった兆候があると、男性型脱毛症（AGA）／壮年性脱毛症になりやすいといわれています。 △参考文",
+          "link": "https://japanese.engadget.com/cellight-brush-105045556.html",
+          "publishedOn": "2021-10-18T10:50:45.000Z",
+          "wordCount": 333,
+          "title": "スマホを見ながら髪の毛の状態を常に把握。薄毛の悩みを徹底排除するレーザーブラシ「cellight」"
+        },
+        {
+          "id": "6eea5558-aab0-4ac4-9258-498787a18742",
+          "author": "塚本直樹(Naoki Tsukamoto)",
+          "description": "米グーグルの次期スマートフォン「Pixel 6シリーズ」が599ドル（約6万9000円）からと前モデルより廉価に販売されるのと情報が、海外小売店経由のリークにより伝えられています。",
+          "link": "https://japanese.engadget.com/pixel-6-prices-100035360.html",
+          "publishedOn": "2021-10-18T10:00:35.000Z",
+          "wordCount": 257,
+          "title": "Pixel 6は約6.9万円でPixel 5よりもお求めやすく? 米小売店より価格リークか"
+        },
+        {
+          "id": "15e01752-0747-4acf-8026-de3b37505127",
+          "author": "Ittousai",
+          "description": "『こんどのメトロイドは怖さがある』というわけで、シリーズ最新作メトロイド 5こと『メトロイド ドレッド』の話題。特定の操作でゲームの進行が不可能になるバグについて任天堂が告知しています。",
+          "link": "https://japanese.engadget.com/nintendo-switch-metroid-dread-bug-094123750.html",
+          "publishedOn": "2021-10-18T09:41:23.000Z",
+          "wordCount": 238,
+          "title": "Nintendo Switch『メトロイド ドレッド』に進行不能バグ、対処は容易。10月中に修正予定"
+        },
+        {
+          "id": "95e0d674-30d9-424d-992a-c06e3714cd5f",
+          "author": "塚本直樹(Naoki Tsukamoto)",
+          "description": "ロンドンをベースとするスタートアップのNothingが2022年初頭までにスマートフォンを投入するとの情報を、海外テックサイトの91Mobilesが伝えています。さらにモバイルバッテリー「Power(1)（仮称）」の開発も進められている、とのこと。",
+          "link": "https://japanese.engadget.com/nothing-smartphone-090051356.html",
+          "publishedOn": "2021-10-18T09:00:51.000Z",
+          "wordCount": 223,
+          "title": "Nothingがスマートフォンを2022年初頭までに投入か? モバイルバッテリー「Power(1)」の噂も"
+        },
+        {
+          "id": "d9c95b72-e38a-473e-bec9-120532c908b2",
+          "author": "Kiyoshi Tane",
+          "description": "マイクロソフトが将来のSurfaceデバイス向け独自プロセッサを開発している可能性が、LinkedInの求人情報から明らかとなりました。",
+          "link": "https://japanese.engadget.com/microsoft-working-on-arm-chip-surface-080028321.html",
+          "publishedOn": "2021-10-18T08:00:28.000Z",
+          "wordCount": 284,
+          "title": "マイクロソフト、Surface用に独自Armチップ開発中？求人情報から可能性が浮上"
+        },
+        {
+          "id": "3ac05693-174f-462c-9de7-0d761cd44113",
+          "author": "石野純也 (Junya Ishino)",
+          "description": "Apple Watchは大体2年おきに買い替えている筆者。昨年は、そのサイクルに当たり、Series 6のApple Watch Hermèsを購入しました。Series 4からのアップグレードだと、常時表示が可能になったのが大きな進化でした。そんななか、最新モデルとなるApple Watch Ser…",
+          "link": "https://japanese.engadget.com/apple-watch-7-074505741.html",
+          "publishedOn": "2021-10-18T07:45:05.000Z",
+          "wordCount": 291,
+          "title": "Apple Watch Hermès ユーザーから見た Series 7 の魅力（石野純也）"
+        },
         {
           "id": "1396d3d2-a409-40b6-9a24-772bfad5aad1",
           "author": "Engadgetオトク情報局",
@@ -459,168 +819,6 @@
           "publishedOn": "2021-10-16T20:30:54.000Z",
           "wordCount": 273,
           "title": "2014年10月17日、10.1インチのモバイルノートPC「Let's note RZ4」が発売されました：今日は何の日？"
-        },
-        {
-          "id": "e93555e4-d6fd-4fcf-82e2-3a7ba3fd9b74",
-          "author": "Engadgetオトク情報局",
-          "description": "Amazonの「Fashion × Outdoor タイムセール祭り」が10月18日（月）23時59分まで開催中。GREGORY(グレゴリー)のバックパックやビジネスバッグがお買い得価格になっています。",
-          "link": "https://japanese.engadget.com/sale-fashion-outdoor-gregory-083513606.html",
-          "publishedOn": "2021-10-16T08:35:13.000Z",
-          "wordCount": 309,
-          "title": "GREGORY(グレゴリー)のバックパックやビジネスバッグがお買い得！ ｜Fashion × Outdoor タイムセール祭り"
-        },
-        {
-          "id": "f3d4db92-048b-4740-8435-53a5f16e3eef",
-          "author": "Munenori Taniguchi",
-          "description": "表示するプラットフォームによって紐付けられた画像データの見え方が変わってしまうNFTがリリースされています",
-          "link": "https://japanese.engadget.com/an-nft-look-like-a-poop-emoji-083049741.html",
-          "publishedOn": "2021-10-16T08:30:49.000Z",
-          "wordCount": 347,
-          "title": "暗号技術者、購入するとデジタルアートが「ウ〇コ絵文字」に変わってしまうNFTをリリース"
-        },
-        {
-          "id": "b01c9687-0f2a-45c3-bf51-d31927cfe6f1",
-          "author": "Engadgetオトク情報局",
-          "description": "Amazonにて、「Fashion × Outdoor タイムセール祭り」が10月18日（月）23時59分まで開催中。マムート(Mammut)、カリマー(Karrimor)、フォックスファイヤー(Foxfire)といったアウトドアブランドの秋冬アウターがセール中です。",
-          "link": "https://japanese.engadget.com/sale-fashion-outdoor-jacket-060530200.html",
-          "publishedOn": "2021-10-16T06:05:30.000Z",
-          "wordCount": 306,
-          "title": "マムートやカリマーなどアウトドアブランドの秋冬アウターがお買い得！｜Fashion × Outdoor タイムセール祭り"
-        },
-        {
-          "id": "7291cbb4-4810-490d-8525-6ae1d070d465",
-          "author": "GREEN FUNDING with Engadget Staff",
-          "description": "お持ちのヘッドホンにこんなお悩みはありませんか？ ・長時間使用すると耳が痛くなる... ・遅延が大きすぎて動画やゲームに向いていない... ・防水機能がついていないので雨の日やスポーツには使用出来ない... ・音質があまり良くないのであまり使用しない... ・自分の音声を上手に拾わず相手に声が伝わりにくい... ・機能が少なく使いたい機能を使用できない.... そんなお悩みをお持ちの方に！ わずか32ｇの防水機能付き！高音質で低遅延を実現した「IZELL-A5」が誕生しました！ 製品の特長 ・本体の重さわずか32g ・IPX5防水機能付き ・低遅延なのでゲームも出来る ・付属のマイク使用でボイス機能UP ・27㎜フルオーディオユニットが高音質を実現 ・好感触のレザーイヤーパットで長時間使用を助ける ・低音もしっかりサポート ・小さなボディに様々な操作機能が搭載 ・耳掛け式なので外部の音も聞こえる（※音量によります） ・本体の重さわずか32g 32gの重量は食パン1枚より軽く（通常の8枚切り）長時間使用しても耳への負担が少なく持ち運も便利です。 ・IPX5防水機能付き 防水機能付きなので",
-          "link": "https://japanese.engadget.com/izell-a5-headphone-054100390.html",
-          "publishedOn": "2021-10-16T05:41:00.000Z",
-          "wordCount": 400,
-          "title": "32gの軽量設計ながら、低遅延、高音質、防水機能を備えたワイヤレスヘッドホン「IZELL-A5」"
-        },
-        {
-          "id": "b737908c-31de-48ad-9427-b6bd4c82b0f6",
-          "author": "Kiyoshi Tane",
-          "description": "Mac用仮想化アプリの最新バージョン「Parallels Desktop 17.1 for Mac」がリリースされ、macOS Montereyが完全サポートされました。",
-          "link": "https://japanese.engadget.com/parallels-desktop-monterey-windows-11-050511977.html",
-          "publishedOn": "2021-10-16T05:05:11.000Z",
-          "wordCount": 304,
-          "title": "Parallels Desktop 17.1公開。macOS Monterey完全対応、Windows 11の動作も安定"
-        },
-        {
-          "id": "6bfc951f-5b9d-4075-8cba-c85319082187",
-          "author": "Munenori Taniguchi",
-          "description": "マイクロソフトが、Xbox Series X型のデザインをそのまま採用したミニ冷蔵庫「Xbox Series X Mini Fridge」の予約受付を10月19日に開始します…",
-          "link": "https://japanese.engadget.com/xbox-series-x-mini-fridge-043009257.html",
-          "publishedOn": "2021-10-16T04:30:09.000Z",
-          "wordCount": 303,
-          "title": "マイクロソフト「Xboxミニ冷蔵庫」を10月19日より予約受付。価格99.99ドル"
-        },
-        {
-          "id": "6635cfab-1c57-4c92-874c-a505872ba832",
-          "author": "Kiyoshi Tane",
-          "description": "まもなく発表と予想される新型MacBook Proの画面には近年のiPhoneのようなノッチ（画面上部の切り欠き）があるとの噂が伝えられています。",
-          "link": "https://japanese.engadget.com/new-macbookpro-notch-no-faceid-033505624.html",
-          "publishedOn": "2021-10-16T03:35:05.000Z",
-          "wordCount": 302,
-          "title": "新型MacBook Proの画面にはノッチあり、ただしFace IDナシの噂"
-        },
-        {
-          "id": "8a7fe6b4-050a-44ab-9da9-65282c6d96fc",
-          "author": "Engadgetオトク情報局",
-          "description": "「Fashion × Outdoor タイムセール祭り」が10月18日（月）23時59分まで開催中。アシックス、アディダス、ミズノ、ニューバランスなどのランニングシューズがお買い得価格になっています。日頃の運動不足を感じている人は、ランニングやウォーキングを始めてみては？",
-          "link": "https://japanese.engadget.com/sale-fashion-outdoor-running-shoes-032040256.html",
-          "publishedOn": "2021-10-16T03:20:40.000Z",
-          "wordCount": 310,
-          "title": "ランニングシューズがお買い得！ アシックス、アディダス、ミズノなど｜Fashion × Outdoor タイムセール祭り"
-        },
-        {
-          "id": "b88e1908-8bc5-4093-b60c-27ca0e0cad73",
-          "author": "Ittousai",
-          "description": "任天堂はオンラインサービス『Nintendo Switch Online』の新料金プラン、『Nintendo Switch Online ＋追加パック』を10月26日より提供します。",
-          "link": "https://japanese.engadget.com/nintendo-switch-online-024739272.html",
-          "publishedOn": "2021-10-16T02:47:39.000Z",
-          "wordCount": 350,
-          "title": "64やメガドラが遊べるNintendo Switch Online追加パックは10月26日開始。どうぶつの森DLCも"
-        },
-        {
-          "id": "b1eedb5a-6c36-4473-9859-f37466c65855",
-          "author": "Engadgetオトク情報局",
-          "description": "「Fashion × Outdoor タイムセール祭り」が10月18日（月）23時59分まで開催中。アウトドアワゴンやランタン、チェア、スリーピングバッグ、シェードなど、コールマン(Coleman)のアウトドアグッズがお買い得価格になっています。",
-          "link": "https://japanese.engadget.com/sale-fashion-outdoor-coleman-013513047.html",
-          "publishedOn": "2021-10-16T01:35:13.000Z",
-          "wordCount": 303,
-          "title": "コールマン(Coleman)のアウトドアグッズがお買い得！｜Fashion × Outdoor タイムセール祭り"
-        },
-        {
-          "id": "2eab6d33-1570-4158-88da-5d85f6dbb6b1",
-          "author": "GREEN FUNDING with Engadget Staff",
-          "description": "①マイクロターボ送風機 皮膚表面に沿って強い空気を送り、強風の中でも蚊よけ剤の有効範囲を広げます。同時に涼しさも感じることができます。 ② 0.1mmの極薄電熱ピース 蚊よけ剤の香りを揮発させ、効果を高めます。 ③多機能変色シート 3種類のシートとWANDIAN（ワンデン）本体を組み合わせて、自分だけの腕時計に。 ④様々な着用方法 付属品を使用することで、自分に似合う着こなしを見つけることができます。 WANDIANは、2021年6月にはkickstarterで、8月にはindiegogoで、それぞれクラウドファンディングを開始しました。蚊に悩む人々から強い支援を受け、アメリカ、ヨーロッパ、オーストラリアで1000世帯近くの人々が蚊に刺されずに済むようになりました。 クラウドファンディングを通じて、20社近くの日本企業から販売代理店として相談を受けました。 多くの方の要望により、WANDIANで日本にいる子供たちと家族を助けることができるように、GREEN FUNDINGにてプロジェクトを起案することにしました。 WANDIANに使えるものは付属品の蚊よけ剤だけでなく、お気に入りの蚊よ",
-          "link": "https://japanese.engadget.com/wandian-anti-mosquito-012509800.html",
-          "publishedOn": "2021-10-16T01:25:09.000Z",
-          "wordCount": 345,
-          "title": "これひとつで蚊を寄せ付けない。香りのカスタマイズも可能な、アンチモスキートバンド「WANDIAN」"
-        },
-        {
-          "id": "85455066-3325-49e2-8aff-23505c6596f4",
-          "author": "石野純也 (Junya Ishino)",
-          "description": "ンズキャップも、カメラ的な発想で開発されたスマホならではです。そんなLeitz Phone 1の開発メンバーに、このモデルのコンセプトや狙いを聞くことができました。\n元々ライカは、スマホ業界を「注意深くモニタリングしてきた」（モバイルサービス グローバル・ディレクター ジェーン・ツイ氏）といいます。「スマートフォンとしての単なる電話やコミュニケーションの手段だけではなく、カメラデバイスとして使われていることが多い印象」（同）だからです。実際、スマホメーカー各社ともカメラ機能に磨きを",
-          "link": "https://japanese.engadget.com/leica-sharp-003035251.html",
-          "publishedOn": "2021-10-16T00:30:35.000Z",
-          "wordCount": 271,
-          "title": "Leitz Phone 1 開発者インタビュー。ライカがシャープをパートナーに選んだ理由（石野純也）"
-        },
-        {
-          "id": "2827632d-34c5-4b8c-8384-6ab3a494eb33",
-          "author": "Ittousai,Ittousai",
-          "description": "『あつまれ どうぶつの森 Direct 2021.10.15』で無料アップデート Ver.2.0と同時に発表されたのは、新しい舞台と遊び方が加わる有料の追加コンテンツ『あつまれ どうぶつの森 ハッピーホームパラダイス』でした。",
-          "link": "https://japanese.engadget.com/animal-crossing-hpp-happy-home-paradise-003005637.html",
-          "publishedOn": "2021-10-16T00:30:05.000Z",
-          "wordCount": 259,
-          "title": "『あつまれ どうぶつの森ハッピーホームパラダイス』発表。定職に就く有料追加コンテンツ"
-        },
-        {
-          "id": "8f38f6b9-a63e-4b96-a36a-d956a5e6b1a2",
-          "author": "Ittousai",
-          "description": "11月5日配信のNintendo Switch『あつまれ どうぶつの森』無料アップデート Ver.2.0 は、『喫茶「ハトの巣」』だけではない超大型のコンテンツ追加アップデートでした。",
-          "link": "https://japanese.engadget.com/animal-crossing-new-horizon-v-2-0-final-content-update-000019772.html",
-          "publishedOn": "2021-10-16T00:00:19.000Z",
-          "wordCount": 796,
-          "title": "『あつまれ どうぶつの森』最後のコンテンツ追加は超大型更新。11月5日にVer.2.0配信"
-        },
-        {
-          "id": "72e9fc32-b968-4075-bb98-b13b28a2b828",
-          "author": "Ittousai",
-          "description": "サムスンが折りたたみスマートフォンの新製品 Galaxy Z Fold3 5G / Flip3 5G購入でアクセサリがもらえるキャンペーンを延長しました。",
-          "link": "https://japanese.engadget.com/galaxy-z-fold3-flip3-buds-pro-cover-with-pen-224953897.html",
-          "publishedOn": "2021-10-15T22:49:53.000Z",
-          "wordCount": 299,
-          "title": "Galaxy Z Fold3 / Flip3のアクセサリが貰えるキャンペーン延長。18日中の予約で応募可能に"
-        },
-        {
-          "id": "2a589fde-67e7-46ff-8442-d71371fdec03",
-          "author": "松村太郎(Taro Matsumura)",
-          "description": "Apple Watch Series 7は9月のiPhoneイベントで発表されましたが、iPhone 13シリーズとの同時発売とはならず、10月15日までずれ込みました。\n健康関連に関する機能で認証を待っているのではないか？ などとの見立てを立てていた筆者でしたが、イベントの際に語られなかった新機能が明かされることはなく、大きな追加トピックもないままの発売となります。そんなApple Watch Series 7ですが、2つの点で、魅力的なデバイスだと見ています。",
-          "link": "https://japanese.engadget.com/applewatch-series7-222031281.html",
-          "publishedOn": "2021-10-15T22:20:31.000Z",
-          "wordCount": 284,
-          "title": "斬新な変化はなくともディスプレイとバッテリーで「かなり変わった」Apple Watch Series 7（松村太郎）"
-        },
-        {
-          "id": "58b900d9-4ec3-41e3-aad5-9334794e9563",
-          "author": "龍田優貴（Yuuki Tatsuta）",
-          "description": "星の数ほどあるスマホゲームの中から、話題になっているもの、気になったもの、何か面白そう、そんなタイトルをひたすらご紹介していきます！今回ご紹介するのは『おじさん集中豪雨』です。",
-          "link": "https://japanese.engadget.com/ojisan-puzzle-211049059.html",
-          "publishedOn": "2021-10-15T21:10:49.000Z",
-          "wordCount": 234,
-          "title": "中年オヤジを積み上げよう！バランス命の『おじさん集中豪雨』：発掘！スマホゲーム"
-        },
-        {
-          "id": "7b03f945-5e11-4338-ad4b-050286238861",
-          "author": "今日は何の日？",
-          "description": "第4世代のFireタブレットとして登場し、歴代の中で唯一の6インチモデルとなっているのが「Fire HD 6」。\n\nこのアマゾン独自のタブレットが発売されたのが、2014年の今日です。",
-          "link": "https://japanese.engadget.com/today-203021484.html",
-          "publishedOn": "2021-10-15T20:30:21.000Z",
-          "wordCount": 223,
-          "title": "2014年10月16日、歴代Fireタブレットで唯一の6インチモデル「Fire HD 6」が発売されました：今日は何の日？"
         }
       ]
     },
@@ -629,6 +827,186 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/topstory.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/fortop/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/business/articles/2110/19/news058.html",
+          "author": null,
+          "description": "ブランド総合研究所が発表している都道府県魅力度ランキングが「炎上」した。群馬県の山本一太知事が「信頼度が低く、ずさん」と批判し、法的措置も検討するとぶちまけたからだ。それにしても、なぜ日本人はランキングが好きなのか。背景に何があるのかというと……。",
+          "link": "https://www.itmedia.co.jp/business/articles/2110/19/news058.html",
+          "publishedOn": "2021-10-19T00:32:00.000Z",
+          "wordCount": 126,
+          "title": "魅力度ランキングに群馬県知事が激怒！　「ランキング商法」の背景に、何があるのか"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2110/19/news093.html",
+          "author": null,
+          "description": "スペースグレイ、ホワイト、イエロー、オレンジ、ブルーの5色展開になる。",
+          "link": "https://www.itmedia.co.jp/news/articles/2110/19/news093.html",
+          "publishedOn": "2021-10-18T23:53:00.000Z",
+          "wordCount": 178,
+          "title": "Apple、HomePod miniにカラバリ3種追加　11月発売"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/business/articles/2110/19/news056.html",
+          "author": null,
+          "description": "「グランピング市場に価格競争が起こる」。そう話すのは、グランピングブームの火付け役といわれる星野リゾートが運営する「星のや富士」の総支配人だ。コロナ禍で三密を避けられるレジャーとしてより一層の注目を集めたグランピング。アフターコロナ時代の生き残り戦略に向けて、どのような対策を取っていく必要があるのか。",
+          "link": "https://www.itmedia.co.jp/business/articles/2110/19/news056.html",
+          "publishedOn": "2021-10-18T23:30:00.000Z",
+          "wordCount": 136,
+          "title": "「グランピング市場に価格競争が起こる」　ブームの火付け役、星野リゾートが仕掛ける&quot;生き残り戦略&quot;"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2110/19/news090.html",
+          "author": null,
+          "description": "M1 Max搭載マシンはMac Pro並みの性能をたたき出したようだ。",
+          "link": "https://www.itmedia.co.jp/news/articles/2110/19/news090.html",
+          "publishedOn": "2021-10-18T23:28:00.000Z",
+          "wordCount": 185,
+          "title": "M1 Max MacBook Proのベンチマークスコア、早くも公開か　Mac ProのXeon W 3.3GHzに匹敵"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2110/19/news088.html",
+          "author": null,
+          "description": "Appleは、Apple Musicの新しい格安サブスクリプションプラン「Apple Music Voice Plan」を発表した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2110/19/news088.html",
+          "publishedOn": "2021-10-18T23:08:00.000Z",
+          "wordCount": 184,
+          "title": "Apple Musicが月額480円からに　Siri専用格安プラン「Voice」、今秋投入"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2110/19/news037.html",
+          "author": null,
+          "description": "LINK-Jは「脳は人工的につくれるのか？&#12316;脳の情報処理のフロンティアに挑む」と題したトークイベントを開催。「意識を機械にアップロードする技術」など、最先端の脳研究を披露した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2110/19/news037.html",
+          "publishedOn": "2021-10-18T23:00:00.000Z",
+          "wordCount": 164,
+          "title": "「機械の脳」が現実に？　現実味を帯びてきた脳の人工再現――東大研究者たちが講演"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2110/19/news086.html",
+          "author": null,
+          "description": "Amazonは米国のホリデーシーズンに向けて、15万人を臨時雇用すると発表した。昨年は10万人を雇用した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2110/19/news086.html",
+          "publishedOn": "2021-10-18T22:59:00.000Z",
+          "wordCount": 144,
+          "title": "Amazon、年末商戦で15万人を臨時雇用（昨年は10万人）"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2110/19/news084.html",
+          "author": null,
+          "description": "MontreyへのOSアップデートでシネマティックモード編集が可能になる。",
+          "link": "https://www.itmedia.co.jp/news/articles/2110/19/news084.html",
+          "publishedOn": "2021-10-18T22:25:00.000Z",
+          "wordCount": 178,
+          "title": "Apple「Final Cut Pro」がシネマティックモード対応　機械学習によるオブジェクト・トラッカー機能も追加"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/business/articles/2110/19/news003.html",
+          "author": null,
+          "description": "約1500人のIT人材を抱え、ほとんどをベトナムなどの海外エンジニアが占めるSun Asterisk。同社がベトナムに目をつけたのはなぜか。そして、ベトナムで3番目の人気企業になるまで、どのようなプロセスで規模を拡大してきたのか。",
+          "link": "https://www.itmedia.co.jp/business/articles/2110/19/news003.html",
+          "publishedOn": "2021-10-18T22:00:00.000Z",
+          "wordCount": 122,
+          "title": "5年間でベトナム3位の人気企業に　1500人の多国籍IT集団はどのようにして生まれたのか"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/business/articles/2110/19/news007.html",
+          "author": null,
+          "description": "消費税の適格請求書等保存方式（インボイス制度）が2023年10月1日より導入されます。そこで、この制度にまつわる実務を理解しておきましょう。",
+          "link": "https://www.itmedia.co.jp/business/articles/2110/19/news007.html",
+          "publishedOn": "2021-10-18T22:00:00.000Z",
+          "wordCount": 150,
+          "title": "早めに把握しておきたい「インボイス制度」のあらましと実務"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2110/19/news082.html",
+          "author": null,
+          "description": "Dolby Atmosプラグインを統合し、空間オーディオミックスが可能になった。",
+          "link": "https://www.itmedia.co.jp/news/articles/2110/19/news082.html",
+          "publishedOn": "2021-10-18T21:44:00.000Z",
+          "wordCount": 205,
+          "title": "Apple「Logic Pro」が空間オーディオミックスに対応　Dolby Atmosプラグインを統合"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/pcuser/articles/2110/19/news081.html",
+          "author": null,
+          "description": "Appleが10月18日（米国太平洋夏時間）、スペシャルイベントを開催し新型MacBook Proを発表、10月26日から販売を開始する。価格は14インチモデルが税込み23万9800円から、16インチモデルが29万9800円からだ。",
+          "link": "https://www.itmedia.co.jp/pcuser/articles/2110/19/news081.html",
+          "publishedOn": "2021-10-18T21:30:00.000Z",
+          "wordCount": 491,
+          "title": "16インチと14インチのMacBook Proが10月26日に発売　革新と復活を両立"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2110/19/news046.html",
+          "author": null,
+          "description": "Opensignalが、日本の携帯電話ユーザーがネットワークの使い心地をどう感じているかを調査した。今回初めて日本の5Gを調査し、ドコモ、au、ソフトバンク、楽天モバイルの4社について調査した結果を公開している。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2110/19/news046.html",
+          "publishedOn": "2021-10-18T21:00:00.000Z",
+          "wordCount": 440,
+          "title": "Opensignalが4キャリアの通信品質を調査　5Gはドコモ、ゲームやビデオはソフトバンクが優秀"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2110/19/news079.html",
+          "author": null,
+          "description": "Appleが「ポリッシングクロス」を販売開始した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2110/19/news079.html",
+          "publishedOn": "2021-10-18T20:47:00.000Z",
+          "wordCount": 160,
+          "title": "Apple、布を発売　1枚1980円"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2110/19/news078.html",
+          "author": null,
+          "description": "Macにノッチがやってきた。なぜわざわざ。その理由を考えてみた。",
+          "link": "https://www.itmedia.co.jp/news/articles/2110/19/news078.html",
+          "publishedOn": "2021-10-18T20:37:00.000Z",
+          "wordCount": 147,
+          "title": "「Macにもノッチ」の理由　新型MacBook Proにあえて投入した切り欠きについて考えた"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2110/19/news076.html",
+          "author": null,
+          "description": "米Appleは、同社が開発した新チップ「M1 Pro」と「M1 Max」を発表。プロユーザーのために初めて設計されたプロセッサであり、同日に発表した、新型MacBook Proに搭載する。",
+          "link": "https://www.itmedia.co.jp/news/articles/2110/19/news076.html",
+          "publishedOn": "2021-10-18T19:35:00.000Z",
+          "wordCount": 190,
+          "title": "Appleが新チップ「M1 Pro」「M1 Max」発表　M1と比べてCPUは70％、GPUは最大4倍高速化"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2110/19/news072.html",
+          "author": null,
+          "description": "米Appleが10月18日（現地時間）、ワイヤレスイヤフォン「AirPods」の第3世代モデルを発表した。2万3800円（税込み）で10月26日に発売する。Apple MusicのDolby Atmosによる空間オーディオに対応している。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2110/19/news072.html",
+          "publishedOn": "2021-10-18T18:17:00.000Z",
+          "wordCount": 439,
+          "title": "空間オーディオ対応の「AirPods（第3世代）」10月26日発売　2万3800円"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2110/19/news074.html",
+          "author": null,
+          "description": "米Appleは10月18日（現地時間）、新型ノートブック「MacBook Pro」の14インチモデル、16インチモデルを発表した。同社が開発した新型プロセッサ「M1 Pro」と「M1 Max」を搭載。デザインも刷新しており、ディスプレイの縁がより薄くなって専有面積が拡大した他、キーボードは「Touch Bar」を廃止。磁力でくっつく「MagSafe 3」、SDカードスロット、HDMI端子などインタフェースも拡充された。",
+          "link": "https://www.itmedia.co.jp/news/articles/2110/19/news074.html",
+          "publishedOn": "2021-10-18T18:13:00.000Z",
+          "wordCount": 201,
+          "title": "MacBook Pro 14／16インチ登場　「M1 Pro」「M1 Max」搭載、Touch Bar廃止　約24万円から"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2110/19/news068.html",
+          "author": null,
+          "description": "米Appleは10月18日（現地時間）、第3世代「AirPods」を発表した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2110/19/news068.html",
+          "publishedOn": "2021-10-18T17:39:00.000Z",
+          "wordCount": 163,
+          "title": "「AirPods」に第3世代モデル、空間オーディオ対応　179ドル"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/fav/articles/2110/18/news147.html",
+          "author": null,
+          "description": "グラフィックの美しいパソコンゲームを楽しむには、ふさわしいスペックのゲーミングパソコンに加えて、グラフィック性能を最大限に引き出してくれる「ゲーミングディスプレイ」も必須と言えるでしょう。特にFPS（一人称視点シューティングゲーム）などで、スムーズなゲームプレイングに欠かせない、ゲーミングディスプレイのおすすめをご紹介します。",
+          "link": "https://www.itmedia.co.jp/fav/articles/2110/18/news147.html",
+          "publishedOn": "2021-10-18T14:04:00.000Z",
+          "wordCount": 176,
+          "title": "「ゲーミングディスプレイ」注目モデル5選　“応答速度”と“リフレッシュレート”をチェック【2021年最新版】"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2110/18/news061.html",
           "author": null,
@@ -682,78 +1060,6 @@
           "publishedOn": "2021-10-16T21:00:00.000Z",
           "wordCount": 480,
           "title": "1GB以下のプランを比較　楽天モバイルは「0円」、HISモバイルやOCN モバイル ONEにも注目"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/business/articles/2110/16/news026.html",
-          "author": null,
-          "description": "全国15～24歳の男女を対象にした「最近流行（はや）っているコト・モノ・ヒト」についての調査。結果は？",
-          "link": "https://www.itmedia.co.jp/business/articles/2110/16/news026.html",
-          "publishedOn": "2021-10-16T09:52:00.000Z",
-          "wordCount": 208,
-          "title": "9月度の流行調査　2位はTikTok、1位の人気マンガは？"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2110/16/news047.html",
-          "author": null,
-          "description": "ポケモンGOで15日、恒例のハロウィンイベントが始まりました。しかし新実装の「ヤドキング（ガラルのすがた）」に不具合が発生しています。",
-          "link": "https://www.itmedia.co.jp/news/articles/2110/16/news047.html",
-          "publishedOn": "2021-10-16T05:30:00.000Z",
-          "wordCount": 157,
-          "title": "ポケモンGO、「ガラルヤドキング」の進化に不具合　ハロウィンイベントで新実装"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2110/16/news044.html",
-          "author": null,
-          "description": "買って試さなければ分からないことはある。そのために60km走ってきた。",
-          "link": "https://www.itmedia.co.jp/news/articles/2110/16/news044.html",
-          "publishedOn": "2021-10-16T03:33:00.000Z",
-          "wordCount": 156,
-          "title": "Apple Watch Series 7は自転車「サイコン」の代わりになる？　買って走って分かったこと"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/business/articles/2110/16/news002.html",
-          "author": null,
-          "description": "プロカメラマンによる撮影や現像などを手掛ける写真業界が苦しんでいる。新型コロナによるイベント自粛などの影響を受け、売り上げが低迷しているわけだが、そんな中で「キラーン」と輝くサービスが出てきた。セルフ式の写真撮影だ。どんなサービスかというと……。",
-          "link": "https://www.itmedia.co.jp/business/articles/2110/16/news002.html",
-          "publishedOn": "2021-10-15T23:30:00.000Z",
-          "wordCount": 131,
-          "title": "写真業界は苦戦しているのに、「セルフ式の撮影」が好調の理由"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2110/16/news037.html",
-          "author": null,
-          "description": "MicrosoftはE3で予告した「Xbox Series X」にそっくりなミニ冷蔵庫「Xbox Mini Fridge」を本当にホリデーシーズンに発売すると発表した。米国での販売価格は99.99ドル。「各国の規制当局の承認を待っている」。",
-          "link": "https://www.itmedia.co.jp/news/articles/2110/16/news037.html",
-          "publishedOn": "2021-10-15T23:13:00.000Z",
-          "wordCount": 191,
-          "title": "Microsoft、「Xbox Series X」そっくりなミニ冷蔵庫を100ドルで今冬発売"
-        },
-        {
-          "id": "https://monoist.atmarkit.co.jp/mn/articles/2110/16/news035.html",
-          "author": null,
-          "description": "1週間お疲れさまでした。10月なのに暑い暑いと思っていたら、朝晩はずいぶんと冷えるようになりましたね。空気の乾燥も進んでいるように感じます。布団、暖房、スキンケアなど冬支度が必要ですね。",
-          "link": "https://monoist.atmarkit.co.jp/mn/articles/2110/16/news035.html",
-          "publishedOn": "2021-10-15T23:00:00.000Z",
-          "wordCount": 189,
-          "title": "指紋認証は盗難で狙われやすいクルマを救う？"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/pcuser/articles/2110/16/news030.html",
-          "author": null,
-          "description": "AMDの新GPU「Radeon RX 6600」を搭載したグラフィックスカードが、複数のメーカーから売り出された。金曜日夕方時点では複数の在庫を残すショップもあったが、今後に警戒する声を多く聞いた。",
-          "link": "https://www.itmedia.co.jp/pcuser/articles/2110/16/news030.html",
-          "publishedOn": "2021-10-15T21:00:00.000Z",
-          "wordCount": 448,
-          "title": "「初回の傾向はXTに似ていますね」――Radeon RX 6600カードが登場！"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/mobile/articles/2110/16/news031.html",
-          "author": null,
-          "description": "10月14日に、ドコモのネットワークで大規模な通信障害が発生した。緊急通報を含む音声通話やデータ通信に影響が出た他、位置登録自体ができず、圏外になってしまったユーザーもいたようだ。ここでは、その原因を解説するとともに、通信障害が長期化した理由を解説していきたい。",
-          "link": "https://www.itmedia.co.jp/mobile/articles/2110/16/news031.html",
-          "publishedOn": "2021-10-15T21:00:00.000Z",
-          "wordCount": 442,
-          "title": "ドコモの通信障害はなぜ長期化したのか？　障害の告知方法やMVNOの扱いには課題も"
         }
       ]
     },
@@ -762,6 +1068,230 @@
       "feedUrl": "https://www.lifehacker.jp/feed/index.xml",
       "siteUrl": "https://www.lifehacker.jp",
       "articles": [
+        {
+          "id": "https://www.lifehacker.jp/2021/10/243751google-drive-getting-full-heres-what-to-do.html",
+          "author": "堀込泰三,MakeUseOf",
+          "description": "Googleストレージを圧迫するファイルの見分け方や、空き容量を増やす方法を解説します。",
+          "link": "https://www.lifehacker.jp/2021/10/243751google-drive-getting-full-heres-what-to-do.html",
+          "publishedOn": "2021-10-19T01:00:00.000Z",
+          "wordCount": 197,
+          "title": "Googleストレージの容量が足りなくなった時の対処法5つ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/10/15/211019googlestorage_top.jpg"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/2021/10/244285elon-musk-richard-branson-sara-blakely-failure-advice.html",
+          "author": "ライフハッカー編集部",
+          "description": "失敗に対する不安や恐怖を克服するためのメンタルコントロール術を、3人の起業家が実際に行なっている習慣を例に、紹介していきます。",
+          "link": "https://www.lifehacker.jp/2021/10/244285elon-musk-richard-branson-sara-blakely-failure-advice.html",
+          "publishedOn": "2021-10-18T23:30:00.000Z",
+          "wordCount": 167,
+          "title": "3人の起業家から学ぶ、恐怖や不安をコントロールする習慣",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/10/18/新規プロジェクト(22).jpg"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/2021/10/244302-machi-ya-themarcher-review2.html",
+          "author": "山田洋路",
+          "description": "フルスケルトンのトゥールビヨン腕時計「FULL SKELETON TOURBILLON THE ARCHER（THE ARCHER）。透明度の高い水晶ガラスで側面クリアを実現。ラウンド型とスクエア型の2タイプ選べます。",
+          "link": "https://www.lifehacker.jp/2021/10/244302-machi-ya-themarcher-review2.html",
+          "publishedOn": "2021-10-18T23:00:00.000Z",
+          "wordCount": 185,
+          "title": "どこから見ても絶景！ スケルトントゥルービヨン腕時計を使ってみた",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/10/18/20211018-zeroo04.jpeg"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/2021/10/244257book_to_read-859.html",
+          "author": "印南敦史",
+          "description": "『疲れない・バテない・壊さない　スタンフォード式 脳と体の強化書』（山田知生 著、大和書房）より、疲れない・疲労回復のための2つの「呼吸法」を紹介します。",
+          "link": "https://www.lifehacker.jp/2021/10/244257book_to_read-859.html",
+          "publishedOn": "2021-10-18T22:00:00.000Z",
+          "wordCount": 171,
+          "title": "疲れない・疲労回復のための2つの「呼吸法」",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/10/18/book_to_read-859.jpg"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/2021/10/243239-machi-ya-microbladepill-start.html",
+          "author": "山田洋路",
+          "description": "薬のカプセルサイズのカッターツール「MicroBladePill-Titanium Edition（マイクロブレードピル チタン）」ならベルトループに装着してどこでも携帯可能。刃の角度が35°と緩めの安全設計です。ゴム製キャップホルダーも付属でスマートに活用できます。",
+          "link": "https://www.lifehacker.jp/2021/10/243239-machi-ya-microbladepill-start.html",
+          "publishedOn": "2021-10-18T14:00:00.000Z",
+          "wordCount": 164,
+          "title": "段ボールや封書に最適。カプセルサイズのカッターツールが登場！",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jfif",
+            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/09/29/MicroBladePill-Titanium(3).jfif"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/2021/10/244213blt10.html",
+          "author": "ライフハッカー編集部",
+          "description": "ライフハッカー［日本版］とBOOKLABTOKYOがコラボするトークイベント｢BOOKLABTALK｣。第10回目となる今回は、『LISTEN──知性豊かで創造力がある人になれる』（日経BP）を監訳された篠田真貴子さんと、人事労務クラウド「SmartHR」グループ会社Looper代表の佐野一機さんをお招きします。「傾聴」への関心が高まっている今、仕事の場で必要とされる「聞く力」とは？これからのビジ",
+          "link": "https://www.lifehacker.jp/2021/10/244213blt10.html",
+          "publishedOn": "2021-10-18T13:05:00.000Z",
+          "wordCount": 156,
+          "title": "今なぜ“傾聴力“？社会、組織、人事…「ビジネスと聞く」の関係性を徹底解剖｜11/9オンライン開催",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/10/15/BLTPeatixbanner(1).png"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/2021/10/242971-machi-ya-moldi-review.html",
+          "author": "山田洋路",
+          "description": "栃木レザーのコンパクト財布「Moldi」は厚み0.8cmと超薄型を実現。浅底コインポケットには蓋がなくても小銭が落ちない仕組みです。革はハリがあり硬めで、エイジングが楽しめます。",
+          "link": "https://www.lifehacker.jp/2021/10/242971-machi-ya-moldi-review.html",
+          "publishedOn": "2021-10-18T13:00:00.000Z",
+          "wordCount": 160,
+          "title": "蓋がないけど小銭が落ちないと噂の超薄型財布の使い心地とは？",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/10/18/moldi_12.jpg"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/2021/10/machi-ya-mochisarabathmat-review.html",
+          "author": "Hideaki Yamamura",
+          "description": "高い吸水性と放湿性を持つ珪藻土バスマット。デメリットは石版状で固いため破損しやすい点やメンテナンス性。それらの課題を解決した、柔らかくて使いやすい珪藻土バスマットを使ってみました。",
+          "link": "https://www.lifehacker.jp/2021/10/machi-ya-mochisarabathmat-review.html",
+          "publishedOn": "2021-10-18T12:00:00.000Z",
+          "wordCount": 165,
+          "title": "柔らかくて割れない。いつもと同じ感覚で使える珪藻土バスマットを使ってみた",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/10/17/DSC04033.jpg"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/2021/10/what-to-say-when-someone-is-getting-defensive.html",
+          "author": "ぬえよしこ",
+          "description": "自分を正当化して言い訳することは、他人から攻撃されたときの自然な反応です。しかし、会話中に言い訳がましく自己正当化するデメリットはなんでしょうか？",
+          "link": "https://www.lifehacker.jp/2021/10/what-to-say-when-someone-is-getting-defensive.html",
+          "publishedOn": "2021-10-18T11:00:00.000Z",
+          "wordCount": 163,
+          "title": "言い訳ばかり言う上司や部下への対応策4選",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/10/17/shutterstock_1246077505.jpg"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/2021/10/machi-ya-emperortamarin-start.html",
+          "author": "Haruki Matsumoto",
+          "description": "「Emperor Tamarin」は浅めの鍋でも使いやすい、自立できるタイプの低温調理器。さらに1200Wのハイパワー仕様なため温めも早く、時間効率も良さげ。今ならキャンペーン価格でお得にゲットできるチャンス。",
+          "link": "https://www.lifehacker.jp/2021/10/machi-ya-emperortamarin-start.html",
+          "publishedOn": "2021-10-18T10:00:00.000Z",
+          "wordCount": 159,
+          "title": "自立式で使い勝手が向上！ 1200Wパワフルな低温調理器のお得な先行販売がスタート",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/10/06/L1.jpg"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/2021/10/244122you-dont-have-a-procrastination-problem-you-have-an-im.html",
+          "author": "ライフハッカー編集部",
+          "description": "「先延ばし」にしてしまうのは、やらなくてもいいことにノーと言えないから。時間を無駄にしないために、まずすべきことを紹介します。",
+          "link": "https://www.lifehacker.jp/2021/10/244122you-dont-have-a-procrastination-problem-you-have-an-im.html",
+          "publishedOn": "2021-10-18T07:00:00.000Z",
+          "wordCount": 155,
+          "title": "「先延ばし癖」を改善したいなら、まずすべきこと",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/10/14/新規プロジェクト(21).jpg"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/2021/10/machi-ya-zeloslip-review.html",
+          "author": "junior",
+          "description": "｢Zero Slip ステアリングカバー｣は人工皮革とラムスキンレザーの合わせ技で滑りにくさにフォーカスしたハンドルカバー。操作性の向上とハンドルの劣化対策も可能。",
+          "link": "https://www.lifehacker.jp/2021/10/machi-ya-zeloslip-review.html",
+          "publishedOn": "2021-10-18T06:15:00.000Z",
+          "wordCount": 157,
+          "title": "2種の素材で滑りにくさを追求したステアリングカバーを使ってみた",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/10/15/DSCF1320.jpg"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/2021/10/243391-machi-ya-aioafit-review.html",
+          "author": "組橋信太朗",
+          "description": "｢aioa fit（アイオアフィット）｣はワンアクションで紙幣・小銭・カードが取り出せて、左右から出し入れができるユニバーサルデザインを採用したミニマルウォレット。実際に使ってみて感じたデザイン性の高さを紹介します！",
+          "link": "https://www.lifehacker.jp/2021/10/243391-machi-ya-aioafit-review.html",
+          "publishedOn": "2021-10-18T05:00:00.000Z",
+          "wordCount": 160,
+          "title": "開くだけで紙幣・小銭・カードが取り出せる両利き対応の財布に注目！",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/10/05/_MG_2122.jpg"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/2021/10/244017lht-trackball-mouse.html",
+          "author": "ライフハッカー編集部",
+          "description": "トラックボールやマウスについて悩んでいる人必見！エレコム、ロジクール、Kensingtonなど、ライター愛用のアイテムをご紹介。",
+          "link": "https://www.lifehacker.jp/2021/10/244017lht-trackball-mouse.html",
+          "publishedOn": "2021-10-18T03:00:00.000Z",
+          "wordCount": 217,
+          "title": "使ったら手放せなくなった｢トラックボール＆マウス｣5選【今日のライフハックツール】",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/10/12/A_white-1.png"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/2021/10/243609komehyo.html",
+          "author": "ライフハッカー編集部",
+          "description": "国内最大級のリユースショップともいわれるKOMEHYO（コメ兵）で、フリマアプリ「KANTE」の運営・管理を担当する川合美緒（かわいみお）さんにお話を伺いました。",
+          "link": "https://www.lifehacker.jp/2021/10/243609komehyo.html",
+          "publishedOn": "2021-10-18T02:00:00.000Z",
+          "wordCount": 141,
+          "title": "部下に求める「60%ルール」PDCAを早く回す仕事術",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/10/06/top.jpeg"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/2021/10/amazon-timesale-1018-1.html",
+          "author": "メディアジーンメディアコマース",
+          "description": "Amazon（アマゾン）で毎日開催されているタイムセール。本日2021年10月18日は、3キャプテンスタッグの竹製まな板が44％オフ、パックご飯24個セットが2,167円など、今すぐ欲しい人気のアイテムがお得に多数登場しています。",
+          "link": "https://www.lifehacker.jp/2021/10/amazon-timesale-1018-1.html",
+          "publishedOn": "2021-10-18T01:30:00.000Z",
+          "wordCount": 487,
+          "title": "【Amazonタイムセール中！】キャプテンスタッグの竹製まな板が44％オフ、パックご飯24個セットが2,167円など",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/10/18/Top.jpg"
+          }
+        },
         {
           "id": "https://www.lifehacker.jp/2021/10/2441499-google-calendar-features-you-arent-using-but-should-b.html",
           "author": "的野裕子",
@@ -970,202 +1500,6 @@
             "length": "0",
             "type": "image/jpeg",
             "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/10/13/200716_Coffee.jpg"
-          }
-        },
-        {
-          "id": "https://www.lifehacker.jp/2021/10/244096lht-dyson-purifier-humidifycool.html",
-          "author": "hiro.",
-          "description": "これまで以上に綺麗にできる空気清浄機を、Dysonが発表しました。Dysonと言えば、吸引力が殆ど落ちない掃除機や、羽根のない扇風機でお馴染みの会社ですが、これらの製品も気流をコントロールするという点では共通しており、Dysonが得意とする分野なのです。",
-          "link": "https://www.lifehacker.jp/2021/10/244096lht-dyson-purifier-humidifycool.html",
-          "publishedOn": "2021-10-16T13:05:00.000Z",
-          "wordCount": 205,
-          "title": "ダイソンから扇風機付「加湿空気清浄機」が登場｜1年中使えちゃう！【今日のライフハックツール】",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/10/14/Dyson.png"
-          }
-        },
-        {
-          "id": "https://www.lifehacker.jp/2021/10/machi-ya-prolabmouse-end.html",
-          "author": "kotoha ozawa",
-          "description": "動画や音楽プレイヤーの操作といったシンプルな使い方や、プレゼンテーション用のエアマウスとしても使えるコインサイズの「ProLab Mouse」が姉妹サイトmachi-yaに登場。",
-          "link": "https://www.lifehacker.jp/2021/10/machi-ya-prolabmouse-end.html",
-          "publishedOn": "2021-10-16T13:00:00.000Z",
-          "wordCount": 167,
-          "title": "プレゼンや自撮りシャッターにも。スマホやタブレットにも便利なコインサイズマウス",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/09/09/proLabmouse4.jpeg"
-          }
-        },
-        {
-          "id": "https://www.lifehacker.jp/2021/10/244201-machi-ya-lydstor1-start.html",
-          "author": "山田洋路",
-          "description": "ゴミ捨てが月1回で済みお掃除スケジューリングも自在なロボット掃除機「Lydsto R1」。レーザースキャンによって自動でマップを生成しアプリから調整できます。バーチャルウォールも設定可能。1回の充電で約120畳分の掃除ができて水拭きにも対応しています。",
-          "link": "https://www.lifehacker.jp/2021/10/244201-machi-ya-lydstor1-start.html",
-          "publishedOn": "2021-10-16T12:00:00.000Z",
-          "wordCount": 175,
-          "title": "ゴミ捨ては月1回でOK！ 高吸引＆で高コスパで水拭きもおまかせなロボット掃除機「Lydsto R1」が登場！",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/10/15/LydstoR1.jpg"
-          }
-        },
-        {
-          "id": "https://www.lifehacker.jp/2021/10/what-is-a-parasocial-relationship-and-how-to-know-if.html",
-          "author": "的野裕子",
-          "description": "Twitterやその他のSNSを使っている人は、心理的虐待である「ガスライティング」などを経験したことがあるかもしれません。最近、そこに新たに加わったのが「パラソーシャル関係」です。",
-          "link": "https://www.lifehacker.jp/2021/10/what-is-a-parasocial-relationship-and-how-to-know-if.html",
-          "publishedOn": "2021-10-16T11:00:00.000Z",
-          "wordCount": 161,
-          "title": "なぜ会ったこともない人を、SNSで批判してしまうのか？",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/10/12/211012_ParasocialRelationship.jpg"
-          }
-        },
-        {
-          "id": "https://www.lifehacker.jp/2021/10/243778-machi-ya-pigaone-end.html",
-          "author": "山田洋路",
-          "description": "履くだけで正しい姿勢に導く足裏圧着タイツ「PigaONE（ピガワン）」。足裏アーチをサポートし、ヨガや格闘技の練習や運動不足による足のだるさ解消を促します。",
-          "link": "https://www.lifehacker.jp/2021/10/243778-machi-ya-pigaone-end.html",
-          "publishedOn": "2021-10-16T10:00:00.000Z",
-          "wordCount": 154,
-          "title": "忙しい日も足裏からケア。土踏まずにアプローチする足裏圧着タイツ「PigaONE」のプロジェクトが終了間近！",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jfif",
-            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/10/08/@3PigaONE(6).jfif"
-          }
-        },
-        {
-          "id": "https://www.lifehacker.jp/2021/10/machi-ya-waldhoff-end.html",
-          "author": "junior",
-          "description": "時計ブランド「WALDHOFF」の機械式腕時計は愛好者が夢見る「トゥールビヨン」を搭載し、メイド・イン・ジャーマニーのこだわりが随所に詰まった高級腕時計です。",
-          "link": "https://www.lifehacker.jp/2021/10/machi-ya-waldhoff-end.html",
-          "publishedOn": "2021-10-16T07:30:00.000Z",
-          "wordCount": 202,
-          "title": "お値打ちだけど妥協なし。トゥールビヨンが美しい「WALDHOFF」の先行受付が終了間近",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/10/11/IMG_6924.jpg"
-          }
-        },
-        {
-          "id": "https://www.lifehacker.jp/2021/10/how-to-back-up-and-restore-the-data-on-your-apple-wa.html",
-          "author": "的野裕子",
-          "description": "iPhoneとApple Watchが近くにある場合は、データは自動的にiPhoneにバックアップされ、保存されます。その後、iPhoneのデータをパソコンやiCloudにバックアップすると、Apple Watchのデータも自動的にそのバックアップに含まれます。",
-          "link": "https://www.lifehacker.jp/2021/10/how-to-back-up-and-restore-the-data-on-your-apple-wa.html",
-          "publishedOn": "2021-10-16T07:00:00.000Z",
-          "wordCount": 202,
-          "title": "新しいApple Watchにデータを移行させる方法",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/10/11/211011_AppleWatch_01.jpg"
-          }
-        },
-        {
-          "id": "https://www.lifehacker.jp/2021/10/amazon-timesale-fes-2021-1016-2.html",
-          "author": "メディアジーンメディアコマース",
-          "description": "Amazon（アマゾン）では、2021年10月16日9時から10月18日23時59分まで｢Amazon タイムセール祭り｣を開催中です。\n\n人気のアイテムが日替わり・時間ごとに多数セール対象となるタイムセールでは、現在、44％オフのカシオ腕時計や32％オフのコールマン・アウトドアワゴンなど、今すぐ使えるアイテムがお買い得に登場しています。",
-          "link": "https://www.lifehacker.jp/2021/10/amazon-timesale-fes-2021-1016-2.html",
-          "publishedOn": "2021-10-16T06:15:00.000Z",
-          "wordCount": 624,
-          "title": "【Amazonタイムセール祭り】カシオの腕時計が44％オフで1,000円台、コールマンのアウトドアワゴンが32％オフなど注目アイテムがズラリ！",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/10/16/Top-2.jpg"
-          }
-        },
-        {
-          "id": "https://www.lifehacker.jp/2021/10/machi-ya-angle_pro_sharpener-end.html",
-          "author": "Haruki Matsumoto",
-          "description": "「アングルプロシャープナー」は、 さまざまな包丁の角度にフィットして抜群の切れ味を取り戻せる包丁研ぎマシーン。角度計測や3段階のシャープナーを搭載し、初心者でも簡単に操作できます。",
-          "link": "https://www.lifehacker.jp/2021/10/machi-ya-angle_pro_sharpener-end.html",
-          "publishedOn": "2021-10-16T05:00:00.000Z",
-          "wordCount": 162,
-          "title": "プロのような研ぎを手軽に実現。抜群の切れ味を取り戻せる包丁シャープナー",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/10/15/01.png"
-          }
-        },
-        {
-          "id": "https://www.lifehacker.jp/2021/10/before-you-buy-something-new-shop-your-own-stuff.html",
-          "author": "ライフハッカー編集部",
-          "description": "お金の節約で大事なのは、買わずに済ませることです。特に、著者のような衝動買いが好きなタイプは買い物を我慢するのが大変なはず。そこで、買い物に行く前に｢ある場所｣に行くことをおすすめします。",
-          "link": "https://www.lifehacker.jp/2021/10/before-you-buy-something-new-shop-your-own-stuff.html",
-          "publishedOn": "2021-10-16T03:00:00.000Z",
-          "wordCount": 147,
-          "title": "無駄遣い・衝動買いをやめる3つの質問",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/10/15/shutterstock_1426720754.jpg"
-          }
-        },
-        {
-          "id": "https://www.lifehacker.jp/2021/10/amazon-timesale-fes-2021-1016-1.html",
-          "author": "メディアジーンメディアコマース",
-          "description": "Amazon（アマゾン）では、2021年10月16日9時から10月18日23時59分まで｢Amazon タイムセール祭り｣を開催中です。\n\n人気のアイテムが日替わり・時間ごとに多数セール対象となるタイムセールでは、現在、50％オフのオークリーのサングラスや1本あたり62円の強炭酸水など、今すぐ使えるアイテムがお買い得に登場しています。",
-          "link": "https://www.lifehacker.jp/2021/10/amazon-timesale-fes-2021-1016-1.html",
-          "publishedOn": "2021-10-16T02:15:00.000Z",
-          "wordCount": 553,
-          "title": "【Amazonタイムセール祭り】オークリーのサングラスが50％オフ、1本あたり62円の強炭酸水など目玉商品をお見逃しなく",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/10/16/Top.jpg"
-          }
-        },
-        {
-          "id": "https://www.lifehacker.jp/2021/10/download-your-iphones-latest-security-update-asap.html",
-          "author": "春野ユリ",
-          "description": "Appleは10月11日月曜日に、対応するiPhoneとiPadにiOS15.0.2とiPadOS15.0.2をリリースしました。Appleはその後、この新しいアップデートがその名前から想像されるよりもはるかに重要だということを伝えています。",
-          "link": "https://www.lifehacker.jp/2021/10/download-your-iphones-latest-security-update-asap.html",
-          "publishedOn": "2021-10-16T01:00:00.000Z",
-          "wordCount": 186,
-          "title": "iPhoneとiPadは早急にアップデートしたほうがいい",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/10/14/10e1a87a87d6d21619d7d5f240a1ef09.jpg"
-          }
-        },
-        {
-          "id": "https://www.lifehacker.jp/2021/10/243850you-should-eat-salads-for-breakfast-wait-don-t-leave.html",
-          "author": "春野ユリ",
-          "description": "彩りに欠けることが多い朝食ですが、サラダを食べることで得られるメリットがいくつかあるようです。",
-          "link": "https://www.lifehacker.jp/2021/10/243850you-should-eat-salads-for-breakfast-wait-don-t-leave.html",
-          "publishedOn": "2021-10-15T23:30:00.000Z",
-          "wordCount": 165,
-          "title": "朝食にサラダを食べたほうが良い理由",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/10/10/f86289b742a5e2ff5d06f1f735b301dc.jpg"
-          }
-        },
-        {
-          "id": "https://www.lifehacker.jp/2021/10/244159-machi-ya-pigaone-review2.html",
-          "author": "飯田あゆみ",
-          "description": "足裏の特に土踏まずをサポートし、正常なアーチ構造を支えようという思想で設計された「PigaONE（ピガワン）」。実際にサンプルを借りして、着用感やサイズ選びのコツになどを確認してみました！",
-          "link": "https://www.lifehacker.jp/2021/10/244159-machi-ya-pigaone-review2.html",
-          "publishedOn": "2021-10-15T14:00:00.000Z",
-          "wordCount": 155,
-          "title": "もサイズ選びの参考に。足裏圧着タイツ「PigaONE」で土踏まずをサポートしよう",
-          "enclosure": {
-            "length": "0",
-            "type": "image/JPEG",
-            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/10/14/IMG_1698.JPEG"
           }
         }
       ]
