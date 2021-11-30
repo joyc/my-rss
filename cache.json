@@ -6,6 +6,240 @@
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
         {
+          "id": "https://www.itmedia.co.jp/news/articles/2111/30/news056.html",
+          "author": null,
+          "description": "クラウド環境の設定ミスやセキュリティ対策の甘さを突いて攻撃を仕掛けられ、情報流出などの被害が発生する事件が後を絶たない。セキュリティ企業の実験で、そうした弱点が瞬く間に見つけられ、悪用される実態が浮き彫りになった。",
+          "link": "https://www.itmedia.co.jp/news/articles/2111/30/news056.html",
+          "publishedOn": "2021-11-29T23:00:00.000Z",
+          "wordCount": 147,
+          "title": "攻撃を招くクラウド環境の設定ミス、わずか数分で悪用も　米セキュリティ企業がおとり調査"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2111/30/news044.html",
+          "author": null,
+          "description": "ニュージーランドのThe University of Aucklandと、ドイツのTechnical University of Applied Sciences Lübeckの研究チームは、足の裏をくすぐり、笑いを誘発するインソールを開発。遠隔地にいる恋人とくすぐり合いができる。",
+          "link": "https://www.itmedia.co.jp/news/articles/2111/30/news044.html",
+          "publishedOn": "2021-11-29T23:00:00.000Z",
+          "wordCount": 227,
+          "title": "遠距離でも恋人の足裏をこちょこちょ　独研究チームら、小型ブラシ内蔵インソールを開発"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2111/30/news034.html",
+          "author": null,
+          "description": "スコットランドのグラスゴー大学と、フィンランドのアールト大学の研究チームは、犬から人のスマートフォンへビデオ通話をかけられるボール型IoTデバイス「DogPhone」を開発。くわえて動かすことで、飼い主に電話をかけられる。",
+          "link": "https://www.itmedia.co.jp/news/articles/2111/30/news034.html",
+          "publishedOn": "2021-11-29T23:00:00.000Z",
+          "wordCount": 205,
+          "title": "犬から人へ電話をかけられる「DogPhone」　愛犬は飼い主にどのくらい着信を入れるか検証"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2111/30/news072.html",
+          "author": null,
+          "description": "Twitterの共同創業者、ジャック・ドーシー氏がCEOを辞任した。後任はCTO（最高技術責任者）のパラグ・アグラワル氏。ドーシー氏は会長にはならず、取締役からも来年退く。",
+          "link": "https://www.itmedia.co.jp/news/articles/2111/30/news072.html",
+          "publishedOn": "2021-11-29T22:07:00.000Z",
+          "wordCount": 153,
+          "title": "ジャック・ドーシー氏がTwitterのCEOを辞任　後任はアグラワルCTO"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2111/30/news070.html",
+          "author": null,
+          "description": "関西国際空港などはさまざまな業務でロボットの導入を推進。省力化やコスト削減という経済的理由に加え、最先端技術の実験場として空港を活用する狙いもある。人との出会いだけでなく、ロボットとの「出会い」も空港での楽しみになりつつある。",
+          "link": "https://www.itmedia.co.jp/news/articles/2111/30/news070.html",
+          "publishedOn": "2021-11-29T22:00:00.000Z",
+          "wordCount": 158,
+          "title": "空港で最先端ロボのオモテナシ続々　人手不足、感染防止担う"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2111/30/news069.html",
+          "author": null,
+          "description": "「結構ガチです」「ここだけの話」「厳しいことを言うけど」……。Twitterでは、こうした定型句で有益そうな情報の断片を書き込むアカウントが多い。こういったアカウントの情報を真に受けると“落とし穴”にはまることもあるようだ。",
+          "link": "https://www.itmedia.co.jp/news/articles/2111/30/news069.html",
+          "publishedOn": "2021-11-29T22:00:00.000Z",
+          "wordCount": 134,
+          "title": "「結構ガチです」「厳しいことを言うけど」……　SNSの意識高い系投稿に落とし穴"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2111/30/news068.html",
+          "author": null,
+          "description": "EVのデメリットとして真っ先に挙げられるのが充電時間の長さだ。マーケティングコンサルタントの石井啓介さんは充電時間を楽しむため、EVユーザー自身に充電スポットの近くで見つけたグルメ情報を投稿してもらうSNSグループ「EVごはん」を発足した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2111/30/news068.html",
+          "publishedOn": "2021-11-29T22:00:00.000Z",
+          "wordCount": 135,
+          "title": "EVの長い充電時間をどう過ごすか　充電スポット周辺のグルメ情報伝える「EVごはん」"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2111/29/news186.html",
+          "author": null,
+          "description": "リンガーハットが、災害やパンデミックといった非常事態にも対応できる需要予測AIを開発すると発表した。問題が起きた場合に即座に緊急用の設定に移行することで、柔軟な対応を実現する。",
+          "link": "https://www.itmedia.co.jp/news/articles/2111/29/news186.html",
+          "publishedOn": "2021-11-29T11:50:00.000Z",
+          "wordCount": 150,
+          "title": "リンガーハット、“強じんな需要予測AI”開発へ　「災害などあらゆる非常事態に対応できる」"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2111/29/news185.html",
+          "author": null,
+          "description": "NTTドコモが、同社製法人向けSaaSをまとめたオンラインストアを12月1日にオープンする。コロナ禍でDXのニーズが高まる一方、どんなサービスを活用したらいいか分からない中小企業の利用を見込む。",
+          "link": "https://www.itmedia.co.jp/news/articles/2111/29/news185.html",
+          "publishedOn": "2021-11-29T11:08:00.000Z",
+          "wordCount": 147,
+          "title": "ドコモが自社製B2B SaaSまとめたオンラインストア　中小向けに「はじめてのDX導入をサポート」"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2111/29/news183.html",
+          "author": null,
+          "description": "フリマサービス「メルカリ」上で競走馬「コントレイル」の勝馬投票券（馬券）の出品が相次いでいる。当たり馬券をネット上で転売する行為は、違法であり、注意が必要だ。",
+          "link": "https://www.itmedia.co.jp/news/articles/2111/29/news183.html",
+          "publishedOn": "2021-11-29T10:17:00.000Z",
+          "wordCount": 141,
+          "title": "メルカリで競走馬「コントレイル」の馬券出品が相次ぐ　“当たり”馬券の出品は違法なので注意"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2111/29/news150.html",
+          "author": null,
+          "description": "Zwiftはサイクリングだけではない。トレッドミルを使って仮想世界を走ることだってできるのだ。実際に試してみた。",
+          "link": "https://www.itmedia.co.jp/news/articles/2111/29/news150.html",
+          "publishedOn": "2021-11-29T08:00:00.000Z",
+          "wordCount": 146,
+          "title": "メタバースを走るもう1つの方法　Zwiftは自転車がなくても自分の脚で走れる"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2111/29/news147.html",
+          "author": null,
+          "description": "日立グループの日立物流西日本の物流センターで11月29日午前8時50分ごろ、火災が発生した。午後2時30分の時点でも鎮火に向けた消火活動が続いている。",
+          "link": "https://www.itmedia.co.jp/news/articles/2111/29/news147.html",
+          "publishedOn": "2021-11-29T06:40:00.000Z",
+          "wordCount": 131,
+          "title": "日立の物流センターで火災　5時間以上延焼中"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2111/29/news137.html",
+          "author": null,
+          "description": "キリンビールはNTTデータと共同で、ビール醸造の仕込と発酵の工程を効率化するAIの試験導入を始めた。技術の属人化を防ぐとともに、年間4000時間以上の削減を目指す。",
+          "link": "https://www.itmedia.co.jp/news/articles/2111/29/news137.html",
+          "publishedOn": "2021-11-29T06:15:00.000Z",
+          "wordCount": 140,
+          "title": "ビール醸造の全行程にAI導入　キリン、脱属人化と4000時間の削減に3.3億円投資"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2111/29/news135.html",
+          "author": null,
+          "description": "横浜の「動く実物大ガンダム」をテーマにした小中学生向け「探求学習プログラム」が、経済産業省の2022年度「STEAMライブラリー」に採択された。",
+          "link": "https://www.itmedia.co.jp/news/articles/2111/29/news135.html",
+          "publishedOn": "2021-11-29T06:09:00.000Z",
+          "wordCount": 155,
+          "title": "動く実物大ガンダム、経産省が選ぶSTEAM教材に"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2111/29/news133.html",
+          "author": null,
+          "description": "ソニーワイヤレスコミュニケーションズが、集合住宅向けの個人用5G接続サービス「NURO Wireless 5G」の提供を2022年春ごろに始める。ローカル5Gの商用免許で住宅向けの固定通信サービスを提供するのは日本初。",
+          "link": "https://www.itmedia.co.jp/news/articles/2111/29/news133.html",
+          "publishedOn": "2021-11-29T06:05:00.000Z",
+          "wordCount": 151,
+          "title": "ローカル5Gを使った固定回線サービス、NUROから日本初登場　工事不要で速度制限なし　月額5000円程度"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2111/29/news127.html",
+          "author": null,
+          "description": "出版物の海賊版サイト上位10サイトへの10月分の合計アクセス数は、4億の大台目前――海賊版対策を進めるABJがそのような調査結果を発表。10サイト合算で3億9833万アクセスを記録し、上位3サイトの合計アクセスは、初の3億超。",
+          "link": "https://www.itmedia.co.jp/news/articles/2111/29/news127.html",
+          "publishedOn": "2021-11-29T05:44:00.000Z",
+          "wordCount": 144,
+          "title": "「漫画村」の4倍規模　違法漫画サイトへの月間アクセス数は4億目前に　ABJ調査"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2111/29/news119.html",
+          "author": null,
+          "description": "歴代の仮面ライダー32種と、ショッカー戦闘員をそれぞれイメージした計33種類のマウスカバーがミズノから。",
+          "link": "https://www.itmedia.co.jp/news/articles/2111/29/news119.html",
+          "publishedOn": "2021-11-29T04:32:00.000Z",
+          "wordCount": 141,
+          "title": "ミズノ、歴代仮面ライダー32種＋ショッカーのマウスカバー発売　ライダー好き社員で製作"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2111/29/news115.html",
+          "author": null,
+          "description": "「Yahoo!チケット」が3月末に終了へ。",
+          "link": "https://www.itmedia.co.jp/news/articles/2111/29/news115.html",
+          "publishedOn": "2021-11-29T04:15:00.000Z",
+          "wordCount": 133,
+          "title": "「Yahoo!チケット」終了へ"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2111/29/news110.html",
+          "author": null,
+          "description": "三菱UFJ信託銀で19日に発生した障害の原因は、「修正プログラムの不備により、適切な処理がなされなかったこと」。",
+          "link": "https://www.itmedia.co.jp/news/articles/2111/29/news110.html",
+          "publishedOn": "2021-11-29T03:38:00.000Z",
+          "wordCount": 141,
+          "title": "MUFG信託銀の障害　原因は「修正プログラムの不備」　巻き戻しで解消"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2111/29/news105.html",
+          "author": null,
+          "description": "カシオ計算機は29日、JAXAと共同で月面基地での活用を想定した測位システムの実験を始めると発表した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2111/29/news105.html",
+          "publishedOn": "2021-11-29T03:34:00.000Z",
+          "wordCount": 147,
+          "title": "月面基地で活躍する測位システム、JAXAとカシオが球場で実験"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2111/29/news113.html",
+          "author": null,
+          "description": "2年ぶりのInter BEE開催。そこで目にしたのは大きく変貌を遂げたスイッチャーだった。",
+          "link": "https://www.itmedia.co.jp/news/articles/2111/29/news113.html",
+          "publishedOn": "2021-11-29T03:24:00.000Z",
+          "wordCount": 158,
+          "title": "映像スイッチャーがクラウド化に進む　激変する「ライブのおしごと」"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2111/29/news102.html",
+          "author": null,
+          "description": "冬コミのサークルチケットがフリマサイトなどで4万円前後で取引されている。準備会は出品者に対して、出品を取り消すようメッセージを送っているという。",
+          "link": "https://www.itmedia.co.jp/news/articles/2111/29/news102.html",
+          "publishedOn": "2021-11-29T03:18:00.000Z",
+          "wordCount": 138,
+          "title": "冬コミのサークルチケット、4万円で転売も　準備会、出品取り下げ求めるメッセージ送信"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2111/29/news095.html",
+          "author": null,
+          "description": "JR東海が「座席濡れ検知装置」を開発。清掃の際、座席が濡れいているかどうかをサーモグラフィーカメラで検出する。機械学習も活用した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2111/29/news095.html",
+          "publishedOn": "2021-11-29T02:49:00.000Z",
+          "wordCount": 144,
+          "title": "新幹線の“座席濡れ”検知　専用カメラ開発　JR東海、機械学習活用"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2111/29/news094.html",
+          "author": null,
+          "description": "Sansanが、名刺の作成や発注をオンラインで行えるサービスを、名刺管理サービス「Sansan」から独立したサービスとして提供する。オンライン名刺が普及する一方、紙の名刺を使い続けたり、2つを併用したりする人が多いことを踏まえた施策という。",
+          "link": "https://www.itmedia.co.jp/news/articles/2111/29/news094.html",
+          "publishedOn": "2021-11-29T02:46:00.000Z",
+          "wordCount": 146,
+          "title": "Sansan、紙の名刺作成サービスを独立化　オンライン名刺との併用ニーズ増で"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2111/29/news092.html",
+          "author": null,
+          "description": "バウヒュッテの「にゃんガルーパーカー 2」を買って、猫を入れて仕事ができるかどうか試してみた。",
+          "link": "https://www.itmedia.co.jp/news/articles/2111/29/news092.html",
+          "publishedOn": "2021-11-29T02:30:00.000Z",
+          "wordCount": 155,
+          "title": "テレワーク中にちょっかいを出す猫には「おなかのポケット」に入ってもらおう"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2111/29/news084.html",
+          "author": null,
+          "description": "USJは29日、テレビアニメ「HUNTER×HUNTER」とのコラボレーションを22年3月から実施すると発表した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2111/29/news084.html",
+          "publishedOn": "2021-11-29T01:54:00.000Z",
+          "wordCount": 146,
+          "title": "USJが「ハンター×ハンター」コラボ　22年3月から"
+        },
+        {
           "id": "https://www.itmedia.co.jp/news/articles/2111/29/news074.html",
           "author": null,
           "description": "「GFX 50S II」は「GFX 100S」と同じボディの5000万画素版。あのスゴいカメラ性能を、半分の画素数（といっても5000万画素だ）で半分近い価格で楽しめるのである。",
@@ -94,24 +328,6 @@
           "publishedOn": "2021-11-27T22:29:00.000Z",
           "wordCount": 149,
           "title": "Google、「プライバシーサンドボックス」で独立監視者任命を約束"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2111/26/news013.html",
-          "author": null,
-          "description": "「Yahoo！路線情報」から情報を取り出して、状況をOLEDディスプレイで分かるようにしてみます。",
-          "link": "https://www.itmedia.co.jp/news/articles/2111/26/news013.html",
-          "publishedOn": "2021-11-27T01:20:00.000Z",
-          "wordCount": 566,
-          "title": "電車の運行情報をOLEDディスプレイでチェックする"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2111/27/news027.html",
-          "author": null,
-          "description": "多くの企業が「メタバース」を喧伝する中、Googleの親会社はロボット事業をXから独立させました。AIを駆使し、タチコマのように並列化することで、汎用ロボット開発の可能性が開けたそうです。",
-          "link": "https://www.itmedia.co.jp/news/articles/2111/27/news027.html",
-          "publishedOn": "2021-11-26T23:00:00.000Z",
-          "wordCount": 146,
-          "title": "タチコマのように並列化し進化する、 Google親会社の日常家事ロボット"
         }
       ]
     },
@@ -121,6 +337,114 @@
       "siteUrl": "https://qiita.com/popular-items",
       "articles": [
         {
+          "id": "https://qiita.com/access3151fq/items/a4b3db6bbd1e2d2d92df?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "リリーススケジュール\n\n\n2021年10月12日: Deno1.15のリリース\n2021年11月16日: Deno1.16のリリース\n2021年12月16日: Deno1.17のリリース [TypeS…",
+          "link": "https://qiita.com/access3151fq/items/a4b3db6bbd1e2d2d92df?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-11-29T13:04:10.000Z",
+          "wordCount": 486,
+          "title": "Denoに今後導入される新機能（2021秋ver）"
+        },
+        {
+          "id": "https://qiita.com/rana_kualu/items/eaf97694f25a62f93a7e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "Nikita、会社辞めるってよ\n\nhttps://externals.io/message/116475\n\nThe first is that I'm changing jobs at the end…",
+          "link": "https://qiita.com/rana_kualu/items/eaf97694f25a62f93a7e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-11-29T11:58:59.000Z",
+          "wordCount": 315,
+          "title": "Nikita Popov、PHP開発から離れる & PHP財団設立のお知らせ"
+        },
+        {
+          "id": "https://qiita.com/komasshu/items/f7690417f0dac051dd9f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "これは何？\n\n最近、cmaf(Common Media Application Format) を使った低遅延ライブについて、ちょこちょこ調べているんですが、手軽にオープンソースベースで試せる環境が…",
+          "link": "https://qiita.com/komasshu/items/f7690417f0dac051dd9f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-11-29T07:21:29.000Z",
+          "wordCount": 722,
+          "title": "ffmpeg で low latency DASH server 作ってみた"
+        },
+        {
+          "id": "https://qiita.com/kikuchi-yzrh/items/175d6dfd01fd2a3db17a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\npydantic という便利な validation ライブラリが python にはありますが、こちらでは validation 可能な型が限られています。それを他の型を拡張しないとい…",
+          "link": "https://qiita.com/kikuchi-yzrh/items/175d6dfd01fd2a3db17a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-11-29T06:35:12.000Z",
+          "wordCount": 420,
+          "title": "pydantic で利用可能な型を追加する"
+        },
+        {
+          "id": "https://qiita.com/sagae_twins_developper/items/11338b5b0b565a5deee5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nエンジニアとして働く中、普段利用しているサービスの棚卸しをしてみようと思いました。\nきっかけは、最近私が利用するサービスがここ2~3年で固定化されていて他のエンジニアの方やIT業務に関わ…",
+          "link": "https://qiita.com/sagae_twins_developper/items/11338b5b0b565a5deee5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-11-29T02:05:30.000Z",
+          "wordCount": 251,
+          "title": "エンジニアとして普段よく使うサービスをまとめてみた"
+        },
+        {
+          "id": "https://qiita.com/minamijoyo/items/eac99e4b1ca0926c4310?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "GitHub ActionsがOIDCプロバイダとして使えるようになりました。\nこれによりAWSのアクセスキーを埋めることなくロールベースでのアクセスができるようになりました。やったね。\n\nhttps…",
+          "link": "https://qiita.com/minamijoyo/items/eac99e4b1ca0926c4310?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-11-29T01:57:46.000Z",
+          "wordCount": 659,
+          "title": "aws_iam_openid_connect_providerのthumbprint_listの計算方法"
+        },
+        {
+          "id": "https://qiita.com/kai-utsunomiya/items/f03571b4cc3d9fa2b21d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "先日、オラクル認定資格のJava Bronze試験を受験しました。Javaの資格試験としてはもっとも難易度の低いものとして知られていますが、プログラミング初心者にとってはかなり難しいタイプの試験なの…",
+          "link": "https://qiita.com/kai-utsunomiya/items/f03571b4cc3d9fa2b21d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-11-29T01:54:21.000Z",
+          "wordCount": 666,
+          "title": "個人的「Java Bronze試験つまずいた項目」５選"
+        },
+        {
+          "id": "https://qiita.com/h-taro/items/1332b9eef8e423ba5a24?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "概要\n\nFluxアーキテクチャを最小単位で実装してみます。\n今回はRxSwiftを用いてFluxのサンプルを実装します。\n\n環境\n\nXcode 13.1\n以下の内容はXcodeのPlayground環境…",
+          "link": "https://qiita.com/h-taro/items/1332b9eef8e423ba5a24?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-11-28T21:24:42.000Z",
+          "wordCount": 469,
+          "title": "最小単位でFluxアーキテクチャを試す"
+        },
+        {
+          "id": "https://qiita.com/e99h2121/items/f5e9ddef0141fe00259b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "2020年来書き溜めているリモートワーク状況を目次的にまとめた。\n\n2021年最新\n\n2021.11 もう慣れたものだ\n\n5:00- 起きる、朝の勉強タイム\n6:30- 朝飯、洗濯、ごみ捨て、着替える\n7…",
+          "link": "https://qiita.com/e99h2121/items/f5e9ddef0141fe00259b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-11-28T21:20:38.000Z",
+          "wordCount": 291,
+          "title": "リモートワークの目次 2021.11"
+        },
+        {
+          "id": "https://qiita.com/god19/items/68103e3755383e531d4c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "前文\n\nいよいよ Raspberry Pi OS でも Bullseye版が公開された。\nBullseye – the new version of Raspberry Pi OS\n\n公式サイト での…",
+          "link": "https://qiita.com/god19/items/68103e3755383e531d4c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-11-28T17:23:20.000Z",
+          "wordCount": 834,
+          "title": "Rapberry Pi 初期設定の半自動化"
+        },
+        {
+          "id": "https://qiita.com/blue32a/items/df968840a2940611dba2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nRDRAを使ってみようと思って始めたのですが、最初は用語の確認でハンドブックを見ることが多いので、用語集としてまとめてみました。\n\nRDRAとは\n\n関係駆動要件分析（Relationship…",
+          "link": "https://qiita.com/blue32a/items/df968840a2940611dba2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-11-28T15:47:19.000Z",
+          "wordCount": 307,
+          "title": "RDRA用語集"
+        },
+        {
+          "id": "https://qiita.com/zeropt2kg/items/f34096727678135cfa06?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "概要\n\nHTMLとJavaScriptを用い，「15パズルを実装する」というお題でコードゴルフ（ショートコーディング）をしてみました．\n\n15パズルとは\n\n\n15パズルは、スライディングブロックパズル（S…",
+          "link": "https://qiita.com/zeropt2kg/items/f34096727678135cfa06?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-11-28T15:32:10.000Z",
+          "wordCount": 721,
+          "title": "5行のHTMLで15パズル作ってみた"
+        },
+        {
           "id": "https://qiita.com/noppefoxwolf/items/4de05f5c72bca58652d3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
           "description": "iOS15から、EnvironmentValuesにdismissが追加されました。\nこれまでUIKitのアプリ内からSwiftUIのモーダルを表示してから閉じるにはハックが必要でしたが、これによっ…",
@@ -128,6 +452,24 @@
           "publishedOn": "2021-11-28T14:33:04.000Z",
           "wordCount": 193,
           "title": "SwiftUIから自身のUIHostringViewControllerをdismissする"
+        },
+        {
+          "id": "https://qiita.com/snyt45/items/0dcc1110ea4b34f6f608?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "経緯\n\nChrome拡張機能のMV2でFirebaseを使ってGoogle認証するという記事は見つかるのですが、2021/11/27時点でMV3で作られている記事はほとんどなくハマりポイントが多かったので整理も兼ねて記事にしてみようと思います…",
+          "link": "https://qiita.com/snyt45/items/0dcc1110ea4b34f6f608?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-11-28T14:19:26.000Z",
+          "wordCount": 1332,
+          "title": "【Vue 3+TypeScript+Vite】Chrome拡張機能(MV3) + FirebaseでGoogle認証する"
+        },
+        {
+          "id": "https://qiita.com/naruqiita/items/51f6bf5d542c4ab384e4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "結論\n\nリモート増えてもコミュニティやろうよって話\n\n\n信頼を置ける関係を作ろう\nそのためにコミュニティ化してコンタクト頻度を上げよう\n\n\n\n\nターゲット\n\n\nリモートワークでコミュニケーションが減っている人\nみん…",
+          "link": "https://qiita.com/naruqiita/items/51f6bf5d542c4ab384e4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-11-28T11:50:50.000Z",
+          "wordCount": 260,
+          "title": "エンジニアコミュニティのやり方&よくある失敗例"
         },
         {
           "id": "https://qiita.com/xryuseix/items/e35b8c946e5dfe96f848?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -238,6 +580,15 @@
           "title": "Clean Architecture 輪読会まとめ"
         },
         {
+          "id": "https://qiita.com/KazuhiroYoshino/items/3e79b8dd2d163d718343?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "概要\n\nALL Pair法によるテストデータの生成を、手作業とPictMasterとGIHOZで実施、比較してみる。\n\nお題\n\nラーメンのメニュー\n\n\n\n生成してみる\n\n手作業\n\n水準数の多い因子からペアリングす…",
+          "link": "https://qiita.com/KazuhiroYoshino/items/3e79b8dd2d163d718343?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-11-28T02:09:44.000Z",
+          "wordCount": 285,
+          "title": "ALL Pair生成、手作業 vs PictMaster vs GIHOZ"
+        },
+        {
           "id": "https://qiita.com/tkek321/items/8aba351f383f9cc052f0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
           "description": "参考\n\nClean Architecture 達人に学ぶソフトウェアの構造と設計 | Robert C.Martin, 角 征典, 高木 正弘 |本 | 通販 | Amazon\n\n前回の記事\n\nhttp…",
@@ -281,132 +632,6 @@
           "publishedOn": "2021-11-27T15:47:10.000Z",
           "wordCount": 260,
           "title": "enumとintが同じ型だと仮定しないようにしよう"
-        },
-        {
-          "id": "https://qiita.com/wolfmagnate/items/97bf9a9f8c58ede3fb21?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "はじめに\n\n過去の連載のUnity設計入門や、Unity・MVP設計実践では、ソフトウェア工学のアプローチでプロジェクトの混沌を避ける方法を書きました。今回はより文系的なアプローチでプロジェクトを成…",
-          "link": "https://qiita.com/wolfmagnate/items/97bf9a9f8c58ede3fb21?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-11-27T11:40:46.000Z",
-          "wordCount": 188,
-          "title": "同人プロジェクトマネジメント入門：目次"
-        },
-        {
-          "id": "https://qiita.com/ussvgr/items/e42c33090b7f7c070b36?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "はじめに\n\nマイクロソフト認定資格を取得する際の学習方法や経験談、おすすめ学習リソースなどを紹介しよう！のキャンペーン参加記事です。\nAzureの資格全部※取った記念（2ヶ月ぶり2度目）※AZ-70…",
-          "link": "https://qiita.com/ussvgr/items/e42c33090b7f7c070b36?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-11-27T09:30:47.000Z",
-          "wordCount": 374,
-          "title": "Azureの資格取得に向けた勉強法"
-        },
-        {
-          "id": "https://qiita.com/kaizen_nagoya/items/f3cf8d2c09df77803628?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "去年、Advent Calendarに参加し、ことし９企画することになった経緯は次の感じ。\n\n2020年4つのAdvent Calendarに参加して　データ分析の基礎。統計と確率(15)\n\nhttps…",
-          "link": "https://qiita.com/kaizen_nagoya/items/f3cf8d2c09df77803628?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-11-27T08:19:07.000Z",
-          "wordCount": 398,
-          "title": "Qiita  Advent Calendarに個人的な執筆依頼を行ってみる。"
-        },
-        {
-          "id": "https://qiita.com/yuki_2020/items/b6082be0e609604001f3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "はじめに\n\nPythonの画像処理の定番はOpenCVかPILでしょう。\n\n今回、PNG画像をOpenCVで処理をしていた時にどうもうまく動かないことがあったので、備忘録として書いておきます。\n\nちなみ…",
-          "link": "https://qiita.com/yuki_2020/items/b6082be0e609604001f3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-11-27T02:51:59.000Z",
-          "wordCount": 225,
-          "title": "OpenCVでαチャンネルを含んだpng画像を読み込む時の注意"
-        },
-        {
-          "id": "https://qiita.com/kanetugu2018/items/b132b48be2b59eb214fb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "概要\n\n「ROS2でUnity上のTurtleBot3を動かそう！」では，WSL2/Ubuntu20.0.4環境上にROS2をインストールする手順を紹介しました．\n\nここでは，dockerコンテナ使っ…",
-          "link": "https://qiita.com/kanetugu2018/items/b132b48be2b59eb214fb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-11-27T01:25:08.000Z",
-          "wordCount": 294,
-          "title": "WSL2/docker環境でUnity上のTurtleBot3をROS2で動かすまで"
-        },
-        {
-          "id": "https://qiita.com/Shohei_Miwa/items/c7769332895fc7341dce?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "CI/CD\n\nアプリケーションの開発フェーズにおける自動化を行い、開発チーム、運用チームに生じる問題を解消するためのソリューションです。\nAWSのCodeシリーズは、この CI/CD を果たすための…",
-          "link": "https://qiita.com/Shohei_Miwa/items/c7769332895fc7341dce?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-11-27T01:04:29.000Z",
-          "wordCount": 263,
-          "title": "AWS Code シリーズ要旨"
-        },
-        {
-          "id": "https://qiita.com/mocomou_/items/1a10c2ee9e8510894c68?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "前提\n\n\nドメイン名からI Pアドレスを受け取って通信したい\nAWS S3とRoute53使用\nAリソースレコード（Aレコード）とは、ドメイン名に対するIPv4アドレスを指定するリソースレコード。同じ…",
-          "link": "https://qiita.com/mocomou_/items/1a10c2ee9e8510894c68?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-11-26T23:05:07.000Z",
-          "wordCount": 202,
-          "title": "CNAMEレコードとALIASレコードの違い"
-        },
-        {
-          "id": "https://qiita.com/e99h2121/items/93fd928a3e8d355f43e2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "話の結論は 「いいえ」と「キャンセル」の違いって？\nとなるのだが以下小話まじえて説明です。\nここに4つ実行ボタンがある。センスの欠片もない画面だが許してください。\n\n\n実行ボタン1\n\n\n\nprocedure …",
-          "link": "https://qiita.com/e99h2121/items/93fd928a3e8d355f43e2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-11-26T21:47:22.000Z",
-          "wordCount": 291,
-          "title": "Delphi: いいえ(No)とキャンセル(Cancel)は違う"
-        },
-        {
-          "id": "https://qiita.com/naokiuc/items/93b3126e583d896ec477?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "以前こちらの記事でIFTTTを使って、iPhoneの背面カメラで撮った写真が自動的にDropboxで指定したフォルダに保存される仕組みを紹介しました。\n\nhttps://qiita.com/naoki…",
-          "link": "https://qiita.com/naokiuc/items/93b3126e583d896ec477?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-11-26T20:40:52.000Z",
-          "wordCount": 211,
-          "title": "iPhoneで写真を撮ったら自動的にDropboxに保存されるようにする２　#ヘルスケア ＃医療"
-        },
-        {
-          "id": "https://qiita.com/UbiquitousD/items/5e0e3ca364c29faa58fe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "だいぶ前の話にはなるんですけど，Unity公式がリリースしているLost Cryptというサンプルプロジェクト内でいい感じのコードの書き方を発見し，それを調整したものを現在も使用しているので共有しま…",
-          "link": "https://qiita.com/UbiquitousD/items/5e0e3ca364c29faa58fe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-11-26T20:30:09.000Z",
-          "wordCount": 442,
-          "title": "地面の種類によって足音を変え，音声が再生される間隔も調整する処理"
-        },
-        {
-          "id": "https://qiita.com/mi_iroha/items/25ba51e0772c4aaf71e1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "この記事は\n\nマルチモジュールって何だろうと思い、恥を忍んでAndroidのお師匠さんに聞いてみた私が、「マルチモジュール完全に理解した」になるまでの物語である。\n\n先生、マルチモジュールって何ですか？\n…",
-          "link": "https://qiita.com/mi_iroha/items/25ba51e0772c4aaf71e1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-11-26T16:08:00.000Z",
-          "wordCount": 184,
-          "title": "【Android】マルチモジュールって何？"
-        },
-        {
-          "id": "https://qiita.com/namimon/items/073d7ccc966d0701c57f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "はじめに\n\nNMというオンラインネット麻雀をtypescriptとjavascriptだけで作ってみました\n\njavaなどのサーバーサイド言語を書かず、RDBSを設計せずネット麻雀を作成してみようと思…",
-          "link": "https://qiita.com/namimon/items/073d7ccc966d0701c57f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-11-26T15:43:15.000Z",
-          "wordCount": 235,
-          "title": "ほぼフロント技術でネット麻雀を作ってみた"
-        },
-        {
-          "id": "https://qiita.com/smiler5617/items/701bf3adaa03da34d957?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "はじめに\n\n以前にお試しでLINEのボットを作成したことがあるが、その時にプッシュ通知の方法についても調べたのでメモを残しておく。\n（プッシュ通知のサンプルコードはPythonで作成。）\n\nメモ内容\n\n…",
-          "link": "https://qiita.com/smiler5617/items/701bf3adaa03da34d957?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-11-26T15:27:27.000Z",
-          "wordCount": 299,
-          "title": "LINEのBotからプッシュ通知する方法"
-        },
-        {
-          "id": "https://qiita.com/tagucchan/items/2f4df47c7ac1aa260241?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "MacのTimeMachineバックアップ先をWindowsの共有フォルダにする\n\n作業の備忘録になります\n\n環境\n\nWindows 11 Pro + USB３ HDD(RAID) \nmacOS 11.5…",
-          "link": "https://qiita.com/tagucchan/items/2f4df47c7ac1aa260241?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-11-26T13:52:02.000Z",
-          "wordCount": 321,
-          "title": "MacのTimeMachineバックアップ先をWindowsの共有フォルダにする"
         }
       ]
     },
@@ -415,6 +640,231 @@
       "feedUrl": "https://japanese.engadget.com/rss.xml",
       "siteUrl": "http://japanese.engadget.com/",
       "articles": [
+        {
+          "id": "ab201110-03ed-464d-b874-9195dfd639a3",
+          "author": "Engadgetオトク情報局",
+          "description": "毎日物騒な事件の報道がされています。敷地内だから、鍵をかけたから、といっても安心できないので、防犯・監視カメラの導入を検討しましょう。留守番のお子さんやペットの様子を確認するのにも便利です。Amazonの「防犯・監視カメラ」売れ筋ランキングを紹介します。",
+          "link": "https://japanese.engadget.com/ranking-security-camera-005600532.html",
+          "publishedOn": "2021-11-30T00:56:00.000Z",
+          "wordCount": 268,
+          "title": "防犯・監視カメラのAmazon売れ筋ランキング。事件・事故の被害防止に。留守番の子どもやペットの見守りにも使える！"
+        },
+        {
+          "id": "4841f7b6-e537-4d75-a8d1-90bcc67010a3",
+          "author": "GREEN FUNDING with Engadget Staff",
+          "description": "しっかり・ふっくら・ちょうどいい タオルの産地、大阪泉州で生まれた極上のオーガニックタオル オーガニックコットンによる、驚きの保水力。みるみるうちにたっぷり吸水 生まれた状態から茶色綿 創業75年以上を誇る泉州タオルメーカー 成願（じょうがん）が生み出す 究極のオーガニックタオル、誕生しました。 こんな方におすすめです ■オーガニックコットンタオルをお探しの方 ■吸水速乾性の高い、使い心地のいいタオルをお探しの方 ■敏感肌で、肌に優しいタオルをお探しの方 ■大切な人へのプレゼントをお探しの方 普段使いに使い心地の良い厚さで洗濯してもふわふわの肌触りが続きます。タオルは毎日使うもの。オーガニックコットン100％で小さいお子様や敏感肌の方でも安心してご使用いただけます。 綿畑からずっとオーガニック 弊社のオーガニックタオルは「綿畑からご家庭までずっとオーガニック」というこだわりを持ち、ふわふわでなめらかな使い心地。 コットンを育てる土地は、過去3年間以上、化学薬品を使用していない、環境にもやさしい畑を準備。 豊かな水と灼熱の太陽に恵まれた希少な茶色の綿花を生む環境で、100%茶綿のオーガニ",
+          "link": "https://japanese.engadget.com/organic-towel-225051606.html",
+          "publishedOn": "2021-11-29T22:50:51.000Z",
+          "wordCount": 297,
+          "title": "肌にも地球にも優しい。自然の恵みを詰め込んだ希少な古代種『オーガニック茶色綿』100％のタオル"
+        },
+        {
+          "id": "61c9b6fb-fc6b-4dca-b8fc-4cd8d00b6f5a",
+          "author": "小口貴宏(Takahiro Koguchi)",
+          "description": "PayPay銀行は、ローソン銀行ATMでもキャッシュカード不要で入出金可能になりました。",
+          "link": "https://japanese.engadget.com/paypay-225017542.html",
+          "publishedOn": "2021-11-29T22:50:17.000Z",
+          "wordCount": 152,
+          "title": "PayPay銀行、ローソンATMでキャッシュカード不要で入出金可能に"
+        },
+        {
+          "id": "87036412-bf3a-4f89-8eb2-f1ab7bf7554f",
+          "author": "Ittousai",
+          "description": "Twitter の共同創業者 Jack Dorsey がCEOを(再び)辞任しました。後任は2018年よりCTOを務めてきた Prag Agrawal。",
+          "link": "https://japanese.engadget.com/twitter-dorsey-resign-210806114.html",
+          "publishedOn": "2021-11-29T21:08:06.000Z",
+          "wordCount": 222,
+          "title": "TwitterのCEOジャック・ドーシーが(再び)辞任。後任は現CTO"
+        },
+        {
+          "id": "c37f537a-cd03-4b8e-b236-fd95b174a188",
+          "author": "今日は何の日？",
+          "description": "NTTがADSLサービスを開始してから約1年、より高速な最大8Mbpsのサービスとして登場したのが「フレッツ・ADSL 8Mタイプ」。\n\nこのADSLサービスの受付が開始されたのが、2001年の今日です。",
+          "link": "https://japanese.engadget.com/today-203017401.html",
+          "publishedOn": "2021-11-29T20:30:17.000Z",
+          "wordCount": 175,
+          "title": "2001年11月30日、8Mbpsへと高速化した「フレッツ・ADSL 8Mタイプ」の受付が始まりました：今日は何の日？"
+        },
+        {
+          "id": "7ccc31df-2569-48b8-809c-54f25cf3435d",
+          "author": "橋本 新義(Shingi Hashimoto)",
+          "description": "家電販売大手のノジマが、Web直販専門アイテムとして.8インチの“超縦長”液晶ディスプレイの予約を開始。発売は2022年2月上旬の予定で、価格は1万4800円（税込）です……",
+          "link": "https://japanese.engadget.com/nojima-sns-subdisplay-135534469.html",
+          "publishedOn": "2021-11-29T13:55:34.000Z",
+          "wordCount": 209,
+          "title": "30日まで1.28万円。約200gの超縦長ディスプレイがノジマから"
+        },
+        {
+          "id": "b551f62d-2fc6-4f98-9c8e-6f07181ee746",
+          "author": "Engadgetオトク情報局",
+          "description": "何かとお酒を飲む機会が増える年末年始。親しい友人とホームパーティを予定している人も多いのではないでしょうか。ブラックフライデーのセールでは、ワインのセットもお買い得価格になっています。",
+          "link": "https://japanese.engadget.com/black-friday-sale-wine-105513467.html",
+          "publishedOn": "2021-11-29T10:55:13.000Z",
+          "wordCount": 210,
+          "title": "年末年始はワインの時節。Amazonブラックフライデーセールではセット買いがおトクです！"
+        },
+        {
+          "id": "c343f235-d96f-4714-865c-206c1bda604e",
+          "author": "GREEN FUNDING with Engadget Staff",
+          "description": "グリーンだと安全です。 ご購入者様1人目 賃貸で借りた家は、築30年。古い家ですが、外壁や室内がリフォームされており、生活は快適です。 先日新聞で「コンセントの経年劣化から火災発生」という記事を読み、ちょっと心配になりました。 友人が持っていたWIRECARE を借りて計測してみたら、コンセントの1 つが赤のランプに！ WIRECARE 赤ランプ画像私は慌てて、大家さんにコンセントを調べてもらうようお願いしました。 はじめは半信半疑だった大家さんも、電気会社の「修理の必要あり」との調査結果にびっくり。 WIRECAREのおかげで、古い家のコンセントの危険性を取り除くことができました。 定期的にチェックしたかったので、私も1 つ購入しました。 ご購入者様2人目 実家は、両親だけの二人暮らし。ともに70 歳台となり、お盆と正月に私たち子供家族が帰省する以外には、年に数回電話する程度でした。 先日、テレビのニュースで、「コンセントの劣化から火災になるケースがなくならない」と知りました。 実家は私が生まれる前からある、築40 年ほどの古民家。大きなリフォームもしていないので、 コンセントの劣化",
+          "link": "https://japanese.engadget.com/wire-care-105012547.html",
+          "publishedOn": "2021-11-29T10:50:12.000Z",
+          "wordCount": 317,
+          "title": "差し込むだけでコンセントや延長コードの劣化・老朽化を検知。火災を未然に防ぐ「WIRECARE」"
+        },
+        {
+          "id": "0009821b-ef1e-4ad6-b9a9-0f949add99d6",
+          "author": "Munenori Taniguchi",
+          "description": "科学者らは火星探査機InSightが送ってきた環境音データから、赤い星の内部数十mの状態を分析しました",
+          "link": "https://japanese.engadget.com/mars-ambient-noise-to-map-the-subsurface-layers-103059194.html",
+          "publishedOn": "2021-11-29T10:30:59.000Z",
+          "wordCount": 166,
+          "title": "NASA、InSight探査機まわりの「環境音」から火星の地下構造を分析"
+        },
+        {
+          "id": "79676705-6d68-4a38-b99c-9c20825e30fe",
+          "author": "塚本直樹(Naoki Tsukamoto)",
+          "description": "韓国サムスンが大画面スマートフォン「Galaxy Noteシリーズ」の生産を年内に終了（ディスコン）するとの報道が、同社お膝元の韓国にて報じられています。",
+          "link": "https://japanese.engadget.com/galaxy-note-discontinue-100052961.html",
+          "publishedOn": "2021-11-29T10:00:52.000Z",
+          "wordCount": 189,
+          "title": "Galaxy Noteシリーズが生産終了か、今後は折りたたみスマホに注力の噂"
+        },
+        {
+          "id": "704c8768-89f4-41dd-b4d4-ee05873119c3",
+          "author": "塚本直樹(Naoki Tsukamoto)",
+          "description": "米テスラのコンパクトSUV「モデルY（Model Y）」の中国向け車両の一部にて、AMD製プロセッサ「Ryzen」を搭載したものが出荷されたことが海外にて報告されています。",
+          "link": "https://japanese.engadget.com/tesla-model-y-amd-ryzen-093010284.html",
+          "publishedOn": "2021-11-29T09:30:10.000Z",
+          "wordCount": 176,
+          "title": "テスラ モデルY、AMD Ryzen搭載を一部中国モデルで確認"
+        },
+        {
+          "id": "c820d432-e6e0-419a-b8bc-1643d1929cfa",
+          "author": "Munenori Taniguchi",
+          "description": "カザフスタンでは10月、電力供給バランスが崩れて3つの発電所が緊急停止したと伝えられています",
+          "link": "https://japanese.engadget.com/crypto-mining-causes-power-shortage-in-kazakhstan-090014352.html",
+          "publishedOn": "2021-11-29T09:00:14.000Z",
+          "wordCount": 173,
+          "title": "カザフスタン、中国から暗号通貨マイナー流入で電力不足に。発電所3か所が緊急停止"
+        },
+        {
+          "id": "27673923-4fe0-434c-906a-09e68095472d",
+          "author": "Engadgetオトク情報局",
+          "description": "カップ麺やパスタ、パックご飯、レトルトカレー、シリアルなど、比較的長期の保存が可能な“買い置き食品”がお買い得価格になっています。スーパーなどで購入すると、家まで持ち帰るのにも一苦労。ネット購入なら自宅玄関まで運んでくれるのでラクチンです。",
+          "link": "https://japanese.engadget.com/black-friday-sale-foods-085031971.html",
+          "publishedOn": "2021-11-29T08:50:31.000Z",
+          "wordCount": 213,
+          "title": "カップ麺、パスタ、パックご飯、レトルトカレーなど“買い置き食品”がお買い得｜Amazonブラックフライデー"
+        },
+        {
+          "id": "dcd31f1e-e691-4339-95c8-215c21626b91",
+          "author": "Engadgetオトク情報局",
+          "description": "スマートリモコンやスマート電球、インドア/アウトドアカメラ、スマートカーテンなど、スマートホーム製品がお買い得価格になっています。Amazonのスマートディスプレイやスマートスピーカーとのセット販売も用意されています。",
+          "link": "https://japanese.engadget.com/black-friday-sale-smart-home-080557287.html",
+          "publishedOn": "2021-11-29T08:05:34.000Z",
+          "wordCount": 256,
+          "title": "家電や照明、カーテンなど家中をスマート化！ スマートホーム製品がブラックフライデーでお買い得"
+        },
+        {
+          "id": "97f1543b-2292-4e7f-8648-aaade8eb9ea6",
+          "author": "山本竜也(Tatsuya Yamamoto)",
+          "description": "オーストラリアのスコット・モリソン首相は11月28日（現地時間）、ソーシャルネットワーク企業に対し、荒らしや中傷的なコメントをしている人物の情報開示を強制する法案を計画していると記者会見で明らかにしました。",
+          "link": "https://japanese.engadget.com/australia-social-media-network-troll-law-080039303.html",
+          "publishedOn": "2021-11-29T08:00:39.000Z",
+          "wordCount": 176,
+          "title": "オーストラリア、SNSなどの匿名ユーザーの情報開示を強制する法律を計画中"
+        },
+        {
+          "id": "23fd0a34-45fa-43d4-97db-bedfadf5ed91",
+          "author": "Engadgetオトク情報局",
+          "description": "ジムでの筋トレ中はガッツンガッツンに音楽を聴くのに、ウォーキングやランニングといった有酸素運動になると私はイヤフォンを外すことが多いです。",
+          "link": "https://japanese.engadget.com/aeropex-093038338-074014855.html",
+          "publishedOn": "2021-11-29T07:40:14.000Z",
+          "wordCount": 199,
+          "title": "骨伝導イヤホン「AEROPEX」レビュー、良すぎて外すタイミングが無いｗ｜Amazonブラックフライデー対象"
+        },
+        {
+          "id": "e7bc5350-5f35-4b29-bbec-1b8f82713a63",
+          "author": "Ittousai",
+          "description": "アマゾンがプライム会員特典 Amazon Prime Gaming の12月ラインナップと配布スケジュールを発表しました。",
+          "link": "https://japanese.engadget.com/prime-gaming-december-free-contents-073002951.html",
+          "publishedOn": "2021-11-29T07:30:02.000Z",
+          "wordCount": 450,
+          "title": "アマゾンPrime特典で『Apex』『原神』『BF2042』のアイテムやゲーム9本を無料配布。12月の配信予定公開"
+        },
+        {
+          "id": "ec0e3851-4ded-4196-ac67-05c86a22cf76",
+          "author": "Engadgetオトク情報局",
+          "description": "一度使ってその快適さを知ってしまうと、もう元には戻れなくなる完全ワイヤレスイヤホン。ゼンハイザーやJabra、BOSE、JBLなどの製品がお買い得価格になっています。",
+          "link": "https://japanese.engadget.com/black-firaday-sale-tws-070547470.html",
+          "publishedOn": "2021-11-29T07:05:47.000Z",
+          "wordCount": 219,
+          "title": "自分へのご褒美？ それともプレゼント？ ブラックフライデーセールで完全ワイヤレスイヤホンをおトクに購入！"
+        },
+        {
+          "id": "731d4828-adfa-4005-a7cd-52712e8d4114",
+          "author": "塚本直樹(Naoki Tsukamoto)",
+          "description": "Spotifyのアプリに搭載されていた自動車向けの操作モード「カービュー（Car View）」が削除されていることをユーザーが発見し、米Spotifyも同機能の廃止を認めました。",
+          "link": "https://japanese.engadget.com/spotify-car-view-070006918.html",
+          "publishedOn": "2021-11-29T07:00:06.000Z",
+          "wordCount": 166,
+          "title": "Spotifyのカービューモード廃止、運転を邪魔しないシンプル表示に"
+        },
+        {
+          "id": "2c553ff4-f488-470f-b33a-a8afab1f936a",
+          "author": "Kiyoshi Tane",
+          "description": "ソニー・インタラクティブエンタテインメントが、スマートフォンでゲームを遊ぶためのコントローラーと思しき特許を取得したことが明らかとなりました。",
+          "link": "https://japanese.engadget.com/sony-playstation-mobile-controller-063041942.html",
+          "publishedOn": "2021-11-29T06:30:41.000Z",
+          "wordCount": 189,
+          "title": "ソニー、スマホを挟み込むゲームコントローラーの特許を取得。モバイル向けPSゲームの布石か"
+        },
+        {
+          "id": "c18f0526-7e4a-4a74-ab9c-6fa72f6bf41a",
+          "author": "Kiyoshi Tane",
+          "description": "アップルが開発中のARヘッドセットは2022年内に発表されるとの予想が盛り上がっていますが、発表から発売までかなりの時間がかかるとの噂が伝えられています。",
+          "link": "https://japanese.engadget.com/apple-headset-announced-2022-but-take-longer-060042612.html",
+          "publishedOn": "2021-11-29T06:00:42.000Z",
+          "wordCount": 181,
+          "title": "アップルARヘッドセット、2022年発表だが発売は年末～2023年のウワサ"
+        },
+        {
+          "id": "ebb7b5e1-2cce-496b-ab03-5551e18d4937",
+          "author": "小口貴宏(Takahiro Koguchi)",
+          "description": "KDDIは、auの3Gサービス「CDMA 1X WIN」を3月31日に終了すると告知しています。",
+          "link": "https://japanese.engadget.com/cdma-051033449.html",
+          "publishedOn": "2021-11-29T05:10:33.000Z",
+          "wordCount": 168,
+          "title": "au、3Gサービス「CDMA 1X WIN」を3月31日に終了　非VoLTEスマホなど利用不可に"
+        },
+        {
+          "id": "870c43b7-c25b-402f-8090-ac2d62410e4d",
+          "author": "Kiyoshi Tane",
+          "description": "アップルは複数デバイスを同時充電できるAirPowerの開発に失敗しましたが、まだ諦めずに取り組んでいるとの噂が報じられています。",
+          "link": "https://japanese.engadget.com/apple-working-multi-device-charger-050037213.html",
+          "publishedOn": "2021-11-29T05:00:37.000Z",
+          "wordCount": 175,
+          "title": "AirPowerを諦めない、アップルが複数デバイス同時充電器を開発中の噂"
+        },
+        {
+          "id": "2e0f4449-d89e-4acd-a654-391621779004",
+          "author": "山本竜也(Tatsuya Yamamoto)",
+          "description": "HTCが11月18日、新型VRヘッドセット「VIVE Flow」を発売しました。",
+          "link": "https://japanese.engadget.com/vive-flow-review-041113589.html",
+          "publishedOn": "2021-11-29T04:11:13.000Z",
+          "wordCount": 219,
+          "title": "VIVE Flow 実機レビュー。メガネのような気軽さを実感できたVRヘッドセット"
+        },
+        {
+          "id": "6179e426-c78a-42a6-8fec-dc23545ac88b",
+          "author": "Kiyoshi Tane",
+          "description": "かつてアップルがサムスンから引き抜いた次世代バッテリー開発の第一人者が、今度は大手自動車メーカーのフォルクスワーゲン・グループに引き抜かれました。",
+          "link": "https://japanese.engadget.com/apple-loses-global-ahead-battery-vw-040029512.html",
+          "publishedOn": "2021-11-29T04:00:29.000Z",
+          "wordCount": 163,
+          "title": "アップルがサムスンから引き抜いたバッテリー開発の第一人者、今度はVWに引き抜かれる"
+        },
         {
           "id": "f98d599e-87b8-4a7e-a0f8-5adff6d93e8b",
           "author": "Engadgetオトク情報局",
@@ -621,168 +1071,6 @@
           "publishedOn": "2021-11-27T20:30:19.000Z",
           "wordCount": 197,
           "title": "2014年11月28日、ウォッチバンドヒンジを採用した「YOGA 3 Pro」が発売されました：今日は何の日？"
-        },
-        {
-          "id": "6f69c31f-43ee-4989-8ceb-b578d498d40d",
-          "author": "Engadgetオトク情報局",
-          "description": "5月26日、第11世代目となる新Fire HD 10とFire 10 Plusが発売されました。さらにFire HD 10とキーボード付きカバー、Microsoft 365 Personal 1年版がセットになった「Fire HD 10 エッセンシャルセット」も発売になったところです。",
-          "link": "https://japanese.engadget.com/fire-hd-10-013037684-093047647.html",
-          "publishedOn": "2021-11-27T09:30:47.000Z",
-          "wordCount": 334,
-          "title": "41%OFFで販売中、Fire HD 10＋専用キーボードの使い勝手は如何に?"
-        },
-        {
-          "id": "7a55a073-bbae-4196-ae0d-d1cc50e3c88e",
-          "author": "つくね伯爵",
-          "description": "Amazonにて「ブラックフライデー」の大規模セールが12月2日（木）23時59分まで開催中。",
-          "link": "https://japanese.engadget.com/amazon-083041087.html",
-          "publishedOn": "2021-11-27T08:30:41.000Z",
-          "wordCount": 223,
-          "title": "Amazonのブラフラでハリー・ポッターBlu-ray全8作セットが55%OFF"
-        },
-        {
-          "id": "b66ace5f-bb3b-4573-98f1-effc948fb7c2",
-          "author": "Engadgetオトク情報局",
-          "description": "「ブラックフライデー」では、東プレの「REALFORCE R3」が5%オフ（1750円〜1730円）になるセール価格となっています。",
-          "link": "https://japanese.engadget.com/realforce-r-3-wireless-review-150119148-083018979.html",
-          "publishedOn": "2021-11-27T08:30:18.000Z",
-          "wordCount": 326,
-          "title": "Amazonブラックフライデー対象「無線リアフォ」REALFORCE R3レビュー"
-        },
-        {
-          "id": "7369265a-e412-4c96-9185-e945e6072233",
-          "author": "Engadgetオトク情報局",
-          "description": "内蔵/外付けのSSDやHDD、microSDカードなどのストレージ製品がお買い得価格になっています。ビジネス用途はもちろん、スマホやゲーム機、テレビ用など、使い道の多い製品ジャンル。このチャンスに購入しておいては？",
-          "link": "https://japanese.engadget.com/black-friday-sale-storage-081448529.html",
-          "publishedOn": "2021-11-27T08:14:48.000Z",
-          "wordCount": 280,
-          "title": "SSD、HDD、microSDカードなどストレージ製品がお買い得！｜Amazonブラックフライデー"
-        },
-        {
-          "id": "82d16e9b-180f-47d5-9402-d888e4c39cda",
-          "author": "Engadgetオトク情報局",
-          "description": "Amazonプライムデーは6月22日23:59まで実施中です。本記事ではおすすめのセール対象製品をご紹介しています。商品によっては数量制限や時間制限がありますので、売りきれにご注意ください。",
-          "link": "https://japanese.engadget.com/jp-2019-08-13-kindle-oasis-063035837-160123224-063038365.html",
-          "publishedOn": "2021-11-27T06:30:38.000Z",
-          "wordCount": 208,
-          "title": "ブラフラで6999円OFFのKindle Oasisをレビュー、「唯一の欠点」さえ気にならなければ神機"
-        },
-        {
-          "id": "2ad8b9df-48ca-4863-a7d5-553fda6387ff",
-          "author": "Engadgetオトク情報局",
-          "description": "Amazonブラックフライデーセールで、ゲーミングディスプレーがお買い得価格になっています。",
-          "link": "https://japanese.engadget.com/black-friday-sale-gaming-display-055101018.html",
-          "publishedOn": "2021-11-27T05:51:01.000Z",
-          "wordCount": 269,
-          "title": "1万円台から購入可能！ ゲーミングディスプレーがブラックフライデーセールでお買い得"
-        },
-        {
-          "id": "852a3529-c003-46d9-b122-a667c96a87a3",
-          "author": "飯田 有抄（Arisa Iida）",
-          "description": "GRのカッコよさは何にも替えがたいものがあります。",
-          "link": "https://japanese.engadget.com/gr-iii-053059871.html",
-          "publishedOn": "2021-11-27T05:30:59.000Z",
-          "wordCount": 232,
-          "title": "GRユーザーが「GR III」を3か月間気ままに使って思ったコト"
-        },
-        {
-          "id": "66c406e4-6200-4fc1-a534-009d9c0f6b72",
-          "author": "GREEN FUNDING with Engadget Staff",
-          "description": "「GRAPHT GAMING LIFE」ブランドから全世界で人気のFPSゲーム「レインボーシックス シージ」のコラボレーション腕時計が登場です。 「普段のコーディネートで使用でき、ゲームエッセンスを感じるデザイン」をコンセプトに制作された本製品は、カジュアル、アウトドア、ビジネス、様々なシーンでご使用いただけます。 2デザイン、2カラーの合計4ラインアップをご用意しました。 Type1は大振りでコーディネートのアクセントとして活躍する本格的なミリタリーモデル、Type2はゲームの世界観を主張し過ぎない丸みを帯びたカジュアルなタウンユースモデルです。 カラーはゲームのキーカラーであるブルーと、ミリタリーを感じさせるブラックの二色です。 大きく無骨なミリタリーテイストのマットスタイル 文字盤はオリジナルのカモフラージュ柄『オペレーターカモ』に、オペレーターの戦闘シルエットを凸形状にレリーフしました。 『オペレーターカモ』は6SIEGEの世界観である、「気付かれないように敵を制圧する」オペレーターの姿をイメージし、『戦闘シルエットをカモフラージュ柄に溶け込ませた』本コラボレーションシリーズの",
-          "link": "https://japanese.engadget.com/rainbow-six-siege-watch-052037919.html",
-          "publishedOn": "2021-11-27T05:20:37.000Z",
-          "wordCount": 323,
-          "title": "「レインボーシックス シージ」の世界観をミリタリーテイストの腕時計に。「6SIEGE Wrist Watch」"
-        },
-        {
-          "id": "4ad0a6ef-bd11-46ae-b44c-5402dc42adc9",
-          "author": "Engadgetオトク情報局",
-          "description": "最新規格Wi-Fi 6対応の無線LANルーターがお買い得価格になっています。在宅ワークの快適化などに必須のアイテムです。この機会をお見逃しなく！",
-          "link": "https://japanese.engadget.com/black-friday-sale-wifi-router-042741000.html",
-          "publishedOn": "2021-11-27T04:27:41.000Z",
-          "wordCount": 303,
-          "title": "今買うならWi-Fi 6対応で決まり！ 無線LANルーターがセール中｜Amazonブラックフライデー"
-        },
-        {
-          "id": "c0a6e7f1-5549-4289-8f23-c4e71046be87",
-          "author": "つくね伯爵",
-          "description": "Amazonにて「ブラックフライデー」の大規模セールが12月2日（木）23時59分まで開催中。",
-          "link": "https://japanese.engadget.com/realforce-r-3-035510105.html",
-          "publishedOn": "2021-11-27T03:55:10.000Z",
-          "wordCount": 207,
-          "title": "11月に発売したばかりの無線リアフォ「REALFORCE R3」がAmazonブラックフライデー対象に"
-        },
-        {
-          "id": "42306ae0-15ec-40a3-b7ca-3886e1507341",
-          "author": "Kiyoshi Tane",
-          "description": "有名アナリストMing-Chi Kuo氏が、アップルが開発中のARヘッドセットは2022年内に発売され「Macと同等のプロセッサを搭載し、iPhoneに依存せず独立して動作する」との予想を述べています。",
-          "link": "https://japanese.engadget.com/apple-arheadset-2022-mac-level-without-iphone-032000569.html",
-          "publishedOn": "2021-11-27T03:20:00.000Z",
-          "wordCount": 196,
-          "title": "アップルARヘッドセットは2022年末発売、Mac並みプロセッサ搭載でiPhoneなしで動作するウワサ"
-        },
-        {
-          "id": "635fff7e-21d1-47e2-8860-08299e31accb",
-          "author": "Engadgetオトク情報局",
-          "description": "LGの有機ELテレビがセール価格に。65型でも20万円切り、48型では10万円という驚きの価格になっています。",
-          "link": "https://japanese.engadget.com/black-friday-sale-oled-tv-030322184.html",
-          "publishedOn": "2021-11-27T03:03:22.000Z",
-          "wordCount": 246,
-          "title": "48型は10万円、65型でも20万円切り！ AmazonブラックフライデーでLGの有機ELテレビが安い！"
-        },
-        {
-          "id": "43f5a777-1775-48f4-ba85-b432cb0cb319",
-          "author": "Engadgetオトク情報局",
-          "description": "AmazonのEchoシリーズの製品がお買い得価格になっています。スマートディスプレイ「Echo Show 5 第2世代」は56％オフの3990円、スマートスピーカー「Echo Dot 第4世代」が50％オフの2980円など、大幅な割引が魅力です。",
-          "link": "https://japanese.engadget.com/black-friday-sale-echo-022008252.html",
-          "publishedOn": "2021-11-27T02:20:08.000Z",
-          "wordCount": 247,
-          "title": "Echo Show 5 第2世代が56％オフ、Echo Dot 第4世代は50％オフ！｜Amazonブラックフライデー"
-        },
-        {
-          "id": "9cbfbc4a-42c7-4aff-a4cb-447fffcaa4dd",
-          "author": "GREEN FUNDING with Engadget Staff",
-          "description": "【ENLOONG】トゥールビヨン腕時計プロジェクト、総代理店としてモデルNo.2102をご紹介させていただきます。 今回のモデルは当社で構成〜完成検査まで日本で実施いたします。 日本クオリティー、渾身のオリジナルデザイン、GREENFUNDING限定のオリジナルカスタマイズも可能な限定予約販売です。 シリーズ初ダブルパワーリザーブ搭載で最大巻上げ時７２時間耐久を実現！ 他社では無い５年間の無料製品保証付で安心してご使用いただけるよう当社が責任を持ち対応させていただきます。 数ある腕時計でも圧倒的技術力が必要で機械式腕時計の最上位のトゥールビヨン機構ですが日本ではまだまだ馴染みが薄いトゥールビヨン腕時計です。 トゥールビヨンについて。正確な時刻をゴング音で知らせる｢ミニッツリピーター｣や、表示日のズレを自動で調整する｢パーペチュアルカレンダー（永久カレンダー）｣と並んで、機械式時計における複雑機構の最上位とされています。 【ENLOONG】の特徴はなんと言っても数少ない職人しか制作出来ないとされてる世界三大複雑機構のトゥールビヨンです。 トゥールビヨンとは、1800年代に天才的時計師、ア",
-          "link": "https://japanese.engadget.com/enloong-tourbillon-011034365.html",
-          "publishedOn": "2021-11-27T01:10:34.000Z",
-          "wordCount": 355,
-          "title": "日本クオリティーに拘りを持ち製作。世界三大複雑機構のトゥールビヨン腕時計「ENLOONG」"
-        },
-        {
-          "id": "7241ab73-5683-47db-b9ae-54402df5d7ac",
-          "author": "嘉陽桃(TEKIKAKU)",
-          "description": "Safariで複数のキーワードを別々のタブで検索したいけど、自分でタブをいくつも開くのはちょっと面倒。そんなときは、ショートカット「Googleでリストを検索」を使いましょう。検索したいキーワードのリストを記入すれば、それぞれ別のタブで同時に開くことができます。",
-          "link": "https://japanese.engadget.com/shortcut-google-221059456.html",
-          "publishedOn": "2021-11-26T22:10:59.000Z",
-          "wordCount": 186,
-          "title": "瞬時に複数タブを開いてキーワード検索！ショートカット「Googleでリストを検索」が便利：iPhone Tips"
-        },
-        {
-          "id": "81223743-9696-436c-87f3-347055ccf2c4",
-          "author": "龍田優貴（Yuuki Tatsuta）",
-          "description": "星の数ほどあるスマホゲームの中から、話題になっているもの、気になったもの、何か面白そう、そんなタイトルをひたすらご紹介していきます！今回ご紹介するのは『止まるなコロッコ』です。",
-          "link": "https://japanese.engadget.com/tomaruna-korokko-211056912.html",
-          "publishedOn": "2021-11-26T21:10:56.000Z",
-          "wordCount": 200,
-          "title": "ナゾの生物をゴールへ導く脱出系パズル『止まるなコロッコ』：発掘！スマホゲーム"
-        },
-        {
-          "id": "2e0f86eb-ee85-4e42-8d11-420de2a39fef",
-          "author": "Munenori Taniguchi",
-          "description": "仏ルノーが、米マイアミのデザイン会社The Arsenaleとの協力により、往年のハッチバックカー ”ルノー4” をフライングカーに仕立て上げた ”AIR4” を発表しました",
-          "link": "https://japanese.engadget.com/renault-4-real-flying-car-205053737.html",
-          "publishedOn": "2021-11-26T20:50:53.000Z",
-          "wordCount": 187,
-          "title": "これが本当の空飛ぶクルマ「ルノーAIR4」発表。「ルノー4」発売60周年記念"
-        },
-        {
-          "id": "5832fbdb-5ad1-4c57-9952-61e5f14fbcaa",
-          "author": "今日は何の日？",
-          "description": "セガサターンの次世代モデルとして開発され、セガ最後の家庭用ゲーム機となったのが「ドリームキャスト」。\n\nこのゲーム機が発売されたのが、1998年の今日です。",
-          "link": "https://japanese.engadget.com/today-203001593.html",
-          "publishedOn": "2021-11-26T20:30:01.000Z",
-          "wordCount": 186,
-          "title": "1998年11月27日、セガ最後の家庭用ゲーム機「ドリームキャスト」が発売されました：今日は何の日？"
         }
       ]
     },
@@ -791,6 +1079,186 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/topstory.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/fortop/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/business/articles/2111/30/news059.html",
+          "author": null,
+          "description": "渋谷区には、50個の公共和式トイレあったのをご存じだろうか？　最近、そのうちの11個が消えたという。何に生まれ変わったのかというと……",
+          "link": "https://www.itmedia.co.jp/business/articles/2111/30/news059.html",
+          "publishedOn": "2021-11-29T23:30:00.000Z",
+          "wordCount": 133,
+          "title": "渋谷区から消えた11カ所の「公共和式トイレ」　何に生まれ変わったのか？"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2111/30/news034.html",
+          "author": null,
+          "description": "スコットランドのグラスゴー大学と、フィンランドのアールト大学の研究チームは、犬から人のスマートフォンへビデオ通話をかけられるボール型IoTデバイス「DogPhone」を開発。くわえて動かすことで、飼い主に電話をかけられる。",
+          "link": "https://www.itmedia.co.jp/news/articles/2111/30/news034.html",
+          "publishedOn": "2021-11-29T23:00:00.000Z",
+          "wordCount": 205,
+          "title": "犬から人へ電話をかけられる「DogPhone」　愛犬は飼い主にどのくらい着信を入れるか検証"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2111/30/news044.html",
+          "author": null,
+          "description": "ニュージーランドのThe University of Aucklandと、ドイツのTechnical University of Applied Sciences L&#252;beckの研究チームは、足の裏をくすぐり、笑いを誘発するインソールを開発。遠隔地にいる恋人とくすぐり合いができる。",
+          "link": "https://www.itmedia.co.jp/news/articles/2111/30/news044.html",
+          "publishedOn": "2021-11-29T23:00:00.000Z",
+          "wordCount": 227,
+          "title": "遠距離でも恋人の足裏をこちょこちょ　独研究チームら、小型ブラシ内蔵インソールを開発"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2111/30/news056.html",
+          "author": null,
+          "description": "クラウド環境の設定ミスやセキュリティ対策の甘さを突いて攻撃を仕掛けられ、情報流出などの被害が発生する事件が後を絶たない。セキュリティ企業の実験で、そうした弱点が瞬く間に見つけられ、悪用される実態が浮き彫りになった。",
+          "link": "https://www.itmedia.co.jp/news/articles/2111/30/news056.html",
+          "publishedOn": "2021-11-29T23:00:00.000Z",
+          "wordCount": 147,
+          "title": "攻撃を招くクラウド環境の設定ミス、わずか数分で悪用も　米セキュリティ企業がおとり調査"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2111/30/news072.html",
+          "author": null,
+          "description": "Twitterの共同創業者、ジャック・ドーシー氏がCEOを辞任した。後任はCTO（最高技術責任者）のパラグ・アグラワル氏。ドーシー氏は会長にはならず、取締役からも来年退く。",
+          "link": "https://www.itmedia.co.jp/news/articles/2111/30/news072.html",
+          "publishedOn": "2021-11-29T22:07:00.000Z",
+          "wordCount": 153,
+          "title": "ジャック・ドーシー氏がTwitterのCEOを辞任　後任はアグラワルCTO"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/pcuser/articles/2111/30/news064.html",
+          "author": null,
+          "description": "2017年12月に発表された「Windows on Snapdragon」デバイス以降、MicrosoftとQualcommのつかず離れずの関係に変化の兆しが見られる。",
+          "link": "https://www.itmedia.co.jp/pcuser/articles/2111/30/news064.html",
+          "publishedOn": "2021-11-29T21:00:00.000Z",
+          "wordCount": 547,
+          "title": "「MicrosoftとQualcommの独占契約が間もなく終了」報道を考える"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2111/30/news071.html",
+          "author": null,
+          "description": "NTTドコモの「エコノミーMVNO」が始動し、10月からはNTTコミュニケーションズのOCN モバイル ONEが、ドコモショップでの契約に対応。12月にはフリービットグループのトーンモバイルも、「トーンモバイル for docomo」の提供を開始する。そんなエコノミーMVNOの狙いをドコモに聞いた。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2111/30/news071.html",
+          "publishedOn": "2021-11-29T21:00:00.000Z",
+          "wordCount": 476,
+          "title": "NTTドコモに聞く「エコノミーMVNO」の勝算　収益性や参画のハードルはどう見る？"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/business/articles/2111/30/news028.html",
+          "author": null,
+          "description": "ドイツに本社のある世界的なテクノロジー企業であり、自動車部品サプライヤー大手のロバート・ボッシュの日本法人ボッシュ株式会社のクラウス・メーダー社長にインタビューした。",
+          "link": "https://www.itmedia.co.jp/business/articles/2111/30/news028.html",
+          "publishedOn": "2021-11-29T20:00:00.000Z",
+          "wordCount": 183,
+          "title": "ボッシュのクラウス・メーダー社長を直撃　ソフトウェアエンジニアを増やし「AIoT先進プロバイダー」へ"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/business/articles/2111/30/news029.html",
+          "author": null,
+          "description": "人材確保のためには女性特有の疾患を理解した「健康経営」を進めることが重要だと語るのは川島労働衛生コンサルタント事務所代表、産業医の川島恵美氏だ。月経による労働損失は4911億円とも試算される中、経営者が女性の離職を減らすための要諦とは？",
+          "link": "https://www.itmedia.co.jp/business/articles/2111/30/news029.html",
+          "publishedOn": "2021-11-29T20:00:00.000Z",
+          "wordCount": 174,
+          "title": "月経による労働損失は4911億円　経営者が実践すべき「女性の離職を減らすための健康経営」とは？"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2111/29/news186.html",
+          "author": null,
+          "description": "リンガーハットが、災害やパンデミックといった非常事態にも対応できる需要予測AIを開発すると発表した。問題が起きた場合に即座に緊急用の設定に移行することで、柔軟な対応を実現する。",
+          "link": "https://www.itmedia.co.jp/news/articles/2111/29/news186.html",
+          "publishedOn": "2021-11-29T11:50:00.000Z",
+          "wordCount": 150,
+          "title": "リンガーハット、“強じんな需要予測AI”開発へ　「災害などあらゆる非常事態に対応できる」"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2111/29/news185.html",
+          "author": null,
+          "description": "NTTドコモが、同社製法人向けSaaSをまとめたオンラインストアを12月1日にオープンする。コロナ禍でDXのニーズが高まる一方、どんなサービスを活用したらいいか分からない中小企業の利用を見込む。",
+          "link": "https://www.itmedia.co.jp/news/articles/2111/29/news185.html",
+          "publishedOn": "2021-11-29T11:08:00.000Z",
+          "wordCount": 147,
+          "title": "ドコモが自社製B2B SaaSまとめたオンラインストア　中小向けに「はじめてのDX導入をサポート」"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2111/29/news183.html",
+          "author": null,
+          "description": "フリマサービス「メルカリ」上で競走馬「コントレイル」の勝馬投票券（馬券）の出品が相次いでいる。当たり馬券をネット上で転売する行為は、違法であり、注意が必要だ。",
+          "link": "https://www.itmedia.co.jp/news/articles/2111/29/news183.html",
+          "publishedOn": "2021-11-29T10:17:00.000Z",
+          "wordCount": 141,
+          "title": "メルカリで競走馬「コントレイル」の馬券出品が相次ぐ　“当たり”馬券の出品は違法なので注意"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/business/articles/2111/29/news166.html",
+          "author": null,
+          "description": "ファミリーマートは「SPAMむすび」の累計販売個数が、8月の発売から約4カ月で累計販売1000万個を突破したと発表した。",
+          "link": "https://www.itmedia.co.jp/business/articles/2111/29/news166.html",
+          "publishedOn": "2021-11-29T09:16:00.000Z",
+          "wordCount": 160,
+          "title": "ファミマの「SPAMむすび」、販売累計1000万個を突破　期間限定でツナマヨ増量"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/business/articles/2111/29/news155.html",
+          "author": null,
+          "description": "ジェットスター・ジャパンは、「ジェットスター★リベンジトラベラーズ福袋」2種類を販売する。",
+          "link": "https://www.itmedia.co.jp/business/articles/2111/29/news155.html",
+          "publishedOn": "2021-11-29T08:33:00.000Z",
+          "wordCount": 150,
+          "title": "ジェットスターが「片道2022円からの福袋」を販売　100万円で「バレンタイン貸切チャーター」も"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/business/articles/2111/29/news062.html",
+          "author": null,
+          "description": "JR東海は、駅構内や新幹線車内でもビジネスパーソンにとって働きやすい環境作りを進めている。ビジネスパーソン向け「S Work車両」を導入するなど積極的に取り組む狙いを、担当者に直撃した。",
+          "link": "https://www.itmedia.co.jp/business/articles/2111/29/news062.html",
+          "publishedOn": "2021-11-29T08:24:00.000Z",
+          "wordCount": 171,
+          "title": "JR東海がビジネスパーソン向け「S Work車両」を導入　担当者が明かす狙いとは？"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/pcuser/articles/2111/29/news156.html",
+          "author": null,
+          "description": "第12世代Core iシリーズ向けマザーボードにおいて、最上位クラスに属するモデルが続々とデビューした。一方で1万円を切る個性派ケースや戦略的な価格のメカニカルキーボードも登場し、売り場を盛り上げている。",
+          "link": "https://www.itmedia.co.jp/pcuser/articles/2111/29/news156.html",
+          "publishedOn": "2021-11-29T08:17:00.000Z",
+          "wordCount": 490,
+          "title": "DDR5枯渇でも即売れの「ROG MAXIMUS Z690 EXTREME」がデビュー！"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2111/29/news150.html",
+          "author": null,
+          "description": "Zwiftはサイクリングだけではない。トレッドミルを使って仮想世界を走ることだってできるのだ。実際に試してみた。",
+          "link": "https://www.itmedia.co.jp/news/articles/2111/29/news150.html",
+          "publishedOn": "2021-11-29T08:00:00.000Z",
+          "wordCount": 146,
+          "title": "メタバースを走るもう1つの方法　Zwiftは自転車がなくても自分の脚で走れる"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2111/29/news147.html",
+          "author": null,
+          "description": "日立グループの日立物流西日本の物流センターで11月29日午前8時50分ごろ、火災が発生した。午後2時30分の時点でも鎮火に向けた消火活動が続いている。",
+          "link": "https://www.itmedia.co.jp/news/articles/2111/29/news147.html",
+          "publishedOn": "2021-11-29T06:40:00.000Z",
+          "wordCount": 131,
+          "title": "日立の物流センターで火災　5時間以上延焼中"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2111/29/news137.html",
+          "author": null,
+          "description": "キリンビールはNTTデータと共同で、ビール醸造の仕込と発酵の工程を効率化するAIの試験導入を始めた。技術の属人化を防ぐとともに、年間4000時間以上の削減を目指す。",
+          "link": "https://www.itmedia.co.jp/news/articles/2111/29/news137.html",
+          "publishedOn": "2021-11-29T06:15:00.000Z",
+          "wordCount": 140,
+          "title": "ビール醸造の全行程にAI導入　キリン、脱属人化と4000時間の削減に3億3000万円投資"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2111/29/news135.html",
+          "author": null,
+          "description": "横浜の「動く実物大ガンダム」をテーマにした小中学生向け「探求学習プログラム」が、経済産業省の2022年度「STEAMライブラリー」に採択された。",
+          "link": "https://www.itmedia.co.jp/news/articles/2111/29/news135.html",
+          "publishedOn": "2021-11-29T06:09:00.000Z",
+          "wordCount": 155,
+          "title": "動く実物大ガンダム、経産省が選ぶSTEAM教材に"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2111/29/news074.html",
           "author": null,
@@ -907,78 +1375,6 @@
           "publishedOn": "2021-11-27T21:00:00.000Z",
           "wordCount": 484,
           "title": "スマホの「アップデート」はなぜ必要？　アップデートしたくない理由は？"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/pcuser/articles/2111/27/news045.html",
-          "author": null,
-          "description": "11月27日、サードウェーブの新店舗「ドスパラ水戸赤塚店」（茨城県水戸市）がオープンした。非常に開放的な店内が印象的だ。",
-          "link": "https://www.itmedia.co.jp/pcuser/articles/2111/27/news045.html",
-          "publishedOn": "2021-11-27T04:00:00.000Z",
-          "wordCount": 420,
-          "title": "ドスパラの出店ラッシュが続く！　今度は水戸赤塚店がオープン！"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/business/articles/2111/26/news178.html",
-          "author": null,
-          "description": "参加企業数は前年から126社増、863社と過去最多となった。",
-          "link": "https://www.itmedia.co.jp/business/articles/2111/26/news178.html",
-          "publishedOn": "2021-11-27T01:51:00.000Z",
-          "wordCount": 209,
-          "title": "報酬に関する市場調査　日系企業の部長年収は1362万円、課長は？"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/business/articles/2111/27/news026.html",
-          "author": null,
-          "description": "イベントは12月4日～12月19日、計16日間開催される予定。",
-          "link": "https://www.itmedia.co.jp/business/articles/2111/27/news026.html",
-          "publishedOn": "2021-11-27T01:33:00.000Z",
-          "wordCount": 156,
-          "title": "メタバース上で開催　ローソン、SMBC日興証券、テレビ朝日が出展するVRイベント「バーチャルマーケット2021」とは？"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2111/26/news013.html",
-          "author": null,
-          "description": "「Yahoo！路線情報」から情報を取り出して、状況をOLEDディスプレイで分かるようにしてみます。",
-          "link": "https://www.itmedia.co.jp/news/articles/2111/26/news013.html",
-          "publishedOn": "2021-11-27T01:20:00.000Z",
-          "wordCount": 566,
-          "title": "電車の運行情報をOLEDディスプレイでチェックする"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/business/articles/2111/27/news022.html",
-          "author": null,
-          "description": "都市部のオフィスにキッチンカーが戻ってきた。カレーやハンバーなどを購入するためにビジネスパーソンが並んでいるわけだが、気になる店を見つけた。自転車の修理・点検である。移動営業をしてもうかっているのかどうか、気になったので担当者に話を聞いたところ……。",
-          "link": "https://www.itmedia.co.jp/business/articles/2111/27/news022.html",
-          "publishedOn": "2021-11-26T23:00:00.000Z",
-          "wordCount": 127,
-          "title": "マンションに自転車店が駆けつけて、1日26万円も売れている理由"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2111/27/news027.html",
-          "author": null,
-          "description": "多くの企業が「メタバース」を喧伝する中、Googleの親会社はロボット事業をXから独立させました。AIを駆使し、タチコマのように並列化することで、汎用ロボット開発の可能性が開けたそうです。",
-          "link": "https://www.itmedia.co.jp/news/articles/2111/27/news027.html",
-          "publishedOn": "2021-11-26T23:00:00.000Z",
-          "wordCount": 146,
-          "title": "タチコマのように並列化し進化する、 Google親会社の日常家事ロボット"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/mobile/articles/2111/27/news033.html",
-          "author": null,
-          "description": "総務省で、いわゆる電波オークションの導入を検討する有識者会議が開催されている。コスト増につながる懸念もあり、キャリア各社は導入に慎重な姿勢を示していたが、ドコモは「検討する価値がある」と方針を変えた。一方、楽天モバイルの三木谷CEOは「大反対」との考えを示した。",
-          "link": "https://www.itmedia.co.jp/mobile/articles/2111/27/news033.html",
-          "publishedOn": "2021-11-26T21:00:00.000Z",
-          "wordCount": 438,
-          "title": "ドコモが「電波オークション」賛成に転じた理由　楽天モバイルをけん制する意図も？"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/pcuser/articles/2111/27/news034.html",
-          "author": null,
-          "description": "DDR5メモリの枯渇が続く中で、ASUS JAPANのマザーボートとのセット限定で提供されるモデルが用意されるなど、新たな販売形態が見られるようになった。",
-          "link": "https://www.itmedia.co.jp/pcuser/articles/2111/27/news034.html",
-          "publishedOn": "2021-11-26T21:00:00.000Z",
-          "wordCount": 422,
-          "title": "ASUS製マザーとのセット限定品も――DDR5メモリの枯渇が続く"
         }
       ]
     },
@@ -987,6 +1383,258 @@
       "feedUrl": "https://www.lifehacker.jp/feed/index.xml",
       "siteUrl": "https://www.lifehacker.jp",
       "articles": [
+        {
+          "id": "https://www.lifehacker.jp/2021/11/246598amazon-blackfriday-sale-cereal-granola.html",
+          "author": "ライフハッカー編集部",
+          "description": "Amazonが送る7日間のBig Saleブラックフライデーでは、家に常備しておきたい定番のコーンフレーク、玄米フレーク、グラノラだけじゃない変わり種シリアルもお得になっています。",
+          "link": "https://www.lifehacker.jp/2021/11/246598amazon-blackfriday-sale-cereal-granola.html",
+          "publishedOn": "2021-11-30T01:00:00.000Z",
+          "wordCount": 255,
+          "title": "忙しい朝にも、非常時にも。シリアル・健康食品はまとめ買いでお得にストック【Amazonブラックフライデー】",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/11/29/新規プロジェクト(43).jpg"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/2021/11/246322warren-buffett-says-what-separates-successful-people-from-everyone-else-really-comes-down-to-a-2-letter-word.html",
+          "author": "Inc.,OCiETe",
+          "description": "バークシャー・ハサウェイの会長兼CEOであるウォーレン・バフェットは言います。「本当の成功者はほとんど全てのことにノーと言う」。それは一体どう言うことなのでしょうか。",
+          "link": "https://www.lifehacker.jp/2021/11/246322warren-buffett-says-what-separates-successful-people-from-everyone-else-really-comes-down-to-a-2-letter-word.html",
+          "publishedOn": "2021-11-29T23:30:00.000Z",
+          "wordCount": 161,
+          "title": "ウォーレン・バフェット流、成功者と「真の成功者」の違い",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/11/19/getty_632133266_k7sb2z.jpg"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/2021/11/246937book_to_read-887.html",
+          "author": "印南敦史",
+          "description": "『訪問しない時代の営業力強化の教科書　営業×マーケティング統合戦略』（株式会社セールスフォース・ドットコム／株式会社パーソル総合研究所 共著、渥美英紀 編著、翔泳社）より、「オンライン営業」にこれから必要となる5つの営業スキルを解説します。",
+          "link": "https://www.lifehacker.jp/2021/11/246937book_to_read-887.html",
+          "publishedOn": "2021-11-29T22:00:00.000Z",
+          "wordCount": 164,
+          "title": "「オンライン営業」にこれから必要となる5つの営業スキルとは？",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/11/29/book_to_read-887.jpg"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/2021/11/246577audible-2month-free.html",
+          "author": "ライフハッカー編集部",
+          "description": "2021年12月14日までにAudible会員登録すれば、2カ月無料でAudibleを体験できるキャンペーン実施中。無料体験のご案内と、Audibleで人気の書籍をご紹介します。",
+          "link": "https://www.lifehacker.jp/2021/11/246577audible-2month-free.html",
+          "publishedOn": "2021-11-29T14:00:00.000Z",
+          "wordCount": 194,
+          "title": "スキマ時間に聴く読書｢Audible｣が2ヵ月無料に！ 仕事に「活かせる本」7選",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/11/25/新規プロジェクト(1).jpg"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/2021/11/246810amazon-black-friday-sale-adobe-soft.html",
+          "author": "ライフハッカー編集部",
+          "description": "ブラックフライデーでお得なMicrosoft、アドビ、各種セキュリティなどPCソフトセールからおすすめアイテムをご紹介します。",
+          "link": "https://www.lifehacker.jp/2021/11/246810amazon-black-friday-sale-adobe-soft.html",
+          "publishedOn": "2021-11-29T13:35:00.000Z",
+          "wordCount": 250,
+          "title": "マイクロソフト、アドビ、各種セキュリテイソフトなど大幅値下げ中【Amazonブラックフライデー】",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/11/28/pcsoft211128.jpg"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/2021/11/245079amazon-black-friday-sale-pc-stand-monitor.html",
+          "author": "ライフハッカー編集部",
+          "description": "｢Amazonブラックフライデー｣開催中！おすすめのノートPCスタンド、モニター、モニターアームをピックアップしてみました。",
+          "link": "https://www.lifehacker.jp/2021/11/245079amazon-black-friday-sale-pc-stand-monitor.html",
+          "publishedOn": "2021-11-29T13:05:00.000Z",
+          "wordCount": 296,
+          "title": "首や肩の疲労軽減！おすすめPCスタンド・モニター・アーム12選",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/11/27/shutterstock_1297093201.jpeg"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/2021/11/245080amazon-blackfriday-sale-sports-supplement-protein-bcaa.html",
+          "author": "ライフハッカー編集部",
+          "description": "Amazonブラックフライデー開催中！セール対象の飲みやすい定番プロテインや、BCAA、必須アミノ酸ドリンクなど毎日のヘルスケアに欠かせないサプリを紹介します。",
+          "link": "https://www.lifehacker.jp/2021/11/245080amazon-blackfriday-sale-sports-supplement-protein-bcaa.html",
+          "publishedOn": "2021-11-29T12:00:00.000Z",
+          "wordCount": 262,
+          "title": "【Amazonブラックフライデー】飲みやすいプロテイン、XTENDのBCAAなど筋トレ・スポーツサプリがお得",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/11/28/shutterstock_719023027.jpeg"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/2021/11/amazon-fire-tv-black-friday.html",
+          "author": "ライフハッカー編集部",
+          "description": "現在開催中の｢Amazonブラックフライデー｣で、Alexa対応第3世代「Fire TV Stick」と「Fire TV Stick 4K Max」がセールに対象になっています。",
+          "link": "https://www.lifehacker.jp/2021/11/amazon-fire-tv-black-friday.html",
+          "publishedOn": "2021-11-29T11:30:00.000Z",
+          "wordCount": 228,
+          "title": "Fire TV Stickが最大50％オフ！年末年始は映画とドラマを大画面で【Amazonブラックフライデー】",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/11/29/スクリーンショット2021-11-2911.18.54.png"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/2021/11/246430how-to-disable-delete-safari-extensions-iphone-ipad.html",
+          "author": "MakeUseOf,ぬえよしこ",
+          "description": "iPhoneやiPadで不要になった機能拡張の削除方法をご紹介します。",
+          "link": "https://www.lifehacker.jp/2021/11/246430how-to-disable-delete-safari-extensions-iphone-ipad.html",
+          "publishedOn": "2021-11-29T11:00:00.000Z",
+          "wordCount": 187,
+          "title": "【iPhone・iPad】Safariの機能拡張を無効化・削除する簡単な方法",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/11/24/shutterstock_1225498981.jpg"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/2021/11/amazon-blackfriday-2021-1129-3.html",
+          "author": "メディアジーンメディアコマース",
+          "description": "Amazon（アマゾン）では、2021年11月26日9時から12月2日23時59分まで、年に一度のビッグセール「Amazonブラックフライデー」が開催中！\n\nブラックフライデーでは、毎日開催されているタイムセールもパワーアップ。現在、モニターアームからデンタルフロスまで、今すぐ使えるアイテムがお買い得に登場しています。",
+          "link": "https://www.lifehacker.jp/2021/11/amazon-blackfriday-2021-1129-3.html",
+          "publishedOn": "2021-11-29T09:15:00.000Z",
+          "wordCount": 641,
+          "title": "【Amazonブラックフライデー】モニターアームからデンタルフロスまで！ セール対象のAmazonブランド商品まとめ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/11/29/名称未設定-1-1.jpg"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/2021/11/246902amazon-blackfriday-sale-backpack.html",
+          "author": "ライフハッカー編集部",
+          "description": "Amazonブラックフライデーセールでは、機能的で使える高級バックパックがセール中！ぜひお見逃しなく。",
+          "link": "https://www.lifehacker.jp/2021/11/246902amazon-blackfriday-sale-backpack.html",
+          "publishedOn": "2021-11-29T08:00:00.000Z",
+          "wordCount": 209,
+          "title": "あの高級ブランドが57%オフ!? 多機能バックパック8選【Amazonブラックフライデー】",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/11/29/新規プロジェクト(44).jpg"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/2021/11/amazon-blackfriday-2021-1129-2.html",
+          "author": "メディアジーンメディアコマース",
+          "description": "Amazon（アマゾン）では、2021年11月26日9時から12月2日23時59分まで、年に一度のビッグセール「Amazonブラックフライデー」が開催中！\n\n\nブラックフライデーでは、毎日開催されているタイムセールもパワーアップ。現在、Adobe CCコンプリート12カ月版が35％オフ、Fire HD 10 タブレットが36％オフなど、今すぐ使えるアイテムがお買い得に登場しています。",
+          "link": "https://www.lifehacker.jp/2021/11/amazon-blackfriday-2021-1129-2.html",
+          "publishedOn": "2021-11-29T06:15:00.000Z",
+          "wordCount": 544,
+          "title": "【Amazonブラックフライデー】Adobe CCコンプリート12カ月版が35％オフ、Fire HD 10 タブレットが36％オフなど",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/11/29/61GwoofwKvL._AC_SL1000_.jpg"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/2021/11/233744amazon-blackfriday-sale_telecommuting.html",
+          "author": "ライフハッカー編集部",
+          "description": "Amazonブラックフライデー開催中！リモートワークの悩み解消するケーブルホルダーや電源タップをご紹介します。",
+          "link": "https://www.lifehacker.jp/2021/11/233744amazon-blackfriday-sale_telecommuting.html",
+          "publishedOn": "2021-11-29T05:00:00.000Z",
+          "wordCount": 276,
+          "title": "コードが絡まる、コンセント不足問題を解消する神ツール10選",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/09/27/shutterstock_1842418387.jpeg"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/2021/11/amazon_bf2021_anker_powerexpand.html",
+          "author": "田中宏和",
+          "description": "ノートPCのポート、足りてますか？USB-CポートしかないノートPCを使っている人にとって、スピードに優れた有線接続で周辺機器を使いたければ、ドッキングステーション（マルチハブ）は事実上の必須アイテムですよね。というわけで、コスパに定評のあるAnker製ドッキングステーションを4つほどピックアップしてみました。サクッと手に入れて、遅延と接続エラーにサヨナラしちゃいましょう。",
+          "link": "https://www.lifehacker.jp/2021/11/amazon_bf2021_anker_powerexpand.html",
+          "publishedOn": "2021-11-29T03:25:00.000Z",
+          "wordCount": 444,
+          "title": "「ノートPCのポートが足りない問題」を解決！ Ankerのドッキングステーション4選",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/11/25/ドッキングステーション４選3-1.jpg"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/2021/11/245099amazon-blackfriday-sale-chair.html",
+          "author": "ライフハッカー編集部",
+          "description": "現在開催中の｢Amazonブラックフライデー｣から、仕事を快適にサポートする「ゲーミングチェア・オフィスチェア」をピックアップしてみました。",
+          "link": "https://www.lifehacker.jp/2021/11/245099amazon-blackfriday-sale-chair.html",
+          "publishedOn": "2021-11-29T03:00:00.000Z",
+          "wordCount": 274,
+          "title": "仕事捗る「神オフィスチェア・ゲーミングチェア」9選〜疲労軽減【Amazonブラックフライデー】",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/11/27/shutterstock_424786153.jpeg"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/2021/11/246888amazon-blackfriday-sale-t-fal.html",
+          "author": "ライフハッカー編集部",
+          "description": "ティファール（T-fal）、ブラックフライデーセール中！人気の商品が本日11月29日（月）23:50までの期間限定でお買い得に。この機会にぜひゲットしておきましょう。",
+          "link": "https://www.lifehacker.jp/2021/11/246888amazon-blackfriday-sale-t-fal.html",
+          "publishedOn": "2021-11-29T02:30:00.000Z",
+          "wordCount": 225,
+          "title": "ティファールの人気アイテムが本日までの限定セール中！【Amazonブラックフライデー】",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/11/29/f17e41350ac584eb4e4cac9668bda576.w1840.h913._CR0,382,1840,368_SX1840_.jpg"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/2021/11/246778amazon-blackfriday-sale-mouse-keyboard.html",
+          "author": "ライフハッカー編集部",
+          "description": "作業スピード、快適性を左右する2強デスクアイテム「キーボード＆マウス」。両アイテムにこだわりたい人のために、“ちょいハイエンド”なアイテムをAmazonブラックフライデーからお届け。",
+          "link": "https://www.lifehacker.jp/2021/11/246778amazon-blackfriday-sale-mouse-keyboard.html",
+          "publishedOn": "2021-11-29T02:00:00.000Z",
+          "wordCount": 406,
+          "title": "作業効率・操作性にこだわる人に、おすすめ「キーボード＆マウス」20選【Amazonブラックフライデー】",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/11/27/211129amazonbf_kbms_top.jpg"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/2021/11/amazon-blackfriday-2021-1129-1.html",
+          "author": "メディアジーンメディアコマース",
+          "description": "Amazon（アマゾン）では、2021年11月26日9時から12月2日23時59分まで、年に一度のビッグセール｢Amazonブラックフライデー｣が開催中！\n\n現在、35%オフのブラウンの電動歯ブラシ、自動給餌器などのペット用品など、今すぐ使えるアイテムがお買い得に登場しています。",
+          "link": "https://www.lifehacker.jp/2021/11/amazon-blackfriday-2021-1129-1.html",
+          "publishedOn": "2021-11-29T01:15:00.000Z",
+          "wordCount": 772,
+          "title": "【Amazonブラックフライデー】ブラウンの電動歯ブラシが35%オフ。自動給餌器などのペット用品もお買い得に！",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/11/29/Top.png"
+          }
+        },
         {
           "id": "https://www.lifehacker.jp/2021/11/246352jeff-bezos-intellectual-humility.html",
           "author": "伊藤貴之,Inc.",
@@ -1293,286 +1941,6 @@
             "length": "0",
             "type": "image/jpeg",
             "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/11/27/shutterstock_764180857.jpg"
-          }
-        },
-        {
-          "id": "https://www.lifehacker.jp/2021/11/244847lht-insta360-go2.html",
-          "author": "中川真知子",
-          "description": "小さなアクションカメラ『Insta360 GO 2』を使ってみました。ペットや子どもの視点を自分ごとのように観察できるだけでなく、オンラインレッスンにも活用できそうです！",
-          "link": "https://www.lifehacker.jp/2021/11/244847lht-insta360-go2.html",
-          "publishedOn": "2021-11-27T13:05:00.000Z",
-          "wordCount": 181,
-          "title": "『Insta360 GO 2』実機レビュー｜ペットや子どもの見る景色を擬似体験できるように！【今日のライフハックツール】",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/11/24/A_white.png"
-          }
-        },
-        {
-          "id": "https://www.lifehacker.jp/2021/11/246683amazon-blackfriday-sale-huawei.html",
-          "author": "ライフハッカー編集部",
-          "description": "｢Amazonブラックフライデー｣は、2021年12月2日（木）23時59分まで開催中！お得なHUAWEIのセールアイテムをピックアップしてご紹介します。",
-          "link": "https://www.lifehacker.jp/2021/11/246683amazon-blackfriday-sale-huawei.html",
-          "publishedOn": "2021-11-27T12:30:00.000Z",
-          "wordCount": 244,
-          "title": "【Amazonブラックフライデー】でHUAWEI製品のお買い得品探してみました！",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/11/27/hau61dIEwrtzL_AC_SL1500_.jpg"
-          }
-        },
-        {
-          "id": "https://www.lifehacker.jp/2021/11/246787lg-4ktv-sale.html",
-          "author": null,
-          "description": "LG、レグザ、ハイセンスなど「50V型4Kテレビ」も5万円台から特選セールに！【Amazonブラックフライデー】でお得なおすすめ液晶テレビを紹介します。",
-          "link": "https://www.lifehacker.jp/2021/11/246787lg-4ktv-sale.html",
-          "publishedOn": "2021-11-27T12:00:00.000Z",
-          "wordCount": 267,
-          "title": "「50V型4Kテレビ」も5万円台から、LG、東芝レグザ、ハイセンスなどが特選タイムセール中【Amazonブラックフライデー】",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/11/27/lg81YPQqYa3UL_AC_SL1500_.jpg"
-          }
-        },
-        {
-          "id": "https://www.lifehacker.jp/2021/11/246645rumba692-e5-sale.html",
-          "author": "ライフハッカー編集部",
-          "description": "【Amazonブラックフライデー】セール開催中。ロボット掃除機デビュー買い増しに！「ルンバe5」「ルンバ692」なんと2万円台〜から特選タイムセールに登場。",
-          "link": "https://www.lifehacker.jp/2021/11/246645rumba692-e5-sale.html",
-          "publishedOn": "2021-11-27T11:30:00.000Z",
-          "wordCount": 177,
-          "title": "ロボット掃除機デビューはまだか？「ルンバe5」なんと8000円引きで登場【Amazonブラックフライデー】",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/11/26/rumba78L_AC_SL1000_.jpg"
-          }
-        },
-        {
-          "id": "https://www.lifehacker.jp/2021/11/smart-watch-5000-yen.html",
-          "author": "ライフハッカー編集部",
-          "description": "現在開催中の｢Amazonブラックフライデー｣では、スマートウォッチがセール中！人気の高い「Xiaomi Mi スマートバンド5」も5000円以下で購入できる数少ないブランドのスマートウォッチです。",
-          "link": "https://www.lifehacker.jp/2021/11/smart-watch-5000-yen.html",
-          "publishedOn": "2021-11-27T11:00:00.000Z",
-          "wordCount": 302,
-          "title": "5000円以下のお得なスマートウォッチ7選【Amazonブラックフライデー】",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/11/26/スクリーンショット2021-11-2618.09.06.png"
-          }
-        },
-        {
-          "id": "https://www.lifehacker.jp/2021/11/amazon-blackfriday-2021-1127-2.html",
-          "author": "メディアジーンメディアコマース",
-          "description": "Amazon（アマゾン）では、2021年11月26日9時から12月2日23時59分まで、年に一度のビッグセール「Amazonブラックフライデー」が開催中！\nブラックフライデーでは、毎日開催されているタイムセールもパワーアップ。現在、お得に身だしなみを整える。34%オフのフィリップスのエチケットカッターや40%オフのNileの除毛クリームなど、今すぐ使えるアイテムがお買い得に登場しています。",
-          "link": "https://www.lifehacker.jp/2021/11/amazon-blackfriday-2021-1127-2.html",
-          "publishedOn": "2021-11-27T09:15:00.000Z",
-          "wordCount": 625,
-          "title": "【Amazonブラックフライデー】お得に身だしなみを整える。34%オフのフィリップスのエチケットカッターや40%オフの除毛クリームなど",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/11/27/名称未設定-1-1.jpg"
-          }
-        },
-        {
-          "id": "https://www.lifehacker.jp/2021/11/ipad-pencil-airpods-apple-sale.html",
-          "author": "ライフハッカー編集部",
-          "description": "現在開催中の｢Amazonブラックフライデー｣に、Apple PencilやAirPods ProなどのApple製品が登場しています。今年をなんとか乗り切った自分への、少し早めのご褒美にApple製品の購入を検討してみてはいかがでしょう。",
-          "link": "https://www.lifehacker.jp/2021/11/ipad-pencil-airpods-apple-sale.html",
-          "publishedOn": "2021-11-27T09:00:00.000Z",
-          "wordCount": 352,
-          "title": "最新AirPods Proが割引に！Apple製品セールまとめ最大15%OFF【Amazonブラックフライデー】",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/11/26/スクリーンショット2021-11-2617.35.57.png"
-          }
-        },
-        {
-          "id": "https://www.lifehacker.jp/2021/11/246785anker-nano-45w-sale.html",
-          "author": "ライフハッカー編集部",
-          "description": "コンパクトなボディながら高性能！スマホ、ノートPC、タブレット端末と縦横無尽に高速充電できる「Anker Nano II 45W」が今ならブラックフライデー特選タイムセールでお得に！",
-          "link": "https://www.lifehacker.jp/2021/11/246785anker-nano-45w-sale.html",
-          "publishedOn": "2021-11-27T08:00:00.000Z",
-          "wordCount": 162,
-          "title": "一つ持ち歩くならこれ！次世代充電器「Anker Nano II 45W」はもう買った？【Amazonブラックフライデー】",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/11/27/211126ankernano.jpg"
-          }
-        },
-        {
-          "id": "https://www.lifehacker.jp/2021/11/amazon-blackfriday-2021-coffee.html",
-          "author": "山科拓郎",
-          "description": "開催中のAmazonブラックフライデー。実は、コーヒー関連アイテムも恒例でかなりお安くなる、コーヒーラバーなら見逃せないイベントです。ケトルやコーヒーミル、ホームロースターほか、ハンドドリップ派なら見逃せないお買い得商品をピックアップしてみたので、ぜひ参考にしてくださいね！",
-          "link": "https://www.lifehacker.jp/2021/11/amazon-blackfriday-2021-coffee.html",
-          "publishedOn": "2021-11-27T07:15:00.000Z",
-          "wordCount": 252,
-          "title": "【Amazonブラックフライデー】コーヒー関連の注目アイテム9選！ケトルやミル、憧れのホームロースターも",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/11/26/71prd4FAkAL.jpg"
-          }
-        },
-        {
-          "id": "https://www.lifehacker.jp/2021/11/246252disney-plus-keyboard-shortcuts.html",
-          "author": "春野ユリ,MakeUseOf",
-          "description": "Disney+の操作やナビゲーションがよりスムーズになるショートカットキーを11個紹介します。小さなストレスが減り、より快適に視聴できますよ。",
-          "link": "https://www.lifehacker.jp/2021/11/246252disney-plus-keyboard-shortcuts.html",
-          "publishedOn": "2021-11-27T07:00:00.000Z",
-          "wordCount": 181,
-          "title": "Disney+の視聴体験を快適にするショートカット11選",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/11/22/新規プロジェクト(38).jpg"
-          }
-        },
-        {
-          "id": "https://www.lifehacker.jp/2021/11/246761amazon-blackfriday-sale-home-workout.html",
-          "author": "ライフハッカー編集部",
-          "description": "宅トレで使えるおすすめ筋トレアイテムを、鍛えたい部位別にお届け。Amazonブラックフライデーから、おすすめをピックアップしました。",
-          "link": "https://www.lifehacker.jp/2021/11/246761amazon-blackfriday-sale-home-workout.html",
-          "publishedOn": "2021-11-27T05:00:00.000Z",
-          "wordCount": 244,
-          "title": "宅トレに！「部位別」筋トレアイテムを厳選してお届け【Amazonブラックフライデー】",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/11/27/211127amazonbf_homeworkout_top.jpg"
-          }
-        },
-        {
-          "id": "https://www.lifehacker.jp/2021/11/amazon-blackfriday2021-fire-tv-stick-sale.html",
-          "author": "ゲストライター",
-          "description": "Amazon超大型セールブラックフライデーでセールになっている「Fire TV」シリーズ。いったいどれを買えばいいの？という方のためにざっくりと特徴を紹介していきますね。",
-          "link": "https://www.lifehacker.jp/2021/11/amazon-blackfriday2021-fire-tv-stick-sale.html",
-          "publishedOn": "2021-11-27T03:15:00.000Z",
-          "wordCount": 210,
-          "title": "【Amazonブラックフライデー】半額の2,480円から！ 自分にピッタリのFire TVの賢い選び方",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/11/18/ブラックフライデーfiretv.jpeg"
-          }
-        },
-        {
-          "id": "https://www.lifehacker.jp/2021/11/235320amazon-blackfriday-sale_emergency-supplies.html",
-          "author": "ライフハッカー編集部",
-          "description": "Jackery、Ankerのポータブル電源がお買い得！ 地震などの災害時に備えておきたい、非常食や防災グッズをまとめました。",
-          "link": "https://www.lifehacker.jp/2021/11/235320amazon-blackfriday-sale_emergency-supplies.html",
-          "publishedOn": "2021-11-27T03:00:00.000Z",
-          "wordCount": 307,
-          "title": "AnkerやJackeryのポータブル電源がお買い得！ 非常食・防災グッズまとめ【Amazonブラックフライデー】",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/11/26/shutterstock_2029527488.jpeg"
-          }
-        },
-        {
-          "id": "https://www.lifehacker.jp/2021/11/246758amazon-blackfriday-sale-cordless-vac.html",
-          "author": "ライフハッカー編集部",
-          "description": "コードを挿さず、すぐに掃除が始められる「コードレス掃除機」。Amazonブラックフライデーから厳選したお得なアイテムをお届けします。",
-          "link": "https://www.lifehacker.jp/2021/11/246758amazon-blackfriday-sale-cordless-vac.html",
-          "publishedOn": "2021-11-27T02:00:00.000Z",
-          "wordCount": 283,
-          "title": "いつでもどこでもサッと使える「コードレス掃除機」7選【Amazonブラックフライデー】",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/11/27/211127amazonbf_vac_top.jpg"
-          }
-        },
-        {
-          "id": "https://www.lifehacker.jp/2021/11/amazon-blackfriday-2021-1127-1.html",
-          "author": "メディアジーンメディアコマース",
-          "description": "Amazon（アマゾン）では、2021年11月26日9時から12月2日23時59分まで、年に一度のビッグセール「Amazonブラックフライデー」が開催中！\n現在、アイリスオーヤマの高圧洗浄機が35%オフ、Ankerロボット掃除機が30％オフなど、今すぐ使えるアイテムがお買い得に登場しています。",
-          "link": "https://www.lifehacker.jp/2021/11/amazon-blackfriday-2021-1127-1.html",
-          "publishedOn": "2021-11-27T01:15:00.000Z",
-          "wordCount": 571,
-          "title": "【Amazonブラックフライデー】アイリスの高圧洗浄機が6,742円、Ankerロボット掃除機が30％オフなど",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/11/27/61toUDHp.jpg"
-          }
-        },
-        {
-          "id": "https://www.lifehacker.jp/2021/11/243061amazon-blackfriday-sale-locabo.html",
-          "author": "ライフハッカー編集部",
-          "description": "Amazonブラックフライデーでお得な高タンパク＆低糖質な食品（ロカボ、糖質オフ、糖質カット）のセールアイテムをまとめてご紹介します。",
-          "link": "https://www.lifehacker.jp/2021/11/243061amazon-blackfriday-sale-locabo.html",
-          "publishedOn": "2021-11-27T01:00:00.000Z",
-          "wordCount": 262,
-          "title": "【Amazonブラックフライデー】で買い置きしたい「高タンパク＆低糖質な食品」",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/11/26/shutterstock_2077673212のコピー.jpg"
-          }
-        },
-        {
-          "id": "https://www.lifehacker.jp/2021/11/246719amazon-blackfriday-sale-storage-containers.html",
-          "author": "ライフハッカー編集部",
-          "description": "｢Amazonブラックフライデー｣は、2021年12月2日（木）23時59分まで開催中！ 作り置き調理が捗る保存容器やフリーザーバッグをご紹介します。",
-          "link": "https://www.lifehacker.jp/2021/11/246719amazon-blackfriday-sale-storage-containers.html",
-          "publishedOn": "2021-11-26T23:30:00.000Z",
-          "wordCount": 261,
-          "title": "作り置き捗る「保存容器・フリーザーバッグ・真空パック袋」13選【Amazonブラックフライデー】",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/11/26/shutterstock_522663619.jpeg"
-          }
-        },
-        {
-          "id": "https://www.lifehacker.jp/2021/11/246709-machi-ya-kokoro-review.html",
-          "author": "飯田あゆみ",
-          "description": "「KOKOROフードジャー」は磁器製なので、保温・保冷はもちろん、食材の匂いが残りにくく金属臭もしません。お弁当や調理器具としても使えます。食洗器OKでお手入れもカンタン。",
-          "link": "https://www.lifehacker.jp/2021/11/246709-machi-ya-kokoro-review.html",
-          "publishedOn": "2021-11-26T23:00:00.000Z",
-          "wordCount": 165,
-          "title": "保温と保冷ができる便利な磁器製のフードジャーの実力を試してみた",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/11/26/detail_17379_16199639013952.jpeg"
-          }
-        },
-        {
-          "id": "https://www.lifehacker.jp/2021/11/246579amazon-blackfriday-2021-kindle-unlimited.html",
-          "author": "ライフハッカー編集部",
-          "description": "現在、Kindle Unlimitedでセール中。3カ月99円で200万冊以上が読み放題に！ 気になっていていた人は、今がチャンスですよ〜。",
-          "link": "https://www.lifehacker.jp/2021/11/246579amazon-blackfriday-2021-kindle-unlimited.html",
-          "publishedOn": "2021-11-26T14:30:00.000Z",
-          "wordCount": 167,
-          "title": "200万冊以上が読み放題「Kindle Unlimited」が3カ月99円のセール中｜Amazonブラックフライデー",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/11/25/新規プロジェクト(42).jpg"
-          }
-        },
-        {
-          "id": "https://www.lifehacker.jp/2021/11/246682amazon-blackfriday-sale-heater.html",
-          "author": "ライフハッカー編集部",
-          "description": "｢Amazonブラックフライデー｣は、2021年12月2日（木）23時59分まで開催中！デロンギ、山善、シャープなど暖房器具のオススメアイテムをお得なセールからピックアップしてご紹介します。",
-          "link": "https://www.lifehacker.jp/2021/11/246682amazon-blackfriday-sale-heater.html",
-          "publishedOn": "2021-11-26T14:00:00.000Z",
-          "wordCount": 255,
-          "title": "人感センサー、無風、加湿付きなど…手軽であったか「暖房器具」オススメ9選【Amazonブラックフライデー】",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/11/26/shutterstock_1528840100.jpg"
           }
         }
       ]
