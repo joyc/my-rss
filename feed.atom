@@ -2,10 +2,928 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/my-rss/index.html</id>
     <title>IT::News</title>
-    <updated>2021-12-02T01:06:57.043Z</updated>
+    <updated>2021-12-03T01:06:19.690Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://joyc.github.io/my-rss/index.html"/>
     <link rel="self" href="https://joyc.github.io/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AndroidとMac間でファイルを転送する6つの簡単な方法]]></title>
+        <id>https://www.lifehacker.jp/2021/12/android-file-transfer-transfer-files-android-mac.html</id>
+        <link href="https://www.lifehacker.jp/2021/12/android-file-transfer-transfer-files-android-mac.html"/>
+        <updated>2021-12-03T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[MacとAndroid間でデータ共有をする方法をご紹介します。]]></summary>
+        <author>
+            <name>ガリレオ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitterの「スーパーフォロー」、Androidでも設定可能に]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2112/03/news073.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2112/03/news073.html"/>
+        <updated>2021-12-03T00:34:00.000Z</updated>
+        <summary type="html"><![CDATA[Twitterは、9月にiOSアプリで提供開始した「スーパーフォロー」をAndroidアプリでも設定できるようにした。スーパーフォローはフォロワーから月額料金を受け取ることができる収益化サービス。まだ一部のユーザーの間でのテスト段階だ。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitterの「スーパーフォロー」、Androidでも設定可能に]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2112/03/news073.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2112/03/news073.html"/>
+        <updated>2021-12-03T00:34:00.000Z</updated>
+        <summary type="html"><![CDATA[Twitterは、9月にiOSアプリで提供開始した「スーパーフォロー」をAndroidアプリでも設定できるようにした。スーパーフォローはフォロワーから月額料金を受け取ることができる収益化サービス。まだ一部のユーザーの間でのテスト段階だ。]]></summary>
+        <author>
+            <name>ITmedia TOP STORIES 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google、2022年中に「Pixel Watch」（仮）発売か──Insider報道]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2112/03/news072.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2112/03/news072.html"/>
+        <updated>2021-12-02T23:56:00.000Z</updated>
+        <summary type="html"><![CDATA[Googleがオリジナルスマートウォッチを2022年中にも発売するとInsiderが複数の従業員の話に基づいて報じた。コード名「Rohan」の下、現在ドッグフーディング中という。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google、2022年中に「Pixel Watch」（仮）発売か──Insider報道]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2112/03/news072.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2112/03/news072.html"/>
+        <updated>2021-12-02T23:56:00.000Z</updated>
+        <summary type="html"><![CDATA[Googleがオリジナルスマートウォッチを2022年中にも発売するとInsiderが複数の従業員の話に基づいて報じた。コード名「Rohan」の下、現在ドッグフーディング中という。]]></summary>
+        <author>
+            <name>ITmedia TOP STORIES 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フリーランスとして成功するための8つの基本スキル]]></title>
+        <id>https://www.lifehacker.jp/2021/12/246676become-successful-freelancer-essential-skills.html</id>
+        <link href="https://www.lifehacker.jp/2021/12/246676become-successful-freelancer-essential-skills.html"/>
+        <updated>2021-12-02T23:30:00.000Z</updated>
+        <summary type="html"><![CDATA[フリーランスは魅力的に見えますが、あらゆるリスクを伴います。リスクを背負った上でフリーランサーとして活躍する術をご紹介します。]]></summary>
+        <author>
+            <name>堀込泰三,MakeUseOf</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「ベイマックス」のように空気で膨らむ義手　装着者のイメージ通りの動きを実現]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2112/03/news048.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2112/03/news048.html"/>
+        <updated>2021-12-02T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[中国の上海交通大学と米マサチューセッツ工科大学の研究チームは、ディズニー映画に出る「ベイマックス」のような空気で膨らむソフトな義肢を開発。空気圧で指が動き、軽くて柔らかい、かつ低コストであるという。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[指を電気で強制的に操るデバイス、米シカゴ大が開発　楽器の演奏指導などに活用]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2112/03/news046.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2112/03/news046.html"/>
+        <updated>2021-12-02T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米シカゴ大学の研究チームは、指を電気で刺激し、それぞれ操作できるハプティクスデバイスだ。電気的筋肉刺激と、指の関節に配置される機械的なブレーキが備わった外骨格デバイスで、装着者の指4本（親指を除く）を器用に制御する。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「空気を読む」を逆手に取って社内のITリテラシー向上　Cygamesが実践した4つの工夫]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2112/03/news041.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2112/03/news041.html"/>
+        <updated>2021-12-02T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[研修も監査もITリテラシー向上効果が薄かったCygames。そんな同社がリテラシー向上に成功したのは、ある取り組みで社内の“空気感”を変えられたためという。Cygamesが進めた取り組みとは。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[指を電気で強制的に操るデバイス、米シカゴ大が開発　楽器の演奏指導などに活用]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2112/03/news046.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2112/03/news046.html"/>
+        <updated>2021-12-02T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米シカゴ大学の研究チームは、指を電気で刺激し、それぞれ操作できるハプティクスデバイスだ。電気的筋肉刺激と、指の関節に配置される機械的なブレーキが備わった外骨格デバイスで、装着者の指4本（親指を除く）を器用に制御する。]]></summary>
+        <author>
+            <name>ITmedia TOP STORIES 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「ベイマックス」のように空気で膨らむ義手　装着者のイメージ通りの動きを実現]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2112/03/news048.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2112/03/news048.html"/>
+        <updated>2021-12-02T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[中国の上海交通大学と米マサチューセッツ工科大学の研究チームは、ディズニー映画に出る「ベイマックス」のような空気で膨らむソフトな義肢を開発。空気圧で指が動き、軽くて柔らかい、かつ低コストであるという。]]></summary>
+        <author>
+            <name>ITmedia TOP STORIES 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「Tポイント」を「PayPayボーナス」へ交換可能に]]></title>
+        <id>05ea638a-540e-40f1-8284-433e9cd68023</id>
+        <link href="https://japanese.engadget.com/tpoint-paypay-224322960.html"/>
+        <updated>2021-12-02T22:43:22.000Z</updated>
+        <summary type="html"><![CDATA[今後、「Tポイント」から「PayPayボーナス」への交換が可能となることがTポイント公式サイトで発表されました。時期などの詳細は今後案内されます。]]></summary>
+        <author>
+            <name>小口貴宏(Takahiro Koguchi)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吸引+水拭き+ゴミ収集まで自動化。業界最強レベル吸引力4000Paのロボット掃除機「S600」]]></title>
+        <id>394aee54-88f2-4ac9-9d45-8e697c435531</id>
+        <link href="https://japanese.engadget.com/robot-cleaner-s600-221542365.html"/>
+        <updated>2021-12-02T22:15:42.000Z</updated>
+        <summary type="html"><![CDATA[吸引＋水拭き＋ゴミ収集！完全自動化！業界最強クラスの吸引力4000Paで厚いカーペットでも頑固なホコリを綺麗に吸い上げます。「S600ロボット掃除機」に部屋の掃除を任せて時間を節約！ S600ロボット掃除機は、ボタンを押すだけで家全体を全自動クリーニング！忙しい家事の負担を軽減できます。複雑な操作は不要で、簡単に掃除ができます。 * 業界最強レベルの4000Pa吸引力 比較すると、市場に出回っているロボット掃除機の最大吸引力は2500Paから3000Paが一般的です。S600は驚異的な4000Paで、米、大豆、鋼球、カーペットのゴミも簡単に掃除できます。 * 日本老舗メーカー日本電産(Nidec)社のブラシレスモーター S600は、日本老舗メーカー日本電産(Nidec)社の高性能静音ブラシレスモーターを採用し、高品質で高い耐久性を誇ります。ロボット掃除機の心臓とも言えるこのモーター部分、回転数は１分間になんと約２万回超！ * 集塵能力の高いブラシ密度 V字型ギャザリングローラーブラシ、両面ブラシデザイン、サイドブラシが効率よく周りのゴミを中央に集め、ダストボックスにかき込みます。クリー]]></summary>
+        <author>
+            <name>GREEN FUNDING with Engadget Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NVIDIAのソフトバンクGからのArm買収は競争を阻害すると米FTCが提訴]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2112/03/news066.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2112/03/news066.html"/>
+        <updated>2021-12-02T22:08:00.000Z</updated>
+        <summary type="html"><![CDATA[NVIDIAが昨年9月に発表したArmの買収は半導体市場の競争を阻害するとして、買収差し止めを求めて提訴した。NVIDIAは取引完了を2022年3月ごろとしていたが、裁判は2922年8月に開廷する。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NVIDIAのソフトバンクGからのArm買収は競争を阻害すると米FTCが提訴]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2112/03/news066.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2112/03/news066.html"/>
+        <updated>2021-12-02T22:08:00.000Z</updated>
+        <summary type="html"><![CDATA[NVIDIAが昨年9月に発表したArmの買収は半導体市場の競争を阻害するとして、買収差し止めを求めて提訴した。NVIDIAは取引完了を2022年3月ごろとしていたが、裁判は2922年8月に開廷する。]]></summary>
+        <author>
+            <name>ITmedia TOP STORIES 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[居酒屋・ホテル　AI活用で省力化急ぐ　材料発注など　コロナ後の人材不足に備え]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2112/03/news064.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2112/03/news064.html"/>
+        <updated>2021-12-02T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「アフターコロナ」をにらみ、サービス業でAIを本格導入する動きが活発化している。需要が本格的に回復したときの人手不足に備えるためだ。業務に精通するベテラン従業員ではないと難しい領域での活用が目立つ。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[電子政府ランキング1位のデンマーク　徹底的な省力化]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2112/03/news063.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2112/03/news063.html"/>
+        <updated>2021-12-02T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[デジタル先進国、デンマークを出張で訪れた。国連が発表する世界電子政府ランキングで1位になり、日本のお手本とされる国だ。驚いたのは技術力以上に、省力化の徹底ぶりだった。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[電動キックボードに青切符、12月にも開始　警視庁取り締まり強化]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2112/03/news062.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2112/03/news062.html"/>
+        <updated>2021-12-02T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[利用者の急増とともに事故が相次いでいる電動キックボードに関し、警視庁が12月中にも、歩道走行や信号無視などの違反をした運転手に対し、交通反則切符（青切符）を交付できるようにする運用を始める。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4つのステップで見なおす、目標レス時代の「キャリアデザイン」]]></title>
+        <id>https://www.lifehacker.jp/2021/12/247193book_to_read-890.html</id>
+        <link href="https://www.lifehacker.jp/2021/12/247193book_to_read-890.html"/>
+        <updated>2021-12-02T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[『限界を突破する4つのステップ　「目標が持てない時代」のキャリアデザイン 』（片岡裕司、阿由葉隆、北村祐三 著、日本経済新聞出版）より、4つのステップで見なおす、目標レス時代の「キャリアデザイン」について解説します。]]></summary>
+        <author>
+            <name>印南敦史</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日産とJAXAが月面探査車のスタック防止に挑戦、駆動力制御は乗用車にも展開]]></title>
+        <id>https://monoist.itmedia.co.jp/mn/articles/2112/03/news060.html</id>
+        <link href="https://monoist.itmedia.co.jp/mn/articles/2112/03/news060.html"/>
+        <updated>2021-12-02T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[日産自動車は2021年12月2日、宇宙航空研究開発機構（JAXA）と共同研究中の月面探査車（ローバ）の試作機を公開した。]]></summary>
+        <author>
+            <name>ITmedia TOP STORIES 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国「独身の日」で最も売れたXiaomiスマホ　課題は「ハイエンド」にあり]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2112/03/news059.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2112/03/news059.html"/>
+        <updated>2021-12-02T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[中国では11月11日は「1」の数字が並ぶことから、「独身の日」として冬の消費喚起を兼ねた大きな販売競争が繰り広げられる。独身の日に最も売れたスマートフォンは、Xiaomiのミッドレンジ「Redmi K40」だった。一方でメインモデルやハイエンドをそろえる「Mi」「Xiaomi」シリーズが1機種も入っていない。]]></summary>
+        <author>
+            <name>ITmedia TOP STORIES 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1994年12月3日、ゲーム市場を席巻した初代「PlayStation」が発売されました：今日は何の日？]]></title>
+        <id>5b07793c-1fc8-4245-a53f-98a508775509</id>
+        <link href="https://japanese.engadget.com/today-203055737.html"/>
+        <updated>2021-12-02T20:30:55.000Z</updated>
+        <summary type="html"><![CDATA[任天堂が強かったゲーム市場を切り崩し、トップシェアを奪うまで成長したのが「PlayStation」。
+
+この家庭用ゲーム機が発売されたのが、1994年の今日です。]]></summary>
+        <author>
+            <name>今日は何の日？</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6日間に及ぶスマートロック「Qrio」の障害、完全復旧　原因は「サーバへの一時的な負荷増大」]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2112/02/news157.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2112/02/news157.html"/>
+        <updated>2021-12-02T12:55:00.000Z</updated>
+        <summary type="html"><![CDATA[スマートロック「Qrio Lock」を手掛けるQrioは12月2日、Qrio Lockをインターネットに接続するデバイス「Qrio Hub」で発生していたネットワーク障害について、完全に復旧したと発表した。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6日間に及ぶスマートロック「Qrio」の障害、完全復旧　原因は「サーバへの一時的な負荷増大」]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2112/02/news157.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2112/02/news157.html"/>
+        <updated>2021-12-02T12:55:00.000Z</updated>
+        <summary type="html"><![CDATA[スマートロック「Qrio Lock」を手掛けるQrioは12月2日、Qrio Lockをインターネットに接続するデバイス「Qrio Hub」で発生していたネットワーク障害について、完全に復旧したと発表した。]]></summary>
+        <author>
+            <name>ITmedia TOP STORIES 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Amazonブラックフライデー】衝動買いしても罪ではない。バッファローのポータブルSSDって2530円からポチれるんだ！]]></title>
+        <id>https://www.lifehacker.jp/2021/12/247262baffalo-external-ssd.html</id>
+        <link href="https://www.lifehacker.jp/2021/12/247262baffalo-external-ssd.html"/>
+        <updated>2021-12-02T12:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazonブラックフライデーも終盤。 BaffaloのポータブルSSDが衝動買いしても、後悔しないほど安くなっています。]]></summary>
+        <author>
+            <name>ライフハッカー編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[終了間近！お買い逃しなく【Amazonブラックフライデー】ベストアイテム9選]]></title>
+        <id>https://www.lifehacker.jp/2021/12/anker-mobile-battery-amazon.html</id>
+        <link href="https://www.lifehacker.jp/2021/12/anker-mobile-battery-amazon.html"/>
+        <updated>2021-12-02T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[現在開催中の｢Amazonブラックフライデー｣は、本日の23:59まで。今から何を買うかとお悩みの方、「Anker PowerCore Essential 20000」はセール品の中でもコスパ抜群のモバイルバッテリーです。]]></summary>
+        <author>
+            <name>ライフハッカー編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今年の音楽体験を振り返る「Spotifyまとめ2021」リリース。モバイルアプリから利用可能]]></title>
+        <id>5711557b-660c-4678-8f33-d25d36199db5</id>
+        <link href="https://japanese.engadget.com/spotify-wrapped-2021-122915387.html"/>
+        <updated>2021-12-02T12:29:15.000Z</updated>
+        <summary type="html"><![CDATA[昨年に続き恒例となってきましたが、Spotifyが今年もっとも聴いた曲やアーティストなどを確認できるようにする「Spotifyまとめ2021（Spotify Wrapped 2021）」をリリースしました。]]></summary>
+        <author>
+            <name>山本竜也(Tatsuya Yamamoto)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[レゴになったアディダスの名作スニーカー。30％オフでセール中！｜Amazonブラックフライデー]]></title>
+        <id>2f8669d1-2895-4486-954e-2bab221fdcea</id>
+        <link href="https://japanese.engadget.com/black-friday-sale-surprise-120304299.html"/>
+        <updated>2021-12-02T12:03:04.000Z</updated>
+        <summary type="html"><![CDATA[今回のブラックフライデーセールでは、日替わりでさまざまな製品が登場する「ビッグサプライズセール」が開催中。12月2日(木) 21:00からは、「レゴ(LEGO) アディダス オリジナルス スーパースター 10282」が登場しています。]]></summary>
+        <author>
+            <name>Engadgetオトク情報局</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ブラウン、パナソニックなど「電気シェーバー」がお買い得【Amazonブラックフライデー最終日】]]></title>
+        <id>https://www.lifehacker.jp/2021/12/247142amazon-blackfriday-sale.html</id>
+        <link href="https://www.lifehacker.jp/2021/12/247142amazon-blackfriday-sale.html"/>
+        <updated>2021-12-02T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ブラウンやパナソニックなど人気ブランドのシェーバーがブラックフライデーでお買い得です。この機会にぜひゲットしましょう。]]></summary>
+        <author>
+            <name>ライフハッカー編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[前向きに行進、「ピクミンブルーム」は心のスキマに入る癒し（辛酸なめ子）]]></title>
+        <id>e8d35e51-f4ef-4b5f-b659-a408c38d155d</id>
+        <link href="https://japanese.engadget.com/pikmin-bloom-115721869.html"/>
+        <updated>2021-12-02T11:57:21.000Z</updated>
+        <summary type="html"><![CDATA[癒し系ゲーム、「ピクミンブルーム」。ポケモンGO以来ですが、位置情報ゲームを試してみました。]]></summary>
+        <author>
+            <name>辛酸なめ子</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anker、XGIMIも！いま5万円以内で買える人気のモバイルプロジェクター4選]]></title>
+        <id>https://www.lifehacker.jp/2021/12/246852amazon-black-friday-sale-projector.html</id>
+        <link href="https://www.lifehacker.jp/2021/12/246852amazon-black-friday-sale-projector.html"/>
+        <updated>2021-12-02T11:55:00.000Z</updated>
+        <summary type="html"><![CDATA[人気のAnker（アンカー）やXGIMIなども割引価格に！今だけ5万円以内で買えるホームプロジェクターをブラックフライデーセールから探してみました。]]></summary>
+        <author>
+            <name>ライフハッカー編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Amazonブラックフライデー】SwitchBotで、玄関のオートロックをスマホや音声で解錠！]]></title>
+        <id>https://www.lifehacker.jp/2021/12/247254switch-bot-review.html</id>
+        <link href="https://www.lifehacker.jp/2021/12/247254switch-bot-review.html"/>
+        <updated>2021-12-02T11:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazonブラックフライデーももうすぐ終了。買い忘れはありませんか？スイッチボットが特選タイムセールで出品されています。今回は、スイッチボットのリアルレビューをご紹介。]]></summary>
+        <author>
+            <name>ライフハッカー編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ついに。Android 12がDigital Car Keyに対応、Pixel 6やGalaxy S21とBMW車で]]></title>
+        <id>e1b6f4cf-3503-481e-a955-b6cb75b25666</id>
+        <link href="https://japanese.engadget.com/android-12-digital-car-key-114024346.html"/>
+        <updated>2021-12-02T11:40:24.000Z</updated>
+        <summary type="html"><![CDATA[米Googleが、Android 12の機能アップデートを発表しました。スマートフォンが自動車のデジタルキーになる「Digital Car Key」の提供開始を含む、数多くの利便性向上機能が公開されています。]]></summary>
+        <author>
+            <name>塚本直樹(Naoki Tsukamoto)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[がんばった自分にプチ贅沢を！金賞受賞のワインやプレミアムジュースがお得です【Amazonブラックフライデー最終日】]]></title>
+        <id>https://www.lifehacker.jp/2021/12/246806premium-juice-wine-sale.html</id>
+        <link href="https://www.lifehacker.jp/2021/12/246806premium-juice-wine-sale.html"/>
+        <updated>2021-12-02T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[クリスマスや年末年始のパーティや、頑張った自分を労うひとときに。家族、友人たちと過ごす時間を華やかにするプチ贅沢ドリンクやお酒など、今からお得にゲットしておきませんか？]]></summary>
+        <author>
+            <name>ライフハッカー編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スマホ画面が背景になる『tomica ライトアップシアター』]]></title>
+        <id>6090bb0a-4bcd-4775-b3f3-10a127bca838</id>
+        <link href="https://japanese.engadget.com/tomica-110125654.html"/>
+        <updated>2021-12-02T11:01:25.000Z</updated>
+        <summary type="html"><![CDATA[タカラトミーは「トミカ」の大人向けブランド「tomica」の新商品として、LEDライト搭載ディスプレイケース『tomica ライトアップシアター』を2022年1月15日に発売します。価格は2970円です。]]></summary>
+        <author>
+            <name>つくね伯爵</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Amazonブラックフライデー】フィリップスの人気脱毛器が39%OFFで2万円台に！自宅で全身脱毛のチャンス]]></title>
+        <id>https://www.lifehacker.jp/2021/12/filips-shaving-amazon.html</id>
+        <link href="https://www.lifehacker.jp/2021/12/filips-shaving-amazon.html"/>
+        <updated>2021-12-02T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ここ数年、周りの男性の友人から、脱毛をしたいという話題が出てくるようになりました。自宅で手軽に脱毛を始めたいなら、フィリップスの脱毛器がおすすめです。]]></summary>
+        <author>
+            <name>ライフハッカー編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コミケ準備会、「TOKYOワクションアプリ」事前登録呼びかけ　入場時の時間短縮のため]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2112/02/news150.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2112/02/news150.html"/>
+        <updated>2021-12-02T10:45:00.000Z</updated>
+        <summary type="html"><![CDATA[コミックマーケット準備会は、コミケ99参加者に向け、「TOKYOワクションアプリ」の利用を呼びかけた。当日登録しようとしても完了しないため事前登録を求めている。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コミケ準備会、「TOKYOワクションアプリ」事前登録呼びかけ　入場時の時間短縮のため]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2112/02/news150.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2112/02/news150.html"/>
+        <updated>2021-12-02T10:45:00.000Z</updated>
+        <summary type="html"><![CDATA[コミックマーケット準備会は、コミケ99参加者に向け、「TOKYOワクションアプリ」の利用を呼びかけた。当日登録しようとしても完了しないため事前登録を求めている。]]></summary>
+        <author>
+            <name>ITmedia TOP STORIES 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIで数学の新たな定理発見　英DeepMindと数学者がNatureに共同論文]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2112/02/news149.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2112/02/news149.html"/>
+        <updated>2021-12-02T10:27:00.000Z</updated>
+        <summary type="html"><![CDATA[新たな数学の定理の発見や、未証明の予想の解決にAIが役立つ──そんな研究結果を、囲碁AI「AlphaGo」などで知られる英DeepMindが発表した。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIで数学の新たな定理発見　英DeepMindと数学者がNatureに共同論文]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2112/02/news149.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2112/02/news149.html"/>
+        <updated>2021-12-02T10:27:00.000Z</updated>
+        <summary type="html"><![CDATA[新たな数学の定理の発見や、未証明の予想の解決にAIが役立つ──そんな研究結果を、囲碁AI「AlphaGo」などで知られる英DeepMindが発表した。]]></summary>
+        <author>
+            <name>ITmedia TOP STORIES 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[転がすだけで曲線や立体物の長さなどを簡単に計測。データ記録も可能なデジタルメジャー「AIOK」]]></title>
+        <id>f36a32a0-5314-43f9-947e-6f154912ac71</id>
+        <link href="https://japanese.engadget.com/aiok-digital-measure-102552078.html"/>
+        <updated>2021-12-02T10:25:52.000Z</updated>
+        <summary type="html"><![CDATA[「AIOK」(エオク)主な特徴 1.片手でも様々な場面で物の長さを簡単に計測！ 2.センチ・インチ・フィートの3つの計測単位を搭載！ 3.コンパクトサイズ＆35g超軽量設計で持ち運びが便利！ AIOKは、従来の巻尺では難しかった立体的な形状や曲線部分の長さを簡単に計測できるデジタルメジャーです。本体を転がすだけで手軽に計測できますので、様々なシーンで大活躍！巻き取りが不要の安全設計なので、誰でも安心して使えます。 計測したい場所の上をコロコロ転がすだけで曲線や立体も正確に採寸可能です。お一人でも片手で長さを計測でき、作業時間の短縮をすることが可能になります。 AIOKは3つのモードを搭載し、必要に応じてモードを切り替え、壁際や物の隙間などからでも正確に対象物を計測できます。 直線だけでなく、3D曲線や円周、不規則な面の採寸も簡単に行え、幅広い場面で活用できます。 本体を回すだけでセンチ・インチ・フィートの3つの計測単位が簡単に切り替えることができます。 計測したデータは本体メモリに保存できるので計測ごとにメモを取る必要なし！ 計測結果が見やすく表示されるようにLCDディスプレイを搭載。]]></summary>
+        <author>
+            <name>GREEN FUNDING with Engadget Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazonアプリストア、Android 12で動作しない不具合が1か月以上継続中]]></title>
+        <id>f806af80-8c62-496f-b7fc-abf6d31863d1</id>
+        <link href="https://japanese.engadget.com/amazon-appstore-android12-102420823.html"/>
+        <updated>2021-12-02T10:24:20.000Z</updated>
+        <summary type="html"><![CDATA[Android 12にアップデートしたPixelなどで、Amazonアプリストアが動作しないという不具合が報告されています。]]></summary>
+        <author>
+            <name>山本竜也(Tatsuya Yamamoto)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[細身でスマート！ 軽量折りたたみ電動アシスト自転車「STORM」]]></title>
+        <id>https://www.lifehacker.jp/2021/12/machi-ya-storm-start.html</id>
+        <link href="https://www.lifehacker.jp/2021/12/machi-ya-storm-start.html"/>
+        <updated>2021-12-02T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「STORM」は一見すると普通の折りたたみ自転車ですが、実は電動アシスト自転車。細身フレームとポップなカラーリングで街ナカでも映えるスマートなデザインが特長です。]]></summary>
+        <author>
+            <name>Haruki Matsumoto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「すべての二次元オタクを幸せにする」――DLsiteのエイシスが組織再編　新会社「viviON」設立]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2112/02/news146.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2112/02/news146.html"/>
+        <updated>2021-12-02T09:48:00.000Z</updated>
+        <summary type="html"><![CDATA[ゲオホールディングスの傘下で、同人誌などのダウンロード販売サイト「DLsite」を運営するエイシスは、グループ再編により新会社「viviON」を設立。同日よりエイシスの事業を吸収分割契約により継承する。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple、「第3回Apple Music Awards」発表　Official髭男dismも受賞]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2112/02/news147.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2112/02/news147.html"/>
+        <updated>2021-12-02T09:48:00.000Z</updated>
+        <summary type="html"><![CDATA[今年は「Regional Artist of the Year」が新設された。]]></summary>
+        <author>
+            <name>ITmedia TOP STORIES 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「すべての二次元オタクを幸せにする」――DLsiteのエイシスが組織再編　新会社「viviON」設立]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2112/02/news146.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2112/02/news146.html"/>
+        <updated>2021-12-02T09:48:00.000Z</updated>
+        <summary type="html"><![CDATA[ゲオホールディングスの傘下で、同人誌などのダウンロード販売サイト「DLsite」を運営するエイシスは、グループ再編により新会社「viviON」を設立。同日よりエイシスの事業を吸収分割契約により継承する。]]></summary>
+        <author>
+            <name>ITmedia TOP STORIES 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 11のスタートメニューが柔軟に？ 3種の表示パターンから選べるテストが開始]]></title>
+        <id>1a670de9-9092-457e-b89a-f9176df2fc6f</id>
+        <link href="https://japanese.engadget.com/microsoft-testing-improve-windows11-startmenu-093208550.html"/>
+        <updated>2021-12-02T09:32:08.000Z</updated>
+        <summary type="html"><![CDATA[マイクロソフトが今後、Windows 11のスタートメニューをカスタマイズ可能にするよう検討していることが明らかとなりました。]]></summary>
+        <author>
+            <name>Kiyoshi Tane</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“ラーメンの鬼”佐野実の娘が明かす「ラーメンの新境地」　父になかった「支那そばや」の哲学とは]]></title>
+        <id>https://www.itmedia.co.jp/business/articles/2112/02/news047.html</id>
+        <link href="https://www.itmedia.co.jp/business/articles/2112/02/news047.html"/>
+        <updated>2021-12-02T09:15:00.000Z</updated>
+        <summary type="html"><![CDATA[ラーメンの人気店として知られる「支那そばや」。支那そばやの運営に関わり、東京ラーメンストリート店を切り盛りしていたのは“ラーメンの鬼”の娘、佐野史華さんであることはあまり知られていない。史華さんが店に立つ上で大切にしているものや、ラーメン店を経営する上で大事にしているものは何か。話を聞くと、父とは対照的な哲学が浮かび上がってきた。]]></summary>
+        <author>
+            <name>ITmedia TOP STORIES 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Amazonブラックフライデー】カテゴリ別に紹介！ ライフハッカー読者が購入したものランキング]]></title>
+        <id>https://www.lifehacker.jp/2021/12/247250.html</id>
+        <link href="https://www.lifehacker.jp/2021/12/247250.html"/>
+        <updated>2021-12-02T09:15:00.000Z</updated>
+        <summary type="html"><![CDATA[年に一度のビッグセール ｢｢Amazonブラックフライデー｣ も本日12月2日23時59分までと、終了の時間が迫ってきましたね。 
+
+ライフハッカー読者が、ブラックフライデー期間で購入したセール対象アイテムを商品カテゴリ別ランキングで紹介します！ なに買おうかな〜と悩んでいたら、ぜひ参考にしてみてくださいね。]]></summary>
+        <author>
+            <name>メディアジーンメディアコマース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Qualcommがゲーム機向けArm SoC「Snapdragon G3x Gen 1」を発表、開発者キットの提供も開始]]></title>
+        <id>https://www.itmedia.co.jp/pcuser/articles/2112/02/news134.html</id>
+        <link href="https://www.itmedia.co.jp/pcuser/articles/2112/02/news134.html"/>
+        <updated>2021-12-02T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米Qualcommは12月1日（現地時間）、ゲーム機向けのArm SoC「Snapdragon G3x Gen 1」をプライベートイベント「Snapdragon Tech Summit 2021」にて発表した。また、このSoCを搭載した携帯型ゲーム開発者キットの提供も始めた。]]></summary>
+        <author>
+            <name>ITmedia TOP STORIES 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[すぐ飲めて温まる！インスタントスープ・味噌汁14選【Amazonブラックフライデー最終日】]]></title>
+        <id>https://www.lifehacker.jp/2021/12/247106amazon-blackfriday-sale-soup.html</id>
+        <link href="https://www.lifehacker.jp/2021/12/247106amazon-blackfriday-sale-soup.html"/>
+        <updated>2021-12-02T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[寒い冬がやってきましたね。スープやお味噌汁でからだを温めましょう！Amazonブラックフライデーでオススメのインスタントスープ＆味噌汁をセレクト！]]></summary>
+        <author>
+            <name>ライフハッカー編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazonプライムビデオ12月の新作：「鬼滅の刃 遊郭編」「花より男子ファイナル」「映画 えんとつ町のプペル」など]]></title>
+        <id>db1d1cc5-7ec6-4ea6-8674-83bd99bef4bf</id>
+        <link href="https://japanese.engadget.com/prime-video-new-085532082.html"/>
+        <updated>2021-12-02T08:55:32.000Z</updated>
+        <summary type="html"><![CDATA[幅広い作品ラインアップが魅力のAmazon Prime Videoでは、毎月、新作の配信コンテンツが追加されています。2021年12月も、「花より男子ファイナル」「テレビアニメ『鬼滅の刃』遊郭編」「映画 えんとつ町のプペル」など、注目作が目白押しです。]]></summary>
+        <author>
+            <name>Engadgetオトク情報局</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[シャープの立体型マスクに子どもサイズ登場]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2112/02/news137.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2112/02/news137.html"/>
+        <updated>2021-12-02T08:50:00.000Z</updated>
+        <summary type="html"><![CDATA[6角形の立体構造で口元の空間を確保し、呼吸しやすくしたシャープの「クリスタルマスク」に子どもサイズが登場。5枚入りで699円（税込、送料別）。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[シャープの立体型マスクに子どもサイズ登場]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2112/02/news137.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2112/02/news137.html"/>
+        <updated>2021-12-02T08:50:00.000Z</updated>
+        <summary type="html"><![CDATA[6角形の立体構造で口元の空間を確保し、呼吸しやすくしたシャープの「クリスタルマスク」に子どもサイズが登場。5枚入りで699円（税込、送料別）。]]></summary>
+        <author>
+            <name>ITmedia TOP STORIES 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ライフハッカー編集部がリアル購入したアイテムまとめ【Amazonブラックフライデー最終日】]]></title>
+        <id>https://www.lifehacker.jp/2021/12/247258amazon-blackfriday-sale-editors-buy.html</id>
+        <link href="https://www.lifehacker.jp/2021/12/247258amazon-blackfriday-sale-editors-buy.html"/>
+        <updated>2021-12-02T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazonブラックフライデーは本日最終日！ 編集部員がリアルに購入したアイテムを聞いてみました。驚くほどに実用的！ 買い残しのないよう、お買い物の参考にぜひ。
+
+｢Amazonブラックフライデー｣は12月2日（木）23:59まで。]]></summary>
+        <author>
+            <name>ライフハッカー編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PUBG Mobileで『涼宮ハルヒの憂鬱』コラボ開催中。SOS団になって戦場を駆けよう]]></title>
+        <id>d563ddf4-b9b6-416e-a721-9a7585105344</id>
+        <link href="https://japanese.engadget.com/pubg-mobile-080316816.html"/>
+        <updated>2021-12-02T08:03:16.000Z</updated>
+        <summary type="html"><![CDATA[PUBG Mobileにて11月30日から人気ライトノベルシリーズ『涼宮ハルヒの憂鬱』とのコラボを実施中です。]]></summary>
+        <author>
+            <name>つくね伯爵</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2万円台から【Amazonブラックフライデー】にて4Kモニターが大幅値引き中！]]></title>
+        <id>https://www.lifehacker.jp/2021/12/4kmonitor.html</id>
+        <link href="https://www.lifehacker.jp/2021/12/4kmonitor.html"/>
+        <updated>2021-12-02T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazonブラックフライデーでお得な4Kモニターのセールアイテムをご紹介します。]]></summary>
+        <author>
+            <name>ライフハッカー編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[QualcommがノートPC向けArm SoC「Snapdragon 8cx Gen3」を発表、搭載製品は2022年前半に登場予定]]></title>
+        <id>https://www.itmedia.co.jp/pcuser/articles/2112/02/news126.html</id>
+        <link href="https://www.itmedia.co.jp/pcuser/articles/2112/02/news126.html"/>
+        <updated>2021-12-02T07:40:00.000Z</updated>
+        <summary type="html"><![CDATA[米Qualcommは12月1日（ハワイ時間）、ノートPC向けのArm SoC「Snapdragon 8cx Gen3」「Snapdragon 7c＋ Gen3」を発表した。どちらも、搭載ノートPCは2022年前半に発売予定だという。]]></summary>
+        <author>
+            <name>ITmedia TOP STORIES 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reddit、4つのリアルタイム機能を追加]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2112/02/news128.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2112/02/news128.html"/>
+        <updated>2021-12-02T07:35:00.000Z</updated>
+        <summary type="html"><![CDATA[RedditはWebおよびモバイルアプリに、投票やコメントのリアルタイムな動きが見える新機能を追加した。コメントを新着順表示に切り替えるボタンも表示される。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reddit、4つのリアルタイム機能を追加]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2112/02/news128.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2112/02/news128.html"/>
+        <updated>2021-12-02T07:35:00.000Z</updated>
+        <summary type="html"><![CDATA[RedditはWebおよびモバイルアプリに、投票やコメントのリアルタイムな動きが見える新機能を追加した。コメントを新着順表示に切り替えるボタンも表示される。]]></summary>
+        <author>
+            <name>ITmedia TOP STORIES 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[本格的な冬はもうすぐそこ！ Amazonブラックフライデーで防寒アウターを購入しよう！]]></title>
+        <id>f68c1915-83ba-4c8c-be1e-d6f1ed0e5973</id>
+        <link href="https://japanese.engadget.com/black-friday-sale-outer-073207492.html"/>
+        <updated>2021-12-02T07:32:07.000Z</updated>
+        <summary type="html"><![CDATA[本格的な冬の季節が近づき、特に朝晩は冷え込みが厳しくなってきました。ダウンジャケットなどの防寒アウターの出番です。Amazonブラックフライデーセール対象アイテムの中からいくつかご紹介します。]]></summary>
+        <author>
+            <name>Engadgetオトク情報局</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[プレイステーション △○✕□アイコンライトに新色2モデル ゲーマー向けインテリア]]></title>
+        <id>e7c7a53c-bd4e-4743-8652-87e5ab625d85</id>
+        <link href="https://japanese.engadget.com/paladone-playstation-icons-light-white-msy-073014391.html"/>
+        <updated>2021-12-02T07:30:14.000Z</updated>
+        <summary type="html"><![CDATA[ブランドロイヤリティ主張系インテリアの定番、PlayStation アイコンライトに新色が加わりました。]]></summary>
+        <author>
+            <name>Ittousai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人工羽毛だから丸洗い・乾燥機もOKの多機能シュラフが終了間近！]]></title>
+        <id>https://www.lifehacker.jp/2021/12/247170-machi-ya-relieve-end.html</id>
+        <link href="https://www.lifehacker.jp/2021/12/247170-machi-ya-relieve-end.html"/>
+        <updated>2021-12-02T07:30:00.000Z</updated>
+        <summary type="html"><![CDATA[「レリーバー™シュラフ」は、 創業100年を超える寝具メーカー・イシケン株式会社が開発した人口羽毛 「Air Flake®︎」 を使用したシュラフ。高級羽毛のように暖かく軽く、洗濯機で丸洗いできます。]]></summary>
+        <author>
+            <name>飯田あゆみ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ブラックフライデーで22％オフ！ 電池交換できる忘れ物防止タグ「Tile Mate」をミニレビュー]]></title>
+        <id>725576b9-8a3c-467a-b3d2-56b1d91397ac</id>
+        <link href="https://japanese.engadget.com/black-friday-sale-tile-072246794.html"/>
+        <updated>2021-12-02T07:22:46.000Z</updated>
+        <summary type="html"><![CDATA[Amazonブラックフライデーが本日23:59まで開催中。大和哲さんが実際に購入し、「買い物レビュー日記」にてミニレビューした「Tile Mate (2020) 電池交換版」もセール対象になっています。]]></summary>
+        <author>
+            <name>Engadgetオトク情報局</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Amazonブラックフライデー】在宅ワークが捗る「デスク周りグッズ」を集めてみたよ]]></title>
+        <id>https://www.lifehacker.jp/2021/12/amazon_bf2021_remotework_goods.html</id>
+        <link href="https://www.lifehacker.jp/2021/12/amazon_bf2021_remotework_goods.html"/>
+        <updated>2021-12-02T07:15:00.000Z</updated>
+        <summary type="html"><![CDATA[必要ないかな、と思っていても、実際に加えてみれば便利で驚くのがワークアイテム。ここでは現在開催中のAmazonブラックフライデーから、筆者が使っているものや欲しいもの、気になっているものを紹介しますね。]]></summary>
+        <author>
+            <name>中川真知子</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Teamsに中小企業向け「Essentials」登場　月額430円で参加人数／時間拡大]]></title>
+        <id>2225301d-f0a4-48c8-946f-a04c710c695f</id>
+        <link href="https://japanese.engadget.com/microsoft-teams-essentials-070025845.html"/>
+        <updated>2021-12-02T07:00:25.000Z</updated>
+        <summary type="html"><![CDATA[リモートワークや授業の普及によりビデオ会議ツールの需要がますます高まる中、米マイクロソフトは自社の「Microsoft Teams」に中小企業向けの新プラン「Microsoft Teams Essentials」を追加しました。]]></summary>
+        <author>
+            <name>塚本直樹(Naoki Tsukamoto)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ニオイ対策、保湿、香りにこだわった機能性ボディソープ11選【Amazonブラックフライデー最終日】]]></title>
+        <id>https://www.lifehacker.jp/2021/12/246958amazon-blackfriday-sale-bodysoap.html</id>
+        <link href="https://www.lifehacker.jp/2021/12/246958amazon-blackfriday-sale-bodysoap.html"/>
+        <updated>2021-12-02T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazonブラックフライデーセールで買いたい、ニオイ対策、保湿、香りにこだわったものなどちょっと贅沢なボディソープをセレクトしてみました。]]></summary>
+        <author>
+            <name>ライフハッカー編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ごみピットの煙、AIで発見　リチウムイオン電池の誤投棄などで相次ぐ火災を防ぐ]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2112/02/news118.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2112/02/news118.html"/>
+        <updated>2021-12-02T06:30:00.000Z</updated>
+        <summary type="html"><![CDATA[「ごみピット」向け発煙を検知AIシステム「Smoke AI」がJFEエンジニアリングから。ごみピットの発煙モデルなど数万件のデータをディープラーニングで学習させた。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ごみピットの煙、AIで発見　リチウムイオン電池の誤投棄などで相次ぐ火災を防ぐ]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2112/02/news118.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2112/02/news118.html"/>
+        <updated>2021-12-02T06:30:00.000Z</updated>
+        <summary type="html"><![CDATA[「ごみピット」向け発煙を検知AIシステム「Smoke AI」がJFEエンジニアリングから。ごみピットの発煙モデルなど数万件のデータをディープラーニングで学習させた。]]></summary>
+        <author>
+            <name>ITmedia TOP STORIES 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazonブラックフライデーで5000円以下に！ Xiaomiのミニハンディクリーナーをミニレビュー]]></title>
+        <id>d6047617-41ee-4308-8470-086fd5b5d2c5</id>
+        <link href="https://japanese.engadget.com/black-friday-sale-xiaomi-cleaner-062232138.html"/>
+        <updated>2021-12-02T06:22:32.000Z</updated>
+        <summary type="html"><![CDATA[Amazonブラックフライデーが本日23:59まで開催中。ナカヤマユウショウさんが実際に購入し、「買い物レビュー日記」にてミニレビューした「Xiaomi Mi ハンディクリーナー ミニ」もセール対象になっています。]]></summary>
+        <author>
+            <name>Engadgetオトク情報局</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨の1年を振り返る　2022年の価格はどうなる？【後編】]]></title>
+        <id>https://www.itmedia.co.jp/business/articles/2112/02/news116.html</id>
+        <link href="https://www.itmedia.co.jp/business/articles/2112/02/news116.html"/>
+        <updated>2021-12-02T06:20:00.000Z</updated>
+        <summary type="html"><![CDATA[前編では2021年の仮想通貨を取り巻く状況を振り返った。後編では引き続き、ビットバンクの廣末紀之CEOと長谷川友哉マーケットアナリストの解説を元に、22年の課題と価格の見通しを考える。]]></summary>
+        <author>
+            <name>ITmedia TOP STORIES 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨の1年を振り返る　770万円最高値更新への道のり【前編】]]></title>
+        <id>https://www.itmedia.co.jp/business/articles/2112/02/news108.html</id>
+        <link href="https://www.itmedia.co.jp/business/articles/2112/02/news108.html"/>
+        <updated>2021-12-02T06:14:00.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨にとって、2021年は復活の年だったと言えるだろうか。ビットコインの価格は770万円を超え、過去最高値を更新した。この1年、仮想通貨周りでどんなことがあり、そして22年はどうなるのか？　ビットバンクの廣末紀之CEOと長谷川友哉マーケットアナリストの解説を元に、この1年の動向を振り返る。]]></summary>
+        <author>
+            <name>ITmedia TOP STORIES 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「PayPayスタンプカード」発行　決済で自動押印　「とらのあな」などで先行]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2112/02/news114.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2112/02/news114.html"/>
+        <updated>2021-12-02T06:02:00.000Z</updated>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ピクミン ブルーム、12月18日コミュニティ・デイ開催決定 目標1万歩]]></title>
+        <id>07df6d7c-9e38-45e9-a1a9-abec8b4b5d33</id>
+        <link href="https://japanese.engadget.com/pikmin-bloom-060046505.html"/>
+        <updated>2021-12-02T06:00:46.000Z</updated>
+        <summary type="html"><![CDATA[ピクミン ブルームのイベント『コミュニティ・デイ』開催が12月18日(土)に決定しました。]]></summary>
+        <author>
+            <name>Ittousai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ブラックフライデーのセール対象。プレゼントにも最適なMi Smart Band 6をミニレビュー]]></title>
+        <id>77d3ccc9-bda8-4a30-86ad-d4953ef958a0</id>
+        <link href="https://japanese.engadget.com/black-friday-sale-xiaomi-smartband-052213042.html"/>
+        <updated>2021-12-02T05:22:13.000Z</updated>
+        <summary type="html"><![CDATA[Amazonブラックフライデーが本日23:59まで開催中。金炯仙さんが実際に購入し、「買い物レビュー日記」にてミニレビューした「Xiaomi Mi Smart Band 6」もセール対象になっています。]]></summary>
+        <author>
+            <name>Engadgetオトク情報局</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[携帯PCゲーム機Steam Deck、独占タイトルは存在しないことが明らかに]]></title>
+        <id>e0dfef26-4f76-4074-b2cc-bfa99e08c486</id>
+        <link href="https://japanese.engadget.com/steam-deck-no-exclusive-games-050127188.html"/>
+        <updated>2021-12-02T05:01:27.000Z</updated>
+        <summary type="html"><![CDATA[携帯ゲームPC「Steam Deck」の出荷が2022年2月に迫るなか、Valve社がさらなる情報を公開し、専用ゲームは存在しないことを明らかにしました。]]></summary>
+        <author>
+            <name>Kiyoshi Tane</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[12/2 Amazonブラックフライデー最終日。まだまだ買える人気アイテムをドドンとご紹介！]]></title>
+        <id>1c6958af-22ca-46e3-b03f-b8e1999636b2</id>
+        <link href="https://japanese.engadget.com/black-friday-sale-popular-045506186.html"/>
+        <updated>2021-12-02T04:55:06.000Z</updated>
+        <summary type="html"><![CDATA[7日間のビッグセールも、本日12月2日（木）23:59で終了です。今からでもまだ買える人気アイテムをご紹介します！]]></summary>
+        <author>
+            <name>Engadgetオトク情報局</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「親切で親しみやすい顔」求む――人型ロボットの“顔”募集に2万人が殺到　採用者には20万ドル]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2112/02/news105.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2112/02/news105.html"/>
+        <updated>2021-12-02T04:52:00.000Z</updated>
+        <summary type="html"><![CDATA[米国に本社を置くロボットメーカーのPromobotは、人型ロボットのモデルとして「親切で親しみやすい顔」を募集することを発表。採用者には20万ドル（約2250万円）を支払うとしたところ、2万件以上の応募があり、12月2日時点で募集はいったん中断している。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Amazonブラックフライデー】売れ筋ランキングから厳選！ プロジェクターやノートPCほか、割引額の高いお買い得なアイテム多数]]></title>
+        <id>https://www.lifehacker.jp/2021/12/amazon-blackfriday-2021-1202-2.html</id>
+        <link href="https://www.lifehacker.jp/2021/12/amazon-blackfriday-2021-1202-2.html"/>
+        <updated>2021-12-02T04:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazon（アマゾン）では、2021年11月26日9時から12月2日23時59分まで、年に一度のビッグセール「Amazonブラックフライデー」が開催中！本日、最終日です！ブラックフライデーでは、毎日開催されているタイムセールもパワーアップ。現在、プロジェクターやノートPCほか、割引額の高いアイテムがお買い得に登場しています。]]></summary>
+        <author>
+            <name>メディアジーンメディアコマース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clubhouseのトピック機能が更新。フォローしたトピックに関連するルームを見つけやすく]]></title>
+        <id>3416429c-3adc-4808-ba43-e37d10814cf5</id>
+        <link href="https://japanese.engadget.com/clubhouse-topic-function-v2-043049889.html"/>
+        <updated>2021-12-02T04:30:49.000Z</updated>
+        <summary type="html"><![CDATA[Clubhouseは12月2日、モバイル版アプリのトピック機能を「Topics（トピックス）機能v2」にアップデートしたと発表しました。]]></summary>
+        <author>
+            <name>山本竜也(Tatsuya Yamamoto)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人をダメにするゲーミングデスク発売　だらけた姿勢を支えるフットレスト搭載]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2112/02/news103.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2112/02/news103.html"/>
+        <updated>2021-12-02T04:23:00.000Z</updated>
+        <summary type="html"><![CDATA[タンスのゲンは1日、Web漫画家のやしろあずきさんが考案した「フットレスト付き昇降式ゲーミングデスク」を発売した。直販価格は2万4800円（税込、送料無料）。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[メガネ1つで誰でもVTuber、「VTUNER」の可能性　顔バレリスクなしも表情は硬め]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2112/02/news102.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2112/02/news102.html"/>
+        <updated>2021-12-02T04:20:00.000Z</updated>
+        <summary type="html"><![CDATA[ジンズがセンサー内蔵メガネ「JINS MEME」ユーザー向けに、3Dアバターをリアルタイムに操作できるアプリ「VTUNER」をリリースした。実際に使ってみたところ、率直な感想は「可能性は感じるがまだまだ頑張ってほしい」といったところだ。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソニーα7 IV国内発表。鳥対応瞳AFに画角変動補正など、注目のフルサイズミラーレス]]></title>
+        <id>6a2e2144-b55f-4695-b96b-c2c3abd69fc9</id>
+        <link href="https://japanese.engadget.com/sony-a7-iv-040021494.html"/>
+        <updated>2021-12-02T04:00:21.000Z</updated>
+        <summary type="html"><![CDATA[ソニーがフルサイズミラーレスカメラ「α7 IV」を国内で発表しました。10月にグローバル発表され、日本市場への投入が予告されていたモデルです。価格と発売日は次の通り。ボディー単体（ILCE-7M4）が33万円（税込）前後で12月17日発売（12月7日10時受注開始）、レンズキット（ILCE-7M4K）が35万円（税込）前後で2022年春以降に発売予定となります。]]></summary>
+        <author>
+            <name>金子 麟太郎（Rintaro Kaneko）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「55V型4Kテレビ」も5万円台から、LG、東芝、シャープなどが特選タイムセール中]]></title>
+        <id>https://www.lifehacker.jp/2021/12/246787lg-4ktv-sale.html</id>
+        <link href="https://www.lifehacker.jp/2021/12/246787lg-4ktv-sale.html"/>
+        <updated>2021-12-02T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[LG、レグザ、シャープなど「50V型4Kテレビ」も5万円台から特選セールに！【Amazonブラックフライデー】でお得なおすすめ液晶テレビを紹介します。]]></summary>
+        <author>
+            <name>ライフハッカー編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Luna Display最新版、「MacをPCのサブディスプレイ化」や4K/5K解像度をサポート]]></title>
+        <id>109fccae-6eee-45c6-adb9-96beb56bfcde</id>
+        <link href="https://japanese.engadget.com/luna-display-pc-to-mac-5k-support-033839832.html"/>
+        <updated>2021-12-02T03:38:39.000Z</updated>
+        <summary type="html"><![CDATA[余ったiPadやMacをメインのMacやPCのサブディスプレイ化する「Luna Display」がアップデートし、新機能の「MacをPCのサブディスプレイ化」や4Kおよび5K解像度がサポートされました。]]></summary>
+        <author>
+            <name>Kiyoshi Tane</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「この時間だけデータ使い放題」が可能に、110円から　ソフトバンクのデータ専用3GBプランで]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2112/02/news089.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2112/02/news089.html"/>
+        <updated>2021-12-02T03:15:00.000Z</updated>
+        <summary type="html"><![CDATA[ソフトバンクが「データ通信専用3GBプラン」用のオプション「時間制ギガ無制限オプション」を15日から提供する。利用時間を指定して申し込むと、その時間はデータ通信を使い放題になる。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「秀丸」11年ぶりメジャーバージョンアップ　ダークモードなど新搭載]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2112/02/news088.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2112/02/news088.html"/>
+        <updated>2021-12-02T03:03:00.000Z</updated>
+        <summary type="html"><![CDATA[「秀丸エディタ」の最新版「Ver9.00」が公開。11年以上ぶりのメジャーバージョンアップだ。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国内初、ビットコインがたまるクレカ「bitFlyer クレカ」発行]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2112/02/news084.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2112/02/news084.html"/>
+        <updated>2021-12-02T02:36:00.000Z</updated>
+        <summary type="html"><![CDATA[利用に応じてビットコインがたまるクレジットカード「bitFlyer クレカ」登場。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TikTok、クリエイター収益化ツールを拡充　投げ銭などが可能に]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2112/02/news078.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2112/02/news078.html"/>
+        <updated>2021-12-02T02:13:00.000Z</updated>
+        <summary type="html"><![CDATA[TikTokがクリエイターのための収益化プログラム「Creator Next」を発表した。また、コンテンツにギフトを贈る機能と、クリエイターにチップを投げる機能も追加した。（現在、日本は対象外。）]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PythonユーザーのためのTypeScript入門]]></title>
+        <id>https://qiita.com/nicco_mirai/items/d4e88fa61f663c59825b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/nicco_mirai/items/d4e88fa61f663c59825b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-12-02T01:53:16.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+この記事はそれなりにPythonを使ったことのある人間がとりあえずTypeScriptを書き始めることが出来るレベルになることを目標としています。
+Python側の事情もそこそこに書いた…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS、ブラウザで機械学習を学び試せる「SageMaker Studio Lab」を無料で提供]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2112/02/news073.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2112/02/news073.html"/>
+        <updated>2021-12-02T01:34:00.000Z</updated>
+        <summary type="html"><![CDATA[AWSが、機械学習の実行環境を提供する新サービス「SageMaker Studio Lab」を無料で提供する。オープンソースの「JupyterLab IDE」をベースにした新サービスで、PythonやR言語などに対応。Webブラウザから利用可能という。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[iPhoneスクリーン上にあるQRコードをスキャンする方法]]></title>
         <id>https://www.lifehacker.jp/2021/12/how-to-scan-qr-code-on-iphone-screen.html</id>
@@ -24,6 +942,30 @@
         <summary type="html"><![CDATA[冬ボーナスの使い道、本命はやっぱり大画面テレビ。手ごろな2台目を買うもよし、50型以上の大画面4K対応も手が届く価格帯になりました。サブスク動画配信に対応したスマートテレビなら映画やアニメが見放題です。Amazonの「テレビ」売れ筋ランキングを紹介します。]]></summary>
         <author>
             <name>Engadgetオトク情報局</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨ボット構築に必要な知識体系]]></title>
+        <id>https://qiita.com/hoheto/items/299b7eef1dbb8155966f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/hoheto/items/299b7eef1dbb8155966f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-12-02T00:26:48.000Z</updated>
+        <summary type="html"><![CDATA[みなさんこんにちは。Hohetoです。
+
+本日の記事では、「仮想通貨ボット構築に必要な知識体系」をまとめてみたいと思います。
+
+結論から申し上げますと、仮想通貨ボット構築には、いくつかの異なる領域の知識…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[引越し業界初の新サービスを支えるフロントエンドの技術]]></title>
+        <id>https://qiita.com/anneau/items/3936c954690a28c51c8f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/anneau/items/3936c954690a28c51c8f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-12-02T00:13:43.000Z</updated>
+        <summary type="html"><![CDATA[この記事はエイチーム引越し侍 / エイチームコネクトの社員による、Ateam Hikkoshi samurai Inc.× Ateam Connect Inc. Advent Calendar 20…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
         </author>
     </entry>
     <entry>
@@ -224,6 +1166,20 @@
         <summary type="html"><![CDATA[『マーケター1年目の教科書』（栗原康太、黒澤友貴 著、フォレスト出版）より、マーケターに欠かせない「顧客インタビュー」技術を高めるコツを解説します。]]></summary>
         <author>
             <name>印南敦史</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[動画からスライドを自動生成するアプリを作りました]]></title>
+        <id>https://qiita.com/shu223/items/9bf0f24058665ec2fc6e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/shu223/items/9bf0f24058665ec2fc6e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-12-01T21:54:24.000Z</updated>
+        <summary type="html"><![CDATA[この記事は クソアプリアドベントカレンダー2 の2日目の記事です。今まで傍から見ているだけでしたがついに初参加できて嬉しいです。
+
+課題： 動画よりもスライドでサクサク見たい
+
+WWDCセッションの内容…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
         </author>
     </entry>
     <entry>
@@ -903,6 +1859,34 @@ VRゲームのプレイ動画などでよく見かける、プレーヤーがVR�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Twitterに誰でもドット絵を投下できるサービスを作ったよ]]></title>
+        <id>https://qiita.com/nabettu/items/fa79c73aca3c504ec016?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/nabettu/items/fa79c73aca3c504ec016?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-12-01T03:06:16.000Z</updated>
+        <summary type="html"><![CDATA[どうも今年もやってきました クソアプリアドベントカレンダー 1の2日目を担当させていただきます @nabettu です。
+今年で参加５年目らしい。まじかよ。
+
+過去のクソアプリ達
+
+https://qi…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[量子ハードウェア動向をまとめてみた]]></title>
+        <id>https://qiita.com/izey0306/items/e643dd30b3fcf37f0905?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/izey0306/items/e643dd30b3fcf37f0905?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-12-01T02:57:43.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+この記事では量子ハードウェアとしてメジャーなものを大雑把に分類した上で、それぞれの直近の動向を簡単に整理していきたいと思います。
+今回ピックアップするハードウェアは特殊な契約を結ばないと…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Tesla、発売が遅れている「Cybertruck」に似た「Cyberwhistle」を50ドルで発売、即完売]]></title>
         <id>https://www.itmedia.co.jp/news/articles/2112/01/news099.html</id>
         <link href="https://www.itmedia.co.jp/news/articles/2112/01/news099.html"/>
@@ -1057,6 +2041,20 @@ Flutter × Firebase × StripeAPIで、CtoCプラットフォームアプリを�
         <summary type="html"><![CDATA[Amazonブラックフライデーセールの日替わりビッグサプライズセールで、西川の「SEVENDAYS 敷布団 シングル」が個数限定で、5,978円です。]]></summary>
         <author>
             <name>田中宏和</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[エンジニアの生産性を高めるために必要な4つの指標]]></title>
+        <id>https://qiita.com/tomox1001/items/cca440ffd656d054d9f7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/tomox1001/items/cca440ffd656d054d9f7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-11-30T23:53:14.000Z</updated>
+        <summary type="html"><![CDATA[この記事はモチベーションクラウドシリーズアドベントカレンダー2021の2日目の記事です。
+
+はじめまして。リンクアンドモチベーションの河野です。
+
+本記事では、 "エンジニアにおける生産性の定義と向上"…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
         </author>
     </entry>
     <entry>
@@ -1306,6 +2304,22 @@ Flutter × Firebase × StripeAPIで、CtoCプラットフォームアプリを�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[N予備校でのプログラミングの教え方]]></title>
+        <id>https://qiita.com/hakoeda/items/8758926634acf63588b0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/hakoeda/items/8758926634acf63588b0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-11-30T18:09:48.000Z</updated>
+        <summary type="html"><![CDATA[この記事ではN予備校のプログラミング教育事例を紹介します。
+
+
+
+目的
+
+本記事はドワンゴのアドベントカレンダーの記事ということもあり、現場で活躍するエンジニアレイヤに向けて執筆しています。エンジニア視点で…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[tsconfig.jsonを書くときはTSConfig Basesを使うと便利]]></title>
         <id>https://qiita.com/munieru_jp/items/a67ac782bbf099d90128?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
         <link href="https://qiita.com/munieru_jp/items/a67ac782bbf099d90128?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1420,1135 +2434,6 @@ TSConfigで値を設定していないオプ…]]></summary>
 今回の…]]></summary>
         <author>
             <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Suicaを回数券のように使って10％得する方法]]></title>
-        <id>https://www.lifehacker.jp/2021/11/246695moneyhack-2111.html</id>
-        <link href="https://www.lifehacker.jp/2021/11/246695moneyhack-2111.html"/>
-        <updated>2021-11-30T13:05:00.000Z</updated>
-        <summary type="html"><![CDATA[共働き、共家事、共育児中のファイナンシャルプランナー山崎俊輔さんによるマネーハックコラム。11月は、定期券を買うの止めた人必見！ Suicaを使って「回数券」のように10％お得になる裏技をご紹介します。]]></summary>
-        <author>
-            <name>山崎俊輔</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「PayPayカード」正式発表　支払額の1％をPayPayボーナスで受け取れるクレカ]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2111/30/news192.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2111/30/news192.html"/>
-        <updated>2021-11-30T12:05:00.000Z</updated>
-        <summary type="html"><![CDATA[キャッシュレス決済サービス「PayPay」のブランドを冠したクレジットカード「PayPayカード」がZホールディングス傘下のPayPayカード社から登場した。年会費は無料、12月1日から募集を始める。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「PayPayカード」正式発表　支払額の1％をPayPayボーナスで受け取れるクレカ]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2111/30/news192.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2111/30/news192.html"/>
-        <updated>2021-11-30T12:05:00.000Z</updated>
-        <summary type="html"><![CDATA[キャッシュレス決済サービス「PayPay」のブランドを冠したクレジットカード「PayPayカード」がZホールディングス傘下のPayPayカード社から登場した。年会費は無料、12月1日から募集を始める。]]></summary>
-        <author>
-            <name>ITmedia TOP STORIES 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[巨大“防災地下神殿”行き無料巡回バス、12月1日から期間限定で運行]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2111/30/news193.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2111/30/news193.html"/>
-        <updated>2021-11-30T12:02:00.000Z</updated>
-        <summary type="html"><![CDATA[朝日交通は30日、埼玉県春日部市にある「首都圏外郭放水路」と春日部駅などをつなぐ無料巡回バスを期間限定で運行すると発表した。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[巨大“防災地下神殿”行き無料巡回バス、12月1日から期間限定で運行]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2111/30/news193.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2111/30/news193.html"/>
-        <updated>2021-11-30T12:02:00.000Z</updated>
-        <summary type="html"><![CDATA[朝日交通は30日、埼玉県春日部市にある「首都圏外郭放水路」と春日部駅などをつなぐ無料巡回バスを期間限定で運行すると発表した。]]></summary>
-        <author>
-            <name>ITmedia TOP STORIES 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[布団乾燥機はメリットだらけ！おすすめ5選〜暖かくて快適な睡眠習慣をサポート]]></title>
-        <id>https://www.lifehacker.jp/2021/11/246853amazon-black-friday-sale-futon.html</id>
-        <link href="https://www.lifehacker.jp/2021/11/246853amazon-black-friday-sale-futon.html"/>
-        <updated>2021-11-30T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[一度使うと手放せなくなるあったか習慣をお届け！ ｢Amazonブラックフライデー｣より、おすすめの「布団乾燥機」を紹介します。]]></summary>
-        <author>
-            <name>ライフハッカー編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS IoT1-Clickで家族へ「帰ります」通知を送信できるようにしてみました]]></title>
-        <id>https://qiita.com/hirokun0204/items/3a68507a7cf2b7e9dfa0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/hirokun0204/items/3a68507a7cf2b7e9dfa0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2021-11-30T11:41:11.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-
-先日、AWSを使ってインフラの構築作業を行ったのですが、AWSにとても興味を持てたので、実際に生活で使えそうな何かを作成しようと思い、色々と考えてみました。
-私の友人に「Lambda王」…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[音楽機器のズームが米Zoomを提訴　商標権侵害で日本代理店に続き]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2111/30/news191.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2111/30/news191.html"/>
-        <updated>2021-11-30T11:40:00.000Z</updated>
-        <summary type="html"><![CDATA[音楽機器の販売を手掛けるズームが、米Zoom Video CommunicationsのWeb会議システム「Zoom」が同社の登録商標を侵害しているとして提訴した。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[音楽機器のズームが米ZOOMを提訴　商標権侵害で日本代理店に続き]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2111/30/news191.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2111/30/news191.html"/>
-        <updated>2021-11-30T11:40:00.000Z</updated>
-        <summary type="html"><![CDATA[音楽機器の販売を手掛けるズームが、米ZOOM Video CommunicationsのWeb会議システム「Zoom」が同社の登録商標を侵害しているとして提訴した。]]></summary>
-        <author>
-            <name>ITmedia TOP STORIES 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[13.3型で348g。軽さ＋狭額縁で約2.5万円のモバイルモニタがリンクスから]]></title>
-        <id>1d6dd70a-fd3d-4bed-99f9-fc922e75c513</id>
-        <link href="https://japanese.engadget.com/quintokuta-5-z-133-v-2-113009733.html"/>
-        <updated>2021-11-30T11:30:09.000Z</updated>
-        <summary type="html"><![CDATA[約348gの軽さとデザインが特徴のモバイルディスプレイ、中国Quintokutaの13.3インチフルHD機『5Z133-V2』の日本販売を、代理店のリンクスインターナショナルが発表しました……]]></summary>
-        <author>
-            <name>橋本 新義(Shingi Hashimoto)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[macOSでファイルやフォルダをロックする2つの方法]]></title>
-        <id>https://www.lifehacker.jp/2021/11/246417how-to-lock-files-on-a-mac.html</id>
-        <link href="https://www.lifehacker.jp/2021/11/246417how-to-lock-files-on-a-mac.html"/>
-        <updated>2021-11-30T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[大切なデータを誤って消さないために、macOSでファイルやフォルダをロックする方法をご紹介します。]]></summary>
-        <author>
-            <name>的野裕子,MakeUseOf</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[情報セキュリティ体制の“格付け”、IT連が開始　初年度は42社が星獲得]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2111/30/news190.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2111/30/news190.html"/>
-        <updated>2021-11-30T10:51:00.000Z</updated>
-        <summary type="html"><![CDATA[日本IT団体連盟が、日経500の銘柄企業を対象に情報セキュリティへの取り組みや情報開示の体制について“格付け”する取り組みを始めた。初年度は500社中42社が「特に優良で他の模範となる」として星を獲得した。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[情報セキュリティ体制の“格付け”、IT連が開始　初年度は42社が星獲得]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2111/30/news190.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2111/30/news190.html"/>
-        <updated>2021-11-30T10:51:00.000Z</updated>
-        <summary type="html"><![CDATA[日本IT団体連盟が、日経500の銘柄企業を対象に情報セキュリティへの取り組みや情報開示の体制について“格付け”する取り組みを始めた。初年度は500社中42社が「特に優良で他の模範となる」として星を獲得した。]]></summary>
-        <author>
-            <name>ITmedia TOP STORIES 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DTPの2023年問題、知ってますか？　終末の日が近いType 1フォントの“遺産”にどう対応すべきか]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2111/30/news188.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2111/30/news188.html"/>
-        <updated>2021-11-30T10:36:00.000Z</updated>
-        <summary type="html"><![CDATA[2023年になると、膨大な過去の出版データが使えなくなる。なぜそうなるのか、そのために何をやっておくべきかを考える。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DTPの2023年問題、知ってますか？　終末の日が近いType 1フォントの“遺産”にどう対応すべきか]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2111/30/news188.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2111/30/news188.html"/>
-        <updated>2021-11-30T10:36:00.000Z</updated>
-        <summary type="html"><![CDATA[2023年になると、膨大な過去の出版データが使えなくなる。なぜそうなるのか、そのために何をやっておくべきかを考える。]]></summary>
-        <author>
-            <name>ITmedia TOP STORIES 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[12/2まで。200万冊以上が読み放題「Kindle Unlimited」が3カ月99円に【Amazonブラックフライデー】]]></title>
-        <id>https://www.lifehacker.jp/2021/11/246579amazon-blackfriday-2021-kindle-unlimited.html</id>
-        <link href="https://www.lifehacker.jp/2021/11/246579amazon-blackfriday-2021-kindle-unlimited.html"/>
-        <updated>2021-11-30T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[現在、Kindle Unlimitedでセール中。3カ月99円で200万冊以上が読み放題に！ 気になっていていた人は、今がチャンスですよ〜。]]></summary>
-        <author>
-            <name>ライフハッカー編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コンセントや水道がなくても手軽に洗車や掃除が可能。軽量なのにパワフルなポータブル高圧洗浄機「Aiige」]]></title>
-        <id>8129bbf9-111b-4cba-909c-a4a95377a1ed</id>
-        <link href="https://japanese.engadget.com/aiige-power-washer-101530120.html"/>
-        <updated>2021-11-30T10:15:30.000Z</updated>
-        <summary type="html"><![CDATA[ポータブルコードレス高圧洗浄機「Aiige」(アイゲ)主な特徴 1．1.2kgの超軽量設計・片手で簡単操作、コードレスで携帯や収納に便利！ 2．強力な3.5Mpaの高水圧&3.2L/minの高水量で汚れを手軽に除去！ 3．充電式バッテリー＆自吸式設計によりいつでもどこでも使用可能！ コードレス設計により、近くに電源や水道がない場所でも手軽に使用可能な高圧洗浄機です。1.2kgの軽さ＆コンパクトサイズで持ち運びも楽々！また、3.5MPaの強力噴射で頑固な汚れもしっかり落とします！使用場所の制限がなく、洗車や外壁の洗浄はもちろん、室内掃除やアウトドアなどにも活用できます。 充電式バッテリーを搭載しているので、コンセントへの接続は不要！駐車場や広場など、電源が届かない場所でも強力に洗浄できます。 コードレスの設計でコンセントや延長コードは不要、漏電の心配もなく場所を選ばず気軽に使用できます。 自吸式のAiigeは専用タンクの必要がなく、洗浄する場所が水道から離れていても手軽に掃除できます。バケツに溜めた水や残り湯などに給水ホースを浸して水を吸い上げながら使え、アウトドアでは川や海からの給水も]]></summary>
-        <author>
-            <name>GREEN FUNDING with Engadget Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本の収納にもう悩まない！コンパクト本棚＆ブックスタンド13選【Amazonブラックフライデー】]]></title>
-        <id>https://www.lifehacker.jp/2021/11/246909amazon-blackfriday-sale-bookshelf.html</id>
-        <link href="https://www.lifehacker.jp/2021/11/246909amazon-blackfriday-sale-bookshelf.html"/>
-        <updated>2021-11-30T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ブックスタンドから本棚まで、かさばる紙書籍をコンパクトに収納できるアイテムを【Amazonブラックフライデー】セールより集めて紹介します。]]></summary>
-        <author>
-            <name>ライフハッカー編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ハイスペックだけどコスパも十分　Xiaomiの「POCO X3 GT」は3万円台]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2111/30/news181.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2111/30/news181.html"/>
-        <updated>2021-11-30T09:43:00.000Z</updated>
-        <summary type="html"><![CDATA[Xiaomiのスマートフォンは「Xiaomi」「Redmi」以外に「POCO」ブランドも展開されています。上位モデルの「POCO X3 GT」は2021年7月末に発表されたモデルで、MediaTekのDimensity 1100を搭載、3万円台の価格で販売されています。実はPOCO X3 GTは中国向けの「Redmi Note 10 Pro」のリブランドモデルです。]]></summary>
-        <author>
-            <name>ITmedia TOP STORIES 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ブラックフライデーでほぼ半額！ 至れり尽くせりなAmazonベーシックの定番カメラバッグをミニレビュー]]></title>
-        <id>ec30b17b-d278-48c7-8d86-2743524ecace</id>
-        <link href="https://japanese.engadget.com/black-friday-amazon-basics-camera-bag-093517271.html"/>
-        <updated>2021-11-30T09:35:17.000Z</updated>
-        <summary type="html"><![CDATA[Amazonブラックフライデーが12月2日(木)まで開催中。わっきさんが実際に購入し、「買い物レビュー日記」にてミニレビューした「Amazonベーシック カメラスリングバッグ 7.7L」もセール対象になっています。]]></summary>
-        <author>
-            <name>Engadgetオトク情報局</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「2画面スマホ」はスマートフォンの未来か　「Surface Duo 2」海外モデルを取り寄せて検証してみた]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2111/30/news180.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2111/30/news180.html"/>
-        <updated>2021-11-30T09:34:00.000Z</updated>
-        <summary type="html"><![CDATA[2画面スマートフォン期待の新星「Surface Duo 2」を入手した筆者が、このジャンルの可能性と課題を考える。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「2画面スマホ」はスマートフォンの未来か　「Surface Duo 2」海外モデルを取り寄せて検証してみた]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2111/30/news180.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2111/30/news180.html"/>
-        <updated>2021-11-30T09:34:00.000Z</updated>
-        <summary type="html"><![CDATA[2画面スマートフォン期待の新星「Surface Duo 2」を入手した筆者が、このジャンルの可能性と課題を考える。]]></summary>
-        <author>
-            <name>ITmedia TOP STORIES 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[廉価ブランドのハイエンドスマホ「Realme GT 2 Pro（仮）」の予測画像、どことなくNexus 6P風味]]></title>
-        <id>f7b8cedc-1708-48d7-ae3f-07cf0065f319</id>
-        <link href="https://japanese.engadget.com/realme-gt-2-pro-093028108.html"/>
-        <updated>2021-11-30T09:30:28.000Z</updated>
-        <summary type="html"><![CDATA[中国Realmeの次期フラッグシップスマートフォン「Realme GT 2 Pro（仮称）」の予測レンダリング画像やスペック情報が、海外テックサイトの91Mobileによって公開されています。]]></summary>
-        <author>
-            <name>塚本直樹(Naoki Tsukamoto)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[M2チップ搭載の次期MacBook Airにはノッチがない？]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2111/30/news178.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2111/30/news178.html"/>
-        <updated>2021-11-30T09:25:00.000Z</updated>
-        <summary type="html"><![CDATA[M1、M1 Pro、M1 Maxに続く次世代プロセッサM2を搭載するMacBook Airとされる筐体のCADファイルが公開された。]]></summary>
-        <author>
-            <name>ITmedia TOP STORIES 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Amazonブラックフライデー】Echoシリーズが大特価、最大70%オフの1,490円から！]]></title>
-        <id>https://www.lifehacker.jp/2021/11/amazon-blackfriday2021-echo-sale.html</id>
-        <link href="https://www.lifehacker.jp/2021/11/amazon-blackfriday2021-echo-sale.html"/>
-        <updated>2021-11-30T09:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Amazonのブラックフライデーセールで最大70%オフの1,490円 〜。Echoシリーズ各種が非常にお買い得です。]]></summary>
-        <author>
-            <name>ライフハッカー［日本版］</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[事故でクルマが衝突しても「倒れない信号支柱」開発。歩行者への被害も軽減]]></title>
-        <id>a3e6ff83-7481-48da-916c-c4678f722868</id>
-        <link href="https://japanese.engadget.com/lifesaving-traffic-stopper-090040379.html"/>
-        <updated>2021-11-30T09:00:40.000Z</updated>
-        <summary type="html"><![CDATA[南オーストラリア大学の研究者らは産学共同開発で倒れない信号機支柱の実用化を目指しています]]></summary>
-        <author>
-            <name>Munenori Taniguchi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[煉獄さんの折れた日輪刀、バンダイ「PROPLICA」から]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2111/30/news171.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2111/30/news171.html"/>
-        <updated>2021-11-30T08:58:00.000Z</updated>
-        <summary type="html"><![CDATA[バンダイは30日、「PROPLICA 折れた日輪刀（煉獄杏寿郎）」の予約受付を始めた。「母上、俺はちゃんとやれただろうか」「立派にできましたよ」など音声を多く収録。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[煉獄さんの折れた日輪刀、バンダイ「PROPLICA」から]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2111/30/news171.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2111/30/news171.html"/>
-        <updated>2021-11-30T08:58:00.000Z</updated>
-        <summary type="html"><![CDATA[バンダイは30日、「PROPLICA 折れた日輪刀（煉獄杏寿郎）」の予約受付を始めた。「母上、俺はちゃんとやれただろうか」「立派にできましたよ」など音声を多く収録。]]></summary>
-        <author>
-            <name>ITmedia TOP STORIES 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ブラックフライデーで18％オフ！ Win・Mac同時使いに便利な薄型Bluetoothキーボードをミニレビュー]]></title>
-        <id>f1dc17ac-1cac-4cd7-b6c0-078d24dab65c</id>
-        <link href="https://japanese.engadget.com/black-friday-sale-bluetooth-keyboard-085537354.html"/>
-        <updated>2021-11-30T08:55:37.000Z</updated>
-        <summary type="html"><![CDATA[Amazonブラックフライデーが12月2日(木)まで開催中。Engadget日本版編集長のACCNこと矢崎飛鳥が実際に購入し、「買い物レビュー日記」にてミニレビューした「サンワサプライ マルチペアリング Bluetoothキーボード 400-SKB072」もセール対象になっています。]]></summary>
-        <author>
-            <name>Engadgetオトク情報局</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[サンワサプライ、3段階で高さ調整できるゲーミングローデスク]]></title>
-        <id>f8207eac-bc65-4979-93af-6a23e3d00468</id>
-        <link href="https://japanese.engadget.com/sanwa-gaming-low-desk-083020784.html"/>
-        <updated>2021-11-30T08:30:20.000Z</updated>
-        <summary type="html"><![CDATA[サンワサプライが、使用スタイルに合わせて高さを3段階に調整できるゲーミングローデスク「100-DESKL010BKR」を発売しました。]]></summary>
-        <author>
-            <name>山本竜也(Tatsuya Yamamoto)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[体を動かすことを“おっくう”に感じる全ての在宅ワーカーへ　「Amazfit PowerBuds Pro」を試してみよう]]></title>
-        <id>https://www.itmedia.co.jp/pcuser/articles/2111/30/news143.html</id>
-        <link href="https://www.itmedia.co.jp/pcuser/articles/2111/30/news143.html"/>
-        <updated>2021-11-30T08:30:00.000Z</updated>
-        <summary type="html"><![CDATA[体を動かす機会が少ない在宅ワーカーも少なからずいると思われる今日この頃、そのような人への「福音」となりそうなワイヤレスイヤフォンが登場した。その名を「Amazfit PowerBuds Pro」という。いろいろと試してみたので、レビューとしてお伝えする。]]></summary>
-        <author>
-            <name>ITmedia TOP STORIES 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[この冬大活躍する「電気圧力鍋」おすすめ6選【Amazonブラックフライデー】]]></title>
-        <id>https://www.lifehacker.jp/2021/11/246811amazon-black-friday-sale-ih.html</id>
-        <link href="https://www.lifehacker.jp/2021/11/246811amazon-black-friday-sale-ih.html"/>
-        <updated>2021-11-30T08:30:00.000Z</updated>
-        <summary type="html"><![CDATA[【Amazonブラックフライデー】より、煮込み料理以外にも、この冬大活躍する「電気圧力鍋」おすすめ6選をご紹介します。]]></summary>
-        <author>
-            <name>ライフハッカー編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iモード公式サイト、きょう終了　メールは継続]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2111/30/news166.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2111/30/news166.html"/>
-        <updated>2021-11-30T08:20:00.000Z</updated>
-        <summary type="html"><![CDATA[NTTドコモが、3G携帯電話向けインターネットサービス「iモード」の公式サイトを終了する。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[顔写真1枚でリアルなアバター生成　声や表情、人格も再現へ　凸版「メタクローン」]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2111/30/news164.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2111/30/news164.html"/>
-        <updated>2021-11-30T08:17:00.000Z</updated>
-        <summary type="html"><![CDATA[顔写真1枚からリアルな3Dアバターを自動生成できるサービス「メタクローン・アバター」が凸版から。アバターに本人の肉声や表情、人格を再現するサービスを追加するといった計画も。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[顔写真1枚でリアルなアバター生成　声や表情、人格も再現へ　凸版「メタクローン」]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2111/30/news164.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2111/30/news164.html"/>
-        <updated>2021-11-30T08:17:00.000Z</updated>
-        <summary type="html"><![CDATA[顔写真1枚からリアルな3Dアバターを自動生成できるサービス「メタクローン・アバター」が凸版から。アバターに本人の肉声や表情、人格を再現するサービスを追加するといった計画も。]]></summary>
-        <author>
-            <name>ITmedia TOP STORIES 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LINE Payで二重課金　システム障害が原因　翌日に返金]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2111/30/news163.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2111/30/news163.html"/>
-        <updated>2021-11-30T08:12:00.000Z</updated>
-        <summary type="html"><![CDATA[「LINE Pay」障害で一部のユーザーに二重課金が発生。翌日に返金を完了した。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LINE Payで二重課金　システム障害が原因　翌日に返金]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2111/30/news163.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2111/30/news163.html"/>
-        <updated>2021-11-30T08:12:00.000Z</updated>
-        <summary type="html"><![CDATA[「LINE Pay」障害で一部のユーザーに二重課金が発生。翌日に返金を完了した。]]></summary>
-        <author>
-            <name>ITmedia TOP STORIES 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ブラックフライデーで通常の3割引！ ゲーミングゼリー「GAME BOOSTER Ver.2.0」をミニレビュー]]></title>
-        <id>7f7de31d-09a7-4115-919d-a717d4e21e9b</id>
-        <link href="https://japanese.engadget.com/black-friday-sale-gaming-jelly-080555880.html"/>
-        <updated>2021-11-30T08:05:55.000Z</updated>
-        <summary type="html"><![CDATA[Amazonブラックフライデーが12月2日(木)まで開催中。浦和武蔵さんが実際に購入し、「買い物レビュー日記」にてミニレビューした「inゼリー GAME BOOSTER ver.2.0」もセール対象になっています。]]></summary>
-        <author>
-            <name>Engadgetオトク情報局</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pixel 6でDJIアプリに不具合。ドローンのライブプレビューが表示されず]]></title>
-        <id>cd6a40d3-f7ca-4343-b186-cc7cbfbd00ff</id>
-        <link href="https://japanese.engadget.com/pixel-6-dji-080048407.html"/>
-        <updated>2021-11-30T08:00:48.000Z</updated>
-        <summary type="html"><![CDATA[米Googleの最新スマートフォン「Pixel 6シリーズ」にて、ドローン大手ことDJIの公式アプリが動作しないとの報告が寄せられています。これにより、同社のドローンやカメラ関連製品の操作に支障が出るケースも有るようです。]]></summary>
-        <author>
-            <name>塚本直樹(Naoki Tsukamoto)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[セブン＆アイ、AWSをグループ共通のクラウド基盤に　“サイロ化”解消でデータ活用加速]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2111/30/news160.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2111/30/news160.html"/>
-        <updated>2021-11-30T07:55:00.000Z</updated>
-        <summary type="html"><![CDATA[セブン＆アイ・ホールディングスが、グループ全体の共通クラウド基盤にAWSを採用。これまでグループ各社でサイロ化していたシステムを統一し、セキュリティの強化やデータ活用の加速につなげる。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[withLockで楽しい排他制御ライフを！]]></title>
-        <id>https://qiita.com/satona-oinuma/items/1942c906d329489f4b30?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/satona-oinuma/items/1942c906d329489f4b30?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2021-11-30T07:49:18.000Z</updated>
-        <summary type="html"><![CDATA[初めて遭遇し焦ったものの、使い方自体はさほど難しくないwithLockについてまとめました。
-Javaのパッケージが関連しているためJavaで調べると欲しい情報が見つけやすいこと、早めに気づきたかっ…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TypeScript のインターセクション型は２つの型のプロパティを持った型ではない]]></title>
-        <id>https://qiita.com/kosuke-sugimori/items/af8224f7571817fbb9bd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/kosuke-sugimori/items/af8224f7571817fbb9bd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2021-11-30T07:46:41.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-
-普段 Java を書いているエンジニアです。最近フロントエンド開発もやるようになり、JavaScript の勉強をして Qiita に記事投稿していましたが、ついに TypeScript…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xboxクラウドゲーミングに画質向上機能「Clarity Boost」、Edgeブラウザでテスト開始]]></title>
-        <id>d1fc4140-d2a6-48ac-a003-67908d89ca72</id>
-        <link href="https://japanese.engadget.com/xbox-cloud-gaming-clarity-boost-edge-074516680.html"/>
-        <updated>2021-11-30T07:45:16.000Z</updated>
-        <summary type="html"><![CDATA[マイクロソフトが Xbox Cloud Gaming の画質向上機能 Clarity Boost を発表しました。Windows / macOS用 Edge ブラウザの試験版カナリービルドをインストールして、設定から有効にすることで誰でもテストできます。]]></summary>
-        <author>
-            <name>Ittousai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ドコモ、IPv6シングルスタックはじめます]]></title>
-        <id>https://qiita.com/dcm_MakiSaito/items/a50084903b1047926d8c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/dcm_MakiSaito/items/a50084903b1047926d8c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2021-11-30T07:40:29.000Z</updated>
-        <summary type="html"><![CDATA[自己紹介
-
-はじめまして、NTTドコモでISP基盤の構築をやっています齋藤真希と申します。
-アドベントカレンダー1日目、去年とは毛色を変えてインフラまわりの記事から始めます。
-だって、ドコモの原点は…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[農研機構、害虫の飛行パターンから、動きを予測する方法を開発]]></title>
-        <id>8c7c8d92-dfa9-465d-a705-8947d61135b0</id>
-        <link href="https://japanese.engadget.com/nipp-pest-3d-model-073018563.html"/>
-        <updated>2021-11-30T07:30:18.000Z</updated>
-        <summary type="html"><![CDATA[独立行政法人 農研機構は11月29日、害虫の飛翔パターンをモデル化し、ステレオカメラで撮影したリアルタイム画像から数ステップ先（0.03秒先）の位置を予測できる方法を開発したと発表しました。]]></summary>
-        <author>
-            <name>山本竜也(Tatsuya Yamamoto)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[キャンプにも、災害時の非常電源にも。出力別ポータブル電源4選]]></title>
-        <id>https://www.lifehacker.jp/2021/11/amazon-bf2021-power-station.html</id>
-        <link href="https://www.lifehacker.jp/2021/11/amazon-bf2021-power-station.html"/>
-        <updated>2021-11-30T07:15:00.000Z</updated>
-        <summary type="html"><![CDATA[現代人にとって電気は欠かすことができません。その電気を蓄えられるポータブル電源は、趣味のキャンプはもちろん、災害などの緊急事態でも役立つアイテムです。今回、Amazonで買える高コスパなポータブル電源を出力別に4つピックアップしてみました。イザというときに備え、とりあえずチェックだけでもしておきましょう。]]></summary>
-        <author>
-            <name>田中宏和</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【GREEN FUNDING】先週の支援額ランキング BEST5（2021.11.22-11.28）]]></title>
-        <id>16f2d647-03a0-4d3b-8fe2-ed040b1a362c</id>
-        <link href="https://japanese.engadget.com/greenfunding-ranking-20211122-1128-071459235.html"/>
-        <updated>2021-11-30T07:14:59.000Z</updated>
-        <summary type="html"><![CDATA[最新テクノロジーを活用したガジェットや思わぬ掘り出し物を見つけられるクラウドファンディングサービス「GREEN FUNDING」。  先週人気だった5つのプロダクトをランキング形式でお届けします！
-1位は、『家中どこでもマイナス11℃！大好評いただいた世界初の「冷えるゴミ箱」がより使いやすくなって再登場『CLEAN BOX』【たっぷり入る20リットル！】』でした。他のランキングについても振り返ってみよう。]]></summary>
-        <author>
-            <name>GREEN FUNDING with Engadget Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ゲーミングヘッドセットがお買い得！ オンライン会議でも活躍してくれます｜Amazonブラックフライデー]]></title>
-        <id>479743f6-b1e1-46a3-9555-d338a43acfbc</id>
-        <link href="https://japanese.engadget.com/black-friday-sale-gaming-headset-070540591.html"/>
-        <updated>2021-11-30T07:05:40.000Z</updated>
-        <summary type="html"><![CDATA[ゲームプレイのみならず、オンライン会議などでも活躍してくれるゲーミングヘッドセットやイヤホンがお買い得価格になっています。]]></summary>
-        <author>
-            <name>Engadgetオトク情報局</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[さばぴょい伝説]]></title>
-        <id>https://qiita.com/tosiooooooo/items/93fc0cff06c496866f73?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/tosiooooooo/items/93fc0cff06c496866f73?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2021-11-30T07:02:48.000Z</updated>
-        <summary type="html"><![CDATA[位置について ROBOCOPY どん！
-
-Woooooooo(さばおっち)
-Woooooooo(さばぴょい さばぴょい)
-Woooo(うつだっち) Woooo(さばぽい)
-さばさばうつうつ 5 1 0…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MacBookアップグレードプログラムが米企業向けに提供開始。90日ごとに新モデルに乗り換え可能]]></title>
-        <id>8839145e-831d-466b-8279-1b8139c04443</id>
-        <link href="https://japanese.engadget.com/mac-upgradeprogram-every-90days-070042173.html"/>
-        <updated>2021-11-30T07:00:42.000Z</updated>
-        <summary type="html"><![CDATA[アップルが米金融グループCITと協力のもと、米国の企業向けに90日ごとにMacをアップグレードできるプログラムを開始したことが明らかとなりました。]]></summary>
-        <author>
-            <name>Kiyoshi Tane</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スマートリモコンSwitchBotとセットでEcho Dotが大幅値下げ！【Amazonブラックフライデー】]]></title>
-        <id>https://www.lifehacker.jp/2021/11/246905amazon-black-friday-sale-echodotbf.html</id>
-        <link href="https://www.lifehacker.jp/2021/11/246905amazon-black-friday-sale-echodotbf.html"/>
-        <updated>2021-11-30T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[スマートリモコンswitch botを買えばEcho dotが実質無料になるキャンペーンです。]]></summary>
-        <author>
-            <name>ライフハッカー編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「gmail」を「gmai」と誤記　新潟県職員、個人情報入りメール誤送信]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2111/30/news146.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2111/30/news146.html"/>
-        <updated>2021-11-30T06:36:00.000Z</updated>
-        <summary type="html"><![CDATA[新潟県職員がメール誤送信で個人情報流出。送信先ドメインを「gmail.com」にすべきところを「gmai.com」と誤記したため。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「いのちをだいじに」の時間を生み出す、書類のデジタル化をやっておこう]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2111/30/news144.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2111/30/news144.html"/>
-        <updated>2021-11-30T06:21:00.000Z</updated>
-        <summary type="html"><![CDATA[「非常用持ち出し袋」に預金通帳や印鑑を入れる。では写真アルバムは？　保険証書は？]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[外に出て運動するのが億劫になる季節。だったら室内向けの器具を買えばいいのでは？｜Amazonブラックフライデー]]></title>
-        <id>9e43b292-91eb-4abf-bc04-0a775f985b1d</id>
-        <link href="https://japanese.engadget.com/black-friday-sale-fitness-062015077.html"/>
-        <updated>2021-11-30T06:20:15.000Z</updated>
-        <summary type="html"><![CDATA[いよいよ寒さが本格化してきて、家の外に出るのが億劫になる季節になりました。ダイエットや健康維持のため、ランニングやウォーキングを習慣にしている人でも、あまり気乗りしない日があるかもしれません。ブラックフライデーのセールでは、フィットネスバイクやランニングマシンなど、室内向けのトレーニング器具もお買い得価格になっています。夏の猛暑の時期にも役立ちますので、この機会に導入を検討してみてはいかがでしょうか。]]></summary>
-        <author>
-            <name>加藤肇(Hajime Kato)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ブラックフライデーで50％OFF、球体Echo dotの音質をチェック]]></title>
-        <id>e3cca09e-5f82-470c-9380-ce3014f62170</id>
-        <link href="https://japanese.engadget.com/echo-083036416-000043863-152902676-061541549.html"/>
-        <updated>2021-11-30T06:15:41.000Z</updated>
-        <summary type="html"><![CDATA[Amazonにて「ブラックフライデー」の大規模セールが12月2日（木）23時59分まで開催中。]]></summary>
-        <author>
-            <name>Engadgetオトク情報局</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[事故状況からAIが保険金支払いの可否を判断　損保ジャパン、手続きを全面自動化]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2111/30/news141.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2111/30/news141.html"/>
-        <updated>2021-11-30T06:15:00.000Z</updated>
-        <summary type="html"><![CDATA[損害保険ジャパンが、LINE上で質問に答えるとAIが保険金支払いの可否を自動で判断するシステムを開発する。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ドコモ、スマホ故障診断アプリ「スマホ診断 online」に改善提案機能を追加]]></title>
-        <id>291963a1-722e-4049-befb-d4d7263e30dc</id>
-        <link href="https://japanese.engadget.com/docomo-smartphone-after-support-online-060013551.html"/>
-        <updated>2021-11-30T06:00:13.000Z</updated>
-        <summary type="html"><![CDATA[NTTドコモは11月30日、スマートフォンやタブレットの故障診断を自分で行える「スマホ診断 online」アプリにおいて、困っている事象の解決方法を提案する「改善提案」機能を追加しました]]></summary>
-        <author>
-            <name>山本竜也(Tatsuya Yamamoto)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スパイダーマン新三部作、トム･ホランド主演で続行。MCUに留まることに]]></title>
-        <id>7e60711a-e9d9-4f2d-a111-815bd2a314ea</id>
-        <link href="https://japanese.engadget.com/spiderman-new-trilogy-mcu-053049666.html"/>
-        <updated>2021-11-30T05:30:49.000Z</updated>
-        <summary type="html"><![CDATA[ソニーが公式にトム・ホランド主演で新たなスパイダーマン映画三部作を準備中であり、マーベルとのコラボレーションも続きMCUに留まり続けることを認めました。]]></summary>
-        <author>
-            <name>Kiyoshi Tane</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スマホで「トミカ」を飾るディスプレイケース、タカラトミーが発売　専用動画の配信も]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2111/30/news129.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2111/30/news129.html"/>
-        <updated>2021-11-30T05:11:00.000Z</updated>
-        <summary type="html"><![CDATA[タカラトミーは30日、スマートフォンを差し込み画面に表示した動画や画像をトミカの背景にするディスプレイケースを発表した。価格は2970円（税込）。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アイリスに、ヘルシオも！時短調理が叶う｢キッチン家電｣15選【Amazonブラックフライデー】]]></title>
-        <id>https://www.lifehacker.jp/2021/11/246886amazon-blackfriday-sale-cooking-appliances.html</id>
-        <link href="https://www.lifehacker.jp/2021/11/246886amazon-blackfriday-sale-cooking-appliances.html"/>
-        <updated>2021-11-30T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[調理家電で美味しいご飯が簡単に！そんな願いを叶えてくれそうなアイテムをAmazonブラックフライデーから探してみました。｢Amazonブラックフライデー｣は、2021年12月2日（木）23時59分まで開催中！]]></summary>
-        <author>
-            <name>ライフハッカー編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[塩粒サイズの極小カメラ、米研究チームが開発　「体積50万倍のカメラ用レンズと同等画質」]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2111/30/news128.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2111/30/news128.html"/>
-        <updated>2021-11-30T04:55:00.000Z</updated>
-        <summary type="html"><![CDATA[米国の研究チームは、塩粒サイズの極小カメラを開発したと発表。このカメラより体積が50万倍大きい、従来のカメラレンズと同じくらい鮮明なフルカラー画像を撮影することが可能という。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ブラックフライデー消費、初の前年割れ──Adobe調べ]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2111/30/news126.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2111/30/news126.html"/>
-        <updated>2021-11-30T04:48:00.000Z</updated>
-        <summary type="html"><![CDATA[Adobeは、毎年オンラインショッピングの支出が突出するホリデーシーズンに関する調査結果を発表した。ブラックフライデーの支出は89億ドル。同社が調査を開始して初めて前年を下回った。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Railsである程度実装ができるようになったら]]></title>
-        <id>https://qiita.com/SawaShuya/items/1afc2c2c38835e54f666?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/SawaShuya/items/1afc2c2c38835e54f666?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2021-11-30T04:42:54.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-
-記念すべき DMM WEBCAMP Advent Calendar 2021  1日目を担当します @SawaShuyaです！
-
-Railsで開発を進めていると、3~4カ月ほどで設計から実装…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[テレ朝がNFT事業に本格参入　「コン・バトラーV」など東映ロボットアニメをデジタルトレカ化]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2111/30/news117.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2111/30/news117.html"/>
-        <updated>2021-11-30T04:15:00.000Z</updated>
-        <summary type="html"><![CDATA[テレビ朝日がNFT事業に本格参入する。第1弾として東映が手掛けるロボットアニメの名シーンをデジタルトレーディングカード化して発売する。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[量子コンピュータを学べるレシピ紹介]]></title>
-        <id>https://qiita.com/Axross_SBiv/items/3e40854c53d82ca806d5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/Axross_SBiv/items/3e40854c53d82ca806d5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2021-11-30T03:45:55.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-
-Axrossを運営している松田です。
-今回は、新しい時代のコンピュータとして幅広い分野への応用が期待されている量子コンピュータについて解説し、量子コンピュータをプログラミング通して学べる…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazonブラックフライデーで安くなってる自宅トレーニンググッズを漁ってみた]]></title>
-        <id>https://www.lifehacker.jp/2021/11/amazon-blackfriday-2021-fitness.html</id>
-        <link href="https://www.lifehacker.jp/2021/11/amazon-blackfriday-2021-fitness.html"/>
-        <updated>2021-11-30T03:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Amazonブラックフライデーセールでお買い得になっている自宅トレーニングアイテムを6つ、ピックアップしてみました。自宅で手軽に使えるトレーニング器具ばかりなので、ぜひチェックを。]]></summary>
-        <author>
-            <name>田中宏和</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スマホ操作で上下する電動昇降デスク、サンワサプライから　天板の高さ登録も]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2111/30/news099.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2111/30/news099.html"/>
-        <updated>2021-11-30T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[サンワサプライは30日、スマートフォンやPCからも操作できるBluetooth搭載の電動昇降デスクを発表した。価格は21万3400円から（税込）。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SaaS企業なのにおじさん幹部がネイル研究？　「2Cか2Bか」で迷走した電子マニュアル事業者の決断]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2111/30/news060.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2111/30/news060.html"/>
-        <updated>2021-11-30T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[B2B SaaS企業として勢いを増すスタディスト。実は法人向け一本でやってきたわけではなく、過去には個人向けサービスを提供しつつも迷走が続いた“黒歴史”もあったという。同社は迷走期をどのように乗り越え、法人向けに的を絞るまでに至ったのか。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「水・炭酸水・お茶」日常使いから防災備蓄まで買いおきするなら今【Amazonブラックフライデー】]]></title>
-        <id>https://www.lifehacker.jp/2021/11/246829amazon-black-friday-sale-2021.html</id>
-        <link href="https://www.lifehacker.jp/2021/11/246829amazon-black-friday-sale-2021.html"/>
-        <updated>2021-11-30T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[「Amazonブラックフライデー」で日用品を買いだめしない手はありません！なかでもおすすめなのが 「水」。お得なセールアイテムをピックアップしてご紹介します。]]></summary>
-        <author>
-            <name>ライフハッカー編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[シャア専用ズゴック土鍋、プレミアムバンダイで発売]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2111/30/news092.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2111/30/news092.html"/>
-        <updated>2021-11-30T02:20:00.000Z</updated>
-        <summary type="html"><![CDATA[「プレミアムバンダイ」は30日、「土鍋 シャア専用ズゴック」の予約受付を始めると発表した。価格は7480円（税込、送料手数料別）。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[採用活動のために競技プログラミング（AtCoder）を始めて一年経ったので感想を書きます]]></title>
-        <id>https://qiita.com/nabata/items/44fa3995e476b12b9860?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/nabata/items/44fa3995e476b12b9860?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2021-11-30T01:42:45.000Z</updated>
-        <summary type="html"><![CDATA[Supershipグループ Advent Calendar 2021の1日目の記事になります。
-
-自己紹介
-
-名畑です。
-Supership株式会社のVPoEです。
-
-たまに下記のようなイベントで話したり…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SwiftUI の中で UIView を使うための UIViewRepresentable を一通り理解する]]></title>
-        <id>https://qiita.com/maiyama18/items/e36608af7e39f81af01c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/maiyama18/items/e36608af7e39f81af01c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2021-11-30T01:23:23.000Z</updated>
-        <summary type="html"><![CDATA[概要
-
-SwiftUI で開発していると、 UIKit で使っていた機能に対応するコンポーネントがなくて困るということがよく起こります。そんなときに SwiftUI の中で UIKit を使えるよう…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS、ロボットフリート管理サービス「AWS IoT RoboRunner」提供開始]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2111/30/news077.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2111/30/news077.html"/>
-        <updated>2021-11-30T01:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Amazon.com傘下のAWSは、ロボット管理サービス「AWS IoT RoboRunner」を発表した。多様なロボットを導入している物流倉庫や工場向けに、それらのロボットを単一システムビューで管理するインフラを提供する。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kotlin開発元が軽量なコードエディタ「Fleet」発表　エディタとバックエンドの分散処理や共同作業に対応]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2111/30/news078.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2111/30/news078.html"/>
-        <updated>2021-11-30T01:15:00.000Z</updated>
-        <summary type="html"><![CDATA[プログラミング言語の「Kotlin」や、統合開発ツール「IntelliJ IDEA」などの開発元であるJetBrainsが、新規に開発した軽量なコードエディタの「Fleet」を発表。他のユーザーとエディタ画面を共有できる機能や、エディタとバックエンドの分散処理が可能な点が特徴という。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Amazonブラックフライデー】しめ忘れ防止機能付きのスマートロックが25％オフ。スタンドなどの自転車用品もお買い得！]]></title>
-        <id>https://www.lifehacker.jp/2021/11/amazon-blackfriday-2021-1130-1.html</id>
-        <link href="https://www.lifehacker.jp/2021/11/amazon-blackfriday-2021-1130-1.html"/>
-        <updated>2021-11-30T01:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Amazon（アマゾン）では、2021年11月26日9時から12月2日23時59分まで、年に一度のビッグセール「Amazonブラックフライデー」が開催中！
-
-ブラックフライデーでは、毎日開催されているタイムセールもパワーアップ。現在、しめ忘れ防止機能付きのスマートロックが25％オフ、スタンドなどの自転車用品ほか、今すぐ使えるアイテムがお買い得に登場しています。]]></summary>
-        <author>
-            <name>メディアジーンメディアコマース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[鉛筆に万年筆のふりをさせる補助具が長く愛される理由　登場から13年が経過した「ミミック」]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2111/30/news076.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2111/30/news076.html"/>
-        <updated>2021-11-30T01:04:00.000Z</updated>
-        <summary type="html"><![CDATA[ミミックがあらわれてから10数年。さらなる進化は自己否定的なところまできた。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[忙しい朝にも、非常時にも。シリアル・健康食品はまとめ買いでお得にストック【Amazonブラックフライデー】]]></title>
-        <id>https://www.lifehacker.jp/2021/11/246598amazon-blackfriday-sale-cereal-granola.html</id>
-        <link href="https://www.lifehacker.jp/2021/11/246598amazon-blackfriday-sale-cereal-granola.html"/>
-        <updated>2021-11-30T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Amazonが送る7日間のBig Saleブラックフライデーでは、家に常備しておきたい定番のコーンフレーク、玄米フレーク、グラノラだけじゃない変わり種シリアルもお得になっています。]]></summary>
-        <author>
-            <name>ライフハッカー編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[防犯・監視カメラのAmazon売れ筋ランキング。事件・事故の被害防止に。留守番の子どもやペットの見守りにも使える！]]></title>
-        <id>ab201110-03ed-464d-b874-9195dfd639a3</id>
-        <link href="https://japanese.engadget.com/ranking-security-camera-005600532.html"/>
-        <updated>2021-11-30T00:56:00.000Z</updated>
-        <summary type="html"><![CDATA[毎日物騒な事件の報道がされています。敷地内だから、鍵をかけたから、といっても安心できないので、防犯・監視カメラの導入を検討しましょう。留守番のお子さんやペットの様子を確認するのにも便利です。Amazonの「防犯・監視カメラ」売れ筋ランキングを紹介します。]]></summary>
-        <author>
-            <name>Engadgetオトク情報局</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大量の情報を効率的にインプットするためのFlutter概要]]></title>
-        <id>https://qiita.com/chooyan_eng/items/b47fc642b24e2c2be553?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/chooyan_eng/items/b47fc642b24e2c2be553?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2021-11-29T23:58:24.000Z</updated>
-        <summary type="html"><![CDATA[この記事は Flutter Advent Calendar（カレンダー2）の1日目の記事です。
-
-
-
-さて、2021年のアドベントカレンダーもスタートしまして、Flutterのカレンダーはカレンダー3つ分…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[渋谷区から消えた11カ所の「公共和式トイレ」　何に生まれ変わったのか？]]></title>
-        <id>https://www.itmedia.co.jp/business/articles/2111/30/news059.html</id>
-        <link href="https://www.itmedia.co.jp/business/articles/2111/30/news059.html"/>
-        <updated>2021-11-29T23:30:00.000Z</updated>
-        <summary type="html"><![CDATA[渋谷区には、50個の公共和式トイレあったのをご存じだろうか？　最近、そのうちの11個が消えたという。何に生まれ変わったのかというと……]]></summary>
-        <author>
-            <name>ITmedia TOP STORIES 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ウォーレン・バフェット流、成功者と「真の成功者」の違い]]></title>
-        <id>https://www.lifehacker.jp/2021/11/246322warren-buffett-says-what-separates-successful-people-from-everyone-else-really-comes-down-to-a-2-letter-word.html</id>
-        <link href="https://www.lifehacker.jp/2021/11/246322warren-buffett-says-what-separates-successful-people-from-everyone-else-really-comes-down-to-a-2-letter-word.html"/>
-        <updated>2021-11-29T23:30:00.000Z</updated>
-        <summary type="html"><![CDATA[バークシャー・ハサウェイの会長兼CEOであるウォーレン・バフェットは言います。「本当の成功者はほとんど全てのことにノーと言う」。それは一体どう言うことなのでしょうか。]]></summary>
-        <author>
-            <name>Inc.,OCiETe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[攻撃を招くクラウド環境の設定ミス、わずか数分で悪用も　米セキュリティ企業がおとり調査]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2111/30/news056.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2111/30/news056.html"/>
-        <updated>2021-11-29T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[クラウド環境の設定ミスやセキュリティ対策の甘さを突いて攻撃を仕掛けられ、情報流出などの被害が発生する事件が後を絶たない。セキュリティ企業の実験で、そうした弱点が瞬く間に見つけられ、悪用される実態が浮き彫りになった。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[遠距離でも恋人の足裏をこちょこちょ　独研究チームら、小型ブラシ内蔵インソールを開発]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2111/30/news044.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2111/30/news044.html"/>
-        <updated>2021-11-29T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ニュージーランドのThe University of Aucklandと、ドイツのTechnical University of Applied Sciences Lübeckの研究チームは、足の裏をくすぐり、笑いを誘発するインソールを開発。遠隔地にいる恋人とくすぐり合いができる。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[犬から人へ電話をかけられる「DogPhone」　愛犬は飼い主にどのくらい着信を入れるか検証]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2111/30/news034.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2111/30/news034.html"/>
-        <updated>2021-11-29T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[スコットランドのグラスゴー大学と、フィンランドのアールト大学の研究チームは、犬から人のスマートフォンへビデオ通話をかけられるボール型IoTデバイス「DogPhone」を開発。くわえて動かすことで、飼い主に電話をかけられる。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[犬から人へ電話をかけられる「DogPhone」　愛犬は飼い主にどのくらい着信を入れるか検証]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2111/30/news034.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2111/30/news034.html"/>
-        <updated>2021-11-29T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[スコットランドのグラスゴー大学と、フィンランドのアールト大学の研究チームは、犬から人のスマートフォンへビデオ通話をかけられるボール型IoTデバイス「DogPhone」を開発。くわえて動かすことで、飼い主に電話をかけられる。]]></summary>
-        <author>
-            <name>ITmedia TOP STORIES 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[遠距離でも恋人の足裏をこちょこちょ　独研究チームら、小型ブラシ内蔵インソールを開発]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2111/30/news044.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2111/30/news044.html"/>
-        <updated>2021-11-29T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ニュージーランドのThe University of Aucklandと、ドイツのTechnical University of Applied Sciences L&#252;beckの研究チームは、足の裏をくすぐり、笑いを誘発するインソールを開発。遠隔地にいる恋人とくすぐり合いができる。]]></summary>
-        <author>
-            <name>ITmedia TOP STORIES 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[攻撃を招くクラウド環境の設定ミス、わずか数分で悪用も　米セキュリティ企業がおとり調査]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2111/30/news056.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2111/30/news056.html"/>
-        <updated>2021-11-29T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[クラウド環境の設定ミスやセキュリティ対策の甘さを突いて攻撃を仕掛けられ、情報流出などの被害が発生する事件が後を絶たない。セキュリティ企業の実験で、そうした弱点が瞬く間に見つけられ、悪用される実態が浮き彫りになった。]]></summary>
-        <author>
-            <name>ITmedia TOP STORIES 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[肌にも地球にも優しい。自然の恵みを詰め込んだ希少な古代種『オーガニック茶色綿』100％のタオル]]></title>
-        <id>4841f7b6-e537-4d75-a8d1-90bcc67010a3</id>
-        <link href="https://japanese.engadget.com/organic-towel-225051606.html"/>
-        <updated>2021-11-29T22:50:51.000Z</updated>
-        <summary type="html"><![CDATA[しっかり・ふっくら・ちょうどいい タオルの産地、大阪泉州で生まれた極上のオーガニックタオル オーガニックコットンによる、驚きの保水力。みるみるうちにたっぷり吸水 生まれた状態から茶色綿 創業75年以上を誇る泉州タオルメーカー 成願（じょうがん）が生み出す 究極のオーガニックタオル、誕生しました。 こんな方におすすめです ■オーガニックコットンタオルをお探しの方 ■吸水速乾性の高い、使い心地のいいタオルをお探しの方 ■敏感肌で、肌に優しいタオルをお探しの方 ■大切な人へのプレゼントをお探しの方 普段使いに使い心地の良い厚さで洗濯してもふわふわの肌触りが続きます。タオルは毎日使うもの。オーガニックコットン100％で小さいお子様や敏感肌の方でも安心してご使用いただけます。 綿畑からずっとオーガニック 弊社のオーガニックタオルは「綿畑からご家庭までずっとオーガニック」というこだわりを持ち、ふわふわでなめらかな使い心地。 コットンを育てる土地は、過去3年間以上、化学薬品を使用していない、環境にもやさしい畑を準備。 豊かな水と灼熱の太陽に恵まれた希少な茶色の綿花を生む環境で、100%茶綿のオーガニ]]></summary>
-        <author>
-            <name>GREEN FUNDING with Engadget Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PayPay銀行、ローソンATMでキャッシュカード不要で入出金可能に]]></title>
-        <id>61c9b6fb-fc6b-4dca-b8fc-4cd8d00b6f5a</id>
-        <link href="https://japanese.engadget.com/paypay-225017542.html"/>
-        <updated>2021-11-29T22:50:17.000Z</updated>
-        <summary type="html"><![CDATA[PayPay銀行は、ローソン銀行ATMでもキャッシュカード不要で入出金可能になりました。]]></summary>
-        <author>
-            <name>小口貴宏(Takahiro Koguchi)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ジャック・ドーシー氏がTwitterのCEOを辞任　後任はアグラワルCTO]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2111/30/news072.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2111/30/news072.html"/>
-        <updated>2021-11-29T22:07:00.000Z</updated>
-        <summary type="html"><![CDATA[Twitterの共同創業者、ジャック・ドーシー氏がCEOを辞任した。後任はCTO（最高技術責任者）のパラグ・アグラワル氏。ドーシー氏は会長にはならず、取締役からも来年退く。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ジャック・ドーシー氏がTwitterのCEOを辞任　後任はアグラワルCTO]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2111/30/news072.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2111/30/news072.html"/>
-        <updated>2021-11-29T22:07:00.000Z</updated>
-        <summary type="html"><![CDATA[Twitterの共同創業者、ジャック・ドーシー氏がCEOを辞任した。後任はCTO（最高技術責任者）のパラグ・アグラワル氏。ドーシー氏は会長にはならず、取締役からも来年退く。]]></summary>
-        <author>
-            <name>ITmedia TOP STORIES 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[空港で最先端ロボのオモテナシ続々　人手不足、感染防止担う]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2111/30/news070.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2111/30/news070.html"/>
-        <updated>2021-11-29T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[関西国際空港などはさまざまな業務でロボットの導入を推進。省力化やコスト削減という経済的理由に加え、最先端技術の実験場として空港を活用する狙いもある。人との出会いだけでなく、ロボットとの「出会い」も空港での楽しみになりつつある。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「結構ガチです」「厳しいことを言うけど」……　SNSの意識高い系投稿に落とし穴]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2111/30/news069.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2111/30/news069.html"/>
-        <updated>2021-11-29T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[「結構ガチです」「ここだけの話」「厳しいことを言うけど」……。Twitterでは、こうした定型句で有益そうな情報の断片を書き込むアカウントが多い。こういったアカウントの情報を真に受けると“落とし穴”にはまることもあるようだ。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EVの長い充電時間をどう過ごすか　充電スポット周辺のグルメ情報伝える「EVごはん」]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2111/30/news068.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2111/30/news068.html"/>
-        <updated>2021-11-29T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[EVのデメリットとして真っ先に挙げられるのが充電時間の長さだ。マーケティングコンサルタントの石井啓介さんは充電時間を楽しむため、EVユーザー自身に充電スポットの近くで見つけたグルメ情報を投稿してもらうSNSグループ「EVごはん」を発足した。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「オンライン営業」にこれから必要となる5つの営業スキルとは？]]></title>
-        <id>https://www.lifehacker.jp/2021/11/246937book_to_read-887.html</id>
-        <link href="https://www.lifehacker.jp/2021/11/246937book_to_read-887.html"/>
-        <updated>2021-11-29T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[『訪問しない時代の営業力強化の教科書　営業×マーケティング統合戦略』（株式会社セールスフォース・ドットコム／株式会社パーソル総合研究所 共著、渥美英紀 編著、翔泳社）より、「オンライン営業」にこれから必要となる5つの営業スキルを解説します。]]></summary>
-        <author>
-            <name>印南敦史</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アドベントカレンダーに参加しようかまだ迷っている人に]]></title>
-        <id>https://qiita.com/e99h2121/items/2a092393fc772e743742?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/e99h2121/items/2a092393fc772e743742?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2021-11-29T21:26:56.000Z</updated>
-        <summary type="html"><![CDATA[そろそろ本当に12月なので自分なりの動機を書いてみます。
-
-書く理由
-
-自分が得をするから書いています。
-言われたから書かなきゃとか、面白そうだからとかキッカケはあると思いますが、書ききると何が良いかと…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TwitterのCEOジャック・ドーシーが(再び)辞任。後任は現CTO]]></title>
-        <id>87036412-bf3a-4f89-8eb2-f1ab7bf7554f</id>
-        <link href="https://japanese.engadget.com/twitter-dorsey-resign-210806114.html"/>
-        <updated>2021-11-29T21:08:06.000Z</updated>
-        <summary type="html"><![CDATA[Twitter の共同創業者 Jack Dorsey がCEOを(再び)辞任しました。後任は2018年よりCTOを務めてきた Prag Agrawal。]]></summary>
-        <author>
-            <name>Ittousai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「MicrosoftとQualcommの独占契約が間もなく終了」報道を考える]]></title>
-        <id>https://www.itmedia.co.jp/pcuser/articles/2111/30/news064.html</id>
-        <link href="https://www.itmedia.co.jp/pcuser/articles/2111/30/news064.html"/>
-        <updated>2021-11-29T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[2017年12月に発表された「Windows on Snapdragon」デバイス以降、MicrosoftとQualcommのつかず離れずの関係に変化の兆しが見られる。]]></summary>
-        <author>
-            <name>ITmedia TOP STORIES 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NTTドコモに聞く「エコノミーMVNO」の勝算　収益性や参画のハードルはどう見る？]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2111/30/news071.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2111/30/news071.html"/>
-        <updated>2021-11-29T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[NTTドコモの「エコノミーMVNO」が始動し、10月からはNTTコミュニケーションズのOCN モバイル ONEが、ドコモショップでの契約に対応。12月にはフリービットグループのトーンモバイルも、「トーンモバイル for docomo」の提供を開始する。そんなエコノミーMVNOの狙いをドコモに聞いた。]]></summary>
-        <author>
-            <name>ITmedia TOP STORIES 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2001年11月30日、8Mbpsへと高速化した「フレッツ・ADSL 8Mタイプ」の受付が始まりました：今日は何の日？]]></title>
-        <id>c37f537a-cd03-4b8e-b236-fd95b174a188</id>
-        <link href="https://japanese.engadget.com/today-203017401.html"/>
-        <updated>2021-11-29T20:30:17.000Z</updated>
-        <summary type="html"><![CDATA[NTTがADSLサービスを開始してから約1年、より高速な最大8Mbpsのサービスとして登場したのが「フレッツ・ADSL 8Mタイプ」。
-
-このADSLサービスの受付が開始されたのが、2001年の今日です。]]></summary>
-        <author>
-            <name>今日は何の日？</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ボッシュのクラウス・メーダー社長を直撃　ソフトウェアエンジニアを増やし「AIoT先進プロバイダー」へ]]></title>
-        <id>https://www.itmedia.co.jp/business/articles/2111/30/news028.html</id>
-        <link href="https://www.itmedia.co.jp/business/articles/2111/30/news028.html"/>
-        <updated>2021-11-29T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ドイツに本社のある世界的なテクノロジー企業であり、自動車部品サプライヤー大手のロバート・ボッシュの日本法人ボッシュ株式会社のクラウス・メーダー社長にインタビューした。]]></summary>
-        <author>
-            <name>ITmedia TOP STORIES 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[月経による労働損失は4911億円　経営者が実践すべき「女性の離職を減らすための健康経営」とは？]]></title>
-        <id>https://www.itmedia.co.jp/business/articles/2111/30/news029.html</id>
-        <link href="https://www.itmedia.co.jp/business/articles/2111/30/news029.html"/>
-        <updated>2021-11-29T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[人材確保のためには女性特有の疾患を理解した「健康経営」を進めることが重要だと語るのは川島労働衛生コンサルタント事務所代表、産業医の川島恵美氏だ。月経による労働損失は4911億円とも試算される中、経営者が女性の離職を減らすための要諦とは？]]></summary>
-        <author>
-            <name>ITmedia TOP STORIES 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NotionとLINEによるサクサク蔵書管理法]]></title>
-        <id>https://qiita.com/itosuuuuuuuun/items/164f8795a847f558ab72?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/itosuuuuuuuun/items/164f8795a847f558ab72?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2021-11-29T18:54:26.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-
-記事概要：
-目的：
-・openBD/Notion APIの挙動についてのサンプル提供
-・Notionによる蔵書管理を検討している方への一助
-・備忘
-
-除外した内容：
-・LINE Messa…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[電卓の成長を体験できるクソアプリ]]></title>
-        <id>https://qiita.com/de_teiu_tkg/items/5d878f01207f408ee919?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/de_teiu_tkg/items/5d878f01207f408ee919?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2021-11-29T14:00:58.000Z</updated>
-        <summary type="html"><![CDATA[クソアプリ Advent Calendar 2021 1日目の記事です。
-
-前置き
-
-おはようございます。DE-TEIUです。
-クソアプリを開発しないと年を越せない体になってしまったので今年もやっていき…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スキマ時間に聴く読書｢Audible｣が2ヵ月無料に！ 仕事に「活かせる本」7選]]></title>
-        <id>https://www.lifehacker.jp/2021/11/246577audible-2month-free.html</id>
-        <link href="https://www.lifehacker.jp/2021/11/246577audible-2month-free.html"/>
-        <updated>2021-11-29T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[2021年12月14日までにAudible会員登録すれば、2カ月無料でAudibleを体験できるキャンペーン実施中。無料体験のご案内と、Audibleで人気の書籍をご紹介します。]]></summary>
-        <author>
-            <name>ライフハッカー編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[30日まで1.28万円。約200gの超縦長ディスプレイがノジマから]]></title>
-        <id>7ccc31df-2569-48b8-809c-54f25cf3435d</id>
-        <link href="https://japanese.engadget.com/nojima-sns-subdisplay-135534469.html"/>
-        <updated>2021-11-29T13:55:34.000Z</updated>
-        <summary type="html"><![CDATA[家電販売大手のノジマが、Web直販専門アイテムとして.8インチの“超縦長”液晶ディスプレイの予約を開始。発売は2022年2月上旬の予定で、価格は1万4800円（税込）です……]]></summary>
-        <author>
-            <name>橋本 新義(Shingi Hashimoto)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マイクロソフト、アドビ、各種セキュリテイソフトなど大幅値下げ中【Amazonブラックフライデー】]]></title>
-        <id>https://www.lifehacker.jp/2021/11/246810amazon-black-friday-sale-adobe-soft.html</id>
-        <link href="https://www.lifehacker.jp/2021/11/246810amazon-black-friday-sale-adobe-soft.html"/>
-        <updated>2021-11-29T13:35:00.000Z</updated>
-        <summary type="html"><![CDATA[ブラックフライデーでお得なMicrosoft、アドビ、各種セキュリティなどPCソフトセールからおすすめアイテムをご紹介します。]]></summary>
-        <author>
-            <name>ライフハッカー編集部</name>
         </author>
     </entry>
 </feed>
