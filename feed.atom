@@ -2,10 +2,843 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/my-rss/index.html</id>
     <title>IT::News</title>
-    <updated>2022-01-05T00:48:55.403Z</updated>
+    <updated>2022-01-06T00:51:32.143Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://joyc.github.io/my-rss/index.html"/>
     <link rel="self" href="https://joyc.github.io/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[OpenAI、文章から画像を生成する新モデル「GLIDE」　前モデルよりも高品質な画像を生成]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2201/06/news039.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2201/06/news039.html"/>
+        <updated>2022-01-05T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[OpenAIの研究チームは、自然言語からフォトリアリスティックな画像を生成する機械学習の新しいモデル「GLIDE」を開発した。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ジョジョのキャラクター風に顔写真を変換する「JoJoGAN」　1枚の画像からAIが学習]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2201/06/news037.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2201/06/news037.html"/>
+        <updated>2022-01-05T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米イリノイ大学アーバナ・シャンペーン校の研究チームは、入力した1枚の顔画像を漫画「ジョジョの奇妙な冒険」のキャラクター風に変換する機械学習フレームワークを開発した。「空条承太郎」など、作中のキャラクターに似せた顔に変換する。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2年ぶり開催の“コミケ”、新型コロナ対策はどうだったか？　コミックマーケット99参加レポート]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2201/06/news035.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2201/06/news035.html"/>
+        <updated>2022-01-05T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[コロナ禍で2年ぶりの開催となってしまったコミックマーケット。数々の感染症対策として、新しい入場方法などが取り入れられている。実際にサークル出展した筆者がその模様をお伝えする。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2年ぶり開催の“コミケ”、新型コロナ対策はどうだったか？　コミックマーケット99参加レポート]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2201/06/news035.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2201/06/news035.html"/>
+        <updated>2022-01-05T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[コロナ禍で2年ぶりの開催となってしまったコミックマーケット。数々の感染症対策として、新しい入場方法などが取り入れられている。実際にサークル出展した筆者がその模様をお伝えする。]]></summary>
+        <author>
+            <name>ITmedia TOP STORIES 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ジョジョのキャラクター風に顔写真を変換する「JoJoGAN」　1枚の画像からAIが学習]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2201/06/news037.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2201/06/news037.html"/>
+        <updated>2022-01-05T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米イリノイ大学アーバナ・シャンペーン校の研究チームは、入力した1枚の顔画像を漫画「ジョジョの奇妙な冒険」のキャラクター風に変換する機械学習フレームワークを開発した。「空条承太郎」など、作中のキャラクターに似せた顔に変換する。]]></summary>
+        <author>
+            <name>ITmedia TOP STORIES 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI、文章から画像を生成する新モデル「GLIDE」　前モデルよりも高品質な画像を生成]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2201/06/news039.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2201/06/news039.html"/>
+        <updated>2022-01-05T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[OpenAIの研究チームは、自然言語からフォトリアリスティックな画像を生成する機械学習の新しいモデル「GLIDE」を開発した。]]></summary>
+        <author>
+            <name>ITmedia TOP STORIES 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スマホリングの新しいスタイルを提案！ 「SYANTO V-ring」を試してみた]]></title>
+        <id>https://www.lifehacker.jp/2022/01/248800-machi-ya-syanto-review1.html</id>
+        <link href="https://www.lifehacker.jp/2022/01/248800-machi-ya-syanto-review1.html"/>
+        <updated>2022-01-05T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[スマホケースに挟む厚み0.4mmの新型リングが「SYANTO V-ring」は、スマホを持つを低い位置で持ち角度がつくため目線が高くなり、姿勢を美しく保ちます。首痛、腰痛対策にも。スマホ用フックとしても機能。]]></summary>
+        <author>
+            <name>山田洋路</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[抜群のフィット感で手のひらに収まる新触感。8.5cmの「極小長財布」]]></title>
+        <id>819b84ee-f785-4319-b112-f0d027166ebb</id>
+        <link href="https://japanese.engadget.com/cambiare-wallet-225044350.html"/>
+        <updated>2022-01-05T22:50:44.000Z</updated>
+        <summary type="html"><![CDATA[【10cmから8.5cmへの挑戦】 この財布は持つ時、置く時、開く時、閉める時、あらゆる場面に抜群のフィット感で手のひらに収まってくれます。 このフィット感は従来の一般的な長財布よりも1.5cm小さくすることで生まれました。 何度も試作を重ね、1ｍｍ単位で調整をして、お札が噛まない絶妙なサイズダウンに成功。 持てばしっくり財布から手のひらに収まってくれるような感覚こそ、8.5ｃｍの新触感です。 【シンプルで使いやすい収納力】 どんな場面にもスッと馴染み、スーツスタイルからオフカジュアルまでスマートに使用できます。 ジャケットの内ポケットにもパンツのポケットにもストレスなく出し入れできます。 また、必要以上のスペースを取り除くことで、シンプルにたくさん入れすぎない、ちょうど良い収納力にしました。 【紙幣、コイン、カードが一気に出せる時短財布】 小銭入れ部分の開閉のファスナーをなくし、Ｌ字のファスナーを開けるだけで一気に財布の中身を一望できる効率設計。 紙幣もカードも硬貨もたっぷり収納でき、小銭入れにファスナーをつけていない事からワンアクションでスマートに会計が進められます。 また、小さい]]></summary>
+        <author>
+            <name>GREEN FUNDING with Engadget Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NASA「アルテミス1号」にAlexa統合へ。音声操作でテレメトリー読上げやビデオ通話なども可能に]]></title>
+        <id>06a695ef-57b7-4a3c-aa73-c72677f36b6e</id>
+        <link href="https://japanese.engadget.com/amazons-alexa-goes-to-space-on-artemis-i-221058474.html"/>
+        <updated>2022-01-05T22:10:58.000Z</updated>
+        <summary type="html"><![CDATA[NASAは、Amazon、Cisco、ロッキード・マーティンと協力して宇宙飛行士がAI音声アシスタントによってその活動に利益を得られるかどうかを確認する実験計画「Callisto」を発表しました]]></summary>
+        <author>
+            <name>Munenori Taniguchi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tesla、新疆ウイグル自治区に販売店　米議員ら批判]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2201/06/news057.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2201/06/news057.html"/>
+        <updated>2022-01-05T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米Teslaが中国新疆ウイグル自治区に販売店を開設したことが明らかになった。米政府が中国当局による少数民族ウイグル族への弾圧を非難する中、同自治区に出店するのは「弾圧の隠蔽に加担」していると米議員らから批判を浴びている。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ややこしいぞ！！マイナポイント　「預貯金口座とのひも付け」非常に混同しやすい別制度に要注意]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2201/06/news056.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2201/06/news056.html"/>
+        <updated>2022-01-05T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[1日に始まった「マイナポイント」制度の第2弾。「健康保険証登録」と並んでポイント対象となる「預貯金口座とのひも付け」については、すでに開始されている預貯金口座付番制度とは別制度で、非常に混同しやすい。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[100年後の世界はどうなっていると思う？　“魔法のアイテム”スマホを握って未来を考える展覧会を見てきた]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2201/06/news055.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2201/06/news055.html"/>
+        <updated>2022-01-05T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[スマホは、過去の人にとっては“魔法のアイテム”だ。カメラも電話も音楽再生もできるなんて信じられないだろう。でも、僕たちだって100年後の世界を想像するのは難しい。そんな未来を考えるヒントをくれる展覧会を見てきた。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[政府、海底ケーブル拠点を分散　安保・災害リスク低減へ]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2201/06/news054.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2201/06/news054.html"/>
+        <updated>2022-01-05T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[政府が海底ケーブルの陸揚げ拠点の分散に2022年度から本格的に乗り出す。経済安全保障上のリスクや地震をはじめとする大規模災害への強靱性を高めるため地方への分散を支援すると同時に、「デジタル田園都市国家構想」の実現に取り組む狙いもある。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本のインフラを守れ　極小空間を飛行点検する純国産ドローンがすごい]]></title>
+        <id>https://www.itmedia.co.jp/business/articles/2111/12/news020.html</id>
+        <link href="https://www.itmedia.co.jp/business/articles/2111/12/news020.html"/>
+        <updated>2022-01-05T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[災害の多発やインフラの老朽化が進む日本において、その点検業務は重要度を増している。一方で、インフラ点検は狭く危険な場所に人が入る必要があり、簡単にいくものではない。そんな市場において、インフラ点検に特化した純国産ドローンの利用が進んでいる。]]></summary>
+        <author>
+            <name>ITmedia TOP STORIES 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[個人の働き方、スキルアップ、副業本に注目！印南敦史の｢毎日書評｣ランキングTOP20]]></title>
+        <id>https://www.lifehacker.jp/2022/01/248199book_to_read-ranking20.html</id>
+        <link href="https://www.lifehacker.jp/2022/01/248199book_to_read-ranking20.html"/>
+        <updated>2022-01-05T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[TOP20を紹介。【連載】印南敦史の「毎日書評」より、2021年に紹介した本の中からライフハッカー読者に特に注目を集め多くの方に読まれた書評をランキング形式でお届けします。]]></summary>
+        <author>
+            <name>ライフハッカー編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Snapdragon 8 Gen 1搭載のOnePlus 10 Pro、1月11日に発表を予告]]></title>
+        <id>90a42801-c6b8-4cb1-aa7c-49f437b112a1</id>
+        <link href="https://japanese.engadget.com/oneplus-10-pro-snapdragon-8-gen-1-215033744.html"/>
+        <updated>2022-01-05T21:50:33.000Z</updated>
+        <summary type="html"><![CDATA[OnePlusが、次期フラッグシップスマートフォンとなるOnePlus 10 Proを1月11日に発表すると予告しました。]]></summary>
+        <author>
+            <name>山本竜也(Tatsuya Yamamoto)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[子どもにいつからスマホを持たせるべき？　「アナログ」と「デジタル」の両輪で考えよう]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2201/06/news048.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2201/06/news048.html"/>
+        <updated>2022-01-05T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「みんなスマホ持ってるから私にも買って」と、お子さんにスマホの購入をねだられて、悩んでいる親は多いでしょう。スマホから広がる楽しい世界を知っているからこそ、早く自分のスマホが欲しいと考えます。では実際に、スマホを初めて持つ年齢は何歳が多いのでしょうか。]]></summary>
+        <author>
+            <name>ITmedia TOP STORIES 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2017年1月6日、スマホアプリとして「ロックマン モバイル」6作品が発売されました：今日は何の日？]]></title>
+        <id>d7a685f0-8057-4d6e-94ee-4f482de5c0d7</id>
+        <link href="https://japanese.engadget.com/today-203042608.html"/>
+        <updated>2022-01-05T20:30:42.000Z</updated>
+        <summary type="html"><![CDATA[名作の多い2Dアクションゲーム「ロックマン」シリーズ6作品が、スマートフォンアプリとして復活。
+
+このアプリが配信されたのが、2017年の今日です。]]></summary>
+        <author>
+            <name>今日は何の日？</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ASUSが17インチ折りたたみ式OLEDノート「ASUS Zenbook 17 Fold OLED」発表－CES2022]]></title>
+        <id>bdb92fe8-787d-4fcb-8cd7-a4bc42cda0b6</id>
+        <link href="https://japanese.engadget.com/asus-zenbook-17-fold-oled-164547164.html"/>
+        <updated>2022-01-05T16:45:47.000Z</updated>
+        <summary type="html"><![CDATA[CES2022で1月5日（現地時間）、ASUSが折りたたみ可能な17インチOLED採用ノートPC「Zenbook 17 Fold OLED」を発表しました。]]></summary>
+        <author>
+            <name>いーじま(Norihisa Iijima)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ASUSがフォルダブル有機EL採用のZenbookシリーズを発表　25周年の「Space Edition」も登場]]></title>
+        <id>https://www.itmedia.co.jp/pcuser/articles/2201/06/news051.html</id>
+        <link href="https://www.itmedia.co.jp/pcuser/articles/2201/06/news051.html"/>
+        <updated>2022-01-05T16:45:00.000Z</updated>
+        <summary type="html"><![CDATA[ASUSは1月5日、米ラスベガスで開催中のCES 2022で「The Incredible Unfolds」と題した発表会を開催し、折りたたみ可能な有機ELディスプレイを搭載するノートPCなどを市場投入すると明らかにした。]]></summary>
+        <author>
+            <name>ITmedia TOP STORIES 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マスク時顔認証も対応。ThinkPad X1 Carbon、Yoga、Nano2021年版が海外発表]]></title>
+        <id>7c8d0d59-3e2a-43e2-a42a-8e81baf253a3</id>
+        <link href="https://japanese.engadget.com/think-pad-x-1-carbon-yoga-nano-2022-160505133.html"/>
+        <updated>2022-01-05T16:05:05.000Z</updated>
+        <summary type="html"><![CDATA[米国で開催中のCES 2022に合わせて、大手PCメーカーのレノボが、高級ビジネス向けノートPCであるThinkPad X1系3モデルの2022年版を発表しました……]]></summary>
+        <author>
+            <name>橋本 新義(Shingi Hashimoto)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[精密構造の両刃でスッキリ深剃り。高コスパを誇るシェーバー「HENSON」が登場]]></title>
+        <id>https://www.lifehacker.jp/2022/01/248907-machi-ya-henson-start.html</id>
+        <link href="https://www.lifehacker.jp/2022/01/248907-machi-ya-henson-start.html"/>
+        <updated>2022-01-05T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[精密構造で刃の露出を抑えた「HENSON」は剃りやすさと切れ味の両方を備えたシェーバーです。目詰まりを起こしにくい仕組みを搭載。メンテナンスが楽々です。替刃は市販のものが利用できてコストが抑えられます。8色展開でカラフルなのも魅力的。女性にも抵抗なくお使いいただけます。]]></summary>
+        <author>
+            <name>山田洋路</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[早くも話題！ 柴犬デザインがかわいいバッグホルダー「bow hook shiba」]]></title>
+        <id>https://www.lifehacker.jp/2022/01/248058-machi-ya-bowhook-review1.html</id>
+        <link href="https://www.lifehacker.jp/2022/01/248058-machi-ya-bowhook-review1.html"/>
+        <updated>2022-01-05T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「bow hook shiba」は柴犬デザインのバッグハンガー。耐荷重7.5キロ。カバンやショッピングバッグも一緒に掛けておくことができます。チャームとしてつけてもおしゃれなのでギフトとしてもおすすめです。]]></summary>
+        <author>
+            <name>飯田あゆみ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[200万冊以上が読み放題｢Kindle Unlimited｣が2カ月99円に〜1/6まで]]></title>
+        <id>https://www.lifehacker.jp/2022/01/248910kindle-unlimited-2022-01.html</id>
+        <link href="https://www.lifehacker.jp/2022/01/248910kindle-unlimited-2022-01.html"/>
+        <updated>2022-01-05T13:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Kindle Unlimitedの2カ月99円キャンペーンについてご紹介します。]]></summary>
+        <author>
+            <name>ライフハッカー編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「Apple Watch Series 7」に替えて得た副次的なメリット｜これ買ってよかった]]></title>
+        <id>https://www.lifehacker.jp/2022/01/248623best-buy-apple-watch-7.html</id>
+        <link href="https://www.lifehacker.jp/2022/01/248623best-buy-apple-watch-7.html"/>
+        <updated>2022-01-05T13:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Apple Watch Series 7の41mmを導入して、仕事の仕方を変えてみることに。結果、使い心地がよく、毎日身につけていたいアイテムになりました。]]></summary>
+        <author>
+            <name>島津健吾</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[手放せなくなる！ 好きな形にできる癒しの枕クッション「21ピロー」]]></title>
+        <id>https://www.lifehacker.jp/2022/01/248809-machi-ya-21pillow-start.html</id>
+        <link href="https://www.lifehacker.jp/2022/01/248809-machi-ya-21pillow-start.html"/>
+        <updated>2022-01-05T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「21ピロー」は。形の異なる2つの枕クッションを組み合わせて使うことで、日常にとるさまざまな体勢を優しくフォローし、疲れを軽減してくれる枕のようなクッションです。洗濯可能でお手入れも簡単。]]></summary>
+        <author>
+            <name>組橋信太朗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WebCodecs と Insertable Streams for MediaStreamTrack API で超低遅延プレイヤーを作った話]]></title>
+        <id>https://qiita.com/monyo-tech/items/c4c5c2e8e403728c0765?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/monyo-tech/items/c4c5c2e8e403728c0765?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2022-01-05T12:35:37.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+Chrome M94 から WebCodecs が登場しました。
+これにより、ブラウザで h264, aac などのデコードが出来るようになりました。
+また、Insertable Str…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xiaomi Mi スマートバンド、HUAWEI Watchがお得に！中華スマートウォッチ買うなら今]]></title>
+        <id>https://www.lifehacker.jp/2022/01/248912amazon-hatsuuri-smart-watch.html</id>
+        <link href="https://www.lifehacker.jp/2022/01/248912amazon-hatsuuri-smart-watch.html"/>
+        <updated>2022-01-05T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[1/3から始まったAmazon初売りセール。今回はセール価格になっているHuaweiやXiaomiを中心におすすめのスマートウォッチ・スマートバンドをご紹介します。]]></summary>
+        <author>
+            <name>ライフハッカー編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Amazon初売り】美容グッズがお買い得。ホワイトニングパウダーが57％オフ、ヘアワックスが30％オフなど]]></title>
+        <id>https://www.lifehacker.jp/2022/01/amazon-timesale-hatsuuri-2022-0105-3.html</id>
+        <link href="https://www.lifehacker.jp/2022/01/amazon-timesale-hatsuuri-2022-0105-3.html"/>
+        <updated>2022-01-05T12:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazon（アマゾン）では、2022年1月3日9時から1月6日23時59分まで｢Amazon初売り｣を開催中です。人気のアイテムがお買い得となるタイムセールでは、現在、ホワイトニングパウダーが57％オフ、ヘアワックスが30％オフなど、美容グッズがお買い得に登場しています。]]></summary>
+        <author>
+            <name>メディアジーンメディアコマース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhoneでページ全体をスクショする4つの方法]]></title>
+        <id>https://www.lifehacker.jp/2022/01/ways-to-take-scrolling-screenshots-iphone.html</id>
+        <link href="https://www.lifehacker.jp/2022/01/ways-to-take-scrolling-screenshots-iphone.html"/>
+        <updated>2022-01-05T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[スクロールスクリーンショットを使うと、iPhoneでアプリ、ウェブページ、PDFなどの長いスクリーンショットを撮ることができます。スクロールスクリーンショットは、iPhoneで通常のスクリーンショットを撮るのとは少し違って、複数の画面の画像やテキストが1つのフレームに表示されるのです。]]></summary>
+        <author>
+            <name>春野ユリ,MakeUseOf</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[電子タバコ市場、27年までの年平均成長率は9.2%以上]]></title>
+        <id>https://www.itmedia.co.jp/business/articles/2201/05/news137.html</id>
+        <link href="https://www.itmedia.co.jp/business/articles/2201/05/news137.html"/>
+        <updated>2022-01-05T10:02:00.000Z</updated>
+        <summary type="html"><![CDATA[最大の市場は北米ながら、アジア太平洋地域では特に大きなCAGR（年平均成長率）が見込まれる。]]></summary>
+        <author>
+            <name>ITmedia TOP STORIES 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[サムスン、55インチ巨大湾曲ディスプレイ「Odyssey Ark」発表。縦配置も対応]]></title>
+        <id>94eb828b-f5f6-4d67-85bd-bb4b73941819</id>
+        <link href="https://japanese.engadget.com/samsung-55-inch-curved-display-odyssey-ark-095558951.html"/>
+        <updated>2022-01-05T09:55:58.000Z</updated>
+        <summary type="html"><![CDATA[Samsungが、55インチの巨大な湾曲ディスプレイ、Odyssey Arkを発表しました。ゲームプレイはもちろん、その他作業においてもこれまでにない使い勝手の可能性を提供します]]></summary>
+        <author>
+            <name>Munenori Taniguchi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アップル製AR/VRヘッドセットは「革新的な3枚ディスプレイ」のウワサ]]></title>
+        <id>b8ee21b0-4ff8-4dae-8fcd-5640e24a7d28</id>
+        <link href="https://japanese.engadget.com/apple-arvr-headset-innovative-three-display-092018878.html"/>
+        <updated>2022-01-05T09:20:18.000Z</updated>
+        <summary type="html"><![CDATA[アップル製AR/VRヘッドセットの噂が盛り上がるなか、本製品が「革新的な3枚ディスプレイ構成」になるとの予想が報じられています。]]></summary>
+        <author>
+            <name>Kiyoshi Tane</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Halo Infiniteのサムライ異世界イベント『テンライ』再開。無料リワード増量]]></title>
+        <id>552e9965-cc33-43ce-b9b3-053747fcec3b</id>
+        <link href="https://japanese.engadget.com/halo-infinite-multiplayer-fracture-tenrai-week-two-090254597.html"/>
+        <updated>2022-01-05T09:02:54.000Z</updated>
+        <summary type="html"><![CDATA[マイクロソフトの基本無料FPSゲーム『Halo Infinite』マルチプレーヤーで、和風イベント『Fracture: Tenrai』(フラクチャー：テンライ)の第二週目が始まりました。]]></summary>
+        <author>
+            <name>Ittousai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BMWのEV「iX」に「M」モデル登場。「iX M60」はデュアルモーター搭載のハイパフォーマンスSUV]]></title>
+        <id>cb177bbc-95f0-48c1-81f8-5182b0ec943f</id>
+        <link href="https://japanese.engadget.com/bmw-i-x-m-60-085017322.html"/>
+        <updated>2022-01-05T08:50:17.000Z</updated>
+        <summary type="html"><![CDATA[BMWが、電気SUV「BMW iX M60」を発表しました]]></summary>
+        <author>
+            <name>Munenori Taniguchi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon初売りで5391円！ 血中酸素濃度測定にも対応したXiaomi Mi Smart Band 6をミニレビュー]]></title>
+        <id>a3c8afbb-5159-4ae6-9236-d0a34477447d</id>
+        <link href="https://japanese.engadget.com/new-year-sale-xiaomi-082554996.html"/>
+        <updated>2022-01-05T08:25:54.000Z</updated>
+        <summary type="html"><![CDATA[日々、幅広いジャンルの製品をネットショッピングしているEngadgetの執筆陣が実際に購入した製品をサラッと紹介する「買い物レビュー日記」。この連載企画で取り上げた製品のうちのいくつかは、今回の「Amazon 初売り」セールでお買い得価格になっています。]]></summary>
+        <author>
+            <name>Engadgetオトク情報局</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[シゴトもエンタメもイケるNEC｜2021年中の人的ベスト3]]></title>
+        <id>362a63d1-d6ab-4237-8d9c-213b0461a6cf</id>
+        <link href="https://japanese.engadget.com/nec-090003768-080043643.html"/>
+        <updated>2022-01-05T08:00:43.000Z</updated>
+        <summary type="html"><![CDATA[Engadgetでは編集部員・ライターさんがおすすめの製品を紹介するベストバイ企画を展開しています。本記事「2021年中の人的ベスト3」では、NECPC製品担当の磯部さんに2021年の人気・売れ筋製品をご紹介していただきます。]]></summary>
+        <author>
+            <name>EngadgetJP Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ドコモ、KDDI、ソフトバンク、楽天の年頭所感　コロナ禍が続く中、5G普及に向けてどう動く？]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2201/05/news093.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2201/05/news093.html"/>
+        <updated>2022-01-05T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[NTTドコモ、KDDI、ソフトバンク、楽天の社長が2022年の年頭所感を発表した。2021年は新型コロナウイルス感染症の流行が続き、デジタル化（DX）やリモートワーク、テレワークの推進にモバイル回線が利用されることもあり、DXを担うとうたった5Gの普及に課題も見えてきていた。]]></summary>
+        <author>
+            <name>ITmedia TOP STORIES 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最大60%OFF！ Kindle本｢年末年始キャンペーン｣開催中【1/6まで】]]></title>
+        <id>https://www.lifehacker.jp/2022/01/248922kindle.html</id>
+        <link href="https://www.lifehacker.jp/2022/01/248922kindle.html"/>
+        <updated>2022-01-05T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[1/6まで実施されるKindle本キャンペーンについてご紹介します。]]></summary>
+        <author>
+            <name>ライフハッカー編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple公認ブランド Incase のバックパックやブリーフバッグがセール中｜Amazon 初売り]]></title>
+        <id>59ffcec4-4d66-461b-bb33-2f3273f3de9a</id>
+        <link href="https://japanese.engadget.com/new-year-sale-incase-075548407.html"/>
+        <updated>2022-01-05T07:55:48.000Z</updated>
+        <summary type="html"><![CDATA[Apple社の公式パートナーブランドとして知られているIncaseの製品は、無駄のないシンプルなデザイン、機能性、使い勝手の良さで人気です。今回のセールでは、ビジネスシーンにもフィットするバックパックやブリーフバッグなどがお買い得価格になっています。]]></summary>
+        <author>
+            <name>Engadgetオトク情報局</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[レッカー車でバイクもけん引、JAFがアタッチメント開発　対応サービスカーは2.5倍に]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2201/05/news125.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2201/05/news125.html"/>
+        <updated>2022-01-05T07:52:00.000Z</updated>
+        <summary type="html"><![CDATA[JAFは5日、バイクをレッカー車でけん引するためのアタッチメントを開発したと発表した。これによりバイクをけん引できるサービスカーは2.5倍に増える。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[レッカー車でバイクもけん引、JAFがアタッチメント開発　対応サービスカーは2.5倍に]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2201/05/news125.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2201/05/news125.html"/>
+        <updated>2022-01-05T07:52:00.000Z</updated>
+        <summary type="html"><![CDATA[JAFは5日、バイクをレッカー車でけん引するためのアタッチメントを開発したと発表した。これによりバイクをけん引できるサービスカーは2.5倍に増える。]]></summary>
+        <author>
+            <name>ITmedia TOP STORIES 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[無骨さがたまらない！国産の軍幕テントで渋くデイキャンプしてみた]]></title>
+        <id>https://www.lifehacker.jp/2022/01/machi-ya-fireprooftent-review.html</id>
+        <link href="https://www.lifehacker.jp/2022/01/machi-ya-fireprooftent-review.html"/>
+        <updated>2022-01-05T07:30:00.000Z</updated>
+        <summary type="html"><![CDATA[「Fireproof HCG TENT」は日本の熟練職人が仕立てる本格的なパップテント。難燃性も高められており焚き火や調理も楽しめます。今回はデイキャンプで試したレポートをお届けします。]]></summary>
+        <author>
+            <name>Haruki Matsumoto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shure「AONIC 40」発表、折りたたみ可能になったANCワイヤレスヘッドホン]]></title>
+        <id>d0229351-9a53-453d-b5a9-b717a6c9d332</id>
+        <link href="https://japanese.engadget.com/shure-anc-headphones-aonic-40-072046428.html"/>
+        <updated>2022-01-05T07:20:46.000Z</updated>
+        <summary type="html"><![CDATA[Shureが、ANC搭載のワイヤレスヘッドホン新製品「AONIC 40」を発表しました]]></summary>
+        <author>
+            <name>Munenori Taniguchi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LGのスマートTV、シニア向け医療サービスプリインストールに（北米で）]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2201/05/news114.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2201/05/news114.html"/>
+        <updated>2022-01-05T07:15:00.000Z</updated>
+        <summary type="html"><![CDATA[LGは、2022年に北米で販売するスマートTVに医療サービスアプリをプリインストールすると発表した。「Independa Health Hub」では、歯科医師との動画チャットやシニア向けフィットネスプログラムを利用できる。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LGのスマートTV、シニア向け医療サービスプリインストールに（北米で）]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2201/05/news114.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2201/05/news114.html"/>
+        <updated>2022-01-05T07:15:00.000Z</updated>
+        <summary type="html"><![CDATA[LGは、2022年に北米で販売するスマートTVに医療サービスアプリをプリインストールすると発表した。「Independa Health Hub」では、歯科医師との動画チャットやシニア向けフィットネスプログラムを利用できる。]]></summary>
+        <author>
+            <name>ITmedia TOP STORIES 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[演奏も、制作も、配信も！ コンデンサーマイクやMIDIキーボード、ヘッドホンなどがセール中｜Amazon 初売り]]></title>
+        <id>40316ae1-5c6a-445c-b541-744562f1a49e</id>
+        <link href="https://japanese.engadget.com/new-year-sale-music-production-070503701.html"/>
+        <updated>2022-01-05T07:05:03.000Z</updated>
+        <summary type="html"><![CDATA[USBコンデンサーマイクやモニターヘッドホン、MIDIキーボードといった音楽制作機材がお買い得価格になっています。音楽の演奏や制作はもちろん、動画配信などでも活躍してくれます。]]></summary>
+        <author>
+            <name>Engadgetオトク情報局</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[かっこいい撮影ボックス「Foldio360 Smart Dome」が2021年のベストバイ]]></title>
+        <id>92adbfde-7aaf-4ae9-b5b2-ef2a58f4d4e7</id>
+        <link href="https://japanese.engadget.com/foldio-360-smart-dome-063009968.html"/>
+        <updated>2022-01-05T06:30:09.000Z</updated>
+        <summary type="html"><![CDATA[新製品のレビュー仕事をしていると、何かと必要になるのがブツ撮りです。今や一般語だとは思いますが、「物を撮影する」という作業になります。]]></summary>
+        <author>
+            <name>小山安博（Yasuhiro Koyama）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ゲーミングギアがセール中！ マウス、キーボード、ヘッドセット＆イヤホンなど｜Amazon 初売り]]></title>
+        <id>dde3ef4b-cee9-4786-90b6-74bb9fce18ab</id>
+        <link href="https://japanese.engadget.com/new-year-sale-gaming-062506170.html"/>
+        <updated>2022-01-05T06:25:06.000Z</updated>
+        <summary type="html"><![CDATA[Amazon初売りセールで、マウス、キーボード、ヘッドセットなどのゲーミングギアがお買い得価格になっています。]]></summary>
+        <author>
+            <name>Engadgetオトク情報局</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[リフレクションでKotlinの要素を取得する【Javaリフレクション編】]]></title>
+        <id>https://qiita.com/satona-oinuma/items/5000f166185f8d7f1b89?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/satona-oinuma/items/5000f166185f8d7f1b89?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2022-01-05T06:20:06.000Z</updated>
+        <summary type="html"><![CDATA[Androidの単体テストにあたり、privateなクラスやメソッドにアクセスするために使用するリフレクションについてまとめました。
+
+【注意点】
+この記事では、筆者がリフレクションを一緒くたに認識し…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Amazon初売り】 スマートホーム製品がお安く！Echo Dotが47％オフ、スマートプラグが1,280円など]]></title>
+        <id>https://www.lifehacker.jp/2022/01/amazon-timesale-hatsuuri-2022-0105-2.html</id>
+        <link href="https://www.lifehacker.jp/2022/01/amazon-timesale-hatsuuri-2022-0105-2.html"/>
+        <updated>2022-01-05T06:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazon（アマゾン）では、2022年1月3日9時から1月6日23時59分まで｢Amazon初売り｣を開催中です。人気のアイテムがお買い得となるタイムセールでは、現在、 Echo Dotが47％オフ、スマートプラグが1,280円などなど、今すぐ使えるアイテムがお買い得に登場しています。]]></summary>
+        <author>
+            <name>メディアジーンメディアコマース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon初売りで25％OFF、「身体の一部」になる骨伝導イヤホンAfterShokz Aeropexレビュー]]></title>
+        <id>51aca96f-e8a8-4946-955f-c8b3cb494043</id>
+        <link href="https://japanese.engadget.com/after-shokz-aeropex-093034669-061253593.html"/>
+        <updated>2022-01-05T06:12:53.000Z</updated>
+        <summary type="html"><![CDATA[こんにちはEngadget編集部のつくね伯爵です。11月のちょっと早めなベストバイ記事です。ご紹介するのは骨伝導イヤホン「AfterShokz Aeropex」です。]]></summary>
+        <author>
+            <name>つくね伯爵</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[クアルコムとMS、軽量ARグラス用チップで協業。Snapdragon SpacesやMicrosoft Mesh統合]]></title>
+        <id>43f283fb-d1cb-498c-a043-d887508e46d9</id>
+        <link href="https://japanese.engadget.com/qualcomm-microsoft-ar-metaverse-custom-ar-chip-061021354.html"/>
+        <updated>2022-01-05T06:10:21.000Z</updated>
+        <summary type="html"><![CDATA[CES 2022プレスカンファレンスで、クアルコムがマイクロソフトとAR分野での協業を発表しました。
+
+コンシューマおよびエンタープライズ向けARの普及に向けて、軽量なARグラスを実現するカスタムARチップの開発を含む複数のイニシアチブで協業します。]]></summary>
+        <author>
+            <name>Ittousai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google、セキュリティ企業Siemplifyを買収　クラウド事業に統合へ]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2201/05/news107.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2201/05/news107.html"/>
+        <updated>2022-01-05T06:02:00.000Z</updated>
+        <summary type="html"><![CDATA[Googleが「SOAR」を手掛けるセキュリティ企業Siemplifyを買収した。Google Cloudのセキュリティ部門に統合する。Siemplifyの直感的なプラットフォームで、企業の管理者はサイバー脅威に迅速かつ正確に対応できるとしている。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google、セキュリティ企業Siemplifyを買収　クラウド事業に統合へ]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2201/05/news107.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2201/05/news107.html"/>
+        <updated>2022-01-05T06:02:00.000Z</updated>
+        <summary type="html"><![CDATA[Googleが「SOAR」を手掛けるセキュリティ企業Siemplifyを買収した。Google Cloudのセキュリティ部門に統合する。Siemplifyの直感的なプラットフォームで、企業の管理者はサイバー脅威に迅速かつ正確に対応できるとしている。]]></summary>
+        <author>
+            <name>ITmedia TOP STORIES 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung、E26ソケットにも取り付けられるポータブルプロジェクターFreeStyleを海外発表]]></title>
+        <id>bba95cc2-0c38-4cb1-aea4-5157f2b678cf</id>
+        <link href="https://japanese.engadget.com/samsung-freestyle-portable-projector-055037465.html"/>
+        <updated>2022-01-05T05:50:37.000Z</updated>
+        <summary type="html"><![CDATA[SamsungがCES 2022において、ポータブルプロジェクターFreestyleを発表しました。]]></summary>
+        <author>
+            <name>山本竜也(Tatsuya Yamamoto)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3000円切るiPhone用ワイヤレスピンマイクの実力は？　「WindTour LJM001」を試した]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2201/05/news105.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2201/05/news105.html"/>
+        <updated>2022-01-05T05:42:00.000Z</updated>
+        <summary type="html"><![CDATA[iPhoneに接続したLightning受信機を使うラベリアマイクをレビューした。]]></summary>
+        <author>
+            <name>ITmedia TOP STORIES 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ジョン・ディア、自動運転トラクター「Deer 8R」量産へ。作業状況はスマホなどで確認]]></title>
+        <id>3094282b-420b-4a63-8843-651a84cc95a5</id>
+        <link href="https://japanese.engadget.com/john-deeres-autonomous-tractor-is-ready-for-production-052038278.html"/>
+        <updated>2022-01-05T05:20:38.000Z</updated>
+        <summary type="html"><![CDATA[米国の農機ブランド「ジョン・ディア 」が、自動運転式電動トラクターの市販に向けた量産に入る予定だと発表しました]]></summary>
+        <author>
+            <name>Munenori Taniguchi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[パナ子会社、軽量なVR HMD「MeganeX」発表　メタバース向けに「音漏れしないマイク」「冷温デバイス」も]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2201/05/news102.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2201/05/news102.html"/>
+        <updated>2022-01-05T05:20:00.000Z</updated>
+        <summary type="html"><![CDATA[パナソニック子会社のShiftallが、メタバース向けデバイス3種をパナソニックと共同開発した。VRヘッドセット、音漏れ防止機能付きマイク、冷温デバイスを2022年春以降に発売する。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[パナ子会社、軽量なVR HMD「MeganeX」発表　メタバース向けに「音漏れしないマイク」「冷温デバイス」も]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2201/05/news102.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2201/05/news102.html"/>
+        <updated>2022-01-05T05:20:00.000Z</updated>
+        <summary type="html"><![CDATA[パナソニック子会社のShiftallが、メタバース向けデバイス3種をパナソニックと共同開発した。VRヘッドセット、音漏れ防止機能付きマイク、冷温デバイスを2022年春以降に発売する。]]></summary>
+        <author>
+            <name>ITmedia TOP STORIES 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon初売りセールでワイヤレスイヤホン＆ヘッドホンが安い！ Beats、Sennheiser、AVIOTなど]]></title>
+        <id>608c4670-65c9-41b3-bc2b-ddf89c2d7276</id>
+        <link href="https://japanese.engadget.com/new-year-sale-earphones-045543868.html"/>
+        <updated>2022-01-05T04:55:43.000Z</updated>
+        <summary type="html"><![CDATA[Beats、Sennheiser、AVIOT、Ankerなどのワイヤレスイヤホン＆ヘッドホンがお買い得価格になっています。利用シーンによって複数台を使い分けるのはいまや当たり前。お気に入りの1台をおトクに買えるかもしれないチャンスをお見逃しなく！]]></summary>
+        <author>
+            <name>Engadgetオトク情報局</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「PlayStation VR2」発表、PS5向け　触覚フィードバック機能搭載]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2201/05/news097.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2201/05/news097.html"/>
+        <updated>2022-01-05T04:39:00.000Z</updated>
+        <summary type="html"><![CDATA[ソニー・インタラクティブエンタテインメント（SIE）は、PlayStation 5向け次世代VRシステム「PlayStation VR2」を発表した。有機ELディスプレイを搭載し、片目当たりの解像度は2000×2040ピクセル、フレームレートは90/120Hz。価格や発売日は未定。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「PlayStation VR2」発表、PS5向け　触覚フィードバック機能搭載]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2201/05/news097.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2201/05/news097.html"/>
+        <updated>2022-01-05T04:39:00.000Z</updated>
+        <summary type="html"><![CDATA[ソニー・インタラクティブエンタテインメント（SIE）は、PlayStation 5向け次世代VRシステム「PlayStation VR2」を発表した。有機ELディスプレイを搭載し、片目当たりの解像度は2000×2040ピクセル、フレームレートは90/120Hz。価格や発売日は未定。]]></summary>
+        <author>
+            <name>ITmedia TOP STORIES 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アウトドアブランドのバックパックがお買い得。グレゴリー、カリマー、マムートなど｜Amazon 初売り]]></title>
+        <id>94b75453-7182-4578-9c19-b79b02cf4283</id>
+        <link href="https://japanese.engadget.com/new-year-sale-backpack-042525522.html"/>
+        <updated>2022-01-05T04:25:25.000Z</updated>
+        <summary type="html"><![CDATA[グレゴリー、カリマー、マムート、パタゴニアなど、アウトドアブランドのバックパックがお買い得価格になっています。機能性の高さや頑丈さだけでなく、質実剛健なデザインも魅力です。]]></summary>
+        <author>
+            <name>Engadgetオトク情報局</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[実写映画『アンチャーテッド』の2分半におよぶ長尺予告編。貨物機から荷物が人がメルセデスが…]]></title>
+        <id>36b9a9e6-be43-4b39-957e-9aa0665d3dcc</id>
+        <link href="https://japanese.engadget.com/uncharted-movie-trailer-042010048.html"/>
+        <updated>2022-01-05T04:20:10.000Z</updated>
+        <summary type="html"><![CDATA[ソニー・ピクチャーズ・エンタテインメントが、人気ゲーム実写化映画『アンチャーテッド』の2分半に及ぶ長尺な予告映像を公開しました]]></summary>
+        <author>
+            <name>Munenori Taniguchi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KCCS APIサービス 気象予報データ配信機能(forecasts)について]]></title>
+        <id>https://qiita.com/kccs_api3/items/48cfca432fb9ea277000?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/kccs_api3/items/48cfca432fb9ea277000?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2022-01-05T04:19:08.000Z</updated>
+        <summary type="html"><![CDATA[これまで、KCCS APIサービスの機能を色々と使用してみましたが、今回はその中の気象予報データ配信機能(forecasts)について使ってみます。
+
+
+
+気象予報データ配信機能(forecasts)
+
+提…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alexa対応オーブンレンジ、パナソニックが開発]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2201/05/news087.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2201/05/news087.html"/>
+        <updated>2022-01-05T04:07:00.000Z</updated>
+        <summary type="html"><![CDATA[「アレクサ、コーヒーを1杯温めて」──パナソニックは5日、「CES 2022」で音声操作に対応したオーブンレンジ「NN-SV79MS」を発表した。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alexa対応オーブンレンジ、パナソニックが開発]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2201/05/news087.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2201/05/news087.html"/>
+        <updated>2022-01-05T04:07:00.000Z</updated>
+        <summary type="html"><![CDATA[「アレクサ、コーヒーを1杯温めて」──パナソニックは5日、「CES 2022」で音声操作に対応したオーブンレンジ「NN-SV79MS」を発表した。]]></summary>
+        <author>
+            <name>ITmedia TOP STORIES 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソニー、SUVタイプのEV試作。市場投入も視野に入れた「ソニーモビリティ株式会社」設立（本田雅一）]]></title>
+        <id>bc0b5a84-7edc-4443-a674-949eb58f134a</id>
+        <link href="https://japanese.engadget.com/ev-sony-040001621.html"/>
+        <updated>2022-01-05T04:00:01.000Z</updated>
+        <summary type="html"><![CDATA[今年はリアル展示とバーチャル展示のハイブリッド開催となったCES 2022。ハリウッドのソニーブースでは、CEOの吉田憲一郎氏が講演を行った。その目玉はなんと言っても「ソニーモビリティ株式会社」の設立だ。]]></summary>
+        <author>
+            <name>本田雅一</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon SESで受信したメールをLINE公式アカウント配信したときのハマりどころ]]></title>
+        <id>https://qiita.com/maztak/items/726563db4bd5292a375a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/maztak/items/726563db4bd5292a375a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2022-01-05T03:50:15.000Z</updated>
+        <summary type="html"><![CDATA[基本はこのQiitaの手順通りですが、自分がハマった点をメモしときます。
+
+https://qiita.com/Kakimoty_Field/items/4485a4e76d677d85ade0
+
+ドメ…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[免許更新時の認知機能検査、オンライン予約が可能に　年間11万件の電話受け付け業務を軽減]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2201/05/news082.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2201/05/news082.html"/>
+        <updated>2022-01-05T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[運転免許更新時の認知機能検査について、オンラインでの予約受け付けが始まった。これまでは電話のみで対応していたが、オンライン化で職員の負担軽減、利用者の利便性向上につなげる。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[免許更新時の認知機能検査、オンライン予約が可能に　年間11万件の電話受け付け業務を軽減]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2201/05/news082.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2201/05/news082.html"/>
+        <updated>2022-01-05T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[運転免許更新時の認知機能検査について、オンラインでの予約受け付けが始まった。これまでは電話のみで対応していたが、オンライン化で職員の負担軽減、利用者の利便性向上につなげる。]]></summary>
+        <author>
+            <name>ITmedia TOP STORIES 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AirPodsのマイクが不調な原因と9つの対策]]></title>
+        <id>https://www.lifehacker.jp/2022/01/airpod-microphone-not-working.html</id>
+        <link href="https://www.lifehacker.jp/2022/01/airpod-microphone-not-working.html"/>
+        <updated>2022-01-05T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[AirPodsのマイクがうまく動かないとき、理由はいくつも考えられます。マイクの穴にゴミが入った、設定が間違っている、あるいはちょっとしたバグや故障などがその一例です。]]></summary>
+        <author>
+            <name>堀込泰三,MakeUseOf</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unityを実行せずにアニメーションを再生する]]></title>
+        <id>https://qiita.com/salt-k2t/items/cb2527245dba857fb2fc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/salt-k2t/items/cb2527245dba857fb2fc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2022-01-05T02:42:17.000Z</updated>
+        <summary type="html"><![CDATA[概要
+
+PlayableAPIを用いて、Unityエディタを実行せずにアニメーションを再生する方法を記載します。
+
+Playables APIとは、UnityのAnimator Controllerな…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソニー、EV事業化に向け新会社　SUV型プロトタイプも公開　「モビリティを再定義する」]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2201/05/news077.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2201/05/news077.html"/>
+        <updated>2022-01-05T02:39:00.000Z</updated>
+        <summary type="html"><![CDATA[ソニーは5日、「CES 2022」で春をめどにEVの事業化を検討する新会社を設立すると発表した。合わせて電気自動車のコンセプトモデル「VISION-S」の新たな試作車両も公開している。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソニー、EV事業化に向け新会社　SUV型プロトタイプも公開　「モビリティを再定義する」]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2201/05/news077.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2201/05/news077.html"/>
+        <updated>2022-01-05T02:39:00.000Z</updated>
+        <summary type="html"><![CDATA[ソニーは5日、米国ラスベガスで開催中の「CES 2022」で春をめどにEVの事業化を検討する新会社を設立すると発表した。合わせて電気自動車のコンセプトモデル「VISION-S」の新たな試作車両も公開している。]]></summary>
+        <author>
+            <name>ITmedia TOP STORIES 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Amazon初売り】アレクサ対応スマートグッズがお買い得。Echo Dotが40％オフ、「SwitchBot カーテン」が20％オフなど]]></title>
+        <id>https://www.lifehacker.jp/2022/01/amazon-timesale-hatsuuri-2022-0105-1.html</id>
+        <link href="https://www.lifehacker.jp/2022/01/amazon-timesale-hatsuuri-2022-0105-1.html"/>
+        <updated>2022-01-05T02:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazon（アマゾン）では、2022年1月3日9時から1月6日23時59分まで｢Amazon初売り｣を開催中です。人気のアイテムがお買い得となるタイムセールでは、現在、Echo Dotが40％オフ、「SwitchBot カーテン」が20％オフなど、アレクサ対応スマートグッズがお買い得に登場しています。]]></summary>
+        <author>
+            <name>メディアジーンメディアコマース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“手帳のプロ”のメモ術は｢デジタルとアナログのいいとこ取り｣]]></title>
+        <id>https://www.lifehacker.jp/2022/01/248441memo_tategami2.html</id>
+        <link href="https://www.lifehacker.jp/2022/01/248441memo_tategami2.html"/>
+        <updated>2022-01-05T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「深化するメモ術」特集第1回は、手帳評論家の舘神龍彦さんが登場。手帳というアナログツールの専門家の立場から、紙のメモとデジタルメモのメリットをそれぞれ紹介してもらい、「メモの力」を紐解いていきます。今回は後編です。]]></summary>
+        <author>
+            <name>ライフハッカー編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power Apps Portals で詳細フォームを公開する]]></title>
+        <id>https://qiita.com/kumukai/items/af6042956b91cb1c75e9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/kumukai/items/af6042956b91cb1c75e9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2022-01-05T00:57:54.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。日本マイクロソフトの向井です。
+
+今回はPower Apps Portals で作成した詳細フォームを公開する手順を紹介します。
+
+この記事では作成済みの詳細フォームに対して
+①該当のテーブ…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UE4.27.2 プラグイン、パッケージ化時容量測定結果]]></title>
+        <id>https://qiita.com/O_Y_G/items/b74f54205cfe4c6cf8f0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/O_Y_G/items/b74f54205cfe4c6cf8f0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2022-01-05T00:02:44.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+Unreal Engine 4.27.2 のプラグインが、パッケージデータにどの程度影響があるのか、検証してみました。
+Windows Shipping設定。サードパーソンテンプレートで…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[総務省、携帯「6G」開放へ指針　中国の寡占化を警戒]]></title>
         <id>https://www.itmedia.co.jp/news/articles/2201/05/news060.html</id>
@@ -247,6 +1080,20 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[オンラインでプランニングポーカーができる、Plapoが楽しかったので紹介する]]></title>
+        <id>https://qiita.com/e99h2121/items/2bc505415e1ccfd2ff95?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/e99h2121/items/2bc505415e1ccfd2ff95?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2022-01-04T21:17:02.000Z</updated>
+        <summary type="html"><![CDATA[オンラインでプランニングポーカーができる無料サービス Plapo を体験して楽しかったので紹介します。
+
+https://plapo.net/
+
+https://prtimes.jp/main/html…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2017年1月5日、TangoとDaydreamに両対応したスマホ「ZenFone AR」が発表されました：今日は何の日？]]></title>
         <id>2a681fdc-2a0d-4981-a87f-40012e98a710</id>
         <link href="https://japanese.engadget.com/today-203033006.html"/>
@@ -299,6 +1146,35 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[継続を扱えるLispの簡易的な処理系をRubyで実装]]></title>
+        <id>https://qiita.com/tetetratra/items/da2b21ea74caaeb3dd73?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/tetetratra/items/da2b21ea74caaeb3dd73?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2022-01-04T13:23:31.000Z</updated>
+        <summary type="html"><![CDATA[プログラミング言語の処理系を実装してみたく思い、LispのようなS式を実行する簡易的な処理系を書いてみました。
+
+「第一級の継続(call/cc)を実装する」というのが一番の目標でした。
+
+ひとまずは動…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[個人開発] 普段コンビニ食品を食べているが、成分が気になる方へ向けてのサービス 「healthy-combi」を開発しました。]]></title>
+        <id>https://qiita.com/takuya178/items/70ce1ca21529a0b3341e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/takuya178/items/70ce1ca21529a0b3341e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2022-01-04T13:11:23.000Z</updated>
+        <summary type="html"><![CDATA[サービス概要
+
+コンビニ食品をよく摂取するが、炭水化物・脂質・塩分が気になる人へ。組み合わせ食品を共有するアプリです。
+
+URL: https://www.healthy-combi.com/
+Git…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[うっかり鼻毛は悲しい。安全に深く処理できる『パナソニックのエチケットカッター』｜これ買ってよかった]]></title>
         <id>https://www.lifehacker.jp/2022/01/248236best-buy-panasonic-er-gn11.html</id>
         <link href="https://www.lifehacker.jp/2022/01/248236best-buy-panasonic-er-gn11.html"/>
@@ -336,6 +1212,18 @@
         <summary type="html"><![CDATA[今回はSymbolブロックチェーンを活用した認証基盤の構築について概念検証してみたいと思います。
 
 Symbolはブロックチェーンに詳しくない他分野のスペシャリストでもローコード/ノーコードでセキュア…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CNNによる画像分類：背景の影響を低減させる正則化]]></title>
+        <id>https://qiita.com/tabintone/items/8f5593bf1083a55c4b72?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/tabintone/items/8f5593bf1083a55c4b72?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2022-01-04T12:05:27.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+CNNを用いた画像分類モデルを構築するときに、認識したい物体をちゃんと認識したモデルを作るのは結構難しかったりします。特に学習に用いるデータが少なくて偏りがあると以下の例のように画像の背…]]></summary>
         <author>
             <name>Qiita - 人気の記事</name>
         </author>
@@ -851,6 +1739,18 @@ Herok…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Zigで、B - FizzBuzz Sum問題を解いてみる]]></title>
+        <id>https://qiita.com/torifukukaiou/items/47637b3f95ca843881a0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/torifukukaiou/items/47637b3f95ca843881a0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2022-01-03T14:22:17.000Z</updated>
+        <summary type="html"><![CDATA[https://qiita.com/official-events/5cb794f7cb9ac194ed70
+
+信長之代、五年、三年は持たるべく候。明年辺は公家などに成さるべく候かと見及び申候。左候て…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【WordPress+Symbol】特定のトークン（モザイク）を持っている人のみ記事を閲覧できるプラグイン]]></title>
         <id>https://qiita.com/imogai/items/027c679bcc53c3102f92?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
         <link href="https://qiita.com/imogai/items/027c679bcc53c3102f92?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -881,771 +1781,6 @@ PHPのコード…]]></summary>
         <summary type="html"><![CDATA[DynamnDBって、RDB長くやっている人ほど、なんか理解できない、話はわかるけど腑に落ちない存在だったりしませんか？
 
 自分はこうやってDynamoを理解しました。正確にあっているかは自分でもわか…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Amazon初売り】パーティーゲームがお買い得！モノポリーが47％オフ、ジェンガが51％オフなど]]></title>
-        <id>https://www.lifehacker.jp/2022/01/amazon-timesale-hatsuuri-2022-0103-4.html</id>
-        <link href="https://www.lifehacker.jp/2022/01/amazon-timesale-hatsuuri-2022-0103-4.html"/>
-        <updated>2022-01-03T12:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Amazon（アマゾン）では、2022年1月3日9時から1月6日23時59分まで｢Amazon初売り｣を開催中です。
-
-人気のアイテムがお買い得となるタイムセールでは、現在、モノポリーが47％オフ、ジェンガが51％オフなど、楽しく遊べるパーティーゲームがお買い得に登場しています。]]></summary>
-        <author>
-            <name>メディアジーンメディアコマース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Appleシリコン版Mac ProやiMac Proが6月までに登場、インテルCPUから移行完了のうわさ]]></title>
-        <id>e2cf9a1d-50cb-490b-b086-e8203e3be6ec</id>
-        <link href="https://japanese.engadget.com/apple-silicon-transition-completed-by-wwdc-110042546.html"/>
-        <updated>2022-01-03T11:00:42.000Z</updated>
-        <summary type="html"><![CDATA[2022年6月までにはAppleシリコンを搭載した様々な新型Macが発売され、インテルプロセッサからの完全移行が完了するとの予想が報じられています。]]></summary>
-        <author>
-            <name>Kiyoshi Tane</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[時間を無駄にする2つのこと、無駄遣いしない4つの方法]]></title>
-        <id>https://www.lifehacker.jp/2022/01/248322how-to-control-time.html</id>
-        <link href="https://www.lifehacker.jp/2022/01/248322how-to-control-time.html"/>
-        <updated>2022-01-03T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[限られた時間をどう使うかは、永遠のテーマです。特に、パンデミックによる自宅での仕事環境では、誘惑や家事が仕事時間に侵入してきて、集中力は途切れ気味。公私の区別をつけるのは簡単ではありません。]]></summary>
-        <author>
-            <name>ライフハッカー編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[毎日清潔なタオルと歯ブラシで快適に。殺菌と乾燥が同時にできる「MY-1」消毒乾燥ホルダー]]></title>
-        <id>cf5df48f-816b-466d-87f0-2a993f5b7799</id>
-        <link href="https://japanese.engadget.com/my-1-103547482.html"/>
-        <updated>2022-01-03T10:35:47.000Z</updated>
-        <summary type="html"><![CDATA[55℃の恒温乾燥、波長253.7nmの紫外線で瞬間殺菌、殺菌率は99.99％！ 乾燥時間を1～8時間で設定可能、人が近づくとセンサーで紫外線照射を自動停止するので安全！ 耐荷重10kgでタオルや歯ブラシだけでなく、コップや化粧品なども置けて洗面所すっきり！ 「MY-1」は、殺菌率99.99％の紫外線殺菌と55℃の恒温乾燥でタオルや歯ブラシなどを清潔に保つホルダーです。タオルは1日使うと湿って臭いがしますし、歯ブラシも乾燥させないと細菌が発生してしまいます。MY-1なら、毎日清潔なタオルと歯ブラシで快適です！ 乾燥時間は、乾燥させたい物に合わせて1～8時間で設定可能です。雨や雪の日に、濡れた手袋や帽子などを掛けて乾燥させるのにもぴったりです。 洗面所は物が多くてごちゃごちゃしがちです。MY-1は耐荷重10kgですので、コップや化粧品などさまざまな物を置くことができ、洗面所がすっきりします。 洗面所で一番よく使う物といえば、歯ブラシとタオルですよね。ですが、歯ブラシは使ったらそのままスタンドに置きっぱなし、タオルもハンガーにかけっぱなしでは、湿気で臭いやカビが発生してしまいます。MY-1は]]></summary>
-        <author>
-            <name>GREEN FUNDING with Engadget Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All your codebase are belong to us. ーー ZigのHello, world!]]></title>
-        <id>https://qiita.com/torifukukaiou/items/8dd486a2d12dd44e371e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/torifukukaiou/items/8dd486a2d12dd44e371e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2022-01-03T10:34:16.000Z</updated>
-        <summary type="html"><![CDATA[山中の賊を破るは易く心中の賊を破るは難し
-
-Advent Calendar 2022 4日目^1の記事です。
-私のAdvent Calendar 2022 一覧。
-
-^1: @kaizen_nagoya…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ユカイ工学の新作は「指をアマガミ」するぬいぐるみ風ロボット。CESにて出展]]></title>
-        <id>39739543-8164-45da-a27e-d49f2a0ffe2f</id>
-        <link href="https://japanese.engadget.com/yukai-engineering-amagami-ham-ham-103020203.html"/>
-        <updated>2022-01-03T10:30:20.000Z</updated>
-        <summary type="html"><![CDATA[ロボットといえば実用的なメカメカしいものから先進技術をつぎ込んだ実験的なものまでさまざまですが、日本発のユカイ工学からは一風変わった指を甘噛するロボット「甘噛みハムハム」が公開されました。]]></summary>
-        <author>
-            <name>塚本直樹(Naoki Tsukamoto)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[残して良かったドキュメント、いまいちだったドキュメント]]></title>
-        <id>https://qiita.com/xrxoxcxox/items/a39944c623301151920f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/xrxoxcxox/items/a39944c623301151920f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2022-01-03T10:03:15.000Z</updated>
-        <summary type="html"><![CDATA[この記事の概要
-
-エンジニア的な文化・行動として「ドキュメントを残そう」をよく聞きますよね。
-
-私の在籍するQiita株式会社では、社内の情報共有もかなり強く意識しています。
-普段からドキュメントを残…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exchange Severのメール配信が停止する「2022年問題」。MSは修正スクリプトをリリース]]></title>
-        <id>5cec2ac4-f55c-4331-a00d-a49b36d229b2</id>
-        <link href="https://japanese.engadget.com/microsoft-exchange-server-2022-bug-fix-100042633.html"/>
-        <updated>2022-01-03T10:00:42.000Z</updated>
-        <summary type="html"><![CDATA[オンプレミスのExchange Server 2016および2019において、2022年1月1日以降にメール配信が停止する不具合が発生。Microsoftはこれに対応するためのスクリプトをリリースしました。]]></summary>
-        <author>
-            <name>山本竜也(Tatsuya Yamamoto)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アップル、Pro Display XDRの「半分価格」モデルを準備中のウワサ]]></title>
-        <id>9de301b1-9100-4839-93a7-1f53f696e872</id>
-        <link href="https://japanese.engadget.com/apple-developing-external-display-half-price-093058108.html"/>
-        <updated>2022-01-03T09:30:58.000Z</updated>
-        <summary type="html"><![CDATA[アップルがPro Display XDRの「約半分の価格になる」外付けディスプレイを準備している可能性が伝えられています。]]></summary>
-        <author>
-            <name>Kiyoshi Tane</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon初売り対象、絡まないAnkerの充電ケーブル「PowerLine III Flow」レビュー]]></title>
-        <id>1fb1ce5c-66d8-466f-858d-967ef47f6b72</id>
-        <link href="https://japanese.engadget.com/power-line-iii-flow-092408727-093030606.html"/>
-        <updated>2022-01-03T09:30:30.000Z</updated>
-        <summary type="html"><![CDATA[みなさん、充電ケーブルがイヤホンのように絡まってぐちゃぐちゃになった経験はありますか？
-イヤホンは完全ワイヤレス化に伴ってケーブル絡まる問題から開放されつつありますが、充電に関してはまだまだ有線が主流です。でも充電ケーブルってすぐ絡まるし癖がついて扱いにくいし邪魔ですよね。]]></summary>
-        <author>
-            <name>EngadgetJP Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[サムスン、太陽電池と電波エネルギーで充電するテレビ用リモコンを発表]]></title>
-        <id>6b8926fc-c876-4fb5-bba4-47bc82e70a4d</id>
-        <link href="https://japanese.engadget.com/samsung-2022-eco-remote-090039615.html"/>
-        <updated>2022-01-03T09:00:39.000Z</updated>
-        <summary type="html"><![CDATA[Samsungが、ルーターの電波で充電するエコなテレビ用リモコンを発表しました。]]></summary>
-        <author>
-            <name>Munenori Taniguchi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[24インチで2万円切りも！ ゲーミングディスプレーがAmazon初売りセールでお買い得価格に]]></title>
-        <id>8a59edc3-0db8-4062-83b6-2c5752ead4c1</id>
-        <link href="https://japanese.engadget.com/new-year-sale-gaming-display-084824389.html"/>
-        <updated>2022-01-03T08:48:24.000Z</updated>
-        <summary type="html"><![CDATA[Amazon初売りセールで、Dell、BenQ、ASUS、Acer、LGなどのゲーミングディスプレーがお買い得価格になっています。]]></summary>
-        <author>
-            <name>Engadgetオトク情報局</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS認定データベース専門知識勉強メモ]]></title>
-        <id>https://qiita.com/isobecky74/items/ef2b86f7edf932eb067e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/isobecky74/items/ef2b86f7edf932eb067e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2022-01-03T08:18:45.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-
-AWS認定 データベース - 専門知識受験のために整理した勉強メモです。
-
-参考文献
-
-https://www.amazon.co.jp/%E8%A6%81%E7%82%B9%E6%95%B…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Amazon初売り】23%オフ、スマホなどが置けるテーブル付きフィットネスバイク]]></title>
-        <id>https://www.lifehacker.jp/2022/01/amazon-timesale-hatsuuri-2022-0103-3.html</id>
-        <link href="https://www.lifehacker.jp/2022/01/amazon-timesale-hatsuuri-2022-0103-3.html"/>
-        <updated>2022-01-03T08:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Amazon（アマゾン）では、2022年1月3日9時から1月6日23時59分まで｢Amazon初売り｣を開催中です。
-人気のアイテムがお買い得となるタイムセールでは、現在、 23%オフのアルインコのスマホがおけるテーブル付きフィットネスバイクなど、今すぐ使えるアイテムがお買い得に登場しています。]]></summary>
-        <author>
-            <name>メディアジーンメディアコマース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhone 14一部モデルはやぱりパンチホール画面採用か。新iPhone SEは5G対応の噂]]></title>
-        <id>cfa3507a-a644-4b7e-9e6c-fd0245de99d1</id>
-        <link href="https://japanese.engadget.com/iphone14-pro-punchhole-iphonese3-5g-080021676.html"/>
-        <updated>2022-01-03T08:00:21.000Z</updated>
-        <summary type="html"><![CDATA[2022年のiPhone 14(仮)のうち、Proモデルではノッチがなくなりパンチホール画面になるとの噂に関して、大手メディアBloombergが補強する観測を伝えています。]]></summary>
-        <author>
-            <name>Kiyoshi Tane</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon初売りでブラウン・フィリップスの電動歯ブラシやシェーバーがお買い得に]]></title>
-        <id>7b59c579-5383-4a46-9201-3fe5bfedfab9</id>
-        <link href="https://japanese.engadget.com/amazon-sale-075903585.html"/>
-        <updated>2022-01-03T07:59:03.000Z</updated>
-        <summary type="html"><![CDATA[Amazonにて「Amazon 初売り」セールが1月6日（木）23時59分まで開催中。]]></summary>
-        <author>
-            <name>つくね伯爵</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UE4 パッケージ化設定のポイントを押さえる【初心者向け】Windows]]></title>
-        <id>https://qiita.com/O_Y_G/items/8bc60efe54f9aefafd38?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/O_Y_G/items/8bc60efe54f9aefafd38?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2022-01-03T07:39:37.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-
-初心者の時に、チュートリアルで作ったゲームや、UE4ぷちコンなどで作ったゲームを友達にプレイしてもらいたい時などに、パッケージ化の設定をどうしたらいいか、悩む事があると思います。
-
-今回は…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WindowsノートPCがお得なセール中：Amazon初売り（1月6日まで）]]></title>
-        <id>e28e96e1-e21d-4ffe-a843-977baca71251</id>
-        <link href="https://japanese.engadget.com/amazon-pc-070124445.html"/>
-        <updated>2022-01-03T07:01:24.000Z</updated>
-        <summary type="html"><![CDATA[ASUSの有機EL搭載13.3インチノートが23%オフの9万9800円で販売中。CPUはCore i5-1135G7、SSD 512GBと8GBのメモリーを搭載。13.3インチのフルHD有機EL部分はグルッと回転するモデル。]]></summary>
-        <author>
-            <name>Engadgetオトク情報局</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Googleが選ぶ、2021年の最も優れたChrome拡張機能13選]]></title>
-        <id>https://www.lifehacker.jp/2022/01/24858713-of-the-best-chrome-extensions-of-2021-according-to-google.html</id>
-        <link href="https://www.lifehacker.jp/2022/01/24858713-of-the-best-chrome-extensions-of-2021-according-to-google.html"/>
-        <updated>2022-01-03T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Googleが選ぶ、2021年の最も優れたChrome拡張機能13をご紹介します。]]></summary>
-        <author>
-            <name>OCiETe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Watchユーザーならマストバイ!　Ankerのケーブルレス充電器がAmazon初売りで10％OFF]]></title>
-        <id>79ff637b-6ded-40e1-a7b9-3de5415fddf4</id>
-        <link href="https://japanese.engadget.com/apple-watch-073055548-064548288.html"/>
-        <updated>2022-01-03T06:45:48.000Z</updated>
-        <summary type="html"><![CDATA[使い始めると、その便利さゆえ、片時も離れたくなくなるのが、Apple Watch。特にヘルスケアのために装着している人は「なるべく長時間データを取り続けること」を大切にしているでしょう。でも、Apple Watchの稼働時間は6で最大18時間。充電は約1.5時間でフルになると言われているものの、夜の充電忘れで、昼過ぎには低電力モードに…なんて経験、ありませんか？]]></summary>
-        <author>
-            <name>EngadgetJP Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[サムスン、144Hz駆動のテレビ「Neo QLED」2022年モデル発表。クラウドゲームも対応]]></title>
-        <id>947ab83c-450f-4823-9b1d-703fe90dd918</id>
-        <link href="https://japanese.engadget.com/samsung-first-144-hz-4-k-and-8-k-t-vs-064529469.html"/>
-        <updated>2022-01-03T06:45:29.000Z</updated>
-        <summary type="html"><![CDATA[Samsungが144Hz入力に対応する4Kおよび8K Neo QLED テレビを発表しました。]]></summary>
-        <author>
-            <name>Munenori Taniguchi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon 初売りでAnkerのモバイルバッテリーや充電器がお買い得に]]></title>
-        <id>7b12b35d-e746-42d8-b404-50e040f31f8c</id>
-        <link href="https://japanese.engadget.com/anker-amazon-061904487.html"/>
-        <updated>2022-01-03T06:19:04.000Z</updated>
-        <summary type="html"><![CDATA[Amazonにて「Amazon 初売り」セールが1月6日（木）23時59分まで開催中。]]></summary>
-        <author>
-            <name>つくね伯爵</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1/6(木)まで開催中の｢Amazon 初売り｣で購入前にやっておきたいこと]]></title>
-        <id>https://www.lifehacker.jp/2022/01/amazon_hatsuuri_2022.html</id>
-        <link href="https://www.lifehacker.jp/2022/01/amazon_hatsuuri_2022.html"/>
-        <updated>2022-01-03T06:15:00.000Z</updated>
-        <summary type="html"><![CDATA[今年も｢Amazon初売り｣が2022年1月3日（月）9:00 ～ 6日（木）23:59にて開催中！ 実は、クレジットカード決済で購入するよりお得に買い物ができる方法があることを知っているでしょうか？ その方法とキャンペーンを紹介します。]]></summary>
-        <author>
-            <name>メディアジーンメディアコマース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英語面接で5歳児みたいなことしか言えないからカッとなってWebサービス作った【個人開発】]]></title>
-        <id>https://qiita.com/yuno_miyako/items/9996efe20880fda35d91?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/yuno_miyako/items/9996efe20880fda35d91?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2022-01-03T06:14:52.000Z</updated>
-        <summary type="html"><![CDATA[要約
-
-「英語で意見を言おうとすると5歳児のようになってしまう」という課題を解決するEnglisterというサービスを開発した。
-自分で使ってみたところ、10問程度の問題を解くだけでスラスラと英語で…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[無線イヤホンの老舗Jabra、ノイキャン＋耐水性向上のElite 4  Active海外発表]]></title>
-        <id>09208d16-5448-4c8c-901a-dcc080fd9cc1</id>
-        <link href="https://japanese.engadget.com/jabra-elite-4-060038264.html"/>
-        <updated>2022-01-03T06:00:38.000Z</updated>
-        <summary type="html"><![CDATA[ワイヤレスイヤホンの老舗メーカーであるJabraが、ANC（アクティブノイズキャンセリング）機能を搭載した新型ワイヤレスイヤホン「Elite 4 Active」を海外発表しました。]]></summary>
-        <author>
-            <name>塚本直樹(Naoki Tsukamoto)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Amazon初売り】人気の定番モデルが15%オフ。ニューバランスの996や40%オフのEcho Dotなどがお買い得]]></title>
-        <id>https://www.lifehacker.jp/2022/01/amazon-timesale-hatsuuri-2022-0103-2.html</id>
-        <link href="https://www.lifehacker.jp/2022/01/amazon-timesale-hatsuuri-2022-0103-2.html"/>
-        <updated>2022-01-03T05:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Amazon（アマゾン）では、2022年1月3日9時から1月6日23時59分まで｢Amazon初売り｣を開催中です。人気のアイテムがお買い得となるタイムセールでは、現在、15％オフのニューバランスの996や40%オフのEcho Dotなど、今すぐ使えるアイテムがお買い得に登場しています。]]></summary>
-        <author>
-            <name>メディアジーンメディアコマース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[次期AirPods Proはロスレス対応、充電ケースは音が鳴らせるとのアナリスト予測]]></title>
-        <id>bddb5329-5d82-4a78-8d5b-53714c66b3b8</id>
-        <link href="https://japanese.engadget.com/airpodspro2-lossless-support-analyst-050047781.html"/>
-        <updated>2022-01-03T05:00:47.000Z</updated>
-        <summary type="html"><![CDATA[次世代AirPods Proがロスレス音源の再生に対応し、専用充電ケースは（ユーザーが探せるよう）音が出せるなどのアナリスト予測が伝えられています。]]></summary>
-        <author>
-            <name>Kiyoshi Tane</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chromebookがお得なセール中：Amazonの初売りセール（1月6日まで）]]></title>
-        <id>2a43eebb-507e-4c43-bd85-03b157b89c3c</id>
-        <link href="https://japanese.engadget.com/amazon-new-year-sale-045603399.html"/>
-        <updated>2022-01-03T04:56:03.000Z</updated>
-        <summary type="html"><![CDATA[Chromebookが新春セールでお買い得になっています。
-
-たとえば、日本エイサーの15.6インチモデル「CB315-3H-A14P2」は、30%オフの2万7800円。CPUにCeleron N4020、4GBのメモリーを搭載。]]></summary>
-        <author>
-            <name>Engadgetオトク情報局</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【初心者向け】next.jsをJavaScriptからTypeScriptに変換するときの手順]]></title>
-        <id>https://qiita.com/senju797/items/b9921b207d079a45666c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/senju797/items/b9921b207d079a45666c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2022-01-03T04:43:47.000Z</updated>
-        <summary type="html"><![CDATA[背景と実施したこと
-
-next.jsのwebアプリケーションをjavascriptからtypescriptに変換しました。
-typescriptをインストールして、あとは各変数のtypeを用意してあ…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EC2インスタンスの消し忘れをLINE Messaging APIで通知する]]></title>
-        <id>https://qiita.com/mittsukan/items/6696dc59d066592198ad?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/mittsukan/items/6696dc59d066592198ad?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2022-01-03T04:17:45.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-
-テストなどでEC2インスタンスを作成していろいろと検証をした後に、ついうっかり停止し忘れて余計な料金がかかってしまうことはよくあることです。
-本記事では毎朝決まった時間に、起動中のEC2…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最新Fire TV Stick 4K Maxが4980円など、Fire TVシリーズが最大40％オフ｜Amazon 初売り]]></title>
-        <id>8c2c07ed-3c66-4fa9-a88d-ad4196a6774e</id>
-        <link href="https://japanese.engadget.com/new-year-sale-fire-tv-040350942.html"/>
-        <updated>2022-01-03T04:03:50.000Z</updated>
-        <summary type="html"><![CDATA[Amazonの初売りセールで、ストリーミングメディアプレーヤー「Fire TV」シリーズの3製品が最大40％オフとお買い得価格になっています。NetflixやDisney+、DAZNなど、さまざまな動画配信サービスの視聴環境を手軽に実現してみては？]]></summary>
-        <author>
-            <name>Engadgetオトク情報局</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[テスラ、2021年の納車台数約94万台を達成。うち3割強を第4四半期に納入]]></title>
-        <id>ec91a751-81c4-4aa0-8611-a15b2f6dee8e</id>
-        <link href="https://japanese.engadget.com/tesla-delivered-about-1-million-e-vs-last-year-034423622.html"/>
-        <updated>2022-01-03T03:44:23.000Z</updated>
-        <summary type="html"><![CDATA[テスラは、2021年に合計93万6172台の電気自動車を納車したことを明らかにしました]]></summary>
-        <author>
-            <name>Munenori Taniguchi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スマートフォンのAmazon売れ筋ランキング。1人1台の必須ツール。実売3万円台から新機種に乗換可能！]]></title>
-        <id>8a541efd-6f69-469e-ab71-716a3cb60c6d</id>
-        <link href="https://japanese.engadget.com/ranking-smartphone-032535163.html"/>
-        <updated>2022-01-03T03:25:35.000Z</updated>
-        <summary type="html"><![CDATA[PC本体と変わらぬ高額商品になった最新スマートフォンですが、自分で携帯電話回線（SIMカード）を契約して設定できるなら、実売3万円前後から手に入ります。iPhone 13/13ProのSIMフリーモデルも購入できます。Amazonの「スマートフォン」売れ筋ランキングを紹介します。]]></summary>
-        <author>
-            <name>Engadgetオトク情報局</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vue.js + Vuetify + Azure Static Web Appsで家計黄金比率シミュレーターを作ってみた！]]></title>
-        <id>https://qiita.com/Ooooooomin_365/items/fcebdcb38245d34a6f85?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/Ooooooomin_365/items/fcebdcb38245d34a6f85?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2022-01-03T03:18:59.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-
-お正月休みを利用して久しぶりにVue.jsのお勉強をしたいなと思い、手取りの収入から家計黄金比を出してくれるアプリを作ってみました。
-
-どんなアプリか
-
-利用方法としてはとても単純で「月の手…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ElixirでTailwindは1行で使える①～Node.jsは不要～React的リアルタイムフロントをサーバサイドで書くLiveViewにTailwindCSS導入]]></title>
-        <id>https://qiita.com/piacerex/items/be68b1e0390cc991084c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/piacerex/items/be68b1e0390cc991084c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2022-01-03T03:09:18.000Z</updated>
-        <summary type="html"><![CDATA[Elixir Digitalization Implementors／fukuoka.ex／kokura.exのpiacereです
-ご覧いただいて、ありがとうございます 
-
-LiveViewが標準搭載さ…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「スマートホームハブ搭載モニター」がSamsungから。Tizen OS搭載]]></title>
-        <id>cc9f1e10-ff1e-4d6d-bfb4-00491e03073a</id>
-        <link href="https://japanese.engadget.com/samsung-smart-monitor-m8-030255566.html"/>
-        <updated>2022-01-03T03:02:55.000Z</updated>
-        <summary type="html"><![CDATA[Samsungは1月3日、CES 2022に向けてスマートモニターとゲーミングモニターの新ラインナップを発表しました。]]></summary>
-        <author>
-            <name>山本竜也(Tatsuya Yamamoto)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「AirPods Pro 2」はApple Losslessオーディオ対応か]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2201/03/news024.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2201/03/news024.html"/>
-        <updated>2022-01-03T02:40:00.000Z</updated>
-        <summary type="html"><![CDATA[「AirPods Pro」のリフレッシュ版が2022年第4四半期登場とおなじみミン＝チー・クオ氏が予想。]]></summary>
-        <author>
-            <name>ITmedia TOP STORIES 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20秒で空気を浄化。ワイヤレス充電機能や灰皿も搭載した多機能空気清浄機「XIAOYUAN（ショウエン）」]]></title>
-        <id>06870be7-b832-4176-a382-de95f8d55518</id>
-        <link href="https://japanese.engadget.com/xiaoyuan-air-purifier-022510331.html"/>
-        <updated>2022-01-03T02:25:10.000Z</updated>
-        <summary type="html"><![CDATA[XIAOYUANは360°風を吸い込み、毎分5000万個/㎤のマイナスイオンを放出し、20秒で空気を浄化します。また灰皿としても使用できます。 ペットの臭い、細菌、タバコの煙、リフォームしたばかりの家のホルムアルデヒドなどを除去することができます。キッチン、車、オフィス、お風呂場などに簡単に置いておけば、より清潔な空気を楽しむことができます。 空気清浄機するだけでなく充電機能が備わってます。XIAOYUAN清浄機の上には15Wのワイヤレス充電ボードがあり充電中も空気を浄化してくれるのです。 ※ワイヤレス充電が可能なAndroidやiPhoneに対応（ワイヤレス規格はQiです） 灰皿は中央部に配置されており、取り外して灰を取り除いたり、掃除したりすることができます。 XIAOYUANは毎分10立方メートル～25立方メートルの空気を浄化できます。内蔵のマイナスイオンモジュールは毎分5000万個/㎤のマイナスイオンを放出することが可能です。 360°の強力吸引力を備えています。3段階調節可能吸引力:低・中・高です。 低：毎分約10立方メートルの空気を浄化できます。 中：毎分約15〜20立方メ]]></summary>
-        <author>
-            <name>GREEN FUNDING with Engadget Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Amazon初売り】本日スタート！ルンバや松屋などAmazon福袋が多数登場、40％オフのFire TV Stickもお得]]></title>
-        <id>https://www.lifehacker.jp/2022/01/amazon-timesale-hatsuuri-2022-0103-1.html</id>
-        <link href="https://www.lifehacker.jp/2022/01/amazon-timesale-hatsuuri-2022-0103-1.html"/>
-        <updated>2022-01-03T02:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Amazon（アマゾン）では、2022年1月3日9時から1月6日23時59分まで｢Amazon初売り｣を開催中です。 
-
-人気のアイテムがお買い得となるタイムセールでは、現在、ルンバや松屋などAmazon福袋や40％オフのFire TV Stickなど、今すぐ使えるアイテムがお買い得に登場しています。]]></summary>
-        <author>
-            <name>メディアジーンメディアコマース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[しぶんぎ座流星群、4日未明ピーク　太平洋側は「近年まれに見る絶好の観察条件」　生配信も]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2201/03/news023.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2201/03/news023.html"/>
-        <updated>2022-01-03T02:00:00.000Z</updated>
-        <summary type="html"><![CDATA[3日深夜から4日未明にかけ、三大流星群の一つ「しぶんぎ座流星群」がピークを迎える。ウェザーニュースによると、4日は新月で月明かりの影響が少なく「近年まれに見る絶好の観察条件」という。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[しぶんぎ座流星群、4日未明ピーク　太平洋側は「近年まれに見る絶好の観察条件」　生配信も]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2201/03/news023.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2201/03/news023.html"/>
-        <updated>2022-01-03T02:00:00.000Z</updated>
-        <summary type="html"><![CDATA[3日深夜から4日未明にかけ、三大流星群の一つ「しぶんぎ座流星群」がピークを迎える。ウェザーニュースによると、4日は新月で月明かりの影響が少なく「近年まれに見る絶好の観察条件」という。]]></summary>
-        <author>
-            <name>ITmedia TOP STORIES 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fortranをはじめる(Nervesにてはじめる前の準備運動を開始)]]></title>
-        <id>https://qiita.com/torifukukaiou/items/9494767af2816d1b607c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/torifukukaiou/items/9494767af2816d1b607c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2022-01-03T01:58:09.000Z</updated>
-        <summary type="html"><![CDATA[いくら考えても、どうにもならぬときは、四つ辻へ立って、杖の倒れたほうへ歩む。
-
-Advent Calendar 2022 3日目[^1]の記事です。
-私のAdvent Calendar 2022 一覧。
-…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flutterでの開発体験をよくする小技 〜シェルスクリプトを書こう〜]]></title>
-        <id>https://qiita.com/Umigishi-Aoi/items/faffd042723497826406?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/Umigishi-Aoi/items/faffd042723497826406?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2022-01-03T01:57:45.000Z</updated>
-        <summary type="html"><![CDATA[Flutterでの開発体験をよくする小技を紹介します。
-
-Flutterで開発していてターミナルで打ち込むコマンドがルーチン化してはいませんか？
-
-今回はルーチン化しているコマンドをシェルスクリプトを使…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【PHP8.1】PHP8.1はPHP7.4より20%高速化している]]></title>
-        <id>https://qiita.com/rana_kualu/items/a402756fdd888a5f7c3a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/rana_kualu/items/a402756fdd888a5f7c3a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2022-01-03T01:53:02.000Z</updated>
-        <summary type="html"><![CDATA[MLにAutomatic performance benchmarking: PHP 8.1 is ~30% faster than PHP 7.4という投稿があったので紹介してみます。
-
-https…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コロンビアの冬用サンダルが秀逸「暖かい×軽い×脱ぎ履きしやすい」]]></title>
-        <id>https://www.lifehacker.jp/2022/01/248337columbia-roomie.html</id>
-        <link href="https://www.lifehacker.jp/2022/01/248337columbia-roomie.html"/>
-        <updated>2022-01-03T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[コロンビアの冬用サンダルはお手頃なのに暖かい！冷え性の方におすすめなアイテムですよ。]]></summary>
-        <author>
-            <name>ライフハッカー編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPad miniをもっと便利にするためにやっておくべき4つの設定]]></title>
-        <id>be7f9010-3ff9-4662-ade7-71dad70649a0</id>
-        <link href="https://japanese.engadget.com/ipad-mini-4-benri-004537863.html"/>
-        <updated>2022-01-03T00:45:37.000Z</updated>
-        <summary type="html"><![CDATA[2021年のベストバイに挙げる人も多かったiPad miniをもっと便利にするおすすめの設定をご紹介します。これから使いこなして行きたいと言う方、ぜひ、参考にしてみてください。]]></summary>
-        <author>
-            <name>弓月ひろみ（Hiromi Yuzuki）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[システム設計の原則を読んだことで実装についても考えるようになった話]]></title>
-        <id>https://qiita.com/dai_chi/items/2c14beadd501cc46e37c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/dai_chi/items/2c14beadd501cc46e37c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2022-01-02T23:50:16.000Z</updated>
-        <summary type="html"><![CDATA[初めに
-
-初めて保守の案件を任されたときのサービスは
-5年以上続いているものでした。
-LaravelとPHPで構築されています。
-初めてということもありソースコードを見たときは
-僕自身の理解力が足り…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メイクアプリやヘアカラーアプリがiOSでつくれる　機械学習で顔の部品を分離]]></title>
-        <id>https://qiita.com/john-rocky/items/6b846c1cdb152bded40b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/john-rocky/items/6b846c1cdb152bded40b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2022-01-02T23:31:52.000Z</updated>
-        <summary type="html"><![CDATA[機械学習をつかって顔のパーツを取得する方法
-
-
-
-髪の毛だけ、目だけ自動で分離したい
-
-髪の毛や唇など、狙ったパーツを細かく分離できれば、そこだけ色を変えてメイクアプリがつくれる。
-ユーザーに輪郭をなぞっ…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スタバを超える？　シンガポール発「Flash Coffee」が人気のワケ]]></title>
-        <id>https://www.itmedia.co.jp/business/articles/2201/03/news016.html</id>
-        <link href="https://www.itmedia.co.jp/business/articles/2201/03/news016.html"/>
-        <updated>2022-01-02T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[シンガポール生まれのコーヒーチェーン「Flash Coffee（フラッシュコーヒー）」が、表参道に日本1号店をオープンした。2020年1月に創業したばかりだが、アジア7つの国と地域に200店舗以上を展開している。創業者でありCEOのDavid Brunier（デイビット・ブルニエ）氏と、日本事業の責任者である松尾ポスト脩平氏に事業戦略を聞いた。]]></summary>
-        <author>
-            <name>ITmedia TOP STORIES 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twitter、米共和党議員の個人アカウントを永久凍結　新型コロナ誤情報拡散で]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2201/03/news021.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2201/03/news021.html"/>
-        <updated>2022-01-02T22:48:00.000Z</updated>
-        <summary type="html"><![CDATA[Twitterは新型コロナ関連の誤情報を繰り返し投稿したとして米共和党議員の個人アカウントを永久凍結した。同社は新型コロナ関連ツイートで5ストライク制を採っている。凍結されたグリーン下院議員はFacebookとTelegramで「Twitterはアメリカの敵だ」と投稿した。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twitter、米共和党議員の個人アカウントを永久凍結　新型コロナ誤情報拡散で]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2201/03/news021.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2201/03/news021.html"/>
-        <updated>2022-01-02T22:48:00.000Z</updated>
-        <summary type="html"><![CDATA[Twitterは新型コロナ関連の誤情報を繰り返し投稿したとして米共和党議員の個人アカウントを永久凍結した。同社は新型コロナ関連ツイートで5ストライク制を採っている。凍結されたグリーン下院議員はFacebookとTelegramで「Twitterはアメリカの敵だ」と投稿した。]]></summary>
-        <author>
-            <name>ITmedia TOP STORIES 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[レトロとモダンが融合したニキシー管風デジタル時計。好きな画像も表示できる「D'ESIGN IPS」]]></title>
-        <id>a8883905-37df-4729-827e-a81d74d74b3b</id>
-        <link href="https://japanese.engadget.com/design-ips-222005537.html"/>
-        <updated>2022-01-02T22:20:05.000Z</updated>
-        <summary type="html"><![CDATA[1. ニキシー管風の優しく暖かい光が時間をお届けする新しい体験 2. 6つのチューブ管を搭載、時・分・秒を正確に表示 3. ガラスチューブに液晶パネル内蔵でレトロな雰囲気が味わえる 4. 音楽に反応するモードも搭載、音楽体験も豊かなものに 5. RGBライト搭載で、より一層モダンな雰囲気を演出 6. 画像アップロード機能でお好みの画像を表示可能 生活必需品であり、インテリアでもある時計。 D'ESIGN IPS は、レトロとモダンが融合したデザインのデジタル時計です。 このデジタル時計は、ニキシー管をモチーフに作られています。 時刻を告げるのは優しく、淡く光る薄オレンジ色の灯り。 部屋に置いておけば、疲れて帰ってきたあなたを優しく癒やしてくれます。 スタンドにはブナの木を使用しています。 シンプルなスタンドは食卓に、棚に、ディスプレイに、どこに置いても違和感の無いデザインです。 D'ESIGN IPS は時刻の表示方法を専用ソフトで変えることも可能です。 ムーディにしたい場合はニキシー管風に。 在宅ワークで使いたいときはカジュアルデザインな数字に。 シーンに応じてデザインを変えることが]]></summary>
-        <author>
-            <name>GREEN FUNDING with Engadget Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ミスした瞬間に即死！命をかけて賞金を稼ぐ3Dアクション『K-Games Challenge』：発掘！スマホゲーム]]></title>
-        <id>27bad142-c6b8-4d8c-bc5f-43e73f29dcae</id>
-        <link href="https://japanese.engadget.com/k-games-challenge-221040354.html"/>
-        <updated>2022-01-02T22:10:40.000Z</updated>
-        <summary type="html"><![CDATA[星の数ほどあるスマホゲームの中から、話題になっているもの、気になったもの、何か面白そう、そんなタイトルをひたすらご紹介していきます！今回ご紹介するのは『K-Games Challenge』です。]]></summary>
-        <author>
-            <name>龍田優貴（Yuuki Tatsuta）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大事なメッセージが埋もれない！LINE Labsの「トークフォルダー」が便利：iPhone Tips]]></title>
-        <id>2da5d832-84c3-453e-ace2-b0e508dc31a3</id>
-        <link href="https://japanese.engadget.com/i-phone-tips-line-labs-221100069.html"/>
-        <updated>2022-01-02T22:10:00.000Z</updated>
-        <summary type="html"><![CDATA[LINEでさまざまな人とやり取りしていると、「トーク」画面に多くの履歴が表示されて目的の友だちを見つけにくくなります。そんなときに便利なのが、「LINE　Labs」で使える「トークフォルダー」機能です。]]></summary>
-        <author>
-            <name>山崎理香子(TEKIKAKU)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[他社からLINEMOへの乗り換えで最大1万2000円相当キャッシュバック　1月11日まで実施]]></title>
-        <id>b928e92a-2827-4682-ad6a-98dacaa0fe4a</id>
-        <link href="https://japanese.engadget.com/linemo-212356473.html"/>
-        <updated>2022-01-02T21:23:56.000Z</updated>
-        <summary type="html"><![CDATA[ソフトバンクのオンライン専用携帯ブランド「LINEMO（ラインモ）」がキャッシュバックキャンペーンを1月11日まで実施しています…]]></summary>
-        <author>
-            <name>金子 麟太郎（Rintaro Kaneko）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2.2万円で幅56mmのスリムなスマホ「Mode1 GRIP」を試す　片手での持ちやすさは抜群]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2112/30/news013.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2112/30/news013.html"/>
-        <updated>2022-01-02T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[P-UP Worldのスマホ「Mode1 GRIP」を使ってみた。3G停波が近づき旧機種からの買い替えが進むなかで、8型シネスコサイズという小さめなサイズで手頃な価格のスマホはうれしい。その反面、ディスプレイやスピーカーの質は控えめだ。]]></summary>
-        <author>
-            <name>ITmedia TOP STORIES 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年のMicrosoftハードウェアを考える]]></title>
-        <id>https://www.itmedia.co.jp/pcuser/articles/2201/03/news020.html</id>
-        <link href="https://www.itmedia.co.jp/pcuser/articles/2201/03/news020.html"/>
-        <updated>2022-01-02T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[2022年最初の連載として、Surfaceシリーズを始めとしたMicrosoftのハードウェア製品について、予測を含めて見ていこう。]]></summary>
-        <author>
-            <name>ITmedia TOP STORIES 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ワイモバイルがAmazonで最大1万2000円キャッシュバック　終了日未定]]></title>
-        <id>45324217-5811-4da5-96eb-8a5ed8dc63fb</id>
-        <link href="https://japanese.engadget.com/ymobile-205739115.html"/>
-        <updated>2022-01-02T20:57:39.000Z</updated>
-        <summary type="html"><![CDATA[ワイモバイルがAmazonで最大1万2000円をキャッシュバックするキャンペーンを実施しています。今のところ終了日未定となっています…]]></summary>
-        <author>
-            <name>金子 麟太郎（Rintaro Kaneko）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2016年1月3日の記事から、「デジタル表示する日時計の3Dデータが公開」：今日は何の日？]]></title>
-        <id>3beb3b62-c771-458d-9a7d-beb94daaf6a8</id>
-        <link href="https://japanese.engadget.com/today-203013152.html"/>
-        <updated>2022-01-02T20:30:13.000Z</updated>
-        <summary type="html"><![CDATA[日時計といえば、立てた棒がどの位置に影を落とすかで時間を読み取るものですが、この影に、時刻表示の仕組みを組み込んだというのが面白いトコロ。影を見るだけで、デジタル表示で現在時刻が分かります。]]></summary>
-        <author>
-            <name>今日は何の日？</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Vue.js】v-forの中でクリックイベントをシンプルに実装したい【e.target】]]></title>
-        <id>https://qiita.com/monji586/items/711bc6d78c41cf02c752?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/monji586/items/711bc6d78c41cf02c752?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2022-01-02T17:28:28.000Z</updated>
-        <summary type="html"><![CDATA[やりたいこと
-
-v-forを使用してボタンとなる要素を複数作成。
-ボタンのいずれかをクリックした際に、クリックしたボタンだけ色が変わるようにしたい。
-
-上記内容をできるだけシンプルなコードで実装したい。
-…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SwiftUIを使わないで宣言的にレイアウトを実装する]]></title>
-        <id>https://qiita.com/sakiyamaK/items/fba02dd0aa6a19a1ab8c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/sakiyamaK/items/fba02dd0aa6a19a1ab8c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2022-01-02T16:46:49.000Z</updated>
-        <summary type="html"><![CDATA[SwiftUIが出て数年経ちましたが、既存のUIKitのプロジェクトに導入しようとするとリアクティブプログラミングの学習やアーキテクチャの切り替えなど導入障壁が高いと感じていました
-
-そのため、既存の…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[実務案件]営業から開発まで！介護施設の課題を解決する物語]]></title>
-        <id>https://qiita.com/Arginine/items/d8d32390dcad9902e943?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/Arginine/items/d8d32390dcad9902e943?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2022-01-02T16:25:07.000Z</updated>
-        <summary type="html"><![CDATA[1.はじめに
-
-突然ですが！
-私はエンジニアになりたいと思った日から、エンジニア人生の最終目標として「IT技術を使って地方に便利を届けたい」という思いがあります。
-
-今回のWebアプリケーションは自分…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ニンテンドースイッチ有機ELモデルと旧型の違いを実機比較｜ゲームレビュー2021]]></title>
-        <id>da1d2f67-8af1-428c-993c-e318f44b86a9</id>
-        <link href="https://japanese.engadget.com/nintendo-switch-oled-230753647-143047267.html"/>
-        <updated>2022-01-02T14:30:47.000Z</updated>
-        <summary type="html"><![CDATA[ニンテンドースイッチの新型、『Nintendo Switch (有機ELモデル)』は10月8日(金)発売です。
-
-有機ELモデル実機の写真を中心に、新しくなった点や従来モデルとの違いについてお伝えします。]]></summary>
-        <author>
-            <name>EngadgetJP Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今Vue3やるなら＜script setup>を使おう]]></title>
-        <id>https://qiita.com/Nem-Nem/items/18afc73e1640e0a3274d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/Nem-Nem/items/18afc73e1640e0a3274d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2022-01-02T13:42:20.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-
-※ qiitaのxss対策に引っかかって引用先のMarkdownが壊れる問題があるようなので、タイトルの<が全角になっていますが気にしないでください。
-まめに知識のアップデートをしている…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flutterでドラッグ&ドロップで表示順を変更する方法。]]></title>
-        <id>https://qiita.com/smiler5617/items/cbfef15cdde75ff850fd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/smiler5617/items/cbfef15cdde75ff850fd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2022-01-02T13:30:44.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-
-Firestoreを利用したアプリをFlutterで開発中なのだが、ドラッグ&ドロップで表示順を変える機能の作り方に悩んでいる。ReorderableListViewというウィジェットを…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仕事の合間に全身運動できるミニトランポリン｜これ買ってよかった]]></title>
-        <id>https://www.lifehacker.jp/2022/01/248332best-buy-ironman-club-trampoline.html</id>
-        <link href="https://www.lifehacker.jp/2022/01/248332best-buy-ironman-club-trampoline.html"/>
-        <updated>2022-01-02T13:05:00.000Z</updated>
-        <summary type="html"><![CDATA[ずっと気になっていたトランポリンを導入。隙間時間に身体が動かせて気分転換と全身運動ができます。意外にも場所を取らず静音なのでメリットしかありませんでした。]]></summary>
-        <author>
-            <name>山田洋路</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Node-REDのダッシュボードで効果音ポン出し画面をつくってみた]]></title>
-        <id>https://qiita.com/kitazaki/items/4b7e1e848ee3df6dcf82?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/kitazaki/items/4b7e1e848ee3df6dcf82?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2022-01-02T12:59:51.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-
-オンラインイベントやライブ配信で盛り上げる効果音を鳴らせるポン出し画面をNode-REDダッシュボードでつくってみました。
-
-効果音ラボ
-
-https://soundeffect-lab.i…]]></summary>
         <author>
             <name>Qiita - 人気の記事</name>
         </author>
