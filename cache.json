@@ -6,6 +6,87 @@
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
         {
+          "id": "https://www.itmedia.co.jp/news/articles/2201/11/news066.html",
+          "author": null,
+          "description": "E2EEメッセージングアプリ「Signal」を提供するSignal Messengerのモクシー・マーリンスパイクCEOが退任すると発表した。現在後任を探している。暫定CEOはWhatsAppの共同創業者でSignalの会長を務めるブライアン・アクトン氏。",
+          "link": "https://www.itmedia.co.jp/news/articles/2201/11/news066.html",
+          "publishedOn": "2022-01-10T23:42:00.000Z",
+          "wordCount": 152,
+          "title": "E2EEメッセージングアプリSignalのCEOが退任　暫定CEOにブライアン・アクトン氏"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2201/11/news046.html",
+          "author": null,
+          "description": "パンデミック下のソーシャルメディアでは、デマやフェイクニュースなどが拡散し問題となった。その一方で、科学的な最新情報を自身のSNSで発信する専門家や、それらの情報を積極的にシェアする若者など、コロナ対策に利用する人々もいる。コロナ禍における、SNSの功罪を論じる。",
+          "link": "https://www.itmedia.co.jp/news/articles/2201/11/news046.html",
+          "publishedOn": "2022-01-10T23:00:00.000Z",
+          "wordCount": 156,
+          "title": "ソーシャルメディアはパンデミックにとって毒か薬か　若者の4割がコロナ関連情報をシェアする姿勢の是非"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2201/11/news042.html",
+          "author": null,
+          "description": "米Meta（元Facebook）の研究機関のMeta AIとMeta Reality Labs、米カーネギーメロン大学の研究チームは、単眼カメラで撮影した何気ない動画複数から、映像内に猫や人などからアニメーション可能な3Dモデルに再構築するシステムを開発した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2201/11/news042.html",
+          "publishedOn": "2022-01-10T23:00:00.000Z",
+          "wordCount": 204,
+          "title": "映像内の猫や人から3Dアニメーションを作成　米Metaの研究機関などが開発"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2201/11/news041.html",
+          "author": null,
+          "description": "韓国の漢陽大学校とKorea Electronics Technology Institute、Daegu-Gyeongbuk Medical Innovation Foundation（DGMIF）による研究チームは、勃起前後のペニスの長さや太さ、曲がり具合を測定するコンドーム型ウェアラブルデバイスを開発した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2201/11/news041.html",
+          "publishedOn": "2022-01-10T23:00:00.000Z",
+          "wordCount": 173,
+          "title": "勃起を監視するコンドーム型デバイス　ペニスの長さと円周を測定、遠隔医療に活用"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2201/11/news063.html",
+          "author": null,
+          "description": "PCやコンソールゲーム大手のTake-Twoが「FarmVille」などのモバイルゲームで知られるZyngaを買収すると発表した。買収総額は約127億ドル。ZyngaはTake-Two傘下のブランドとして今後もモバイルゲームを提供していく。",
+          "link": "https://www.itmedia.co.jp/news/articles/2201/11/news063.html",
+          "publishedOn": "2022-01-10T22:22:00.000Z",
+          "wordCount": 159,
+          "title": "「グランド・セフト・オート」のTake-Two、モバイルゲームの老舗Zyngaを127億ドルで買収"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2201/11/news060.html",
+          "author": null,
+          "description": "パソナグループがメタバース事業に本格参入することが分かった。今春にもメタバース空間を作り、最終的には100程度の“街”のような場を提供。仮想空間で職業体験をしたり、地方創生につなげるような取り組みなどを進める。",
+          "link": "https://www.itmedia.co.jp/news/articles/2201/11/news060.html",
+          "publishedOn": "2022-01-10T22:00:00.000Z",
+          "wordCount": 138,
+          "title": "パソナがメタバース事業に本格参入　100の“街”で働き方改革や地方支援"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2201/11/news059.html",
+          "author": null,
+          "description": "デジタル庁が、2030年ごろをめどに個人が幼児教育から生涯にわたる学習データを一元的に管理できる仕組みを構築する教育のデジタル化の工程表を発表した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2201/11/news059.html",
+          "publishedOn": "2022-01-10T22:00:00.000Z",
+          "wordCount": 136,
+          "title": "デジタル庁、教育デジタル化の工程表発表　個人の生涯学習データを一元管理"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2201/11/news058.html",
+          "author": null,
+          "description": "EVでエネルギー効率を比較するには「電費」を使う。冬になり気温が下がるとバッテリーが性能をフルに発揮できないため、航続距離が下がる。航続距離を伸ばすには回生ブレーキをうまく使う必要がある。",
+          "link": "https://www.itmedia.co.jp/news/articles/2201/11/news058.html",
+          "publishedOn": "2022-01-10T22:00:00.000Z",
+          "wordCount": 141,
+          "title": "EVの“電費”は寒さで悪化……　航続距離は短く想定を　向上には回生ブレーキをうまく使うのがコツ"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2201/10/news030.html",
+          "author": null,
+          "description": "各社のフラグシップ機が登場した21年。これまでの技術トレンドが進化し、性能を追求したデジカメが相次いだ。では22年にはどんなデジカメが出てくるのだろうか。",
+          "link": "https://www.itmedia.co.jp/news/articles/2201/10/news030.html",
+          "publishedOn": "2022-01-10T03:00:00.000Z",
+          "wordCount": 150,
+          "title": "「無双」「新次元」の次は？　2022年のデジカメに期待すること"
+        },
+        {
           "id": "https://www.itmedia.co.jp/news/articles/2201/10/news026.html",
           "author": null,
           "description": "「Google Home」アプリを最新版にすると、グループ化したスマートスピーカーの音量調節機能が不便になります。この機能が特許侵害だというSonosの訴えが認められたため。このまま使えなくなるのでしょうか。",
@@ -22,24 +103,6 @@
           "publishedOn": "2022-01-09T21:28:00.000Z",
           "wordCount": 155,
           "title": "Meta（旧Facebook）、新たな「プライバシーセンター」でユーザーを“教育”"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2201/08/news035.html",
-          "author": null,
-          "description": "「PayPayでおさい銭を受け取るのは実はNG」とするツイートが話題になった。PayPayは加盟店向けの規約の中で、商品や権利を提供しない寄付やさい銭については利用を禁止している。",
-          "link": "https://www.itmedia.co.jp/news/articles/2201/08/news035.html",
-          "publishedOn": "2022-01-08T01:00:00.000Z",
-          "wordCount": 148,
-          "title": "PayPayでおさい銭はNG？　「商品・権利を提供しない取引」は規約違反"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2201/08/news033.html",
-          "author": null,
-          "description": "Googleの検索トップページのロゴが1月8日、故スティーブン・ホーキング博士の80回目の誕生日を祝うものになった。クリックすると、博士が生前使っていた“声”によるナレーションの短い動画が始まる。",
-          "link": "https://www.itmedia.co.jp/news/articles/2201/08/news033.html",
-          "publishedOn": "2022-01-07T22:53:00.000Z",
-          "wordCount": 155,
-          "title": "1月8日のGoogle Doodleはホーキング博士の声が人生を語る動画"
         }
       ]
     },
@@ -48,6 +111,150 @@
       "feedUrl": "https://qiita.com/popular-items/feed",
       "siteUrl": "https://qiita.com/popular-items",
       "articles": [
+        {
+          "id": "https://qiita.com/ryo_grid/items/9a82d7230fbc4a0875c1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "どうも ryo_grid です。\n\n昨年はRustを覚えたいと思い、題材としてRESTインタフェースを持った分散KVS（要は分散ハッシュテーブル）を書いたりしました。\n\nFunnelKVS: Rust …",
+          "link": "https://qiita.com/ryo_grid/items/9a82d7230fbc4a0875c1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2022-01-10T10:49:44.000Z",
+          "wordCount": 288,
+          "title": "他言語ユーザがRust言語をガチめに使っての雑感 - 分散KVSを書いてみて -"
+        },
+        {
+          "id": "https://qiita.com/mngreen/items/d1618e78c631e66ca376?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "概要\n\n以下の記事を参考に、クリップボードを使いやすくするアプリを作ってみました。\nhttps://codezine.jp/article/detail/11229\n\n見た目は以下の図のような感じです。…",
+          "link": "https://qiita.com/mngreen/items/d1618e78c631e66ca376?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2022-01-10T09:27:02.000Z",
+          "wordCount": 166,
+          "title": "Windowsのクリップボードをちょっと便利に使えるようになるアプリを作ってみた"
+        },
+        {
+          "id": "https://qiita.com/sugup/items/5ae6d597096d90432596?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "なにこれ？\n\n単眼Depth推定をWebアプリで認識できる簡単なツールです。\nエンジニアじゃない人でも簡単に認識器を試してもらえるようにエイヤで作ってみました！\n改造すればいろいろ拡張できるかな～と…",
+          "link": "https://qiita.com/sugup/items/5ae6d597096d90432596?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2022-01-10T07:09:23.000Z",
+          "wordCount": 1055,
+          "title": "エンジニアじゃない人にも認識器を使ってもらいたい！！！そんな人向けに、Flask＋Docker＋pytorchで、認識webアプリの作り方！【簡単、webで単眼Depth推定】"
+        },
+        {
+          "id": "https://qiita.com/O_Y_G/items/4b9971f775a41f63f41f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "https://www.unrealengine.com/ja/onlinelearning-courses\n\nUnreal オンラインラーニング\nカテゴリ：UE5アーリーアクセス | アニメーション…",
+          "link": "https://qiita.com/O_Y_G/items/4b9971f775a41f63f41f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2022-01-10T06:38:33.000Z",
+          "wordCount": 820,
+          "title": "Unreal オンラインラーニング リスト"
+        },
+        {
+          "id": "https://qiita.com/Yutyan/items/61a45f54e47865afe8e1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "死んだかと思った…。\n\n2021年1月10日夜、余談に更に追記\n\n結論\n\nhttps://mail.google.com/mail/u/0/h/1pq68r75kzvdr/?v%3Dlui\nここにアクセス…",
+          "link": "https://qiita.com/Yutyan/items/61a45f54e47865afe8e1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2022-01-10T04:13:08.000Z",
+          "wordCount": 231,
+          "title": "Gmailで大量にメールを削除したらGmailが停止した話（解決方法あり）"
+        },
+        {
+          "id": "https://qiita.com/yokoo-an209/items/4c95b8578bee1145154b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "目次\n\n1. インフラ設計\n2. ネットワーク構築\n3. サーバ・DB構築\n4. Lambdaによる自動化\n5. Amazon SES・SNS\n6. 開発環境構築(docker)\n7. jenkin…",
+          "link": "https://qiita.com/yokoo-an209/items/4c95b8578bee1145154b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2022-01-10T03:58:22.000Z",
+          "wordCount": 663,
+          "title": "インフラ素人が３週間でWebサービスのインフラを0から構築するためにやったこと"
+        },
+        {
+          "id": "https://qiita.com/ginpei/items/a4eb012827f5a102ff4d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "※Firebase CLI については更新されたので npm update すればもう大丈夫です\n\nどうした\n\nfirebase-tools とかの出力がおかしい。\n\nhttps://twitter.co…",
+          "link": "https://qiita.com/ginpei/items/a4eb012827f5a102ff4d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2022-01-10T02:11:40.000Z",
+          "wordCount": 303,
+          "title": "Firebase CLIとかの出力が2022-01-10の一時期に乱れてた件"
+        },
+        {
+          "id": "https://qiita.com/e99h2121/items/e0741f3dbf351942f3ca?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "Brilliant Jerks\n\nブリリアント・ジャークス。\n有能だけど有害な人のことを Brilliant Jerks と言うとのこと。 (以下DeepL翻訳)\n\nThe Brilliant Jer…",
+          "link": "https://qiita.com/e99h2121/items/e0741f3dbf351942f3ca?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2022-01-09T21:52:43.000Z",
+          "wordCount": 289,
+          "title": "No Brilliant Jerks - Netflixの「頭はいいけど嫌な奴、お断り」について調べた"
+        },
+        {
+          "id": "https://qiita.com/hrkt/items/18e53ce031859e8a059b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "概要\n\nWebブラウザで、手元のコンピュータの中にあるPDFを1つのタブのなかでスライドショー的に投影するためのツールを作ってみました。\n\nデモページはgithub.ioのこちらからどうぞ。\n\nリポジト…",
+          "link": "https://qiita.com/hrkt/items/18e53ce031859e8a059b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2022-01-09T21:28:26.000Z",
+          "wordCount": 508,
+          "title": "PDFをブラウザ全画面モードにしてスライドショーができる、ビデオ会議で便利かもしれないツールを作ってみた"
+        },
+        {
+          "id": "https://qiita.com/piacerex/items/9cf4f328222103458167?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "下記Elixirコミュニティ運営／所属の piacere です、ご覧いただいてありがとございます \n\nElixir実装の芽を愛でるコミュニティ「Elixir Digitalization Impleme…",
+          "link": "https://qiita.com/piacerex/items/9cf4f328222103458167?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2022-01-09T18:04:12.000Z",
+          "wordCount": 716,
+          "title": "Elixirのみでディープラーニング初歩編：Livebook＋Nx＋AxonでMNIST手書き文字識別を実現（Python JupyterNotebook／Colaboratoryと同じ使い方）"
+        },
+        {
+          "id": "https://qiita.com/rana_kualu/items/b23a1bccae742bd031ef?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "2021 / 2020 / 2019\n\nJavaScriptライブラリのトレンドを紹介しているbestofjs.orgが、2021年に最もホットであったJavaScriptライブラリのランキングを発…",
+          "link": "https://qiita.com/rana_kualu/items/b23a1bccae742bd031ef?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2022-01-09T16:00:40.000Z",
+          "wordCount": 605,
+          "title": "JavaScript ライジングスター 2021"
+        },
+        {
+          "id": "https://qiita.com/sa9ra4ma/items/1acb459fcc713728c03e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "やりたいこと\n\nGAS（Google App Script）でLINE Botを開発している際、エラーなどが起こってもログが見れない！ということがありました。\n\nエディタ上で実行したGASのログはここ…",
+          "link": "https://qiita.com/sa9ra4ma/items/1acb459fcc713728c03e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2022-01-09T15:53:15.000Z",
+          "wordCount": 174,
+          "title": "GASでLINE Bot開発時のログ出力方法"
+        },
+        {
+          "id": "https://qiita.com/nodai2h_ITC/items/c6a60d85bf700840e180?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "Ruby で書かれたスクリプトを Ruby の入っていない Windows 環境に向けて配布するツールとしては、OCRA という gem が有名です。\n\nしかし OCRA にはいくつかの欠点[^1]が…",
+          "link": "https://qiita.com/nodai2h_ITC/items/c6a60d85bf700840e180?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2022-01-09T14:52:26.000Z",
+          "wordCount": 669,
+          "title": "Neri を使って Ruby スクリプトを実行ファイル（.exe）に変換して配布する"
+        },
+        {
+          "id": "https://qiita.com/hinako_n/items/4daf737e08a75c01a869?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n年末年始1週間の自由研究として、Next.jsを使って何か作ってみたい…ということで、NotionをヘッドレスCMSとした個人ブログを作ってみました。\n\nせっかくなので制作日記として、\n-…",
+          "link": "https://qiita.com/hinako_n/items/4daf737e08a75c01a869?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2022-01-09T14:03:28.000Z",
+          "wordCount": 288,
+          "title": "Notion BlogをヘッドレスCMSとして、Next.jsで個人ブログを作ってみた"
+        },
+        {
+          "id": "https://qiita.com/yuujioka/items/d3b310e0a3fa2ddfab5a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "実装する機能\n\n今回はFirebaseを使用して認証機能を実装していく方法をご紹介します。\nFirebaseはGoogleが提供するmobile Backend as a ServiceでmBaaS…",
+          "link": "https://qiita.com/yuujioka/items/d3b310e0a3fa2ddfab5a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2022-01-09T13:45:15.000Z",
+          "wordCount": 430,
+          "title": "[SwiftUI]Firebase Authenticationで認証機能を実装する方法[SPM]"
+        },
+        {
+          "id": "https://qiita.com/kaizen_nagoya/items/499b0a16ac89c0fe3fb0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "コンサルタントとうまく付き合う方法の一つを記録します。\n\nコンサルタント側の見解と、コンサルタントを雇う側の見解を併記します。\n\n前提条件、制約条件\n\nここでのコンサルタント側の見解は、自分および自分の師…",
+          "link": "https://qiita.com/kaizen_nagoya/items/499b0a16ac89c0fe3fb0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2022-01-09T13:44:20.000Z",
+          "wordCount": 257,
+          "title": "コンサルタントとうまく付き合う方法（案）"
+        },
         {
           "id": "https://qiita.com/tak001/items/b64d2a308ef772ccd5bd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
@@ -65,6 +272,15 @@
           "publishedOn": "2022-01-09T13:23:08.000Z",
           "wordCount": 347,
           "title": "【SwiftUI】@EnvironmentObjectはシングルトンにした方が良い話"
+        },
+        {
+          "id": "https://qiita.com/seiwaman/items/cbee58cb9cb99c22056a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nエンジニア転職を目指して勉強しているのですが、Twitterや現役エンジニアの人の話を聞いていると\nネットワーク周りのことも勉強しておかなければ現場に入った後についていけないとの意見をよ…",
+          "link": "https://qiita.com/seiwaman/items/cbee58cb9cb99c22056a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2022-01-09T12:47:37.000Z",
+          "wordCount": 228,
+          "title": "プログラミング初心者が書いたネットワーク周りのこと①"
         },
         {
           "id": "https://qiita.com/takahirom/items/99cfa342a00ba9a99ef8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -200,141 +416,6 @@
           "publishedOn": "2022-01-08T13:49:43.000Z",
           "wordCount": 196,
           "title": "Power Virtual Agents でチャットボットに画像を表示する【改定版】"
-        },
-        {
-          "id": "https://qiita.com/kakekakemiya/items/7dacebf509a07dd6eb97?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "毎日のオンライン会議・授業でちょっとだけ楽できるアプリをつくりました\n\nこんにちは．kakekakemiyaと申します．\n現在は東京大学工学部電子情報工学科というところに所属しております．\n\n今回は，…",
-          "link": "https://qiita.com/kakekakemiya/items/7dacebf509a07dd6eb97?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2022-01-08T11:07:57.000Z",
-          "wordCount": 219,
-          "title": "【ZOOM】毎日のZOOM生活をちょっとだけ快適にしたい"
-        },
-        {
-          "id": "https://qiita.com/kaizen_nagoya/items/26e1451ef4981c46b3be?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "OSI参照モデルは通信を専門としている場合に、避けて通ることができないかもしれない。\n\nある年の情報工学の技術士補の試験で、OSI参照モデルが問題に出た。\n\n近畿大学が試験会場で、会場に行くまで、アプセ…",
-          "link": "https://qiita.com/kaizen_nagoya/items/26e1451ef4981c46b3be?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2022-01-08T07:53:42.000Z",
-          "wordCount": 1051,
-          "title": "OSI参照モデルの資料を作り始める（作業中）"
-        },
-        {
-          "id": "https://qiita.com/degudegu2510/items/e69994d1ab976d57f015?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "概要\n\nHTMLのTABLEタグでテーブルを作るとき、いろんなタグが使うことができる。\n\n<table>からはじまり、<thead>、<tbody>、<tr>、<th>、<rd>など、\nTableを作…",
-          "link": "https://qiita.com/degudegu2510/items/e69994d1ab976d57f015?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2022-01-08T07:00:43.000Z",
-          "wordCount": 566,
-          "title": "アクセシビリティを意識した<Table>の作り方"
-        },
-        {
-          "id": "https://qiita.com/abe_masanori/items/7fd2a470e7eba2f255a4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "1. sqldef とは\n\nsqldef は \"The easiest idempotent MySQL/PostgreSQL/SQLite3/SQL Server schema managemen…",
-          "link": "https://qiita.com/abe_masanori/items/7fd2a470e7eba2f255a4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2022-01-08T06:49:47.000Z",
-          "wordCount": 1403,
-          "title": "DBスキーマ変更管理ツール sqldef を試してみた"
-        },
-        {
-          "id": "https://qiita.com/yokoyama10/items/bfe76ac31d3c425b727b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "特定小電力トランシーバー（特小無線）という、手頃な値段で購入できて、免許や登録のいらない無線機があります。このトランシーバーの電波は数百メートルの範囲しか届かないので、通常、現地にいる人同士でしか通…",
-          "link": "https://qiita.com/yokoyama10/items/bfe76ac31d3c425b727b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2022-01-08T05:01:54.000Z",
-          "wordCount": 308,
-          "title": "特定小電力トランシーバーを Discord と連携して、テレワーク（？）を推進"
-        },
-        {
-          "id": "https://qiita.com/torifukukaiou/items/d9f2a675c76c4962541c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "https://qiita.com/official-events/5cb794f7cb9ac194ed70\n\n座して死を待つよりは、出て活路を見出さん\n\nAdvent Calendar 2022 8日…",
-          "link": "https://qiita.com/torifukukaiou/items/d9f2a675c76c4962541c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2022-01-08T04:29:55.000Z",
-          "wordCount": 486,
-          "title": "NervesJP #22 新年LT回(2022/01/07) レポート"
-        },
-        {
-          "id": "https://qiita.com/ms2geki/items/98621e4b5c5d93323b21?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "Dict型\n\nexport type Dict<T = any> = Record<string, T>;\n\n\nOSSのソースなどを読んでるとこんな感じでDict型を指定してる事があります\n\nDict型の…",
-          "link": "https://qiita.com/ms2geki/items/98621e4b5c5d93323b21?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2022-01-08T04:02:19.000Z",
-          "wordCount": 179,
-          "title": "OSSのTypeScriptのソースでよくみかけるDictについて"
-        },
-        {
-          "id": "https://qiita.com/john-rocky/items/f8150b3b976469b0fccc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "明度の低い画像を明るくしてくれる機械学習モデルを使う方法です\n\nGLADNetというモデルを使って、暗い画像を明るくします。\nPythonでかんたんに実行できます。\n\n\n\n\n\n\n暗い画像から情報を取り出したい\n\n…",
-          "link": "https://qiita.com/john-rocky/items/f8150b3b976469b0fccc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2022-01-08T03:31:14.000Z",
-          "wordCount": 183,
-          "title": "心霊写真もインスタ映え🧁　暗い画像を明るくする機械学習がすごい"
-        },
-        {
-          "id": "https://qiita.com/zeee_plus/items/846ffa5468e2563013a4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "人口密集地区におけるドローンの飛行にあたり、道路の上空を横断することは極力さけて計画を行うとされていることは理解できよう。\nしかしながら道路を横断するということは、どうしても避けられないということは…",
-          "link": "https://qiita.com/zeee_plus/items/846ffa5468e2563013a4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2022-01-08T02:18:17.000Z",
-          "wordCount": 170,
-          "title": "ドローン飛行計画時に道路使用許可を警察署で取得しなければならなない条件とは"
-        },
-        {
-          "id": "https://qiita.com/masa0599/items/e7f124de8ad672fddf7f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "本記事はProjectEulerの「100番以下の問題の説明は記載可能」という規定に基づいて回答のヒントが書かれていますので、自分である程度考えてみてから読まれることをお勧めします。\n\n\n問題 12.…",
-          "link": "https://qiita.com/masa0599/items/e7f124de8ad672fddf7f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2022-01-08T01:37:48.000Z",
-          "wordCount": 315,
-          "title": "【Project Euler】Problem 12: 約数の多い三角数"
-        },
-        {
-          "id": "https://qiita.com/jnchito/items/9f988538d14769478177?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "問題\n\n次のようなテキストがあります。\n\n450 | 439970\n450 | 486900\n450 | 486963\n450 | 499983\n450 | 499987\n450 | 500004\n6…",
-          "link": "https://qiita.com/jnchito/items/9f988538d14769478177?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2022-01-08T01:04:09.000Z",
-          "wordCount": 247,
-          "title": "【プログラミング初心者向け】矩形選択を使いこなして効率良くテキストを編集する"
-        },
-        {
-          "id": "https://qiita.com/odacoh/items/359c8bbf7ee5a3b58147?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "read_csvでtokenizing errorがでるケース\n\nsepで区切り文字を指定した際、元データが行によって列数が異なる場合にエラーになる\n\n以下のようなデータを読み込む場合\n\nAA\\tAA\\…",
-          "link": "https://qiita.com/odacoh/items/359c8bbf7ee5a3b58147?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2022-01-07T23:47:25.000Z",
-          "wordCount": 301,
-          "title": "Pandas read_csvで読み込みエラーになる場合の対処"
-        },
-        {
-          "id": "https://qiita.com/ShozF/items/16fdf53afcb8b81a61e9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "1.はじめに\n\n@piacerexさんのQiita記事【「JupyterNotebook + NumPyでサクッと画像加工するノリ」をElixirでやってみた】に触発されて、拙作の cimg_exで…",
-          "link": "https://qiita.com/ShozF/items/16fdf53afcb8b81a61e9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2022-01-07T18:37:17.000Z",
-          "wordCount": 391,
-          "title": "「...サクッと画像加工するノリ」の猿まねをやってみた💦"
-        },
-        {
-          "id": "https://qiita.com/k_kind/items/0d7a4f9a7e2f633539df?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "初めてnpmのCLIパッケージを作成してみました。\n\nコマンドライン引数の受け取りやプロンプトの表示など、難しそうなイメージだった部分も、ライブラリを使うことで手軽に実装できたので、それらを紹介したい…",
-          "link": "https://qiita.com/k_kind/items/0d7a4f9a7e2f633539df?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2022-01-07T14:32:58.000Z",
-          "wordCount": 386,
-          "title": "npmのCLIパッケージを作成する"
-        },
-        {
-          "id": "https://qiita.com/mikecat_mixc/items/789cef5a56d30e45d8d7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "背景\n\n前回の記事\nIchigoJamでエラトステネスの篩 - Qiita\nを受け、ツイート主さんから以下のページのURLが送られてきました。\n\nエラトステネスの篩 [WildTree Wiki]\n\n見…",
-          "link": "https://qiita.com/mikecat_mixc/items/789cef5a56d30e45d8d7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2022-01-07T14:04:41.000Z",
-          "wordCount": 701,
-          "title": "試し割りによる素数列挙はエラトステネスの篩か？"
         }
       ]
     },
@@ -343,6 +424,132 @@
       "feedUrl": "https://japanese.engadget.com/rss.xml",
       "siteUrl": "http://japanese.engadget.com/",
       "articles": [
+        {
+          "id": "4f05af05-a5b7-45e9-9106-478bcd53d5c1",
+          "author": "佐野正弘（Masahiro Sano）",
+          "description": "2022年を迎えた携帯電話業界。料金引き下げで携帯電話業界に嵐を巻き起こした菅義偉前首相が退任したことで、料金に関する動きは落ち着きつつありますが、新たに首相に就任した岸田文雄氏の影響で、今年は5Gを取り巻く動向に大きな変化が起きると筆者は予測しています。",
+          "link": "https://japanese.engadget.com/5-g-233002685.html",
+          "publishedOn": "2022-01-10T23:30:02.000Z",
+          "wordCount": 206,
+          "title": "2022年の5Gを大きく左右する岸田政権、地方でのエリア拡大は進むのか（佐野正弘）"
+        },
+        {
+          "id": "5d0ac46c-f615-48cc-9177-84cbb402fd5d",
+          "author": "山根博士 (Yasuhiro Yamane)",
+          "description": "TCL Chicago",
+          "link": "https://japanese.engadget.com/ces-2022-%E3%81%A7tcl%E3%81%8C%E5%AE%9F%E6%A9%9F%E3%82%92%E5%B1%95%E7%A4%BA-224635259.html",
+          "publishedOn": "2022-01-10T22:46:35.000Z",
+          "wordCount": 229,
+          "title": "TCLの縦折りスマホ「Chicago」をCESで触ってきた（山根博士）"
+        },
+        {
+          "id": "08dcac9c-ca80-4eaf-ad4d-af83a5f40ac9",
+          "author": "GREEN FUNDING with Engadget Staff",
+          "description": "・ストーリー テクノロジーの進歩により、写真の技術は急速に発展しています。その中でも、最も身近なカメラはスマホです。 そんな一番身近なカメラをパワーアップするために、「YeeChan」はスマートフォン専用に設計された被写界深度（DOF）をコントロールできるレンズを作成しました。50mm/F1.7により、鮮やかな高画質で被写体を捉えることができ、浅い被写界深度を活かした大きなボケの表現や低照度下での手ブレを抑えた撮影が可能です。デザインや操作感もフィルムカメラに近く、スマホでの写真撮影をよりプロフェッショナルに楽しんでいただけます。 少し前kickstarterにて実施した「YeeChanスマホ用のカメラレンズ」のクラウドファンディングキャンペーンは、大変ありがたいことに424人の方から心温かいご支援をいただきました。 日本の皆様にもYeeChanの魅力を魅力を知っていただくために、今回はGreenFundingにてクラウドファンディングをスタートいたしました。より一層のご支援をいただきますようお願い申し上げます！ F 1.7の絞りにより、スマホのカメラレンズを通る光の量がより多くなりま",
+          "link": "https://japanese.engadget.com/yee-chan-222533566.html",
+          "publishedOn": "2022-01-10T22:25:33.000Z",
+          "wordCount": 275,
+          "title": "スマホ専用設計。被写界深度をコントロールできるレンズ「YeeChan」"
+        },
+        {
+          "id": "99f7fed3-cd49-4a69-9527-b845fb4e6745",
+          "author": "今日は何の日？",
+          "description": "Qi充電器の多くは机に置くタイプが多いですが、車内でもワイヤレス充電したいという要望に応えて登場したのが「PowerWave 7.5 Car Mount」。\n\nこの車載用ワイヤレス充電器が発売されたのが、2019年の今日です。",
+          "link": "https://japanese.engadget.com/today-203003585.html",
+          "publishedOn": "2022-01-10T20:30:03.000Z",
+          "wordCount": 215,
+          "title": "2019年1月11日、車載用ワイヤレス充電器「PowerWave 7.5 Car Mount」が発売されました：今日は何の日？"
+        },
+        {
+          "id": "52b79573-c5d6-4972-846a-888e312aafcb",
+          "author": "GREEN FUNDING with Engadget Staff",
+          "description": "アイアン頑丈焚き火台 足枠をつけるだけ組み立て一切不要、初心者にもおすすめ！ 火をおこし、眺めたり、料理をしたりするのはキャンプの醍醐味。 昨今のアウトドアブームで関心が高まっている「焚き火台」です。 足枠をつけるだけで初心者でも簡単に使いこなせる！ 薪を燃やして料理をしたり、焚き火を観賞したりしてキャンプを楽しめる！ シンプルなデザインでインスタ映えも狙える！ この焚き火台で暖をとったり、揺らめく炎を眺めたり、家族や友人とキャンプを楽しんでください。 ◆製品特徴 厚めの鉄板等の材料で作った為、若干重く感じる人もいるかもしれませんが、その分頑丈で長く使っていただけると思います！ 重厚感があり、ワイルドな鉄製、耐熱塗料テルパスで全面塗装致しております！ シンプルなデザインでどんな場面にもピッタリ！ ◆組み立て 足枠をつけるだけで簡単に組み立てることができます。 さらに、足枠の高さを2段階の調節する事ができるので、好みの高さに合わせてご利用いただけます。 ◆多目的に使える 薪を燃やして料理をしたり、焚き火を観賞したりして楽しめる焚き火台です。 また、底の鉄板を2.5ミリの厚みにした為、炭を",
+          "link": "https://japanese.engadget.com/iron-firepit-101553505.html",
+          "publishedOn": "2022-01-10T10:15:53.000Z",
+          "wordCount": 310,
+          "title": "組み立て一切不要、足枠をつけるだけ。頑丈でワイルドなアイアン焚き火台"
+        },
+        {
+          "id": "6f2749a9-453b-4d1d-b56f-5a7106fb9836",
+          "author": "Munenori Taniguchi",
+          "description": "NASAの火星探査ローバーPerseveranceは、12月29日に火星の地表岩石のくりぬきと内部サンプルの取得でトラブルに見舞われました",
+          "link": "https://japanese.engadget.com/perseverance-halts-rock-sample-storage-072005772.html",
+          "publishedOn": "2022-01-10T07:20:05.000Z",
+          "wordCount": 248,
+          "title": "火星ローバーPerseverance、デブリが邪魔して岩石サンプル採種を中断"
+        },
+        {
+          "id": "78a6fc2a-0359-4220-bfd1-7ac71df08449",
+          "author": "ワタナベケイト",
+          "description": "耳の穴を塞がないパーソナルオーディオ再生装置としてここ最近注目を集めているのが、骨伝導タイプのイヤホンです。長時間の装着でも疲れにくく、屋外でのランニング時などに周囲の音も同時に聞けて安心という特徴があります。おすすめの5機種をご紹介します",
+          "link": "https://japanese.engadget.com/best-selection-bone-conduction-earphones-065513961.html",
+          "publishedOn": "2022-01-10T06:55:13.000Z",
+          "wordCount": 260,
+          "title": "骨伝導イヤホンのおすすめ5選。長時間の装着でも疲れにくく、周囲の音も同時に聞けて安心のスグレモノ！"
+        },
+        {
+          "id": "50763107-1368-4e78-86af-f29be02a7c72",
+          "author": "Kiyoshi Tane",
+          "description": "アップルのサプライヤーである中国BOE社が、スマートフォン以外のタブレットやPCなどに使える大型の有機ELディスプレイを製造するために、中国内にある工場の1つを改装したとのウワサが報じられています",
+          "link": "https://japanese.engadget.com/boe-manufacture-upto-15inch-oled-future-ipad-051515638.html",
+          "publishedOn": "2022-01-10T05:15:15.000Z",
+          "wordCount": 215,
+          "title": "15インチiPadへの布石？中国BOEが大型ディスプレイ向けに工場改装の噂"
+        },
+        {
+          "id": "052d7fd5-0a0e-468a-baa3-f51d6ee0eee5",
+          "author": "Kiyoshi Tane",
+          "description": "アップルが血糖値モニタリングや血圧測定などの新型健康センサーを開発するにはあと数年かかり、2022年のApple Watch Series 8(仮)には間に合わないとの噂が報じられています。",
+          "link": "https://japanese.engadget.com/apple-several-years-away-from-major-health-sensor-041521991.html",
+          "publishedOn": "2022-01-10T04:15:21.000Z",
+          "wordCount": 227,
+          "title": "Apple Watch Series 8(仮)には血糖値や血圧測定センサーの追加はナシ？開発にあと数年かかるとのウワサ"
+        },
+        {
+          "id": "df2631f3-053c-4592-820f-42fb664ed4a1",
+          "author": "Engadgetオトク情報局",
+          "description": "いまも輸入ワインなどにはコルク栓が使われています。ワインオープナーを準備しましょう。特別な日には特別なワインをスマートに開ければ、雰囲気も盛り上がるというもの。電動タイプでも実売2000円前後から購入できますよ。Amazonの「ワインオープナー」売れ筋ランキングを紹介します。",
+          "link": "https://japanese.engadget.com/ranking-wine-opener-035524069.html",
+          "publishedOn": "2022-01-10T03:55:24.000Z",
+          "wordCount": 285,
+          "title": "ワインオープナーのAmazon売れ筋ランキング。スムーズな開栓でワインを美味しく！ USB充電の電動タイプも便利"
+        },
+        {
+          "id": "b746c3ca-2f20-43cf-a240-695545587160",
+          "author": "Munenori Taniguchi",
+          "description": "NASAのジェイムズ・ウェッブ宇宙望遠鏡は1月8日、無事に主鏡の展開を完了しました",
+          "link": "https://japanese.engadget.com/nasa-finishes-deploying-the-james-webb-space-telescope-034030975.html",
+          "publishedOn": "2022-01-10T03:40:30.000Z",
+          "wordCount": 247,
+          "title": "ジェイムズ・ウェッブ宇宙望遠鏡、主鏡の展開を完了。調整後は最初の「驚異的な画像」取得へ"
+        },
+        {
+          "id": "44b21d10-c717-4ca3-a079-b2daa6af7dd7",
+          "author": "Kiyoshi Tane",
+          "description": "アップル社内では開発中のMRヘッドセットにつき「メタバース」という概念が禁止されているとの鵜アサが報じられています。",
+          "link": "https://japanese.engadget.com/apple-ruleout-metaverse-mrheadset-031553532.html",
+          "publishedOn": "2022-01-10T03:15:53.000Z",
+          "wordCount": 195,
+          "title": "アップル社内ではMRヘッドセットにつき「メタバース」という概念が禁止のウワサ"
+        },
+        {
+          "id": "ff451926-f569-4dd8-83de-1fe9dce0d753",
+          "author": "GREEN FUNDING with Engadget Staff",
+          "description": "特徴 グラフェンヒートパック採用 3段階の温度調整 人の手によるマッサージを再現 頚椎の自然なストレッチを実現 コードレスでどこでも利用可能 枕カバーは取り外して水洗い可能 長時間のデスクワークや肉体労働、スマホ操作、合っていない枕の利用などによって30－40代の7割以上が頸椎や腰椎の違和感に悩まされています。 ホットストレッチ&マッサージ 就寝前に10分ホットストレッチやマッサージをすると、首を効果的にリラックスさせることができます。 重力を利用し無理に力を加えることなく頸椎を引っ張り、人間工学に基づいたデザインにより関節や筋肉の圧力を解放することで、7つの頸椎すべてが開き、ストレスのない自然な姿勢を作り出すことができます。 フィット感を提供するピーポッドバイオニックデザイン 滑らかな有機的な形状で、首のカーブにフィットするようにサポートポイントが配置されており、首をしっかりと伸ばして疲労を軽減します。 グラフェン遠赤外線ヒートパック クイックスタート マッサージを開始して３秒で適切な温度まで上げることができます 遠赤外線効果 身体を内部からじわっと温めて血流を改善することができます",
+          "link": "https://japanese.engadget.com/massage-pillow-025525332.html",
+          "publishedOn": "2022-01-10T02:55:25.000Z",
+          "wordCount": 292,
+          "title": "ノーベル賞受賞の革新的新素材グラフェンを採用した遠赤外線電動マッサージピロー"
+        },
+        {
+          "id": "e5941546-a3a1-4d13-a1de-6777189c62e5",
+          "author": "Kiyoshi Tane",
+          "description": "アップルが今年（2022年）初のイベントを3月か4月にバーチャル形式で開催し、そこで第3世代iPhone SEが発表される可能性が高いとの噂が報じられています。",
+          "link": "https://japanese.engadget.com/apple-march-april-virtual-event-iphonese-022531867.html",
+          "publishedOn": "2022-01-10T02:25:31.000Z",
+          "wordCount": 218,
+          "title": "アップル、3月か4月にバーチャルイベント開催か。そこで第3世代iPhone SE発表のうわさ"
+        },
         {
           "id": "9666d3be-16ad-4851-9878-5b315490c530",
           "author": "宮里圭介(Keisuke Miyasato)",
@@ -468,87 +675,6 @@
           "publishedOn": "2022-01-08T20:30:15.000Z",
           "wordCount": 244,
           "title": "2018年1月9日、au春モデルとして「Qua Phone QZ」などが発表されました：今日は何の日？"
-        },
-        {
-          "id": "a5085dba-8e17-4e60-80b9-c993e9d03bec",
-          "author": "GREEN FUNDING with Engadget Staff",
-          "description": "「emoPrinter（エモプリンター）」主な特徴: ►高解像度で鮮やかなフルカラープリントを実現。 ►あらゆる素材や曲面にワンタッチで簡単に印刷。 ►アプリ不要、ウェブサイトで印刷内容を自由にカスタマイズ。 ►130gの超軽量＆手のひらサイズで持ち運びが便利。 ►900mAhバッテリー搭載＆HP大容量インク付き。 ハンディプリンターといえば、これまでは標準サイズの紙にモノクロ印刷するしかできないという制限がありました。emoPrinterは、そのような問題を解消し、従来のプリンターではできなかった自由度や解像度の高いフルカラー印刷が可能となります！ 紙、衣類、ウッド、皮膚などあらゆる素材にフルカラー印刷できる画期的なハンディプリンターとして、テキストはもちろん、画像やスクリーンショット、QRコード、オリジナルデザインまで色鮮やかに再現できます！Wi-Fiと接続し、ボタンを押すだけの簡単操作なのでお子様からお年寄りまで誰でも手軽に使えます! emoPrinterは通常のプリンターでは印刷できないあらゆる素材にフルカラー印刷可能となります。紙はもちろん、木材、織物、金属、プラスチック、皮",
-          "link": "https://japanese.engadget.com/emo-printer-053547869.html",
-          "publishedOn": "2022-01-08T05:35:47.000Z",
-          "wordCount": 272,
-          "title": "ワンタッチであらゆる素材にフルカラー印刷。片手で操作できるハンディプリンター「emoPrinter」"
-        },
-        {
-          "id": "7f6dfec6-3623-42e1-8e79-ea8da7b07acc",
-          "author": "Munenori Taniguchi",
-          "description": "テスラはこのたび価格を2000ドル引き上げ、1万2000ドルにすることを明らかにしました",
-          "link": "https://japanese.engadget.com/tesla-raises-fsd-prices-again-045001759.html",
-          "publishedOn": "2022-01-08T04:50:01.000Z",
-          "wordCount": 216,
-          "title": "テスラ、FSDベータ機能の価格を1万2000ドルに引き上げ。イーロン・マスクがツイートで告知"
-        },
-        {
-          "id": "6672bb8e-53cf-49cd-81b4-22cf6234ac86",
-          "author": "Kiyoshi Tane",
-          "description": "クラウドストレージDropboxが、ようやくAppleシリコンにネイティブ対応したMac用アプリのテストを開始したと報じられています。",
-          "link": "https://japanese.engadget.com/dropbox-test-native-apple-silicon-support-042528362.html",
-          "publishedOn": "2022-01-08T04:25:28.000Z",
-          "wordCount": 200,
-          "title": "Dropbox、ようやくAppleシリコンMacネイティブ対応アプリのテストを開始。ユーザーの不評を受けて"
-        },
-        {
-          "id": "9832ed12-c956-4f37-ad10-1a8fd0a9e65e",
-          "author": "Engadgetオトク情報局",
-          "description": "AmazonのKindleストアにて、講談社が「講談社 冬電書2022」の特設ページを開設。対象作品がすべて199円となる「講談社の趣味・実用書をまとめ買い！」を開催中です。",
-          "link": "https://japanese.engadget.com/kindle-sale-kodansha-032506060.html",
-          "publishedOn": "2022-01-08T03:25:06.000Z",
-          "wordCount": 223,
-          "title": "暮らしを豊かにする趣味・実用書がすべて199円！「講談社 冬電書2022」開催中"
-        },
-        {
-          "id": "ab52a8e4-a245-410f-81bd-da1a2c742076",
-          "author": "Kiyoshi Tane",
-          "description": "Apple Watch Series 4以降には転倒検出機能が搭載されていますが、これによりホテルの部屋で転んで失神した女性が救助を呼んでもらえたと報じられています。",
-          "link": "https://japanese.engadget.com/apple-watch-save-woman-life-031027272.html",
-          "publishedOn": "2022-01-08T03:10:27.000Z",
-          "wordCount": 249,
-          "title": "ホテルで転んで失神した女性、Apple Watchに命を救われたと語る。直前に転倒検出を有効にしたおかげ"
-        },
-        {
-          "id": "7f7cf7b5-b6d8-4ac4-9027-af899c76bf99",
-          "author": "Munenori Taniguchi",
-          "description": "人気FPSゲーム『Valorant』が、1月11日からの「エピソード4」アップデートで、ランクマッチ参加条件を「アカウントレベル20以上」に変更します",
-          "link": "https://japanese.engadget.com/valorant-changes-ranked-match-participation-requirement-to-l20-013028263.html",
-          "publishedOn": "2022-01-08T01:30:28.000Z",
-          "wordCount": 215,
-          "title": "『Valorant』ランクマッチ参加条件を「レベル20以上」に変更。スマーフ対策強化"
-        },
-        {
-          "id": "01873363-14aa-466e-8149-6348bd791695",
-          "author": "GREEN FUNDING with Engadget Staff",
-          "description": "今ご支援頂くと、この冬に間に合います。 昨年からさらに進化した、エアジャケットシリーズ最高傑作「エアジャケットPlus」をお届けします。 ウィンタースポーツやアウトドアに最適な、防寒性・撥水性・防風性などの機能性が最強のアウター！ 例年よりも寒さが厳しくなると言われる2022年、ぜひ手に入れていただきたい一着です。 日本デビュー以来、本シリーズは大変多くの方からご支援を頂いております。 前作からエアジャケットはさらに進化を遂げ、「冬キャンプやウインタースポーツに着たい」という声にお答えし、「エアジャケット306」をタウンユース・アウトドア用に開発されたのが「エアジャケットPlus」です。 ・宇宙服素材を採用した史上最強収納力なエアジャケット！ ・超薄型＆超軽量なのに寒さ、雨、風からしっかり守る ・シンプルかつ洗練されたデザインでエアジャケットの最先端にふさわしいスタイル！ ■ジャケット一枚で、秋から来春まで着通したい方 ■しっかり防寒したいけど、厚手のダウンは着たくない方 ■冬でも身体が動きやすくいたい！もごもごする厚着がしたくない方 ■寒かったり、暖かったり、頻繫に着脱ぎしたくない、",
-          "link": "https://japanese.engadget.com/air-jacket-plus-012007926.html",
-          "publishedOn": "2022-01-08T01:20:04.000Z",
-          "wordCount": 375,
-          "title": "NASA宇宙服素材で-196℃の冷気も断熱。冬のスポーツやアウトドアに最適な「エアジャケットPlus」"
-        },
-        {
-          "id": "bed5f699-b8fd-4c46-a7ed-beb7060cede8",
-          "author": "龍田優貴（Yuuki Tatsuta）",
-          "description": "星の数ほどあるスマホゲームの中から、話題になっているもの、気になったもの、何か面白そう、そんなタイトルをひたすらご紹介していきます！今回ご紹介するのは『単語パズルで島作り：脳トレしながらネコ島を発展させよう！』です。",
-          "link": "https://japanese.engadget.com/word-puzzle-cat-221054733.html",
-          "publishedOn": "2022-01-07T22:10:54.000Z",
-          "wordCount": 191,
-          "title": "正しい言葉を探し出せ！ネコ島を発展させる『単語パズルで島作り』：発掘！スマホゲーム"
-        },
-        {
-          "id": "d5be305f-d0b6-41e4-a7d3-35396c1f6562",
-          "author": "今日は何の日？",
-          "description": "単体での撮影だけでなく、iPhoneに装着しての撮影にまで対応した360度カメラが「Insta360 Nano S」。\n\nこの全天球カメラが発売されたのが、2018年の今日です。",
-          "link": "https://japanese.engadget.com/today-203022334.html",
-          "publishedOn": "2022-01-07T20:30:22.000Z",
-          "wordCount": 190,
-          "title": "2018年1月8日、iPhoneに装着して使える360度カメラ「Insta360 Nano S」が発売されました：今日は何の日？"
         }
       ]
     },
@@ -557,6 +683,105 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/topstory.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/fortop/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2201/11/news068.html",
+          "author": null,
+          "description": "Apple Musicのロスレスオーディオ配信曲数は9000万曲を超えた。",
+          "link": "https://www.itmedia.co.jp/news/articles/2201/11/news068.html",
+          "publishedOn": "2022-01-11T00:13:00.000Z",
+          "wordCount": 156,
+          "title": "Appleの有料サブスク契約者が7億4500万に到達"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2201/11/news066.html",
+          "author": null,
+          "description": "E2EEメッセージングアプリ「Signal」を提供するSignal Messengerのモクシー・マーリンスパイクCEOが退任すると発表した。現在後任を探している。暫定CEOはWhatsAppの共同創業者でSignalの会長を務めるブライアン・アクトン氏。",
+          "link": "https://www.itmedia.co.jp/news/articles/2201/11/news066.html",
+          "publishedOn": "2022-01-10T23:42:00.000Z",
+          "wordCount": 152,
+          "title": "E2EEメッセージングアプリSignalのCEOが退任　暫定CEOにブライアン・アクトン氏"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2201/11/news041.html",
+          "author": null,
+          "description": "韓国の漢陽大学校とKorea Electronics Technology Institute、Daegu-Gyeongbuk Medical Innovation Foundation（DGMIF）による研究チームは、勃起前後のペニスの長さや太さ、曲がり具合を測定するコンドーム型ウェアラブルデバイスを開発した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2201/11/news041.html",
+          "publishedOn": "2022-01-10T23:00:00.000Z",
+          "wordCount": 173,
+          "title": "勃起を監視するコンドーム型デバイス　ペニスの長さと円周を測定、遠隔医療に活用"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2201/11/news042.html",
+          "author": null,
+          "description": "米Meta（元Facebook）の研究機関のMeta AIとMeta Reality Labs、米カーネギーメロン大学の研究チームは、単眼カメラで撮影した何気ない動画複数から、映像内に猫や人などからアニメーション可能な3Dモデルに再構築するシステムを開発した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2201/11/news042.html",
+          "publishedOn": "2022-01-10T23:00:00.000Z",
+          "wordCount": 204,
+          "title": "映像内の猫や人から3Dアニメーションを作成　米Metaの研究機関などが開発"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2201/11/news046.html",
+          "author": null,
+          "description": "パンデミック下のソーシャルメディアでは、デマやフェイクニュースなどが拡散し問題となった。その一方で、科学的な最新情報を自身のSNSで発信する専門家や、それらの情報を積極的にシェアする若者など、コロナ対策に利用する人々もいる。コロナ禍における、SNSの功罪を論じる。",
+          "link": "https://www.itmedia.co.jp/news/articles/2201/11/news046.html",
+          "publishedOn": "2022-01-10T23:00:00.000Z",
+          "wordCount": 156,
+          "title": "ソーシャルメディアはパンデミックにとって毒か薬か　若者の4割がコロナ関連情報をシェアする姿勢の是非"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2201/11/news063.html",
+          "author": null,
+          "description": "PCやコンソールゲーム大手のTake-Twoが「FarmVille」などのモバイルゲームで知られるZyngaを買収すると発表した。買収総額は約127億ドル。ZyngaはTake-Two傘下のブランドとして今後もモバイルゲームを提供していく。",
+          "link": "https://www.itmedia.co.jp/news/articles/2201/11/news063.html",
+          "publishedOn": "2022-01-10T22:22:00.000Z",
+          "wordCount": 159,
+          "title": "「グランド・セフト・オート」のTake-Two、モバイルゲームの老舗Zyngaを127億ドルで買収"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/business/articles/2201/11/news010.html",
+          "author": null,
+          "description": "組込型金融（エンベッド・ファイナンス）という言葉がバズワードになっている。市場規模は2026年には1380億円に拡大する見通しだ。なぜ、ここまで大きな反響を呼んでいるのか。",
+          "link": "https://www.itmedia.co.jp/business/articles/2201/11/news010.html",
+          "publishedOn": "2022-01-10T22:00:00.000Z",
+          "wordCount": 148,
+          "title": "金融に革命をもたらす「組込型金融」（エンベッド・ファイナンス）の可能性"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/business/articles/2201/11/news014.html",
+          "author": null,
+          "description": "シッカリとしたビジョンの下に構築された、精緻な人事評価制度であれば必ず成功するわけではなく、逆にビジョン自体はザックリとしていて、アナログな人事評価制度のほうが上手くいく場合があります。その理由は……？",
+          "link": "https://www.itmedia.co.jp/business/articles/2201/11/news014.html",
+          "publishedOn": "2022-01-10T22:00:00.000Z",
+          "wordCount": 138,
+          "title": "シッカリした人事評価が失敗して、アナログな人事評価が成功することがある　なぜか？"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2201/11/news051.html",
+          "author": null,
+          "description": "伝説のタフネスケータイが10年のときを経てよみがえった。auが2021年12月に発売した「G&#39;z One TYPE-XX」をレビューする。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2201/11/news051.html",
+          "publishedOn": "2022-01-10T21:00:00.000Z",
+          "wordCount": 500,
+          "title": "「Gz&amp;#39;One TYPE-XX」レビュー　再始動のカシオデザインを堪能できる一台"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/business/articles/2201/10/news046.html",
+          "author": null,
+          "description": "アサヒビールが「生ジョッキ缶」の生産体制を強化。年間製造数量は約1290万箱で、昨年の5倍に相当する。泡立ちもよくして、飲み口全体が泡で覆われるまでの時間を半減させる。",
+          "link": "https://www.itmedia.co.jp/business/articles/2201/10/news046.html",
+          "publishedOn": "2022-01-10T09:56:00.000Z",
+          "wordCount": 119,
+          "title": "アサヒ、「生ジョッキ缶」生産体制を強化　昨年の5倍に"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2201/10/news030.html",
+          "author": null,
+          "description": "各社のフラグシップ機が登場した21年。これまでの技術トレンドが進化し、性能を追求したデジカメが相次いだ。では22年にはどんなデジカメが出てくるのだろうか。",
+          "link": "https://www.itmedia.co.jp/news/articles/2201/10/news030.html",
+          "publishedOn": "2022-01-10T03:00:00.000Z",
+          "wordCount": 150,
+          "title": "「無双」「新次元」の次は？　2022年のデジカメに期待すること"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2201/10/news026.html",
           "author": null,
@@ -601,69 +826,6 @@
           "publishedOn": "2022-01-08T21:00:00.000Z",
           "wordCount": 484,
           "title": "Xiaomiの女子スマホ「Civi」は2つのフロントライトで自撮りに特化"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/business/articles/2201/08/news024.html",
-          "author": null,
-          "description": "りそなホールディングスは2022年3月期の中間決算を発表。銀行本来の業務からの利益である「資金利益」「フィー収益」「その他業務利益」の合計である業務粗利益は、前年同期比58億円増の3231億円で、親会社株式に帰属する中間純利益は同244億円増の808億円だった。同社の南昌宏社長にコロナ禍でも好業績の理由や今後の戦略を聞いた。",
-          "link": "https://www.itmedia.co.jp/business/articles/2201/08/news024.html",
-          "publishedOn": "2022-01-08T03:08:00.000Z",
-          "wordCount": 180,
-          "title": "りそなホールディングス南昌宏社長が語る　コロナ禍でも業績好調の理由"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/business/articles/2201/08/news036.html",
-          "author": null,
-          "description": "楽天証券は7月に、米国株の信用取引に対応する。1月8日に行ったオンライン講演会で、楠雄治社長が明かした。",
-          "link": "https://www.itmedia.co.jp/business/articles/2201/08/news036.html",
-          "publishedOn": "2022-01-08T01:37:00.000Z",
-          "wordCount": 117,
-          "title": "楽天証券、7月に米国株信用取引を開始"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/mobile/articles/2201/08/news034.html",
-          "author": null,
-          "description": "2021年のスマートフォンは、2万円台のエントリーモデルと超ハイエンドモデルの二極化が進んだ。機能面では、カメラの高画質化が進み、動画撮影に対しても新たなアプローチが取られた。2021年に発売されたスマートフォンの動向を振り返りつつ、2022年の端末市場を展望していく。",
-          "link": "https://www.itmedia.co.jp/mobile/articles/2201/08/news034.html",
-          "publishedOn": "2022-01-08T00:08:00.000Z",
-          "wordCount": 499,
-          "title": "2022年のスマホはどうなる？　2万円台と超ハイエンドの二極化、フォルダブルに普及の兆しも"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/business/articles/2201/08/news018.html",
-          "author": null,
-          "description": "かつてブームを起こした牛丼チェーン「東京チカラめし」が、香港に進出している。2021年6月に1号店をオープンしたところ、連日行列ができるほどの盛況ぶり。日本での店舗数は激減したのに、なぜ香港でウケているのだろうか。",
-          "link": "https://www.itmedia.co.jp/business/articles/2201/08/news018.html",
-          "publishedOn": "2022-01-07T23:38:00.000Z",
-          "wordCount": 130,
-          "title": "「東京チカラめし」が香港で大当たり！　想定の2倍で売れている理由"
-        },
-        {
-          "id": "https://monoist.itmedia.co.jp/mn/articles/2201/08/news032.html",
-          "author": null,
-          "description": "さて、今週は現地時間の1月7日まで、米国ネバダ州ラスベガスにて消費者向けエレクトロニクス展示会「CES 2022」が開催されました。新型コロナウイルス感染症（COVID-19）の感染が再拡大し、さまざまな企業が現地での出展を見送り、オンラインでの出展に切り替えました。",
-          "link": "https://monoist.itmedia.co.jp/mn/articles/2201/08/news032.html",
-          "publishedOn": "2022-01-07T23:00:00.000Z",
-          "wordCount": 200,
-          "title": "クルマのパーソナライズって言うんなら、ボディーカラーも変えなければ！"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2201/08/news033.html",
-          "author": null,
-          "description": "Googleの検索トップページのロゴが1月8日、故スティーブン・ホーキング博士の80回目の誕生日を祝うものになった。クリックすると、博士が生前使っていた“声”によるナレーションの短い動画が始まる。",
-          "link": "https://www.itmedia.co.jp/news/articles/2201/08/news033.html",
-          "publishedOn": "2022-01-07T22:53:00.000Z",
-          "wordCount": 155,
-          "title": "1月8日のGoogle Doodleはホーキング博士の声が人生を語る動画"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/pcuser/articles/2201/08/news026.html",
-          "author": null,
-          "description": "初雪が残る秋葉原を歩き、2022年のPCパーツショップに年末年始の傾向とコロナ禍の影響についてショップに尋ねた。",
-          "link": "https://www.itmedia.co.jp/pcuser/articles/2201/08/news026.html",
-          "publishedOn": "2022-01-07T21:00:00.000Z",
-          "wordCount": 422,
-          "title": "PC一式買いが多かった年末年始の自作街！　迫るオミクロンの影"
         }
       ]
     },
@@ -672,6 +834,90 @@
       "feedUrl": "https://www.lifehacker.jp/feed/index.xml",
       "siteUrl": "https://www.lifehacker.jp",
       "articles": [
+        {
+          "id": "https://www.lifehacker.jp/2022/01/machi-ya-nums-review.html",
+          "author": "junior",
+          "description": "「Nums」はMacBookシリーズやSurfaceシリーズのトラックパッドを手軽にテンキー化できるPC作業効率化アイテム。さらにテンキー以外にもクイックランチャーや電卓起動などの機能も搭載しています。最新のMacBook Pro（M1 pro / Max）にも対応し、お得なキャンペーンを実施中のところサンプルをお借りできたので試してみた感想をお届けします。",
+          "link": "https://www.lifehacker.jp/2022/01/machi-ya-nums-review.html",
+          "publishedOn": "2022-01-10T23:00:00.000Z",
+          "wordCount": 169,
+          "title": "ノートPCの数字入力はトラックパッドをテンキー化すれば効率UP",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://assets.media-platform.com/lifehacker/dist/images/2022/01/07/DSCF4059.png"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/2022/01/248230best-buy-web-camera-in.html",
+          "author": "田中宏和",
+          "description": "ロジクールの『ウェブカメラC270n』は明るさ調整、高音質のマイクも搭載され高性能でありながら驚きのコスパの良さ。ウェブ会議やテレビ電話などの用途にとてもおすすめです。",
+          "link": "https://www.lifehacker.jp/2022/01/248230best-buy-web-camera-in.html",
+          "publishedOn": "2022-01-10T13:05:00.000Z",
+          "wordCount": 158,
+          "title": "ウェブ会議ならこれ！コスパの高さに満足なロジクール『ウェブカメラ C270n』｜これ買ってよかった",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/12/27/20211219_logi-webcam_top-1logo.jpg"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/2022/01/how-to-safely-exercise-in-the-dark.html",
+          "author": "ライフハッカー編集部",
+          "description": "夜間のランニングでは思っている以上に気を付けなければならないことがたくさんあります。",
+          "link": "https://www.lifehacker.jp/2022/01/how-to-safely-exercise-in-the-dark.html",
+          "publishedOn": "2022-01-10T11:00:00.000Z",
+          "wordCount": 171,
+          "title": "冬の夜でも安全にランニングをする方法",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/12/22/shutterstock_684417856.jpg"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/2022/01/rakuten-sale-0110-1.html",
+          "author": "メディアジーンメディアコマース",
+          "description": "楽天市場では、複数ショップでの買い回りで還元ポイントがアップする｢お買い物マラソン｣が1月16日（日）1:59まで開催中。 現在、ルンバの本体＋交換備品セットが49％オフ、ブルーエアの空気清浄機が30％オフなど、お得な商品が多数登場しています。",
+          "link": "https://www.lifehacker.jp/2022/01/rakuten-sale-0110-1.html",
+          "publishedOn": "2022-01-10T07:30:00.000Z",
+          "wordCount": 449,
+          "title": "【楽天お買い物マラソン開催中】上位モデル「ルンバ960」福袋セットが49％オフ、ブルーエアの空気清浄機が30％オフなど",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/lifehacker/dist/images/2022/01/10/img-roomba-900-01_pc@2x.jpg"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/2022/01/248290new-mac-setup-tips.html",
+          "author": "ガリレオ,MakeUseOf",
+          "description": "新品のMacを買ったらやるべき8つのことを紹介します。",
+          "link": "https://www.lifehacker.jp/2022/01/248290new-mac-setup-tips.html",
+          "publishedOn": "2022-01-10T03:00:00.000Z",
+          "wordCount": 189,
+          "title": "新品のMacを買ったら必ずやるべき8つのこと",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/12/23/新規プロジェクト(57).jpg"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/2022/01/247270tiny_hack-soupstock.html",
+          "author": "ライフハッカー編集部",
+          "description": "冬場の鍋は毎年大量生産・大量消費。効率的に作りたいものです。出汁をとる時間は、「水出し」という誠にズボラな技で、短縮することができます。",
+          "link": "https://www.lifehacker.jp/2022/01/247270tiny_hack-soupstock.html",
+          "publishedOn": "2022-01-10T01:00:00.000Z",
+          "wordCount": 180,
+          "title": "冬場の鍋ライフを円滑に進める。朝の10秒で仕込むズボラ技",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/12/06/tiny-soupstock01.jpeg"
+          }
+        },
         {
           "id": "https://www.lifehacker.jp/2022/01/248127best-buy-massage.html",
           "author": "カマタユキコ",
@@ -769,79 +1015,9 @@
             "type": "image/jpeg",
             "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/12/24/top_Untitledpresentation.jpg"
           }
-        },
-        {
-          "id": "https://www.lifehacker.jp/2022/01/248500try-running-without-music.html",
-          "author": "ライフハッカー編集部",
-          "description": "ランニング中は音楽を聞かない方がいい、たった1つの理由とは？",
-          "link": "https://www.lifehacker.jp/2022/01/248500try-running-without-music.html",
-          "publishedOn": "2022-01-08T11:00:00.000Z",
-          "wordCount": 170,
-          "title": "ランニング中は音楽を聞かない方がいい、たった1つの理由",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/12/22/shutterstock_147162674.jpg"
-          }
-        },
-        {
-          "id": "https://www.lifehacker.jp/2022/01/248522what-is-on-your-desk-now-and-why-is-it-there.html",
-          "author": "ライフハッカー編集部",
-          "description": "デスクの上に物が多すぎると、生産性が低下する原因に。この記事では、どんなアイテムをデスクに置いておくべきか、そしてその上手な整頓術をご紹介します。",
-          "link": "https://www.lifehacker.jp/2022/01/248522what-is-on-your-desk-now-and-why-is-it-there.html",
-          "publishedOn": "2022-01-08T03:00:00.000Z",
-          "wordCount": 178,
-          "title": "デスクの整理整頓で生産性が変わる。さあ何を置きますか？",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/12/23/desk.jpg"
-          }
-        },
-        {
-          "id": "https://www.lifehacker.jp/2022/01/248362roomie-akebono-dashi.html",
-          "author": "ライフハッカー編集部",
-          "description": "レンジで簡単に本格的なだしがつくれる便利なアイテムをご紹介します。",
-          "link": "https://www.lifehacker.jp/2022/01/248362roomie-akebono-dashi.html",
-          "publishedOn": "2022-01-08T01:00:00.000Z",
-          "wordCount": 202,
-          "title": "“おいしい出汁”がレンジで完成！ いつものみそ汁や鍋を簡単にグレードアップ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/12/21/DSC09542-1.jpg"
-          }
-        },
-        {
-          "id": "https://www.lifehacker.jp/2022/01/248330best-buy-ai-service.html",
-          "author": "山田洋路",
-          "description": "長文英語の内容を簡潔に説明してくれる要約AI『QuillBot』をご紹介。文章のリライトやネタ検索補助機能も搭載されています。日本語対応の要約AIにはメールや議事録などを3行にまとめてくれる『ELYZA DIGEST』があります。",
-          "link": "https://www.lifehacker.jp/2022/01/248330best-buy-ai-service.html",
-          "publishedOn": "2022-01-07T13:05:00.000Z",
-          "wordCount": 192,
-          "title": "要約をAIが自動生成してくれるサービス『QuillBot』と『ELYZA DIGEST』｜これ買ってよかった",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/12/22/top.jpg"
-          }
-        },
-        {
-          "id": "https://www.lifehacker.jp/2022/01/248859-machi-ya-airflake-start.html",
-          "author": "山田洋路",
-          "description": "高品質な人工羽毛を使った掛け布団「エシカルダウン掛け布団 -AIR FLAKE with RENU-」が登場。ホコリが出にくい使用で丸洗いしても品質が保たれます。再生ポリエステル素材採用でサーキュラーエコノミーを促進。アニマルフリーな点もSDGsに適っています。",
-          "link": "https://www.lifehacker.jp/2022/01/248859-machi-ya-airflake-start.html",
-          "publishedOn": "2022-01-07T13:00:00.000Z",
-          "wordCount": 217,
-          "title": "人工羽毛で丸洗いOK！ 軽くて温かい「エシカルダウン掛け布団」",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/lifehacker/dist/images/2022/01/07/1640223888280.jpg"
-          }
         }
       ]
     }
   ],
-  "cliVersion": "1.11.3"
+  "cliVersion": "1.12.0"
 }
