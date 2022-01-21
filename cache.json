@@ -6,6 +6,195 @@
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
         {
+          "id": "https://www.itmedia.co.jp/news/articles/2201/21/news080.html",
+          "author": null,
+          "description": "GoogleがARヘッドセットの「Project Iris」を進めているとThe Vergeが報じた。2024年の発売を目指しているという。チームを率いるのはDaydreamのクレイ・ベイバー氏。",
+          "link": "https://www.itmedia.co.jp/news/articles/2201/21/news080.html",
+          "publishedOn": "2022-01-20T23:55:00.000Z",
+          "wordCount": 169,
+          "title": "Google、ARヘッドセットの2024年発売を目指す「Project Iris」推進中との報道"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2201/21/news076.html",
+          "author": null,
+          "description": "シリコンを使った量子コンピュータの実現に向け、理化学研究所などが計算に必要な基本操作を高精度に実施することに成功した。量子コンピュータは超電導やイオンを使った方式の研究開発が先行しているが、シリコン方式も実用化において有力候補であることを示す成果だ。",
+          "link": "https://www.itmedia.co.jp/news/articles/2201/21/news076.html",
+          "publishedOn": "2022-01-20T23:00:00.000Z",
+          "wordCount": 141,
+          "title": "シリコン量子コンピュータ実現に前進　計算操作の高精度化に成功"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2201/21/news075.html",
+          "author": null,
+          "description": "交通反則金やパスポート、車検などの国の行政手数料の納付をクレジットカードなどでできるようにする行政キャッシュレス化法案の概要が分かった。旅券と車検の手数料キャッシュレス化は2022年度から実施する予定で、政府は法案を今通常国会に提出する。",
+          "link": "https://www.itmedia.co.jp/news/articles/2201/21/news075.html",
+          "publishedOn": "2022-01-20T23:00:00.000Z",
+          "wordCount": 136,
+          "title": "交通反則金などキャッシュレス化　政府法案概要判明"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2201/21/news074.html",
+          "author": null,
+          "description": "在宅勤務などテレワークやオンライン授業の普及・定着がさらに進み、交通機関の利用は従来の水準に戻らない。鉄道各社は日常生活や観光などで沿線の利用客を増やすため、MaaS推進の一環として「デジタルチケット」の発売に取り組んでいる。",
+          "link": "https://www.itmedia.co.jp/news/articles/2201/21/news074.html",
+          "publishedOn": "2022-01-20T23:00:00.000Z",
+          "wordCount": 145,
+          "title": "小田急電鉄、減少した利用者を増やすため、デジタルチケットで人気スポット優待"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2201/21/news073.html",
+          "author": null,
+          "description": "Twitterがプロフィール画像として認証済みNFTを選択できるようにした。サブスクサービス「Twitter Blue」のiOSアプリでのみ設定可能。認証済みNFTは輪郭が六角形で表示される。",
+          "link": "https://www.itmedia.co.jp/news/articles/2201/21/news073.html",
+          "publishedOn": "2022-01-20T22:13:00.000Z",
+          "wordCount": 162,
+          "title": "Twitter、認証済みNFTをプロフィール画像に──iOS版「Twitter Blue」で"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2201/20/news172.html",
+          "author": null,
+          "description": "仮想通貨のマイニングツール「Coinhive」の設置によりWebデザイナーの男性が不正指令電磁的記録保管罪に問われた「Coinhive事件」を無罪と判断した理由について、最高裁が全文を公開した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2201/20/news172.html",
+          "publishedOn": "2022-01-20T11:39:00.000Z",
+          "wordCount": 144,
+          "title": "「広告表示と比較して、PCに与える影響は許容範囲内」──Coinhive事件、最高裁の判決全文"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2201/20/news170.html",
+          "author": null,
+          "description": "Amazonプライムビデオはアニメ「ポケットモンスター」の特別編「ポケットモンスター 神とよばれし アルセウス」を1月21日から独占配信する。全4話。",
+          "link": "https://www.itmedia.co.jp/news/articles/2201/20/news170.html",
+          "publishedOn": "2022-01-20T11:20:00.000Z",
+          "wordCount": 175,
+          "title": "ポケモン新作アニメ「神とよばれし アルセウス」、21日からAmazonプライムで配信"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2201/20/news169.html",
+          "author": null,
+          "description": "ヤマト運輸が、宅急便の発送手続きをスマートフォンで完結できる「宅急便をスマホで送る」サービスに、PUDOステーションから荷物を発送できる機能を追加した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2201/20/news169.html",
+          "publishedOn": "2022-01-20T11:00:00.000Z",
+          "wordCount": 148,
+          "title": "PUDOからヤマトの宅急便が発送可能に　発払いなら匿名相手にも"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2201/20/news168.html",
+          "author": null,
+          "description": "ウェザーニューズは15日にトンガ諸島付近で発生した大規模な火山噴火について、同社の気象観測機「ソラテナ」が観測した気圧のデータを研究者向けに無償で提供する。",
+          "link": "https://www.itmedia.co.jp/news/articles/2201/20/news168.html",
+          "publishedOn": "2022-01-20T10:52:00.000Z",
+          "wordCount": 148,
+          "title": "ウェザーニューズ、トンガ火山噴火による気圧変化のデータを研究者向けに無償提供"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2201/20/news166.html",
+          "author": null,
+          "description": "京都にある任天堂の旧本社がホテルに変わる。ホテル「丸福楼」として4月に開業。7つのスイートルームを含む全18室で。",
+          "link": "https://www.itmedia.co.jp/news/articles/2201/20/news166.html",
+          "publishedOn": "2022-01-20T10:33:00.000Z",
+          "wordCount": 143,
+          "title": "任天堂の旧本社がホテルに　当時の屋号から「丸福楼」と命名"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2201/20/news152.html",
+          "author": null,
+          "description": "Series 7まで到達したApple Watchだが、初代モデルを使い続けている人がいる。",
+          "link": "https://www.itmedia.co.jp/news/articles/2201/20/news152.html",
+          "publishedOn": "2022-01-20T08:30:00.000Z",
+          "wordCount": 183,
+          "title": "初代「Apple Watch」はまだ現役で使える？　とあるIT系編集者の主張"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2201/20/news141.html",
+          "author": null,
+          "description": "Google Chromeには、タブの数に関連したイースターエッグが存在することをご存じだろうか？　あなたがまめにタブを消すようなきちょうめんな人ならば、一生それに気付くことはないかもしれない……。",
+          "link": "https://www.itmedia.co.jp/news/articles/2201/20/news141.html",
+          "publishedOn": "2022-01-20T08:20:00.000Z",
+          "wordCount": 168,
+          "title": "几帳面な人ほど気付かない？　スマホ版Chromeでタブを100個開くと現れるイースターエッグ"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2201/20/news127.html",
+          "author": null,
+          "description": "カメラ映像機器工業会は、2月に開催する映像機器展示会「CP＋2022」をパシフィコ横浜での会場イベントと公式Webサイトを使ったオンラインイベントのハイブリッド形式にすると発表した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2201/20/news127.html",
+          "publishedOn": "2022-01-20T07:15:00.000Z",
+          "wordCount": 156,
+          "title": "「CP＋」、3年ぶりパシフィコ横浜で開催も「3年前のショー形態を復活させるわけではない」"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2201/20/news118.html",
+          "author": null,
+          "description": "最高裁判所は、Coinhive事件に対して二審の有罪判決を破棄し、無罪判決を下した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2201/20/news118.html",
+          "publishedOn": "2022-01-20T06:41:00.000Z",
+          "wordCount": 149,
+          "title": "Coinhive事件、無罪確定　二審の有罪判決から逆転"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2201/20/news098.html",
+          "author": null,
+          "description": "ヤフーは、Yahoo!ニュースの「コメント欄非表示機能」により、ポリシー違反のコメントが多いとして自動的に非表示にされたコメント欄の件数が約2カ月で216件に上ったと発表した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2201/20/news098.html",
+          "publishedOn": "2022-01-20T03:30:00.000Z",
+          "wordCount": 148,
+          "title": "Yahoo!ニュース、2カ月間で216件の記事コメント欄を閉鎖　中傷などをAIが判断"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2201/20/news097.html",
+          "author": null,
+          "description": "福岡ガンダム近くにオープンする複合施設「ガンダムパーク福岡」の概要が明らかに。限定ガンプラの他、ガンダム仕様の「太鼓の達人」なども初登場。",
+          "link": "https://www.itmedia.co.jp/news/articles/2201/20/news097.html",
+          "publishedOn": "2022-01-20T03:21:00.000Z",
+          "wordCount": 180,
+          "title": "「ガンダムパーク福岡」4月開業　限定ガンプラにガンダム仕様「太鼓の達人」など初登場"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2201/20/news089.html",
+          "author": null,
+          "description": "赤十字国際委員会（ICRC）の請負業者のサーバにサイバー攻撃があり、51万5000人以上の個人データが侵害された。紛争や災害によって行方不明になっている「非常に脆弱な」人々のデータ。ICRCはデータを販売したりしないよう犯人に呼び掛けた。",
+          "link": "https://www.itmedia.co.jp/news/articles/2201/20/news089.html",
+          "publishedOn": "2022-01-20T02:46:00.000Z",
+          "wordCount": 146,
+          "title": "赤十字国際委員会、サイバー攻撃で51万人以上の行方不明者などの個人情報が漏えい"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2201/20/news084.html",
+          "author": null,
+          "description": "キヤノンは19日、スイッチレバー1つで静止画撮影と動画撮影を切り替えられるミラーレスカメラ「EOS R5 C」を発表した。外部電源供給があれば8K／60p・RAW動画まで対応できる。",
+          "link": "https://www.itmedia.co.jp/news/articles/2201/20/news084.html",
+          "publishedOn": "2022-01-20T02:26:00.000Z",
+          "wordCount": 184,
+          "title": "キヤノン、映像に軸足置いたミラーレスカメラ「EOS R5 C」3月発売　約65万円"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2201/20/news077.html",
+          "author": null,
+          "description": "Meta（旧Facebook）傘下のInstagramは、クリエイター収益化機能「Subscription」のテストを開始した。フォロワーはクリエイターが設定した月額料金を支払うことで特典を得られる。",
+          "link": "https://www.itmedia.co.jp/news/articles/2201/20/news077.html",
+          "publishedOn": "2022-01-20T01:39:00.000Z",
+          "wordCount": 148,
+          "title": "Instagram、クリエイター収益化機能「Subscription」のテストを開始"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2201/20/news072.html",
+          "author": null,
+          "description": "Docker DesktopとDocker Hubがシングルサインオンに対応。サブスクリプションの最上位プランを契約するユーザーに提供する。",
+          "link": "https://www.itmedia.co.jp/news/articles/2201/20/news072.html",
+          "publishedOn": "2022-01-20T01:07:00.000Z",
+          "wordCount": 183,
+          "title": "Docker DesktopとDocker Hubがシングルサインオンに対応"
+        },
+        {
+          "id": "https://mag.executive.itmedia.co.jp/executive/articles/2111/29/news076.html",
+          "author": null,
+          "description": "ITmedia エグゼクティブは約6000人が参加する企業人のための会員制コミュニティーです。1月の勉強会は累計100万部を超えるベストセラー著者の永井孝尚さんに『世界の起業家が学んでいるMBA経営理論の必読書50冊を1冊にまとめてみた』をテーマにお話しいただきます。この機会にどうぞご入会ください※条件：上場相当企業の課長職以上（入会は無料）詳細はこちらから。",
+          "link": "https://mag.executive.itmedia.co.jp/executive/articles/2111/29/news076.html",
+          "publishedOn": "2022-01-20T01:00:00.000Z",
+          "wordCount": 534,
+          "title": "PR: 企業人のための「ITmedia エグゼクティブ」入会のご案内"
+        },
+        {
           "id": "https://www.itmedia.co.jp/news/articles/2201/20/news068.html",
           "author": null,
           "description": "Amazonが製作中のトールキンのファンタジー小説に基づくテレビシリーズのタイトルを発表した。「The Lord of The Rings：The Rings of Power」（日本では「ロード・オブ・ザ・リング：力の指輪」）。9月2日にプライムビデオで配信開始だ。",
@@ -274,213 +463,6 @@
           "publishedOn": "2022-01-18T21:54:00.000Z",
           "wordCount": 184,
           "title": "Microsoft、ゲーム大手Activision Blizzardを687億ドルで買収"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2201/18/news173.html",
-          "author": null,
-          "description": "個人情報保護委員会から個人情報の漏えいが発生。漏えいしたのは、同事務局が募集したパブリックコメントに意見を提出した12人分の氏名や一部所属先。行政情報の総合窓口サイト「e-Gov」に個人情報入りのPDFファイルを誤掲載していた。",
-          "link": "https://www.itmedia.co.jp/news/articles/2201/18/news173.html",
-          "publishedOn": "2022-01-18T10:57:00.000Z",
-          "wordCount": 149,
-          "title": "個人情報保護委員会が個人情報を漏えい　パブリックコメント参加者の氏名や所属先を誤掲載"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2201/18/news171.html",
-          "author": null,
-          "description": "NTTドコモ、KDDI、ソフトバンクの3社が、火山噴火のあったトンガ王国を対象とするサービスの提供が不可能な状況にあると発表した。",
-          "link": "https://www.itmedia.co.jp/news/articles/2201/18/news171.html",
-          "publishedOn": "2022-01-18T10:30:00.000Z",
-          "wordCount": 146,
-          "title": "携帯3社「トンガでサービス提供できない」　噴火による通信障害、復旧めど立たず"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2201/18/news168.html",
-          "author": null,
-          "description": "1月18日の満月は2022年で地球から最も遠く、最も小さく見える「ミニマムムーン」。「呼び方がかわいい」などと一部で話題になった。",
-          "link": "https://www.itmedia.co.jp/news/articles/2201/18/news168.html",
-          "publishedOn": "2022-01-18T09:54:00.000Z",
-          "wordCount": 147,
-          "title": "最も遠く最も小さい「ミニマムムーン」今夜　呼び方「かわいい」一時トレンド入り"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2201/18/news161.html",
-          "author": null,
-          "description": "「検索上位のWebサイトへの依頼、ちょっとまって」──東京都下水道局は、ネットでのトイレ修理の依頼に関して、Twitterで注意喚起した。Web検索の上位に表示された業者に依頼したことによる、金銭トラブルが増えているという。",
-          "link": "https://www.itmedia.co.jp/news/articles/2201/18/news161.html",
-          "publishedOn": "2022-01-18T09:17:00.000Z",
-          "wordCount": 148,
-          "title": "トイレ業者のSEO対策に東京都下水道局が「待った」　啓発ポスターがシュールで話題に"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2201/18/news156.html",
-          "author": null,
-          "description": "政府が「ワクチン・検査パッケージ」の一時停止を検討しているという報道を受け、ワンダーフェスティバル実行委員会は「今後の開催に向け、千葉県の担当課と詳細の確認と検討を行っている」と明らかにした。",
-          "link": "https://www.itmedia.co.jp/news/articles/2201/18/news156.html",
-          "publishedOn": "2022-01-18T08:40:00.000Z",
-          "wordCount": 144,
-          "title": "「ワクチン・検査パッケージ」一時停止報道でイベント関係者に動揺　ワンフェス実行委員会は「確認中」"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2201/18/news158.html",
-          "author": null,
-          "description": "複数加入している人も多いであろう音楽サブスクサービス、使い分けはどうしているのか。2人のIT系編集者が振り返る。",
-          "link": "https://www.itmedia.co.jp/news/articles/2201/18/news158.html",
-          "publishedOn": "2022-01-18T08:30:00.000Z",
-          "wordCount": 182,
-          "title": "競合ひしめく音楽サブスク、どう使い分けてる？　IT系編集者2人の場合"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2201/18/news147.html",
-          "author": null,
-          "description": "全国のタイムズパーキングが、タイムズ専用アプリ内での駐車料金の支払いに対応した。精算機を使わずに車内で決済できる。",
-          "link": "https://www.itmedia.co.jp/news/articles/2201/18/news147.html",
-          "publishedOn": "2022-01-18T08:00:00.000Z",
-          "wordCount": 147,
-          "title": "車から出ずに駐車料金を支払える　タイムズがアプリ内決済に対応"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2201/18/news144.html",
-          "author": null,
-          "description": "iPhoneに自分の顔を認識されなくなってしまった。そういえば思い当たることがあった。",
-          "link": "https://www.itmedia.co.jp/news/articles/2201/18/news144.html",
-          "publishedOn": "2022-01-18T07:14:00.000Z",
-          "wordCount": 152,
-          "title": "突然、Face IDに認識されなくなってしまった　そういえば……"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2201/18/news127.html",
-          "author": null,
-          "description": "ジャパネットは18日、BS放送局「BSJapanext」でクイズ番組「パネルクイズ アタック25 Next（仮）」を放送すると発表した。1時間番組となる。",
-          "link": "https://www.itmedia.co.jp/news/articles/2201/18/news127.html",
-          "publishedOn": "2022-01-18T05:27:00.000Z",
-          "wordCount": 153,
-          "title": "「アタック25」復活　ジャパネットの新BS局で　司会は谷原章介さん"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2201/18/news115.html",
-          "author": null,
-          "description": "神奈川県の黒岩祐治知事は16日に発生した緊急速報（エリアメール）の件を改めて説明した。最初は国が一斉に配信しているものと考えていたという。",
-          "link": "https://www.itmedia.co.jp/news/articles/2201/18/news115.html",
-          "publishedOn": "2022-01-18T04:12:00.000Z",
-          "wordCount": 151,
-          "title": "「国から一斉に出ているのかと」　黒岩知事、エリアメール問題の経緯を説明"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2201/18/news091.html",
-          "author": null,
-          "description": "「メタバース」が注目を浴びる中、たまに話題に上るのが「Second Life」だ。2007年前後にブームが起きたが、急速に沈んだ“早すぎたメタバース”。あのブームは何だったのか？　復活はあり得るのだろうか？",
-          "link": "https://www.itmedia.co.jp/news/articles/2201/18/news091.html",
-          "publishedOn": "2022-01-18T03:00:00.000Z",
-          "wordCount": 164,
-          "title": "“早すぎたメタバース”Second Lifeとは何だったのか　再ブームはあり得るか？"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2201/18/news100.html",
-          "author": null,
-          "description": "finalは、九州大学と共同開発した学習専用イヤフォン「STUDY 1」を2月10日に発売する。話し声が聞き取りやすく、声への集中力が高まるという。2980円（税込）。",
-          "link": "https://www.itmedia.co.jp/news/articles/2201/18/news100.html",
-          "publishedOn": "2022-01-18T02:52:00.000Z",
-          "wordCount": 148,
-          "title": "学習専用イヤフォン、finalが発売　九州大学と共同研究　話し声を聞き取りやすく"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2201/18/news094.html",
-          "author": null,
-          "description": "三菱UFJ銀行が、4月1日以降に口座を新設する利用者に対して、紙通帳を発行する場合は年間利用料550円の手数料を設ける。インターネット通帳への移行を促し、取引のペーパーレス化を進める考え。",
-          "link": "https://www.itmedia.co.jp/news/articles/2201/18/news094.html",
-          "publishedOn": "2022-01-18T02:25:00.000Z",
-          "wordCount": 146,
-          "title": "三菱UFJ、4月から紙通帳発行に手数料、年間550円　ペーパーレス化促進のため"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2201/18/news089.html",
-          "author": null,
-          "description": "GoogleのNestシリーズで再生できるリラックスサウンドの「ホワイトノイズ」の変化に複数の愛用者が苦言を呈している。ループが短くなり、“継ぎ目”が分かるため、入眠しにくくなったなどだ。",
-          "link": "https://www.itmedia.co.jp/news/articles/2201/18/news089.html",
-          "publishedOn": "2022-01-18T01:53:00.000Z",
-          "wordCount": 149,
-          "title": "Googleによるリラックスサウンド「ホワイトノイズ」の変更に多数の苦情"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2201/18/news088.html",
-          "author": null,
-          "description": "公正取引委員会が、フリーランス・企業所属システムエンジニアを対象とした実態調査を始めた。ソフトウェア制作業務や受託システム開発の取引状況を探る。",
-          "link": "https://www.itmedia.co.jp/news/articles/2201/18/news088.html",
-          "publishedOn": "2022-01-18T01:40:00.000Z",
-          "wordCount": 144,
-          "title": "公取委、システムエンジニアの取引実態調査スタート　「買いたたきなど下請け法上の問題がある」"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2201/18/news085.html",
-          "author": null,
-          "description": "さくらインターネットが、従来と比べて最大で5倍の性能を発揮する新サーバを「さくらのレンタルサーバ」で提供する。価格はこれまでと同じで、2月から提供する予定。",
-          "link": "https://www.itmedia.co.jp/news/articles/2201/18/news085.html",
-          "publishedOn": "2022-01-18T01:16:00.000Z",
-          "wordCount": 152,
-          "title": "さくらのレンタルサーバがリニューアル　価格据え置きで最大で性能5倍の新サーバ提供へ"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2201/18/news081.html",
-          "author": null,
-          "description": "大阪府東大阪市は阪神大震災発生から27年を迎えたのに合わせて、生駒山中腹にある府民の森なるかわ園地で災害対応訓練を行った。ドローンを初めて使って行方不明者らを上空から捜索したり、消防隊員らが人命救助を行ったりした。",
-          "link": "https://www.itmedia.co.jp/news/articles/2201/18/news081.html",
-          "publishedOn": "2022-01-18T01:00:00.000Z",
-          "wordCount": 138,
-          "title": "阪神大震災27年　災害発生に備えドローンで捜索訓練"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2201/18/news080.html",
-          "author": null,
-          "description": "メタバース市場に日本企業が相次いで本格参入している。CES2022では、パナソニックがメタバース事業への参入を発表。日本のものづくりやゲーム産業の知見が生かせる分野として期待が寄せられている。",
-          "link": "https://www.itmedia.co.jp/news/articles/2201/18/news080.html",
-          "publishedOn": "2022-01-18T01:00:00.000Z",
-          "wordCount": 143,
-          "title": "メタバース市場、日本勢が相次ぎ参戦　高性能VRゴーグル、スタジアム仮想化……"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2201/18/news079.html",
-          "author": null,
-          "description": "金融庁はみずほフィナンシャルグループから業務改善計画の提出を受けたが、今後も監視を続ける構え。2度の業務改善命令後もシステム障害が起き、収束のめどが立たないためだ。再び大規模な障害があば金融庁も監督責任を問われかねない。",
-          "link": "https://www.itmedia.co.jp/news/articles/2201/18/news079.html",
-          "publishedOn": "2022-01-18T01:00:00.000Z",
-          "wordCount": 140,
-          "title": "「これで終わりじゃない」金融庁に緊張感　みずほシステム障害収束のめど立たず"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2201/18/news078.html",
-          "author": null,
-          "description": "1月17日にGoogle検索で「ベティ・ホワイト」を検索すると特別なエフェクトが表示される。100歳の誕生日目前に亡くなった女優のベディ・ホワイトさんの誕生日を祝すものだ。",
-          "link": "https://www.itmedia.co.jp/news/articles/2201/18/news078.html",
-          "publishedOn": "2022-01-17T23:53:00.000Z",
-          "wordCount": 153,
-          "title": "Googleで「ベティ・ホワイト」を検索するとバラの花びらが──故人の100歳の誕生日を祝して"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2201/18/news059.html",
-          "author": null,
-          "description": "米南カリフォルニア大学（USC）と、写真共有アプリ「Snapchat」などを開発する米Snapの研究チームは、さまざまな時間や場所、照明条件で撮影した画像から、対象物を抽出し3Dモデルに変換するシステムを開発した。",
-          "link": "https://www.itmedia.co.jp/news/articles/2201/18/news059.html",
-          "publishedOn": "2022-01-17T23:00:00.000Z",
-          "wordCount": 201,
-          "title": "写真内の物体を3Dモデルに変換するシステム、米Snapらの研究チームが開発"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2201/18/news058.html",
-          "author": null,
-          "description": "米カリフォルニア・マーセッド大学の研究チームは、口パク（無声発話）によって動くのどをリアルタイム磁気共鳴画像法（rtMRI）で取得し、その動きから音響情報を理解してテキストに変換する深層学習フレームワークを開発した。",
-          "link": "https://www.itmedia.co.jp/news/articles/2201/18/news058.html",
-          "publishedOn": "2022-01-17T23:00:00.000Z",
-          "wordCount": 207,
-          "title": "のどの動きをMRIで解析し、口パクをテキストに変換　言語障がい者などのコンピュータ利用の一助に"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2201/18/news074.html",
-          "author": null,
-          "description": "AppleのWebブラウザ「Safari 15」に、ユーザーのWeb履歴や個人情報がリークする恐れのあるバグがあるとFingerprintJSが公表した。iOSとiPadOSの場合はAppleが修正更新するまで回避対策がない。",
-          "link": "https://www.itmedia.co.jp/news/articles/2201/18/news074.html",
-          "publishedOn": "2022-01-17T22:40:00.000Z",
-          "wordCount": 156,
-          "title": "「Safari 15」にWeb履歴やGoogleアカウント情報がリークする可能性のあるバグ　修正はまだ"
         }
       ]
     },
@@ -489,6 +471,114 @@
       "feedUrl": "https://qiita.com/popular-items/feed",
       "siteUrl": "https://qiita.com/popular-items",
       "articles": [
+        {
+          "id": "https://qiita.com/satoyuyapyaa/items/9f047fb2babcd028b002?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "pythonで競技プログラミング（AtCoder）を始めて2年ほど経ち、やっと緑パフォーマンスが安定するようになってきた趣味プログラマーです。この記事では自分が過去にpythonで問題を解く上でハマ…",
+          "link": "https://qiita.com/satoyuyapyaa/items/9f047fb2babcd028b002?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2022-01-20T16:25:37.000Z",
+          "wordCount": 426,
+          "title": "pythonで競技プログラミング（AtCoder）の問題を解くとき、注意すべき落とし穴"
+        },
+        {
+          "id": "https://qiita.com/tak001/items/aa8dca694ca88e0978c7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "Jest + TypeScript でテストコードを書く際に、覚えておくととても便利だと感じたものを備忘録的に記事にいたします。\n\n1. Parameters\n\nhttps://www.typescri…",
+          "link": "https://qiita.com/tak001/items/aa8dca694ca88e0978c7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2022-01-20T14:38:17.000Z",
+          "wordCount": 566,
+          "title": "Jest + TypeScriptで覚えておきたいParametersとReturnType&小技集"
+        },
+        {
+          "id": "https://qiita.com/torifukukaiou/items/9b0155094ba6a388cfac?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "https://qiita.com/official-events/5cb794f7cb9ac194ed70\n\nThe first and best victory is to conquer sel…",
+          "link": "https://qiita.com/torifukukaiou/items/9b0155094ba6a388cfac?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2022-01-20T12:45:20.000Z",
+          "wordCount": 356,
+          "title": "Elixirの誕生日🎂 |> 5/24, 2012"
+        },
+        {
+          "id": "https://qiita.com/sakots/items/346b31eb809d0ed204d2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "結局ダメだった件\n\nまえこんなの書いたんですよ。\nReactでお絵かき掲示板（の表示部分）を作る話\nいろいろ考えてるうちに、「あれ、これダメじゃね？」ってなったのでそのいきさつを書きます。\n\nダメポイ…",
+          "link": "https://qiita.com/sakots/items/346b31eb809d0ed204d2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2022-01-20T02:53:09.000Z",
+          "wordCount": 155,
+          "title": "Reactでお絵描き掲示板を作るのを諦めた話"
+        },
+        {
+          "id": "https://qiita.com/500InternalServerError/items/20f646bc38725dea580b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nOracle Database API for MongoDBを利用することにより、MongoDBクライアント、ドライバーからAutonomous JSON Databaseにアクセスし…",
+          "link": "https://qiita.com/500InternalServerError/items/20f646bc38725dea580b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2022-01-20T02:26:16.000Z",
+          "wordCount": 1327,
+          "title": "[OCI]MongoDBクライアントからAutonomous JSON Databaseに接続してみた（MongoDB Shell編）"
+        },
+        {
+          "id": "https://qiita.com/quzq/items/8fb032242fcd50e393f3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "tl;dr\n\nsplit('') ではUTF-8の4バイト文字を分割できません。\nすべての文字を分割するには spred operetor 等を使用します。\n\nsplit('')を使用した場合\n\ncon…",
+          "link": "https://qiita.com/quzq/items/8fb032242fcd50e393f3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2022-01-20T02:24:31.000Z",
+          "wordCount": 244,
+          "title": "UTF-8文字列を1文字単位に分割"
+        },
+        {
+          "id": "https://qiita.com/gohandesuyo/items/3de462b846f5fe389e51?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "背景\n\nとあるWebシステム開発の案件で、パフォーマンスが機能要件を満たせていないということから、プログラムを大幅に作り直すことになりました。\n今後そういうことが起きないよう、パフォーマンスを意識し…",
+          "link": "https://qiita.com/gohandesuyo/items/3de462b846f5fe389e51?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2022-01-20T02:06:23.000Z",
+          "wordCount": 296,
+          "title": "パフォーマンスを意識したコーディングのガイドライン"
+        },
+        {
+          "id": "https://qiita.com/O_Y_G/items/8895962ecef411d0ebd9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "主に日本語の Unreal Engine 関連チャンネルをまとめてみる。追記修正します。\n\n企業・団体\n\n\nEpic公式\n\n\nUnreal Engine | 英語\nUnreal Engine JP | 日本語 ≫初心者向…",
+          "link": "https://qiita.com/O_Y_G/items/8895962ecef411d0ebd9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2022-01-19T23:08:30.000Z",
+          "wordCount": 914,
+          "title": "【いくつ知ってる？】Unreal Engine 日本語YouTubeチャンネル"
+        },
+        {
+          "id": "https://qiita.com/e99h2121/items/8e753ca9e3b14afbdad7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "自作のポエムです。説明用に書いています。が、なにがしか再利用性のある資料になっていれば嬉しいです。\n\n例えばこんな組織\n\n\nトップに大きな部の 包括的なマネージャー \n小隊を束ねる マネージャー（現場リーダ…",
+          "link": "https://qiita.com/e99h2121/items/8e753ca9e3b14afbdad7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2022-01-19T21:16:29.000Z",
+          "wordCount": 229,
+          "title": "ピラミッド型の組織（仮）にtimesや日常的な雑談が効果的な理由を考えた"
+        },
+        {
+          "id": "https://qiita.com/shiro1212/items/12f0a767494a7b2ab0b3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n現在のChrome拡張機能のマニフェストのバージョンはV2とV3がありますが、こちら  によると、\n - 2022/1/17 でmanifest v2で新規公開はできなくなる\n - 2022/…",
+          "link": "https://qiita.com/shiro1212/items/12f0a767494a7b2ab0b3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2022-01-19T16:20:21.000Z",
+          "wordCount": 348,
+          "title": "Chrome拡張機能 manifest.json Ver.3の書き方"
+        },
+        {
+          "id": "https://qiita.com/macneko/items/bb90084ac4ec4eb33393?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nSwiftUI で GeometryReader を ScrollView の入れ子にする構造にしたところ、高さのレイアウトがおかしくなったので、解決する方法を検討しました。\n\n環境\n\n\nma…",
+          "link": "https://qiita.com/macneko/items/bb90084ac4ec4eb33393?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2022-01-19T14:57:57.000Z",
+          "wordCount": 572,
+          "title": "SwiftUI で 親 View に ScrollView、子 View に GeometryReader の構造にしたら、高さのレイアウトがおかしくなった"
+        },
+        {
+          "id": "https://qiita.com/iguchan_4649/items/8d839fc9d28c28d8766c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "これまで数社（ベンチャー多め）の長期インターンの面談や面接をしてきたので、今後の就活のためにも得た経験や知識、課題をアウトプットします。\n\n面談、面接でよく聞かれたこと\n\nプログラミングを初めたきっかけ\n\nこれは面談の時点で結構聞かれた気がします。言い方によっては行動力があるという面でプラスになる事ができますが、「フリーランスになりたいから」とか「楽して稼ぎたいから」は良くないと思いますね。そもそもエンジニアは楽して稼げません…",
+          "link": "https://qiita.com/iguchan_4649/items/8d839fc9d28c28d8766c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2022-01-19T14:39:45.000Z",
+          "wordCount": 165,
+          "title": "(長期)インターンの面接、面談を通して"
+        },
         {
           "id": "https://qiita.com/tak001/items/bec3ab7c1bb4df52a7e7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
@@ -580,6 +670,15 @@
           "title": "何故teratailは叩かれるのか"
         },
         {
+          "id": "https://qiita.com/takukawa1990/items/9a2ddee6222b4f16df52?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "僕は某海外の激安オンライン学位を取って就職をした機械学習エンジニアだ。就職をしてからは、独学ではじパタ、カステラ本、PRML、赤本、Goodfellowの深層学習、sklearn+tensorflo…",
+          "link": "https://qiita.com/takukawa1990/items/9a2ddee6222b4f16df52?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2022-01-18T21:41:50.000Z",
+          "wordCount": 153,
+          "title": "物事を体系的に学ぶことで鬱病になった"
+        },
+        {
           "id": "https://qiita.com/todamasao1/items/6d0f638217d774754a64?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
           "description": "どうも Toda Masaoです。\n\n独立系Sier企業で5年6ヶ月エンジニアをさせて頂いていた僕(当時27歳)ですが、\n2020年12月にWebエンジニアに転職し、1年が経過しました。\n\n個人的に試行…",
@@ -632,141 +731,6 @@
           "publishedOn": "2022-01-18T12:49:29.000Z",
           "wordCount": 441,
           "title": "AWSサービスのローカル環境を構築 (LocalStack)"
-        },
-        {
-          "id": "https://qiita.com/nigiri/items/c9cc2efee76a81fc2a0e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "はじめに\n\nAddressable Asset System(以下Addressable)がリリースされてしばらく経ち、普通にAddressableを利用する事例はそこそこ見るようになりました。\n今…",
-          "link": "https://qiita.com/nigiri/items/c9cc2efee76a81fc2a0e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2022-01-18T11:37:15.000Z",
-          "wordCount": 816,
-          "title": "AddressableでAssetBundleを暗号化して扱う"
-        },
-        {
-          "id": "https://qiita.com/kazunarigit/items/1a28bfd5101b6ccabc46?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "気づくのが遅かった勉強法\n\n去年からPaizaやProgate、ドットインストールでプログラミング（Python）を勉強し始めて、ただ何も考えずに進めていった。\n\nその結果どうなったか\n\n知識は詰め込め…",
-          "link": "https://qiita.com/kazunarigit/items/1a28bfd5101b6ccabc46?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2022-01-18T10:43:56.000Z",
-          "wordCount": 151,
-          "title": "早くやってれば良かったと言う話"
-        },
-        {
-          "id": "https://qiita.com/sano192/items/a27a481395ce8827bbf6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "本記事について\n\n「あれ」とはこれである。\n\nhttps://news.yahoo.co.jp/articles/07d7170880e70142c3664b9e73b71cad03ff9e2e\n\n「G…",
-          "link": "https://qiita.com/sano192/items/a27a481395ce8827bbf6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2022-01-18T10:27:37.000Z",
-          "wordCount": 373,
-          "title": "【python初心者向け】駿台予備校広告の「あれ」をプログラミングの暴力で台無しにする"
-        },
-        {
-          "id": "https://qiita.com/shimajiri/items/1f3f2a0994423d689485?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "はじめに\n\n私自身、業務で3年ほどAWS Lambdaを触っていますが、\nまだまだ知らないことも数多くあり、自身の復習も兼ねて、\n少し用語が多く難しいかもしれませんが、初心者にもなるべく分かりやすく…",
-          "link": "https://qiita.com/shimajiri/items/1f3f2a0994423d689485?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2022-01-18T08:49:53.000Z",
-          "wordCount": 243,
-          "title": "さっくり解説するAWS Lambda"
-        },
-        {
-          "id": "https://qiita.com/nem_takanobu/items/f53c6553f98deebc5174?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "今日はログ出力すると同時に同じ内容をSymbolブロックチェーンに記録する方法を紹介します。\n\nconst log4js = require('log4js');\nconst sym  = requir…",
-          "link": "https://qiita.com/nem_takanobu/items/f53c6553f98deebc5174?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2022-01-18T08:35:11.000Z",
-          "wordCount": 379,
-          "title": "Log4jsでログ出力すると同時にSymbolブロックチェーンに記録する。"
-        },
-        {
-          "id": "https://qiita.com/maskot1977/items/7526f6eb6edf5b92d9d9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "相関係数が0.63の散布図が話題になっているようなので、相関係数が0.63の散布図を作成するPythonスクリプトを作ってみました。\n\n以下のコードは Google Colaboratory 上での動…",
-          "link": "https://qiita.com/maskot1977/items/7526f6eb6edf5b92d9d9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2022-01-18T08:08:48.000Z",
-          "wordCount": 10618,
-          "title": "相関係数が0.63の散布図を作成する"
-        },
-        {
-          "id": "https://qiita.com/handy-dd18/items/317c8f3cde0ce79cf74d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "はじめに\n\n昨年のre:Invent2021でECRの拡張スキャンが発表されましたが、実際に使用しているとInspectorダッシュボードから脆弱性結果が確認できないことがあったので、その解消方法に…",
-          "link": "https://qiita.com/handy-dd18/items/317c8f3cde0ce79cf74d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2022-01-18T04:33:25.000Z",
-          "wordCount": 313,
-          "title": "アクセス制御されているECRのスキャン結果をInspectorダッシュボードから参照する"
-        },
-        {
-          "id": "https://qiita.com/takeuchi_tsuyoshi/items/5c5f5a35845db1551b41?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "こんにちは、新人フロントエンジニアとして働いている者です。\nSassで自作の@mixinや@functionを作ったことがなく、そろそろ勉強しないとやばいなと思ったので、ここでアウトプットします。\n\n@mixinって何だ…",
-          "link": "https://qiita.com/takeuchi_tsuyoshi/items/5c5f5a35845db1551b41?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2022-01-18T02:56:04.000Z",
-          "wordCount": 390,
-          "title": "Sassの@mixinと@functionの基本を押さえたい"
-        },
-        {
-          "id": "https://qiita.com/Nakatomo/items/3fedc18ff1e99cc0be96?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "プレイヤーなどの状態を自動遷移\n\nこの記事について\n\nプレイヤーの状態(ステート)を自動遷移したくて作りました。プレイヤーに関しては現状この案以上のものは思いついてないです。\n\nこんな感じのUnityの…",
-          "link": "https://qiita.com/Nakatomo/items/3fedc18ff1e99cc0be96?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2022-01-18T01:04:57.000Z",
-          "wordCount": 739,
-          "title": "プレイヤーの状態などを自動遷移(自動遷移ステートマシン)"
-        },
-        {
-          "id": "https://qiita.com/c60evaporator/items/46b915137d2dbfd24aec?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "はじめに\n\n2022/1/15、南太平洋のトンガ王国で大規模火山噴火が発生しました。\n\n以下の記事で、東京でIoTセンサにより噴火の衝撃波を観測した例が紹介されていましたが、\n※東京ではなくシンガポー…",
-          "link": "https://qiita.com/c60evaporator/items/46b915137d2dbfd24aec?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2022-01-17T23:37:49.000Z",
-          "wordCount": 210,
-          "title": "トンガでの火山噴火による衝撃波の検出に成功? in 大阪"
-        },
-        {
-          "id": "https://qiita.com/tatyam/items/492c70ac4c955c055602?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "Pythonista の皆様、こんにちは。競技プログラミングをしている tatyam と申します。\n\nPython で競技プログラミングをしていると、std::set が欲しいな〜ってとき、ありますよ…",
-          "link": "https://qiita.com/tatyam/items/492c70ac4c955c055602?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2022-01-17T18:34:21.000Z",
-          "wordCount": 606,
-          "title": "Python で std::set の代替物を作った"
-        },
-        {
-          "id": "https://qiita.com/Pricam/items/471277f474d2a64bcbbf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "はじめに\n\n毎日のように新たなITサービスがリリースされ、\n日常が徐々に変化していく昨今ですが、\nそれは多くのエンジニアによって支えられています。\n\n世界的に政府や企業がIT化促進を図っていますが、\n…",
-          "link": "https://qiita.com/Pricam/items/471277f474d2a64bcbbf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2022-01-17T16:00:48.000Z",
-          "wordCount": 201,
-          "title": "SE転職したい駆け出しエンジニアが絶対知っておくべき昨今のIT業界事情"
-        },
-        {
-          "id": "https://qiita.com/ACDCKAZU/items/d4c6f2002071aa3478ff?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "１．はじめに（狙い）\n日々の仕事をしていると毎日がルーチン化して飽きてしまう。\nそこで何か毎日変化があるということで、変わった生き物（サンショウウオ）の\n画像がLINEで返ってきて癒される、そんなB…",
-          "link": "https://qiita.com/ACDCKAZU/items/d4c6f2002071aa3478ff?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2022-01-17T14:53:07.000Z",
-          "wordCount": 178,
-          "title": "日々の疲れにサンショウウオの画像を返して癒しのLINE BOTを作りたかった、、"
-        },
-        {
-          "id": "https://qiita.com/kuu-55/items/150cfa285749c535df89?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "概要\n\ncomposer require linecorp/line-bot-sdkのエラー解決。いくつかネット記事を回ったものの、同じ解決法をとっている人がいなかったので。\n\n環境は以下です。\nCl…",
-          "link": "https://qiita.com/kuu-55/items/150cfa285749c535df89?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2022-01-17T13:34:02.000Z",
-          "wordCount": 317,
-          "title": "composer require linecorp/line-bot-sdk導入時のエラー解決"
-        },
-        {
-          "id": "https://qiita.com/natsumi_644/items/09f9bf73180c97fff937?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "問い合わせ先がわからない！！\n\nとある企業で社内のデジタル化を推進する部署に所属をしているかきもとと申します\n日々の業務に取り組む中で『これってどこの部署に聞いたらいいのか？』と問い合わせ先を探すこ…",
-          "link": "https://qiita.com/natsumi_644/items/09f9bf73180c97fff937?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2022-01-17T12:59:09.000Z",
-          "wordCount": 174,
-          "title": "LINEBotで社内の問い合わせに対応！‥したかった"
         }
       ]
     },
@@ -775,6 +739,231 @@
       "feedUrl": "https://japanese.engadget.com/rss.xml",
       "siteUrl": "http://japanese.engadget.com/",
       "articles": [
+        {
+          "id": "2e2bacfa-0fed-4c55-9dc2-d3ccff5b7f67",
+          "author": "小口貴宏(Takahiro Koguchi)",
+          "description": "マイナポイント第2弾が6月に本格始動します。岸田文雄首相が1月20日の参院本会議で明らかにしました。",
+          "link": "https://japanese.engadget.com/mynumber-224002216.html",
+          "publishedOn": "2022-01-20T22:40:02.000Z",
+          "wordCount": 192,
+          "title": "マイナポイント第2弾、6月本格始動　保険証登録などで1万5000円"
+        },
+        {
+          "id": "623d65cf-bfa5-44fb-94c5-757526be6555",
+          "author": "佐野正弘（Masahiro Sano）",
+          "description": "総務省は2022年1月20日、「競争ルールの検証に関するWG」の第25回会合を実施しました。この会合はいわゆる「2年縛り」やSIMロックなどの乗り換え障壁をなくし、事業者間の公正競争を促進するために実施されているものです。",
+          "link": "https://japanese.engadget.com/repair-223051404.html",
+          "publishedOn": "2022-01-20T22:30:51.000Z",
+          "wordCount": 183,
+          "title": "総務省が関心を持ち始めた「修理できる権利」、法制化に向け議論は進むか（佐野正弘）"
+        },
+        {
+          "id": "1048d87d-0deb-4788-b6ed-637749b0fb67",
+          "author": "GREEN FUNDING with Engadget Staff",
+          "description": "▍海・山・川などの自然をこよなく愛す、アウトドア好きのみなさまへ 「Irontide（アイロンタイド）」は、最高等級IPX-8の防水ポケット付きアドベンチャーパンツ。ポケットに財布や携帯を入れて身軽に動きたいアクティブなあなたにぴったり！ ▍＼ Irontide 一枚あればOKな理由 ／ ■ 最高等級IPX-8の防水ポケット ■ 便利な5つのポケット収納 ■ 耐久性◎ 抗菌加工◎ 速乾性◎ ▍最高等級IPX-8の防水ポケット 最高等級IPX-8の防水ポケットを付属。 ※0から8までの9段階ある防水等級(IPX)のうち最高等級。 海、川、山での水遊びの際、置き場に困る時計、携帯、財布、鍵などを濡らさず安全に持ち歩く事ができます。 防水ポケットの口には、強力なネオジウム磁石(※1)を採用し、水の侵入を極力抑えることに成功しました。 (※1)ページ下部の商品特記事項をご確認下さい。 ▍便利な5つのポケット収納 バックジップポケット ジッパー付きで激しい動きをしてもポケットの中身が落ちない仕様。 ディープレフトポケット 底が深く、立ったり座ったりしても安心。 カーゴジップポケット 大きなアイテ",
+          "link": "https://japanese.engadget.com/irontide-adventure-pants-222057957.html",
+          "publishedOn": "2022-01-20T22:20:57.000Z",
+          "wordCount": 312,
+          "title": "海・山・川で大活躍。アウトドア好きのために作られた防水ポケット付アドベンチャーパンツ「Irontide」"
+        },
+        {
+          "id": "c277a03c-6a90-43df-a904-f09140b94a23",
+          "author": "今日は何の日？",
+          "description": "写真が無制限に保存できるクラウドストレージが、「プライム・フォト」。\n\nこのサービスの提供が始まったのが、2016年の今日です。",
+          "link": "https://japanese.engadget.com/today-203021289.html",
+          "publishedOn": "2022-01-20T20:30:21.000Z",
+          "wordCount": 190,
+          "title": "2016年1月21日、容量無制限の写真用クラウドストレージ「プライム・フォト」の提供が開始されました：今日は何の日？"
+        },
+        {
+          "id": "489004f9-2150-4107-bec1-318f18f69b78",
+          "author": "Ittousai",
+          "description": "発売まで一か月を切ったPS5 / PS4『Horizon Forbidden West』が新たなストーリートレーラーを公開しました。\n\n主人公アーロイが「禁じられた西部」で直面する脅威を描き、前作からのキャラクターも登場します。",
+          "link": "https://japanese.engadget.com/horizon-forbidden-west-story-trailer-133307404.html",
+          "publishedOn": "2022-01-20T13:33:07.000Z",
+          "wordCount": 246,
+          "title": "Horizon Forbidden Westストーリー予告編公開 『ひとりで行く気か？』"
+        },
+        {
+          "id": "b16a2d78-f5cf-4928-adae-9073b91eb84c",
+          "author": "Munenori Taniguchi",
+          "description": "各国宇宙機関はいま、月への有人飛行や火星への入植を目指して技術開発を進めていますが、最もクリアするのが難しい問題は、飛行士の身体そのものに関する問題かもしれません……",
+          "link": "https://japanese.engadget.com/anemia-may-be-a-challenge-for-astronauts-study-shows-120036119.html",
+          "publishedOn": "2022-01-20T12:00:36.000Z",
+          "wordCount": 139,
+          "title": "飛行士の「宇宙貧血」が将来の火星旅行を困難にする可能性。最新の研究で判明"
+        },
+        {
+          "id": "834f286a-fb82-40e9-81b8-3fab1ec05574",
+          "author": "Kiyoshi Tane",
+          "description": "サムスンは折りたたみスマートフォンに執着しているせいでAR・VR製品の市場投入ラッシュから大幅に遅れを取っているとの観測が報じられています……",
+          "link": "https://japanese.engadget.com/samsung-falling-behind-appe-arvr-space-113025758.html",
+          "publishedOn": "2022-01-20T11:30:25.000Z",
+          "wordCount": 212,
+          "title": "サムスンがメタバース市場で大きく出遅れ？ 折りたたみスマホへの「執着」のためとの指摘"
+        },
+        {
+          "id": "bc37da18-3b55-4385-8e3a-7326d5429165",
+          "author": "小口貴宏(Takahiro Koguchi)",
+          "description": "YouTube Premiumが年間プランの提供を開始しました。1月23日まではプロモーション価格となっており、年間1万620円で利用できます。",
+          "link": "https://japanese.engadget.com/youtube-premium-104127959.html",
+          "publishedOn": "2022-01-20T10:41:27.000Z",
+          "wordCount": 191,
+          "title": "YouTube Premiumが年間プラン提供開始、月契約より3540円安い（1月23日まで）"
+        },
+        {
+          "id": "0e5445a1-f809-4589-ab78-bc0c450eb6d6",
+          "author": "GREEN FUNDING with Engadget Staff",
+          "description": "▍更に進化！Visual Dock2 Visual Dock2（ビジュアルドック ツー）とは、動作状況や温度をリアルタイムに表示できる、液晶ディスプレイ付き（8-in-1）USB-Cハブ。 ケーブルは取外し可能 前作から、新機能が多数追加され、サイズもポート数もグレードアップして登場。 ▍Visual Dock2の充実した機能 ▍接続したデバイスの情報を可視化 接続したデバイスの動作状況や温度をリアルタイムに表示できます。 【全ポートのステータス】 ・挿入されているかどうか ・デバイスの種類 ・メインチップの温度 ・ポートやデバイスが正常に動作しているか診断 ・4K@60Hz HDMI：モニターのブランド、サイズ、現在の最大解像度、製造日、温度など表示 ・PD：電圧、電流、温度を表示 ▍【D-Keyボタン】で表示切替可能 D-Keyとは、ワンタッチで表示画面を切り替えられるボタンです。 また、PCのUSB-Cポートの配置箇所に合わせてVisual Dock2の画面の向きが変えられます。 ▍モニターの画質モードを自動で切替 【エクストリームモード】 古いPC（4K/30Hz出力にしか対応",
+          "link": "https://japanese.engadget.com/visual-dock-2-103522006.html",
+          "publishedOn": "2022-01-20T10:35:22.000Z",
+          "wordCount": 312,
+          "title": "接続したデバイスの情報をリアルタイム表示。液晶ディスプレイ付USB-Cハブ「Visual Dock2」"
+        },
+        {
+          "id": "074f58c1-c43c-46ec-a380-c543a7875ae6",
+          "author": "山本竜也(Tatsuya Yamamoto)",
+          "description": "Googleが、ビジネス向けサービスであるG Suiteの無償版を、7月1日に提供終了すると発表しました……",
+          "link": "https://japanese.engadget.com/google-free-g-suite-103011124.html",
+          "publishedOn": "2022-01-20T10:30:11.000Z",
+          "wordCount": 203,
+          "title": "無償版G Suiteは7月1日に提供終了とGoogleが告知。利用者は移行準備を"
+        },
+        {
+          "id": "63d24023-b298-44af-acec-d4b9d6c14db9",
+          "author": "塚本直樹(Naoki Tsukamoto)",
+          "description": "韓国サムスンは新型モバイル向けプロセッサ「Exynos 2200」を発表しました。米AMDと共同開発したGPUの搭載や、ハードウェアレイトレーシング処理に対応するなど、見どころの多いプロダクトです。",
+          "link": "https://japanese.engadget.com/samsung-exynos-2200-100001969.html",
+          "publishedOn": "2022-01-20T10:00:01.000Z",
+          "wordCount": 220,
+          "title": "噂のAMD GPU搭載SoC、Exynos 2200をサムスンが海外発表。RDNA2世代でレイトレーシング対応"
+        },
+        {
+          "id": "6dc78488-5f7c-45cd-b7ad-a46047906e56",
+          "author": "Munenori Taniguchi",
+          "description": "火山が大噴火を起こしたトンガの海底インターネットケーブルは修復に2週間程度かかる見込みです……",
+          "link": "https://japanese.engadget.com/tongas-internet-will-be-cut-off-for-weeks-after-eruption-090036083.html",
+          "publishedOn": "2022-01-20T09:00:36.000Z",
+          "wordCount": 139,
+          "title": "火山噴火のトンガ、海底インターネットケーブル復旧に2週間ほどかかる見込み"
+        },
+        {
+          "id": "c3015544-0610-46aa-8fdd-e772f6cbf0ea",
+          "author": "加藤肇(Hajime Kato)",
+          "description": "スマホやイヤホン、モバイルバッテリー、各種ケーブルやアダプターなど、常に持ち歩くガジェットが知らないうちに増えてしまう……という人は多いのではないでしょうか。そんなガジェット群を安全かつスマートに持ち運ぶには、アウトドアブランドのポーチがおすすめ。タフで機能的、デザインもシンプルな製品が多く、きっとお気に入りのものが見つかるはずです。",
+          "link": "https://japanese.engadget.com/gadget-pouch-085511333.html",
+          "publishedOn": "2022-01-20T08:55:11.000Z",
+          "wordCount": 332,
+          "title": "タフかつ機能性バツグン！ ガジェット収納に使いたいアウトドアブランドのポーチ10選"
+        },
+        {
+          "id": "f5b17a91-c5a5-487a-8d1b-6c4716eabcc9",
+          "author": "Ittousai",
+          "description": "ポケモンGOが大型イベント『ポケモンGOツアー：ジョウト地方』の新情報を公表しました。\n\nチケット購入者限定のスペシャルリサーチでは、原作にちなんだ赤い色違いギャラドスや「マジカルリーフ」を習得したセレビィが確定で入手できること、原作と同じチコリータ・ワニノコ・ヒノアラシから1匹を選んで進める要素が新たに公開されています。",
+          "link": "https://japanese.engadget.com/pokemon-go-johto-tour-update-085300195.html",
+          "publishedOn": "2022-01-20T08:53:00.000Z",
+          "wordCount": 238,
+          "title": "ポケモンGOツアー：ジョウト地方、 あかいギャラドスがリサーチで確定。セレビィは「マジカルリーフ」習得"
+        },
+        {
+          "id": "03fa8222-dda6-4402-a765-08e32b5c66f8",
+          "author": "つくね伯爵",
+          "description": "GREEN FUNDINGにて「BG Metro Sling」のプロジェクトを実施中です。35％OFFの8125円などの早割を展開しており、プロジェクト期間は2月28日までです。",
+          "link": "https://japanese.engadget.com/bg-metro-sling-083033491.html",
+          "publishedOn": "2022-01-20T08:30:33.000Z",
+          "wordCount": 143,
+          "title": "SwitchやiPad mini、小型ミラーレスが入っちゃうミニマルバック「BG Metro Sling」"
+        },
+        {
+          "id": "499eee1f-cbd6-48c3-a269-47b6a20d65d1",
+          "author": "Kiyoshi Tane",
+          "description": "アップルが「iOS 14ユーザーはiOS 15にアップデートしない選択肢もある」と約束したことをを撤回した件につき、その方針は「常に一時的なものであると意識していた」と回答しています。",
+          "link": "https://japanese.engadget.com/apple-confirms-rampup-ios14-update-ios15-073004082.html",
+          "publishedOn": "2022-01-20T07:30:04.000Z",
+          "wordCount": 256,
+          "title": "アップル、iOS 14セキュリティアップデートの打ち切りを認める。iOS 15への移行を加速か"
+        },
+        {
+          "id": "d492b3e5-8302-4326-84b5-e76b06d9516a",
+          "author": "小口貴宏(Takahiro Koguchi)",
+          "description": "ベルキンは、USB-Cポート2つとUSB-Aポート2つの、計4口を備えた充電器「Belkin BOOST↑CHARGE PRO 4 ポート GaN 充電器 108W」を、Amazonにて本日（1月20日）発売しました。",
+          "link": "https://japanese.engadget.com/belkin-072049505.html",
+          "publishedOn": "2022-01-20T07:20:49.000Z",
+          "wordCount": 204,
+          "title": "belkin、デバイス4台を同時充電できる108W充電器を発売"
+        },
+        {
+          "id": "b31c7887-b35f-4d38-ae94-2e25f779f928",
+          "author": "Engadgetオトク情報局",
+          "description": "AmazonのKindleストアにて、講談社が「講談社 冬電書2022」の特設ページを開設中。対象作品をおトクに購入できる「講談社現代新書『はじめの一冊』フェア」が開催されています。",
+          "link": "https://japanese.engadget.com/sale-kindle-kodansha-065017749.html",
+          "publishedOn": "2022-01-20T06:50:17.000Z",
+          "wordCount": 214,
+          "title": "講談社現代新書「はじめの一冊」フェア開催中。ワンテーマを深掘りするKindle本をおトクに購入しよう"
+        },
+        {
+          "id": "307a0a7c-ff1d-4d5a-bd3e-29bc698bb0f7",
+          "author": "山本竜也(Tatsuya Yamamoto)",
+          "description": "モトローラ・モビリティ・ジャパンが、ミドルレンジの普及帯シリーズmoto gファミリー最新モデル「moto g31」を1月28日に発売します。",
+          "link": "https://japanese.engadget.com/moto-g31-64-oled-064307097.html",
+          "publishedOn": "2022-01-20T06:43:07.000Z",
+          "wordCount": 209,
+          "title": "6.4型有機EL画面で2万5800円。moto g31、1月28日発売"
+        },
+        {
+          "id": "8ff8db8d-fa1b-4f1b-8aca-ab570cd4a580",
+          "author": "Engadgetオトク情報局",
+          "description": "Amazonの「Audible（オーディブル）」は、声優や俳優などプロのナレーターが朗読した本（オーディオブック）をスマホやPCなどのアプリで楽しめる“聴く”読書サービス。1月27日からは、会員プランの内容を変更。12万タイトル以上の作品を聴き放題となります。",
+          "link": "https://japanese.engadget.com/amazon-audible-062026929.html",
+          "publishedOn": "2022-01-20T06:20:26.000Z",
+          "wordCount": 193,
+          "title": "12万以上の作品が聴き放題！ Amazonの聴く読書サービス Audible の会員プランが変更。1月27日から"
+        },
+        {
+          "id": "1a779c7c-f583-49ad-86c3-e48059a2bb0b",
+          "author": "つくね伯爵",
+          "description": "アトモフは「Atmoph Window 2 | DEATH STRANDING」1月24日 (月)から特別デザインパッケージで発送を開始します。価格は5万6980円です。",
+          "link": "https://japanese.engadget.com/atmoph-window-2-060010776.html",
+          "publishedOn": "2022-01-20T06:00:10.000Z",
+          "wordCount": 251,
+          "title": "スマート窓Atmoph Window 2にDEATH STRANDINGコラボ版。サムが持ってそうな外箱で1月24日よりお届け"
+        },
+        {
+          "id": "3fd163bf-21af-47a6-9cc9-e878e717ef0d",
+          "author": "Kiyoshi Tane",
+          "description": "任天堂旧本社社屋を改装したホテルが2022年4月に開業し、正式名が「丸福樓（まるふくろう）」になることが発表されました。",
+          "link": "https://japanese.engadget.com/nintendo-old-building-marufukurou-hotel-052552767.html",
+          "publishedOn": "2022-01-20T05:25:52.000Z",
+          "wordCount": 192,
+          "title": "任天堂旧本社屋を改装したホテル「丸福樓」4月オープン。1泊10万円から"
+        },
+        {
+          "id": "d6d82bed-9309-4949-befd-0540ec907f57",
+          "author": "Kiyoshi Tane",
+          "description": "マイクロソフトのアクティビジョン・ブリザード買収計画につき、Xbox責任者のフィル・スペンサーが2021年後半から「急に決まった」ことを明かしています。",
+          "link": "https://japanese.engadget.com/spencer-sayc-actiblizz-deal-happned-quickly-043002652.html",
+          "publishedOn": "2022-01-20T04:30:02.000Z",
+          "wordCount": 198,
+          "title": "MSのアクティビジョン・ブリザード買収、「急に決まった」と明らかに。セクハラ問題での株価急落が追い風か"
+        },
+        {
+          "id": "646973ed-9a63-4593-932e-671a5ee7c17d",
+          "author": "小口貴宏(Takahiro Koguchi)",
+          "description": "三井住友カードは、Visaのタッチ決済をApple Payとして利用したユーザーに、最大1000円分のVポイントを付与するキャンペーンを本日（1月20日）より開始しました。",
+          "link": "https://japanese.engadget.com/mitsui-035045037.html",
+          "publishedOn": "2022-01-20T03:50:45.000Z",
+          "wordCount": 301,
+          "title": "三井住友カード、「Visaのタッチ決済」のApple Pay利用で最大1000円付与"
+        },
+        {
+          "id": "041d7e2e-64c0-4df8-b966-4dc4666e3989",
+          "author": "山本竜也(Tatsuya Yamamoto)",
+          "description": "Googleが、Windows上でAndroidのゲームをプレイできるGoogle Playゲームをベータ版としてリリースしました……",
+          "link": "https://japanese.engadget.com/windows-google-play-games-beta-031025147.html",
+          "publishedOn": "2022-01-20T03:10:25.000Z",
+          "wordCount": 226,
+          "title": "Windows上で動くGoogle Playゲームのベータ版、香港・台湾・韓国で利用可能に"
+        },
         {
           "id": "cefaf6f1-5f18-4437-9463-3111a8266a7f",
           "author": "Munenori Taniguchi",
@@ -1044,213 +1233,6 @@
           "publishedOn": "2022-01-18T15:15:07.000Z",
           "wordCount": 221,
           "title": "マイクロソフト、約7.8兆円でアクティビジョン・ブリザード買収へ。CoDやディアブロ、オーバーウォッチ等を獲得"
-        },
-        {
-          "id": "4e7a09f5-fd43-4cb8-841d-9d12208ffc42",
-          "author": "GREEN FUNDING with Engadget Staff",
-          "description": "とはいえ、財布選びにこんなお悩みはありませんか？ Specter Bifold Walletは低価格なのに 高級ブランドのような【上質な素材・洗練されたデザイン・丁寧な縫製】が叶う夢の財布！ ハイブランドの製作に携わるFAIRE社の職人がこだわりの素材を使い 長年の技術の粋を集めて自社で作り上げました。 「ラグジュアリーをフェア（FAIRE）な価格で届ける」というポリシーを社名にしたFAIRE社。 目の肥えた駐在員も足繁く通うシンガポールの高級百貨店を中心に、 世界で5店舗、30年以上愛され続けるレザーメーカーです。 Faire Leather社は、海外クラウドファンディングサイトにて 日本円にして約3,380万円の支援を獲得した人気メーカー。 ３拍子そろった製品を、ぜひ堪能してください。 １.スリムでコンパクト コンパクトな大きさ（9 x 10.5 x 2cm） 軽量（70g） 「スーツのポケットに似合う」ことを意識したビジネスパーソンのための財布です。 ２.かさばらず、取り出しやすいアイデア満載 ・小銭部分はかさばらないスロット式 ほぼ「キャッシュレス」といっても、多少の小銭は持っ",
-          "link": "https://japanese.engadget.com/specter-bifold-wallet-105028460.html",
-          "publishedOn": "2022-01-18T10:50:28.000Z",
-          "wordCount": 257,
-          "title": "高級ブランドの製作に携わる職人が作る【高品質x多機能ウォレット】"
-        },
-        {
-          "id": "83fbf7c1-9807-43a5-8b91-387609dab145",
-          "author": "つくね伯爵",
-          "description": "コナミデジタルエンタテインメントは、隠しコマンドとしておなじみの「↑↑↓↓←→←→BA」が2021年4月に35周年を迎えたことを記念して、期間限定コラボカフェをオープン予定です。期間は2022年1月21日（金）～ 1月30日（日）までで、開催場所は東京・秋葉原「創作空間caféアトリエ × プレイフルマインドカフェ」です。",
-          "link": "https://japanese.engadget.com/konami-game-103045745.html",
-          "publishedOn": "2022-01-18T10:30:45.000Z",
-          "wordCount": 193,
-          "title": "35周年記念! 隠しコマンド「↑↑↓↓←→←→BA」のコラボカフェが秋葉原にオープン"
-        },
-        {
-          "id": "2a4b76b5-8bb9-49e5-8de7-6896e7a1f4c1",
-          "author": "Engadgetオトク情報局",
-          "description": "Amazonにて、三脚や防湿庫、カメラバッグ、レンズフィルターなど、HAKUBAのカメラアクセサリ―がお買い得価格になっています。",
-          "link": "https://japanese.engadget.com/sale-hakuba-092010469.html",
-          "publishedOn": "2022-01-18T09:20:10.000Z",
-          "wordCount": 212,
-          "title": "HAKUBAのカメラアクセサリ―がセール中。三脚や防湿庫、カメラバッグ、レンズフィルターなど"
-        },
-        {
-          "id": "dc136f66-e63e-4628-8413-eee0f0b97dd0",
-          "author": "Ittousai",
-          "description": "Logitech / Logicool のゲーミングブランド ロジクールGが、シンプルでカラフルなゲーミングイヤホンG333を発表しました。",
-          "link": "https://japanese.engadget.com/logicool-g-g333-gaming-earphones-091334854.html",
-          "publishedOn": "2022-01-18T09:13:34.000Z",
-          "wordCount": 210,
-          "title": "ロジクールG、デュアルドライバ仕様のゲーミング イヤホンG333発表 PC/PS/Switch/Xbox対応"
-        },
-        {
-          "id": "b5bd8103-fc33-4834-beed-d99eb75a2421",
-          "author": "塚本直樹(Naoki Tsukamoto)",
-          "description": "マイクブランドの豪Rodeは、トランスミッターを1個に減らし価格を下げたワイヤレスマイクロフォン「Rode Wireless GO II Single」を海外発表しました。",
-          "link": "https://japanese.engadget.com/wireless-go-ii-single-090004104.html",
-          "publishedOn": "2022-01-18T09:00:04.000Z",
-          "wordCount": 211,
-          "title": "Rode Wireless GO II Singleが海外発表。トランスミッター1個でお求めやすく"
-        },
-        {
-          "id": "c436f15f-145c-4d45-a67a-3a022697aad6",
-          "author": "塚本直樹(Naoki Tsukamoto)",
-          "description": "中国OPPOの次期フラッグシップスマートフォン「Find X5 Pro（仮称）」の本体らしき画像が、中国語フォーラムのCoolAPKに投稿されています。どうやら同端末には、カメラブランドのハッセルブランドと共同開発したカメラが搭載されるようです。",
-          "link": "https://japanese.engadget.com/oppo-find-x-5-pro-083016468.html",
-          "publishedOn": "2022-01-18T08:30:16.000Z",
-          "wordCount": 205,
-          "title": "OPPOスマホにもハッセルブラッドカメラ搭載の噂。Find X5 Pro（仮）の画像がリーク"
-        },
-        {
-          "id": "58f0e797-1de2-43fb-a263-b8a81d1dfb1c",
-          "author": "Munenori Taniguchi",
-          "description": "スペインは、SNSインフルエンサーによる暗号通貨の宣伝のしかたについて、新しい規則を設定すると発表しました",
-          "link": "https://japanese.engadget.com/spain-sets-new-rules-for-influencer-cryptocurrency-promotion-080056664.html",
-          "publishedOn": "2022-01-18T08:00:56.000Z",
-          "wordCount": 181,
-          "title": "スペイン、SNSとインフルエンサー使った暗号通貨広告に新しい規制を導入。リスク警告を明確化"
-        },
-        {
-          "id": "66368020-a187-4c35-974e-df6800f3fdfd",
-          "author": "加藤肇(Hajime Kato)",
-          "description": "ここ数年、自分や家族の“健康”を意識せざるをえない状況が続いています。健康管理には「体重や血圧といった身体の状態」と「運動や睡眠などの量や質」を継続してチェックすることが重要。スマホと連携することで健康管理を手軽にしてくれるガジェットをご紹介します。",
-          "link": "https://japanese.engadget.com/health-care-gadgets-075513624.html",
-          "publishedOn": "2022-01-18T07:55:13.000Z",
-          "wordCount": 296,
-          "title": "スマホ連携する健康管理ガジェット10選。体重、運動、睡眠などのデータをアプリで手軽に管理しよう"
-        },
-        {
-          "id": "259fb752-35ed-449a-8ae2-7e39e7f43c09",
-          "author": "山本竜也(Tatsuya Yamamoto)",
-          "description": "米ウォルマートが12月下旬、米国特許商標庁（USPTO）に電子機器や室内装飾、おもちゃ、スポーツ用品などの仮想商品の提供に向けて、いくつかの商標を出願しました。",
-          "link": "https://japanese.engadget.com/walmart-cryptocurrency-nft-plans-073050638.html",
-          "publishedOn": "2022-01-18T07:30:50.000Z",
-          "wordCount": 188,
-          "title": "米ウォルマート、暗号通貨とNFTに参入に向け関連商標を出願"
-        },
-        {
-          "id": "392f76e4-9d2a-469d-baa5-83a86c3bd0da",
-          "author": "塚本直樹(Naoki Tsukamoto)",
-          "description": "韓国サムスンの次期フラッグシップスマートフォン「Galaxy S22+（仮称）」のものとされる画像やスペック情報が、海外テックサイトのMySmartPriceや91Mobilesによって相次いて報告されています。",
-          "link": "https://japanese.engadget.com/galaxy-s-22-070047289.html",
-          "publishedOn": "2022-01-18T07:00:47.000Z",
-          "wordCount": 219,
-          "title": "Galaxy S22+（仮）のカラバリ判明？画面はS21より明るくなる可能性も"
-        },
-        {
-          "id": "da4010fb-653c-4f9d-9f3d-bcbb4847fb69",
-          "author": "つくね伯爵",
-          "description": "エレコム1月19日からクラウドファンディングサイトMakuakeにてIHホットプレート「HOT DISH（ホットディッシュ）」の先行販売を開始します。一般販売予定価格は2万1780円です。",
-          "link": "https://japanese.engadget.com/hot-dish-063026094.html",
-          "publishedOn": "2022-01-18T06:30:26.000Z",
-          "wordCount": 189,
-          "title": "エレコム初挑戦の家電「HOT DISH」発表。お皿のようなお一人様向けホットプレート"
-        },
-        {
-          "id": "e545efbd-b693-4e06-933d-9e99e6fb6b7a",
-          "author": "小口貴宏(Takahiro Koguchi)",
-          "description": "スマホ決済のPayPayは、2月1日から2月28日まで実施する「超PayPay祭　PayPayお買い得市」の対象店舗を案内しています。",
-          "link": "https://japanese.engadget.com/paypay-062004612.html",
-          "publishedOn": "2022-01-18T06:20:04.000Z",
-          "wordCount": 198,
-          "title": "超PayPay祭、「スーパーやドラッグストアで30%還元」の対象店舗を案内　2月1日から"
-        },
-        {
-          "id": "76c4c63d-61d3-49fa-a5b1-a1cea0d291d3",
-          "author": "Kiyoshi Tane",
-          "description": "韓国のLGディスプレイがiPad用の有機ELパネルをまもなく製造開始するとのサプライチェーン情報が届けられています。",
-          "link": "https://japanese.engadget.com/oled-ipads-supplier-lg-expands-plant-060051379.html",
-          "publishedOn": "2022-01-18T06:00:51.000Z",
-          "wordCount": 195,
-          "title": "有機EL版iPadが登場する前ぶれ？韓国LGが需要を織り込み工場増設の噂"
-        },
-        {
-          "id": "0a5d4e1a-c224-4e0a-b6ff-54dbcdde8b03",
-          "author": "Ittousai",
-          "description": "ポケモンGOが新イベント『はつでんしょ』を告知しました。期間は1月19日(水)から2月1日(火)まで。名前のとおり「でんき」タイプをテーマにしたイベントで、新規ポケモンの『エリキテル』と進化形『エレザード』が登場します。",
-          "link": "https://japanese.engadget.com/pokemon-go-power-plant-event-055924715.html",
-          "publishedOn": "2022-01-18T05:59:24.000Z",
-          "wordCount": 194,
-          "title": "ポケモンGO『はつでんしょ』イベント発表 『エリキテル』『エレザード』初登場"
-        },
-        {
-          "id": "eeccc7df-444a-48c5-a98b-00ee839e02e1",
-          "author": "山本竜也(Tatsuya Yamamoto)",
-          "description": "英内務省が、エンドツーエンド暗号化反対に世論を誘導するための広告キャンペーンを計画していると伝えられています。",
-          "link": "https://japanese.engadget.com/uk-government-planning-ad-campaign-053018639.html",
-          "publishedOn": "2022-01-18T05:30:18.000Z",
-          "wordCount": 189,
-          "title": "英政府、エンドツーエンド暗号化のネガティブキャンペーンを準備中"
-        },
-        {
-          "id": "18ac9109-42c4-4f58-985e-8b962f8c22fe",
-          "author": "Kiyoshi Tane",
-          "description": "海外のPS5ストアアプリでPS3のタイトルが並び始めたことから、ソニーがPS5の後方互換性サポートを発表する可能性が浮上しています。",
-          "link": "https://japanese.engadget.com/ps3-games-appearing-ps5store-050058201.html",
-          "publishedOn": "2022-01-18T05:00:58.000Z",
-          "wordCount": 218,
-          "title": "海外でPS5ストアにPS3タイトルが登場、まもなく後方互換の拡大を発表か"
-        },
-        {
-          "id": "112ee70a-fe5b-48e2-907f-ea98d0be3675",
-          "author": "Munenori Taniguchi",
-          "description": "当局から社内のセクハラ蔓延の風潮を調査されているゲーム製作会社Activision Blizzardは、告発への対処として従業員を2021年7月以降37人を解雇、さらに44人を懲戒処分にしています",
-          "link": "https://japanese.engadget.com/activision-blizzard-continues-to-remove-employees-amid-misconduct-claims-043042126.html",
-          "publishedOn": "2022-01-18T04:30:42.000Z",
-          "wordCount": 204,
-          "title": "Activision Blizzard、セクハラ問題に関係した従業員をさらに解雇・懲戒処分"
-        },
-        {
-          "id": "514f53c0-e680-4a71-a9c5-5174f8994f3f",
-          "author": "Kiyoshi Tane",
-          "description": "次期iPhone SEの製品名が「iPhone SE+5G」になることや、2023年には5.7インチ画面の新型が登場するかもしれないとの予想が伝えられています。",
-          "link": "https://japanese.engadget.com/iphonese-5g-57-inch-2023-040059416.html",
-          "publishedOn": "2022-01-18T04:00:59.000Z",
-          "wordCount": 269,
-          "title": "次期SEは「iPhone SE+5G」か。2023年は5.7インチSEが登場する可能性"
-        },
-        {
-          "id": "e178e749-c5dd-458c-a210-d264b48760d0",
-          "author": "山本竜也(Tatsuya Yamamoto)",
-          "description": "1月19日以降、英国発行のVisaカードが使えなくなると発表していた英Amazonですが、直前にその決定を撤回しました。",
-          "link": "https://japanese.engadget.com/amazon-uk-not-block-visa-cards-033047188.html",
-          "publishedOn": "2022-01-18T03:30:47.000Z",
-          "wordCount": 185,
-          "title": "英Amazon、Visaカードの禁止を撤回。1月19日以降も利用可能に"
-        },
-        {
-          "id": "727d28ff-f593-4a72-8e12-39f61fdb411a",
-          "author": "Engadgetオトク情報局",
-          "description": "Amazonが「Fashion x Beauty タイムセール祭り」を開催します。今の時期にすぐ使えるダウンやコート、ニットなどの冬物を中心にしたアイテムがセール対象となります。期間は1月22日（土）9:00～1月24日（月）23:59まで。",
-          "link": "https://japanese.engadget.com/amazon-fashion-time-sale-032551380.html",
-          "publishedOn": "2022-01-18T03:25:51.000Z",
-          "wordCount": 189,
-          "title": "Amazonがファッションタイムセール祭りを開催！ 1月22日（土）9:00から24日（月）23:59まで"
-        },
-        {
-          "id": "278859bc-7a56-43e2-82cb-e8ef4b06b7a0",
-          "author": "GREEN FUNDING with Engadget Staff",
-          "description": "なくさない財布、aile（エル）とは？ MAMORIO RE（紛失防止タグ）を搭載したお財布です。万が一お財布をなくしてしまってもスマートフォンからアプリにアクセスすれば、「いつ」・「どこで」お財布を忘れてきてしまったのかわかります。 薄いだけじゃない。高機能で大容量。 「この財布1つさえ持てば外出できる」そんなお財布にしたかったので、鍵も入れれて、『薄くても大容量』にこだわりました！ 一般的な二つ折り財布に比べて薄くなるように設計しました 同じ量を入れても、aileならこの薄さ。 不必要なパーツを減らすことで薄いのに大容量のお財布を実現することができました。 使いやすさを追求したサイズ 型紙製作の段階から可能な限りコンパクトになるように設計しました。 お札、カードスペースの使用感 コインスペースの使用感 MAMORIOポケット付き 忘れ物防止タグのMAMORIOは小銭入れスペースに専用ポケットに収納できます。 鍵も一緒に持ち運べます MAMORIOを入れない場合はポケットに鍵を収納することが出来ます。 薄い財布なのにカードもたくさん入ります カードの収納箇所を分散することにより、多く",
-          "link": "https://japanese.engadget.com/aile-wallet-223517697.html",
-          "publishedOn": "2022-01-17T22:35:17.000Z",
-          "wordCount": 299,
-          "title": "万が一なくしてしてもスマホで探せる。薄く、小さく、なくさない財布「aileエル」"
-        },
-        {
-          "id": "baf41c4b-73f6-4eee-bffc-f4b23fc56c20",
-          "author": "Munenori Taniguchi",
-          "description": "米連邦裁判所が「大炎上男」ことマーティン・シュクレリ氏に対して製薬業界への就業を生涯にわたって禁止し、薬の価格つり上げで懐に入れた収益6460万ドル(約74億円)も返還するよう命令しました",
-          "link": "https://japanese.engadget.com/martin-shkreli-banned-for-life-from-the-pharmaceutical-industry-215059015.html",
-          "publishedOn": "2022-01-17T21:50:59.000Z",
-          "wordCount": 216,
-          "title": "「大炎上男」が製薬業界から生涯追放に。過去に感染症治療薬ダラプリムの価格吊り上げ"
-        },
-        {
-          "id": "45a1b407-6c0d-40ba-889d-5dff75c0adda",
-          "author": "今日は何の日？",
-          "description": "6インチのモノクロ液晶を採用し、気軽に手書きメモを残せるのが「WG-N10」。\n\nこの電子ノートが発売されたのが、2013年の今日です。",
-          "link": "https://japanese.engadget.com/today-203027585.html",
-          "publishedOn": "2022-01-17T20:30:27.000Z",
-          "wordCount": 202,
-          "title": "2013年1月18日、手書きメモが手軽に残せる電子ノート「WG-N10」が発売されました：今日は何の日？"
         }
       ]
     },
@@ -1259,6 +1241,195 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/topstory.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/fortop/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/business/articles/2201/21/news014.html",
+          "author": null,
+          "description": "「コロナの影響で売り上げが落ち込んでいて、次回賞与の支給を見送ろうと考えていますが、問題ないでしょうか」──この質問に、筆者は「法律的には問題はありませんが、経済的には問題があります」といいます。どういうことでしょうか？",
+          "link": "https://www.itmedia.co.jp/business/articles/2201/21/news014.html",
+          "publishedOn": "2022-01-21T00:00:00.000Z",
+          "wordCount": 150,
+          "title": "業績が苦しくても、ボーナスを絶対に支給すべき理由　どうやって実現？"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/pcuser/articles/2201/20/news164.html",
+          "author": null,
+          "description": "日本HPが2022年初の事業説明会を開催した。2021年に新社長に就任したばかりの岡戸伸樹氏は何を語ったのか。",
+          "link": "https://www.itmedia.co.jp/pcuser/articles/2201/20/news164.html",
+          "publishedOn": "2022-01-21T00:00:00.000Z",
+          "wordCount": 463,
+          "title": "「第2の創業を目指す」　日本HP新社長が語るパーソナルPC市場と日本のゲーミング市場"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2201/21/news080.html",
+          "author": null,
+          "description": "GoogleがARヘッドセットの「Project Iris」を進めているとThe Vergeが報じた。2024年の発売を目指しているという。チームを率いるのはDaydreamのクレイ・ベイバー氏。",
+          "link": "https://www.itmedia.co.jp/news/articles/2201/21/news080.html",
+          "publishedOn": "2022-01-20T23:55:00.000Z",
+          "wordCount": 169,
+          "title": "Google、ARヘッドセットの2024年発売を目指す「Project Iris」推進中との報道"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/business/articles/2201/21/news039.html",
+          "author": null,
+          "description": "何かと話題になることの多い「ジョブ型」を前後編で解説。後編記事となる今回では、そもそもなぜ、名門企業がここにきてジョブ型への対応に急ぐのか、そして定着・成功のカギは何なのかを解説していく。",
+          "link": "https://www.itmedia.co.jp/business/articles/2201/21/news039.html",
+          "publishedOn": "2022-01-20T22:15:00.000Z",
+          "wordCount": 145,
+          "title": "日立、富士通、NTT……名門企業がこぞって乗り出す「ジョブ型」、成功と失敗の分かれ目は？"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2201/21/news073.html",
+          "author": null,
+          "description": "Twitterがプロフィール画像として認証済みNFTを選択できるようにした。サブスクサービス「Twitter Blue」のiOSアプリでのみ設定可能。認証済みNFTは輪郭が六角形で表示される。",
+          "link": "https://www.itmedia.co.jp/news/articles/2201/21/news073.html",
+          "publishedOn": "2022-01-20T22:13:00.000Z",
+          "wordCount": 162,
+          "title": "Twitter、認証済みNFTをプロフィール画像に──iOS版「Twitter Blue」で"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/business/articles/2201/21/news008.html",
+          "author": null,
+          "description": "4月から、グループ内で損益通算等を可能とする「グループ通算制度」が適用され、作業の煩雑さが指摘されていたこれまでの「連結納税制度」は廃止されます。新たな制度のあらましと実務をおさらいします。",
+          "link": "https://www.itmedia.co.jp/business/articles/2201/21/news008.html",
+          "publishedOn": "2022-01-20T22:00:00.000Z",
+          "wordCount": 134,
+          "title": "2022年4月から適用「グループ通算制度」とは？　4つのメリット"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/business/articles/2201/21/news038.html",
+          "author": null,
+          "description": "何かと話題に上がるジョブ型雇用。過日、日立製作所が本格導入をぶち上げニュースとなった。さまざまなイメージが語られ、「すぐクビになる」といった悪評や、一方で「過重労働から解放される」「ワークライフバランスが充実する」といった声も聞く。いまいち実態のつかめないジョブ型を、よくある誤解とともに解説していく。",
+          "link": "https://www.itmedia.co.jp/business/articles/2201/21/news038.html",
+          "publishedOn": "2022-01-20T20:00:00.000Z",
+          "wordCount": 142,
+          "title": "すぐにクビ？　休暇が充実？　日立も本格導入の「ジョブ型」　よくある誤解を「採用」「異動」「解雇」で整理する"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2201/20/news172.html",
+          "author": null,
+          "description": "仮想通貨のマイニングツール「Coinhive」の設置によりWebデザイナーの男性が不正指令電磁的記録保管罪に問われた「Coinhive事件」を無罪と判断した理由について、最高裁が全文を公開した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2201/20/news172.html",
+          "publishedOn": "2022-01-20T11:39:00.000Z",
+          "wordCount": 144,
+          "title": "「広告表示と比較して、PCに与える影響は許容範囲内」──Coinhive事件、最高裁の判決全文"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2201/20/news170.html",
+          "author": null,
+          "description": "Amazonプライムビデオはアニメ「ポケットモンスター」の特別編「ポケットモンスター 神とよばれし アルセウス」を1月21日から独占配信する。全4話。",
+          "link": "https://www.itmedia.co.jp/news/articles/2201/20/news170.html",
+          "publishedOn": "2022-01-20T11:20:00.000Z",
+          "wordCount": 175,
+          "title": "ポケモン新作アニメ「神とよばれし アルセウス」、21日からAmazonプライムで配信"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2201/20/news169.html",
+          "author": null,
+          "description": "ヤマト運輸が、宅急便の発送手続きをスマートフォンで完結できる「宅急便をスマホで送る」サービスに、PUDOステーションから荷物を発送できる機能を追加した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2201/20/news169.html",
+          "publishedOn": "2022-01-20T11:00:00.000Z",
+          "wordCount": 148,
+          "title": "PUDOからヤマトの宅急便が発送可能に　発払いなら匿名相手にも"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2201/20/news168.html",
+          "author": null,
+          "description": "ウェザーニューズは15日にトンガ諸島付近で発生した大規模な火山噴火について、同社の気象観測機「ソラテナ」が観測した気圧のデータを研究者向けに無償で提供する。",
+          "link": "https://www.itmedia.co.jp/news/articles/2201/20/news168.html",
+          "publishedOn": "2022-01-20T10:52:00.000Z",
+          "wordCount": 148,
+          "title": "ウェザーニューズ、トンガ火山噴火による気圧変化のデータを研究者向けに無償提供"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2201/20/news166.html",
+          "author": null,
+          "description": "京都にある任天堂の旧本社がホテルに変わる。ホテル「丸福楼」として4月に開業。7つのスイートルームを含む全18室で。",
+          "link": "https://www.itmedia.co.jp/news/articles/2201/20/news166.html",
+          "publishedOn": "2022-01-20T10:33:00.000Z",
+          "wordCount": 143,
+          "title": "任天堂の旧本社がホテルに　当時の屋号から「丸福楼」と命名"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2201/20/news141.html",
+          "author": null,
+          "description": "Google Chromeには、タブの数に関連したイースターエッグが存在することをご存じだろうか？　あなたがまめにタブを消すようなきちょうめんな人ならば、一生それに気付くことはないかもしれない……。",
+          "link": "https://www.itmedia.co.jp/news/articles/2201/20/news141.html",
+          "publishedOn": "2022-01-20T08:20:00.000Z",
+          "wordCount": 168,
+          "title": "几帳面な人ほど気付かない？　スマホ版Chromeでタブを100個開くと現れるイースターエッグ"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2201/20/news127.html",
+          "author": null,
+          "description": "カメラ映像機器工業会は、2月に開催する映像機器展示会「CP＋2022」をパシフィコ横浜での会場イベントと公式Webサイトを使ったオンラインイベントのハイブリッド形式にすると発表した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2201/20/news127.html",
+          "publishedOn": "2022-01-20T07:15:00.000Z",
+          "wordCount": 156,
+          "title": "「CP＋」、3年ぶりパシフィコ横浜で開催も「3年前のショー形態を復活させるわけではない」"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2201/20/news118.html",
+          "author": null,
+          "description": "最高裁判所は、Coinhive事件に対して二審の有罪判決を破棄し、無罪判決を下した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2201/20/news118.html",
+          "publishedOn": "2022-01-20T06:41:00.000Z",
+          "wordCount": 149,
+          "title": "Coinhive事件、最高裁判決は「無罪」　二審判決を棄却し、逆転無罪"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2201/20/news115.html",
+          "author": null,
+          "description": "INFORICHが「Apple PayならはじめてのChargeSPOT利用が1円！」キャンペーンを実施している。",
+          "link": "https://www.itmedia.co.jp/news/articles/2201/20/news115.html",
+          "publishedOn": "2022-01-20T06:29:00.000Z",
+          "wordCount": 160,
+          "title": "Apple Payでモバイルバッテリーシェアが1円　ChargeSPOTがキャンペーン"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2201/20/news098.html",
+          "author": null,
+          "description": "ヤフーは、Yahoo!ニュースの「コメント欄非表示機能」により、ポリシー違反のコメントが多いとして自動的に非表示にされたコメント欄の件数が約2カ月で216件に上ったと発表した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2201/20/news098.html",
+          "publishedOn": "2022-01-20T03:30:00.000Z",
+          "wordCount": 148,
+          "title": "Yahoo!ニュース、2カ月間で216件の記事コメント欄を閉鎖　中傷などをAIが判断"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/pcuser/articles/2201/20/news087.html",
+          "author": null,
+          "description": "日本HPの「HP Elite Folio」は、5Gに標準対応しながら20時間以上のバッテリー駆動時間を備えつつ、ヴィーガンレザーのカバーで覆われた異色の1台だ。気になる実機をチェックした。",
+          "link": "https://www.itmedia.co.jp/pcuser/articles/2201/20/news087.html",
+          "publishedOn": "2022-01-20T03:30:00.000Z",
+          "wordCount": 501,
+          "title": "5G標準対応のArm版Windows 10搭載2in1 PC「HP Elite Folio」を使って分かったこと"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2201/20/news097.html",
+          "author": null,
+          "description": "福岡ガンダム近くにオープンする複合施設「ガンダムパーク福岡」の概要が明らかに。限定ガンプラの他、ガンダム仕様の「太鼓の達人」なども初登場。",
+          "link": "https://www.itmedia.co.jp/news/articles/2201/20/news097.html",
+          "publishedOn": "2022-01-20T03:21:00.000Z",
+          "wordCount": 180,
+          "title": "「ガンダムパーク福岡」4月開業　限定ガンプラにガンダム仕様「太鼓の達人」など初登場"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2201/20/news089.html",
+          "author": null,
+          "description": "赤十字国際委員会（ICRC）の請負業者のサーバにサイバー攻撃があり、51万5000人以上の個人データが侵害された。紛争や災害によって行方不明になっている「非常に脆弱な」人々のデータ。ICRCはデータを販売したりしないよう犯人に呼び掛けた。",
+          "link": "https://www.itmedia.co.jp/news/articles/2201/20/news089.html",
+          "publishedOn": "2022-01-20T02:46:00.000Z",
+          "wordCount": 146,
+          "title": "赤十字国際委員会、サイバー攻撃で51万人以上の行方不明者などの個人情報が漏えい"
+        },
+        {
+          "id": "https://mag.executive.itmedia.co.jp/executive/articles/2111/29/news076.html",
+          "author": null,
+          "description": "ITmedia エグゼクティブは約6000人が参加する企業人のための会員制コミュニティーです。1月の勉強会は累計100万部を超えるベストセラー著者の永井孝尚さんに『世界の起業家が学んでいるMBA経営理論の必読書50冊を1冊にまとめてみた』をテーマにお話しいただきます。この機会にどうぞご入会ください※条件：上場相当企業の課長職以上（入会は無料）詳細はこちらから。",
+          "link": "https://mag.executive.itmedia.co.jp/executive/articles/2111/29/news076.html",
+          "publishedOn": "2022-01-20T01:00:00.000Z",
+          "wordCount": 534,
+          "title": "PR: 企業人のための「ITmedia エグゼクティブ」入会のご案内"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2201/20/news068.html",
           "author": null,
@@ -1519,150 +1690,6 @@
           "publishedOn": "2022-01-18T20:00:00.000Z",
           "wordCount": 176,
           "title": "「このままではつぶれる……！」　繊維業界の常識を壊して倒産危機を救ったセーレン・川田会長の革命"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2201/18/news173.html",
-          "author": null,
-          "description": "個人情報保護委員会から個人情報の漏えいが発生。漏えいしたのは、同事務局が募集したパブリックコメントに意見を提出した12人分の氏名や一部所属先。行政情報の総合窓口サイト「e-Gov」に個人情報入りのPDFファイルを誤掲載していた。",
-          "link": "https://www.itmedia.co.jp/news/articles/2201/18/news173.html",
-          "publishedOn": "2022-01-18T10:57:00.000Z",
-          "wordCount": 149,
-          "title": "個人情報保護委員会が個人情報を漏えい　パブリックコメント参加者の氏名や所属先を誤掲載"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2201/18/news171.html",
-          "author": null,
-          "description": "NTTドコモ、KDDI、ソフトバンクの3社が、火山噴火のあったトンガ王国を対象とするサービスの提供が不可能な状況にあると発表した。",
-          "link": "https://www.itmedia.co.jp/news/articles/2201/18/news171.html",
-          "publishedOn": "2022-01-18T10:30:00.000Z",
-          "wordCount": 146,
-          "title": "携帯3社「トンガでサービス提供できない」　噴火による通信障害、復旧めど立たず"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2201/18/news161.html",
-          "author": null,
-          "description": "「検索上位のWebサイトへの依頼、ちょっとまって」──東京都下水道局は、ネットでのトイレ修理の依頼に関して、Twitterで注意喚起した。Web検索の上位に表示された業者に依頼したことによる、金銭トラブルが増えているという。",
-          "link": "https://www.itmedia.co.jp/news/articles/2201/18/news161.html",
-          "publishedOn": "2022-01-18T09:17:00.000Z",
-          "wordCount": 148,
-          "title": "トイレ業者のSEO対策に東京都下水道局が「待った」　啓発ポスターがシュールで話題に"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2201/18/news156.html",
-          "author": null,
-          "description": "政府が「ワクチン・検査パッケージ」の一時停止を検討しているという報道を受け、ワンダーフェスティバル実行委員会は「今後の開催に向け、千葉県の担当課と詳細の確認と検討を行っている」と明らかにした。",
-          "link": "https://www.itmedia.co.jp/news/articles/2201/18/news156.html",
-          "publishedOn": "2022-01-18T08:40:00.000Z",
-          "wordCount": 144,
-          "title": "「ワクチン・検査パッケージ」一時停止報道でイベント関係者に動揺　ワンフェス実行委員会は「確認中」"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2201/18/news147.html",
-          "author": null,
-          "description": "全国のタイムズパーキングが、タイムズ専用アプリ内での駐車料金の支払いに対応した。精算機を使わずに車内で決済できる。",
-          "link": "https://www.itmedia.co.jp/news/articles/2201/18/news147.html",
-          "publishedOn": "2022-01-18T08:00:00.000Z",
-          "wordCount": 147,
-          "title": "車から出ずに駐車料金を支払える　タイムズがアプリ内決済に対応"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/pcuser/articles/2201/18/news139.html",
-          "author": null,
-          "description": "米Microsoftは1月17日（現地時間）、Windows向け更新プログラムを公開した。今回の更新は定例外となるが、2022年1月の月例アップデートが原因で起こっていた不具合を修正するために急遽公開となった。",
-          "link": "https://www.itmedia.co.jp/pcuser/articles/2201/18/news139.html",
-          "publishedOn": "2022-01-18T07:30:00.000Z",
-          "wordCount": 528,
-          "title": "Microsoftが定例外でWindows向け更新プログラムを公開　VPN接続失敗などの問題を修正"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2201/18/news144.html",
-          "author": null,
-          "description": "iPhoneに自分の顔を認識されなくなってしまった。そういえば思い当たることがあった。",
-          "link": "https://www.itmedia.co.jp/news/articles/2201/18/news144.html",
-          "publishedOn": "2022-01-18T07:14:00.000Z",
-          "wordCount": 152,
-          "title": "突然、Face IDに認識されなくなってしまった　そういえば……"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2201/18/news127.html",
-          "author": null,
-          "description": "ジャパネットは18日、BS放送局「BSJapanext」でクイズ番組「パネルクイズ アタック25 Next（仮）」を放送すると発表した。1時間番組となる。",
-          "link": "https://www.itmedia.co.jp/news/articles/2201/18/news127.html",
-          "publishedOn": "2022-01-18T05:27:00.000Z",
-          "wordCount": 153,
-          "title": "「アタック25」復活　ジャパネットの新BS局で　司会は谷原章介さん"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2201/18/news115.html",
-          "author": null,
-          "description": "神奈川県の黒岩祐治知事は16日に発生した緊急速報（エリアメール）の件を改めて説明した。最初は国が一斉に配信しているものと考えていたという。",
-          "link": "https://www.itmedia.co.jp/news/articles/2201/18/news115.html",
-          "publishedOn": "2022-01-18T04:12:00.000Z",
-          "wordCount": 151,
-          "title": "「国から一斉に出ているのかと」　黒岩知事、エリアメール問題の経緯を説明"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/business/articles/2201/18/news096.html",
-          "author": null,
-          "description": "大東建託は、北陸エリアに住む成人男女累計9813人の回答を集計し、各ランキングを作成した。",
-          "link": "https://www.itmedia.co.jp/business/articles/2201/18/news096.html",
-          "publishedOn": "2022-01-18T03:08:00.000Z",
-          "wordCount": 200,
-          "title": "北陸エリアの「住み続けたい街」ランキング　3位は「富山県氷見市」、2位は「石川県野々市市」、1位は？"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2201/18/news078.html",
-          "author": null,
-          "description": "1月17日にGoogle検索で「ベティ・ホワイト」を検索すると特別なエフェクトが表示される。100歳の誕生日目前に亡くなった女優のベディ・ホワイトさんの誕生日を祝すものだ。",
-          "link": "https://www.itmedia.co.jp/news/articles/2201/18/news078.html",
-          "publishedOn": "2022-01-17T23:53:00.000Z",
-          "wordCount": 153,
-          "title": "Googleで「ベティ・ホワイト」を検索するとバラの花びらが──故人の100歳の誕生日を祝して"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2201/18/news058.html",
-          "author": null,
-          "description": "米カリフォルニア・マーセッド大学の研究チームは、口パク（無声発話）によって動くのどをリアルタイム磁気共鳴画像法（rtMRI）で取得し、その動きから音響情報を理解してテキストに変換する深層学習フレームワークを開発した。",
-          "link": "https://www.itmedia.co.jp/news/articles/2201/18/news058.html",
-          "publishedOn": "2022-01-17T23:00:00.000Z",
-          "wordCount": 207,
-          "title": "のどの動きをMRIで解析し、口パクをテキストに変換　言語障がい者などのコンピュータ利用の一助に"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2201/18/news059.html",
-          "author": null,
-          "description": "米南カリフォルニア大学（USC）と、写真共有アプリ「Snapchat」などを開発する米Snapの研究チームは、さまざまな時間や場所、照明条件で撮影した画像から、対象物を抽出し3Dモデルに変換するシステムを開発した。",
-          "link": "https://www.itmedia.co.jp/news/articles/2201/18/news059.html",
-          "publishedOn": "2022-01-17T23:00:00.000Z",
-          "wordCount": 201,
-          "title": "写真内の物体を3Dモデルに変換するシステム、米Snapらの研究チームが開発"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2201/18/news074.html",
-          "author": null,
-          "description": "AppleのWebブラウザ「Safari 15」に、ユーザーのWeb履歴や個人情報がリークする恐れのあるバグがあるとFingerprintJSが公表した。iOSとiPadOSの場合はAppleが修正更新するまで回避対策がない。",
-          "link": "https://www.itmedia.co.jp/news/articles/2201/18/news074.html",
-          "publishedOn": "2022-01-17T22:40:00.000Z",
-          "wordCount": 156,
-          "title": "「Safari 15」にWeb履歴やGoogleアカウント情報がリークする可能性のあるバグ　修正はまだ"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/business/articles/2201/14/news039.html",
-          "author": null,
-          "description": "日本のエンタメビジネスの常識を変えたBABYMETAL。プロデュースしたKOBAMETALさんにプロデュ―スの裏側について聞いた。",
-          "link": "https://www.itmedia.co.jp/business/articles/2201/14/news039.html",
-          "publishedOn": "2022-01-17T20:00:00.000Z",
-          "wordCount": 170,
-          "title": "BABYMETALプロデュ―スの舞台裏をKOBAMETALに聞く　メタルとダンスをいかにして融合させヒットに導いたのか？"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/business/articles/2201/18/news050.html",
-          "author": null,
-          "description": "ピンチをチャンスに変える。総合繊維メーカー大手のセーレンこそ、この言葉にふさわしい企業だ。過去に何度も危機を乗り越え、今回のコロナ禍も踏みとどまり、既に増収増益に転じている。そんな同社が長きにわたって地元・福井に与えてきた影響とはいかに。",
-          "link": "https://www.itmedia.co.jp/business/articles/2201/18/news050.html",
-          "publishedOn": "2022-01-17T20:00:00.000Z",
-          "wordCount": 168,
-          "title": "海外売上比率6割でも国内社員の9割は福井県人　繊維大手・セーレンが地元にこだわる理由"
         }
       ]
     },
@@ -1671,6 +1698,286 @@
       "feedUrl": "https://www.lifehacker.jp/feed/index.xml",
       "siteUrl": "https://www.lifehacker.jp",
       "articles": [
+        {
+          "id": "https://www.lifehacker.jp/article/how-to-stay-warm-if-you-are-always-cold/",
+          "author": "春野ユリ",
+          "description": "本格的に寒い時期となりました。外出時や就寝時だけでなく、普段から身体を暖める方法をご紹介します。",
+          "link": "https://www.lifehacker.jp/article/how-to-stay-warm-if-you-are-always-cold/",
+          "publishedOn": "2022-01-20T23:30:00.000Z",
+          "wordCount": 126,
+          "title": "冷え性の人必見！冬場に効果的に身体を温かくする9つの方法",
+          "enclosure": {
+            "url": "https://media.loom.media-platform.com/dist/2022/01/17/8c7ba40c-de00-454b-9291-e6920fa635b8-w1280.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/article/248641-machi-ya-expandable-review/",
+          "author": "山田洋路",
+          "description": "たくさん入ってコンパクトなミニマルウォレット「EXPANDABLE」は紙幣14枚硬貨13枚カードが12枚収納可能。鍵用スリットで機能的。クイックアクセスカードポケット搭載でカードが素早く取り出せます。",
+          "link": "https://www.lifehacker.jp/article/248641-machi-ya-expandable-review/",
+          "publishedOn": "2022-01-20T23:00:00.000Z",
+          "wordCount": 102,
+          "title": "たくさん入れても極小。拡張できるミニウォレットを試してみた",
+          "enclosure": {
+            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/12/25/Expandable(22)-w1280.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/article/book_to_read-913/",
+          "author": null,
+          "description": "『2500年も読み継がれている戦略の教科書　図解大人のための孫子の兵法』（遠越 段 著、叢 小榕 監修、総合法令出版）より、戦いを避けて勝つ！『孫子の兵法』から学ぶビジネススキルについて解説します。",
+          "link": "https://www.lifehacker.jp/article/book_to_read-913/",
+          "publishedOn": "2022-01-20T22:00:00.000Z",
+          "wordCount": 99,
+          "title": "戦いを避けて勝つ！「孫子の兵法」に学ぶビジネススキル",
+          "enclosure": {
+            "url": "https://media.loom.media-platform.com/dist/2022/01/20/0c285870-362c-4dad-9d9a-bc0bb078ac46-w1280.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/article/lht_travelers_note/",
+          "author": "カマタユキコ",
+          "description": "使えば使うほど味が出るトラベラーズノート。カスタマイズやリフィルで開きたくなる自分だけのノートがつくれます。",
+          "link": "https://www.lifehacker.jp/article/lht_travelers_note/",
+          "publishedOn": "2022-01-20T13:05:00.000Z",
+          "wordCount": 92,
+          "title": "6年間愛用中「トラベラーズノート」に夢中になるわけ【今日のライフハックツール】",
+          "enclosure": {
+            "url": "https://media.loom.media-platform.com/dist/2022/01/17/e251b8ab-d1be-4079-ac6d-4d8b1b367802-w1280.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/article/machi-ya-ledlantern-review/",
+          "author": "山科拓郎",
+          "description": "「圧縮LEDランタン」は、LEDライトとしての機能に加えて空気入れ＆空気抜きにも対応できるキャンプギア。テント泊の必需品とも言える、エアーマットを実際に膨らませてみました。",
+          "link": "https://www.lifehacker.jp/article/machi-ya-ledlantern-review/",
+          "publishedOn": "2022-01-20T13:00:00.000Z",
+          "wordCount": 89,
+          "title": "3分でエアーマットが膨らむ！ 空気入れ機能付きLEDライト",
+          "enclosure": {
+            "url": "https://media.loom.media-platform.com/dist/2022/01/17/1217daa5-3f2e-42be-9533-f640993d7c8a-w1280.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/article/matome-exercise-habituation/",
+          "author": "ライフハッカー編集部",
+          "description": "習慣化させるのが難しい「運動」。今回は誰でも運動を続けられるようになるコツをご紹介します。また、記事の最後に「運動効果を高める食事や睡眠」や「短時間でできるワークアウト」についてもご紹介しています。",
+          "link": "https://www.lifehacker.jp/article/matome-exercise-habituation/",
+          "publishedOn": "2022-01-20T12:00:00.000Z",
+          "wordCount": 105,
+          "title": "脱3日坊主！ 誰でも運動を習慣化できるコツとは",
+          "enclosure": {
+            "url": "https://media.loom.media-platform.com/dist/2022/01/17/ab9804ac-9cf3-4df5-9615-87f388a0d774-w1280.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/article/how-to-know-if-a-qr-code-or-a-short-url-is-safe/",
+          "author": "春野ユリ",
+          "description": "QRコードの時代が到来していることはお気づきかもしれません。レストランや政府機関、ショップでは必ずと言っていいほどQRコードが表示されていますが、QRコードや短縮URLは、利便性の面では優れていますが、セキュリティの面では劣っています。",
+          "link": "https://www.lifehacker.jp/article/how-to-know-if-a-qr-code-or-a-short-url-is-safe/",
+          "publishedOn": "2022-01-20T11:00:00.000Z",
+          "wordCount": 95,
+          "title": "悪質なQRコードや短縮URLを見破る方法",
+          "enclosure": {
+            "url": "https://media.loom.media-platform.com/dist/2022/01/20/a6d19646-3d99-44bd-87d5-f91219992656-w1280.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/article/248092-machi-ya-syantov-review2/",
+          "author": "飯田あゆみ",
+          "description": "新発想のスマホリング「SYANTO  V-ring」は底面支点でスマホを保持して目線を上げ、背筋を伸ばし首や手首を痛めません。ベースシートは厚さ0.4mmと極薄。ケースを着けたままワイヤレス充電可能。iPhoneやkindleに付けて試してみました",
+          "link": "https://www.lifehacker.jp/article/248092-machi-ya-syantov-review2/",
+          "publishedOn": "2022-01-20T10:00:00.000Z",
+          "wordCount": 115,
+          "title": "重力を分散し姿勢をよくする不思議なスマホリングを試してみた",
+          "enclosure": {
+            "url": "https://assets.media-platform.com/lifehacker/dist/images/2022/01/02/IMG_9468-w1280.JPG",
+            "length": "0",
+            "type": "image/jpeg"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/article/rakuten-sale-0120-1/",
+          "author": "メディアジーンメディアコマース",
+          "description": "楽天市場では、最大50%と高ポイント還元イベント｢楽天スーパーDEAL｣を開催中。本日2022年1月20日（木）は、20％ポイント還元・明治 チョコレート効果カカオ86％ 940g×2箱、50％還元・タニタの体温計など、お得な商品が多数登場",
+          "link": "https://www.lifehacker.jp/article/rakuten-sale-0120-1/",
+          "publishedOn": "2022-01-20T08:43:44.000Z",
+          "wordCount": 338,
+          "title": "【楽天セール】明治 チョコレート効果が20％ポイント還元、タニタの体温計が50％還元など",
+          "enclosure": {
+            "url": "https://media.loom.media-platform.com/dist/2022/01/20/acdcc61a-a576-4a7f-be02-8e887217471f-w1280.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/article/202201_ana_pocket/",
+          "author": "中村真紀",
+          "description": "ANA Xから2021年12月にリリースされたばかりのアプリ「ANA Pocket」をお供に、ライフハッカー［日本版］編集部が名古屋までのプチトリップにいってきました！",
+          "link": "https://www.lifehacker.jp/article/202201_ana_pocket/",
+          "publishedOn": "2022-01-20T08:00:00.000Z",
+          "wordCount": 191,
+          "title": "すべての移動にポイント付与。「ANA Pocket」で楽しく健康になる",
+          "enclosure": {
+            "url": "https://media.loom.media-platform.com/dist/2022/01/14/005df5d7-44ca-4bbb-bc08-58c3d9d1e6b3-w1280.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/article/machi-ya-hobot2-start/",
+          "author": null,
+          "description": "「HOBOT-2S」は、設置後ワンタッチで窓掃除を開始する全自動窓掃除ロボット。清掃範囲を自動で判断し、ガラス窓以外にも鏡や大理石、タイルなど様々な素材の壁面も掃除が可能な掃除を時短化してくれるツールです。",
+          "link": "https://www.lifehacker.jp/article/machi-ya-hobot2-start/",
+          "publishedOn": "2022-01-20T07:30:00.000Z",
+          "wordCount": 90,
+          "title": "窓掃除をおまかせできるロボット掃除機「HOBOT-2S」が登場",
+          "enclosure": {
+            "url": "https://media.loom.media-platform.com/dist/2022/01/17/35ff2b97-a8e8-4329-ab90-ea3197772048-w1280.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/article/how-to-stop-being-so-damn-self-deprecating/",
+          "author": "春野ユリ",
+          "description": "自我が強すぎるのは好ましくありませんし、自分を笑い飛ばせるのは重要なスキルです。反面、謙虚であることにも限度があります。褒め言葉を受け入れられなかったり、常に自分のすべてを卑下していると、良いことより悪いことの方が多くなりがちです。",
+          "link": "https://www.lifehacker.jp/article/how-to-stop-being-so-damn-self-deprecating/",
+          "publishedOn": "2022-01-20T07:00:00.000Z",
+          "wordCount": 103,
+          "title": "自分を卑下する悪習慣をやめる6つの方法",
+          "enclosure": {
+            "url": "https://media.loom.media-platform.com/dist/2022/01/20/67c4a628-7844-4bae-921f-c0e96f63ff1f-w1280.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/article/machi-ya-tocco-review/",
+          "author": "飯田あゆみ",
+          "description": "コンパクト財布「tocco（トッコ）」はフタを一度開ければ中が一目瞭然。留め具を一切使用しないことで「収納のしやすさ」と「会計のしやすさ」を両立。幅8cmとスリムでスマホくらいの大きさです。",
+          "link": "https://www.lifehacker.jp/article/machi-ya-tocco-review/",
+          "publishedOn": "2022-01-20T06:00:00.000Z",
+          "wordCount": 99,
+          "title": "こんなの待ってた！ スマホサイズだけど大容量の機能性財布「tocco」",
+          "enclosure": {
+            "url": "https://media.loom.media-platform.com/dist/2022/01/19/2b58242b-603e-4ae8-a1bf-cb53ecfbd3e2-w1280.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/article/machi-ya-woodborocks-review/",
+          "author": "飯田あゆみ",
+          "description": "「WOOD ROCKS」は高級木材製のインテリアブロックです。非対称なブロックを積み上げて創造力と集中力のトレーニングができ、仕事の合間のリフレッシュにもうってつけ。温かみのあるフォルムが癒しを与えてくれます。",
+          "link": "https://www.lifehacker.jp/article/machi-ya-woodborocks-review/",
+          "publishedOn": "2022-01-20T05:00:00.000Z",
+          "wordCount": 100,
+          "title": "大人がハマる！ 木製の自然派ブロックインテリア「WOODROCKS」の魅力",
+          "enclosure": {
+            "url": "https://media.loom.media-platform.com/dist/2022/01/12/dfecf096-3b8a-45b2-b95f-8e0ad110fbce-w1280.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/article/amazon-drip-chip/",
+          "author": "中川真知子",
+          "description": "先日、気に入っていたアクセサリーを無くしました。外したのかもしれないし、落ちたのかもしれない。原因はわかりませんがとにかくありません…。そこでゲットしたのが、drip（ドリップ）の最小の小銭入れ「CHIP」です。ちょっとしたものの一時保管場所として、かなり重宝します。",
+          "link": "https://www.lifehacker.jp/article/amazon-drip-chip/",
+          "publishedOn": "2022-01-20T04:00:00.000Z",
+          "wordCount": 112,
+          "title": "ものを無くしやすい自分には、汎用性が高い極小財布が便利だった",
+          "enclosure": {
+            "url": "https://media.loom.media-platform.com/dist/2022/01/17/5accd681-f86b-48aa-9a82-8e38fe173269-w1280.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/article/notion-set-track-goals/",
+          "author": "春野ユリ",
+          "description": "Notionを使った目標設定方法についてご紹介します。自分の目標にあった設定方法やデザインを見つけてみてはいかがでしょう。",
+          "link": "https://www.lifehacker.jp/article/notion-set-track-goals/",
+          "publishedOn": "2022-01-20T03:00:00.000Z",
+          "wordCount": 125,
+          "title": "Notion活用術｜目標を設定し、トラッキングする方法",
+          "enclosure": {
+            "url": "https://media.loom.media-platform.com/dist/2022/01/17/3a9f0033-cf50-499c-9b8c-f554d84d1449-w1280.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/article/machi-ya-glossy-review/",
+          "author": "junior",
+          "description": "「GLOSSY」は超微細ループ形状で力を入れなくても角質除去や高い洗浄力が期待できるお風呂用のタオル。油性マジックで書いた文字も優しく擦るだけでキレイになっていました。さらに環境に配慮したとうもろこし由来の素材を含み、乾きやすくより清潔に使える工夫もありました。",
+          "link": "https://www.lifehacker.jp/article/machi-ya-glossy-review/",
+          "publishedOn": "2022-01-20T02:15:00.000Z",
+          "wordCount": 84,
+          "title": "角質ケアにいかが？ 少ない力でも洗浄力が高いボディタオル「GLOSSY」を使ってみた",
+          "enclosure": {
+            "url": "https://media.loom.media-platform.com/dist/2022/01/18/39c8d51d-a8f6-4171-9fad-e99b05393bb7-w1280.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/article/karadaodayakacha_w/",
+          "author": "中村真紀",
+          "description": "40歳を過ぎると記憶力の低下を感じる人が多いのではないでしょうか。作業療法士の菅原洋平さんに、脳機能は加齢によってどう変化するのか、伺いました。",
+          "link": "https://www.lifehacker.jp/article/karadaodayakacha_w/",
+          "publishedOn": "2022-01-20T02:00:00.000Z",
+          "wordCount": 89,
+          "title": "40代で脳はモデルチェンジする？ 記憶力UPに効くメソッドはこれだ",
+          "enclosure": {
+            "url": "https://media.loom.media-platform.com/dist/2022/01/11/dd05db82-3cc6-4340-9427-58b9ce396d1a-w1280.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/article/amazon-timesale-0120-1/",
+          "author": "メディアジーン メディアコマース",
+          "description": "Amazon（アマゾン）で毎日開催されているタイムセール。本日2022年1月20日は、22%オフの松屋オリジナルカレーや42%オフのFurbo見守りペットカメラなど、今すぐ欲しい人気のアイテムがお得に多数登場しています。",
+          "link": "https://www.lifehacker.jp/article/amazon-timesale-0120-1/",
+          "publishedOn": "2022-01-20T01:30:00.000Z",
+          "wordCount": 420,
+          "title": "【Amazonタイムセール中！】定番メニューをおう家で。22%オフの松屋オリジナルカレーや42%オフのFurbo見守りペットカメラ など",
+          "enclosure": {
+            "url": "https://media.loom.media-platform.com/dist/2022/01/20/97631e28-9007-4191-b30f-e007f44e0b6e-w1280.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/article/memo-kabasawa2/",
+          "author": "ライフハッカー編集部",
+          "description": "“日本一情報を発信する精神科医”として知られる樺沢紫苑さんに聞く最強メモハック。後編では、樺沢さんのノートを解説しながら、より具体的なメモのとり方を紹介します。",
+          "link": "https://www.lifehacker.jp/article/memo-kabasawa2/",
+          "publishedOn": "2022-01-20T01:00:00.000Z",
+          "wordCount": 99,
+          "title": "ノートは右側から書く！ほか｢樺沢流メモ術｣を徹底解説",
+          "enclosure": {
+            "url": "https://media.loom.media-platform.com/dist/2022/01/13/e369abea-f9be-44a3-87bc-5c3c4c3c3458-w1280.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          }
+        },
         {
           "id": "https://www.lifehacker.jp/article/chrome-97-can-erase-stored-data-on-every-web-site-you-visit/",
           "author": "春野ユリ",
@@ -1975,202 +2282,6 @@
           "title": "お弁当が傾かない！ 超コンパクトにたためるミニマリズムエコバッグ",
           "enclosure": {
             "url": "https://media.loom.media-platform.com/dist/2022/01/18/654ee22b-32c5-455d-8791-8c2772a406fa-w1280.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          }
-        },
-        {
-          "id": "https://www.lifehacker.jp/article/taranoko_investment/",
-          "author": "石田佐織",
-          "description": "手軽におつり投資ができる。JCBカード会員向けの資産運用サービス「トラノコ for MyJCB」が投資ビギナーにお得な理由は？",
-          "link": "https://www.lifehacker.jp/article/taranoko_investment/",
-          "publishedOn": "2022-01-18T12:00:00.000Z",
-          "wordCount": 108,
-          "title": "買い物のおつりで資産形成ができる「トラノコ for MyJCB」が投資ビギナーにお得な理由",
-          "enclosure": {
-            "url": "https://media.loom.media-platform.com/dist/2022/01/17/8f0174a6-ef08-401e-8112-b0ef32387077-w1280.png",
-            "length": "0",
-            "type": "image/png"
-          }
-        },
-        {
-          "id": "https://www.lifehacker.jp/article/why-you-dont-charge-smartphone/",
-          "author": "春野ユリ",
-          "description": "氷点下まで冷たくなったスマホやタブレットを充電してしまうと端末に問題が起きる可能性があります。充電する前には、必ず少し温めてからにしましょう。",
-          "link": "https://www.lifehacker.jp/article/why-you-dont-charge-smartphone/",
-          "publishedOn": "2022-01-18T11:00:00.000Z",
-          "wordCount": 91,
-          "title": "氷点下まで冷えたスマホをすぐ充電しないほうがいい",
-          "enclosure": {
-            "url": "https://media.loom.media-platform.com/dist/2022/01/18/bb95c71d-e397-4544-a939-231506d6a8fe-w1280.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          }
-        },
-        {
-          "id": "https://www.lifehacker.jp/article/machi-ya-icegone-start/",
-          "author": "飯田あゆみ",
-          "description": "「ICEGONE」は電気を使わず、凍った食材を自然解凍の最大8倍早く解凍できるプレートです。アルミニウム素材で熱伝導率が高く、食材の温度を室内と均一にします。海外クラウドファンディングサイトで合計5,500万円を越える支援を獲得した注目のアイテムです。",
-          "link": "https://www.lifehacker.jp/article/machi-ya-icegone-start/",
-          "publishedOn": "2022-01-18T10:00:00.000Z",
-          "wordCount": 101,
-          "title": "カチカチの冷凍肉が最大8倍速解凍可能な解凍プレートが登場！",
-          "enclosure": {
-            "url": "https://media.loom.media-platform.com/dist/2022/01/18/f5db0430-dad1-4b93-b836-00b84e72bfcb-w1280.gif",
-            "length": "0",
-            "type": "image/gif"
-          }
-        },
-        {
-          "id": "https://www.lifehacker.jp/article/machi-ya-sharvols1-review/",
-          "author": "山田洋路",
-          "description": "コンパクトで強力なLEDライト「SHARVOL-S1」は1900ルーメンの明るさを備えています。バッテリー容量は5000mAhでフル充電時には約80時間点灯。防塵防水性能はIP68で水没しても壊れません。耐衝撃性で頑丈です。",
-          "link": "https://www.lifehacker.jp/article/machi-ya-sharvols1-review/",
-          "publishedOn": "2022-01-18T08:40:00.000Z",
-          "wordCount": 98,
-          "title": "防災もアウトドアもこれ1本。万能ライト「SHARVOL S-1」をチェック",
-          "enclosure": {
-            "url": "https://media.loom.media-platform.com/dist/2022/01/18/87e8a171-7d8d-48d6-9b11-eb5d6113824f-w1280.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          }
-        },
-        {
-          "id": "https://www.lifehacker.jp/article/machi-ya-mozzarella-cheese-kit-review/",
-          "author": "Haruki Matsumoto",
-          "description": "北海道のチーズメーカー「ファットリアビオ北海道」が産んだ家庭で簡単に作れる手作りチーズキット。新鮮な自作チーズとプロの職人が作った本格チーズの食べ比べができる贅沢なセットとなっています。",
-          "link": "https://www.lifehacker.jp/article/machi-ya-mozzarella-cheese-kit-review/",
-          "publishedOn": "2022-01-18T07:30:00.000Z",
-          "wordCount": 111,
-          "title": "できたてモッツァレラを自宅でも。プロが作ったチーズと食べ比べもできる体験キットを味わってみた",
-          "enclosure": {
-            "url": "https://media.loom.media-platform.com/dist/2022/01/11/da453581-2586-4c90-8727-24e100d3b763-w1280.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          }
-        },
-        {
-          "id": "https://www.lifehacker.jp/article/best-tips-manage-digital-space-for-higher-efficiency/",
-          "author": "遠藤康子（ガリレオ）",
-          "description": "ファイルの場所がわからなくなって職場のあちこちを探し回るのは時間の無駄ですし、生産性の低下を招く原因です。逆に、オフィスがきちんと整理整頓されていれば、どこに何があるのかがすぐに把握でき、作業効率が向上します。",
-          "link": "https://www.lifehacker.jp/article/best-tips-manage-digital-space-for-higher-efficiency/",
-          "publishedOn": "2022-01-18T07:00:00.000Z",
-          "wordCount": 87,
-          "title": "仕事効率アップ！ がんばらないデータ管理術",
-          "enclosure": {
-            "url": "https://media.loom.media-platform.com/dist/2022/01/18/86f941ee-2d03-4847-b9a0-209bef3a4749-w1280.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          }
-        },
-        {
-          "id": "https://www.lifehacker.jp/article/amazon-gregory-sakosh/",
-          "author": "中川真知子",
-          "description": "グレゴリー（GREGORY）の「クラシックサコッシュM」は、160gと軽量。サイズは縦20×横27×マチ1cmと薄く、ちょっとした物を入れるのに最適。ショルダーストラップにも分厚さがないので、筆者はダウンジャケットの下にかけられて便利です。",
-          "link": "https://www.lifehacker.jp/article/amazon-gregory-sakosh/",
-          "publishedOn": "2022-01-18T04:00:00.000Z",
-          "wordCount": 104,
-          "title": "ダウンジャケット着用時のバッグ問題。サコッシュで解決しよう！",
-          "enclosure": {
-            "url": "https://media.loom.media-platform.com/dist/2022/01/07/b6787a42-49ad-429a-8f46-52733e166041-w1280.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          }
-        },
-        {
-          "id": "https://www.lifehacker.jp/article/warren-buffett-says-theres-1-skill-you-need-to-improve-that-youll-find-in-most-successful-people/",
-          "author": "ガリレオ,Inc.",
-          "description": "ウォーレン・バフェットがリーダーを採用する際に、最も重視するポイントとは？",
-          "link": "https://www.lifehacker.jp/article/warren-buffett-says-theres-1-skill-you-need-to-improve-that-youll-find-in-most-successful-people/",
-          "publishedOn": "2022-01-18T03:00:00.000Z",
-          "wordCount": 107,
-          "title": "ウォーレン・バフェットが明かす｜優れたリーダーを見出す唯一のポイント",
-          "enclosure": {
-            "url": "https://media.loom.media-platform.com/dist/2022/01/14/e081a05b-d514-494f-853d-59f5aabd4d48-w1280.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          }
-        },
-        {
-          "id": "https://www.lifehacker.jp/article/amazon-timesale-0118-1/",
-          "author": "メディアジーン メディアコマース",
-          "description": "Amazon（アマゾン）で毎日開催されているタイムセール。本日2022年1月18日は、1個119円のたらみ「おいしい蒟蒻ゼリー」30個セット、24%オフの筋トレ用リングなど、今すぐ欲しい人気のアイテムがお得に多数登場しています。",
-          "link": "https://www.lifehacker.jp/article/amazon-timesale-0118-1/",
-          "publishedOn": "2022-01-18T01:30:00.000Z",
-          "wordCount": 383,
-          "title": "【Amazonタイムセール中！】1個119円のたらみ「おいしい蒟蒻ゼリー」30個セット、24%オフの筋トレ用リングなど",
-          "enclosure": {
-            "url": "https://media.loom.media-platform.com/dist/2022/01/18/fde91951-db38-4fc0-8e29-c1f8397aff47-w1280.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          }
-        },
-        {
-          "id": "https://www.lifehacker.jp/article/google-chrome-can-identify-any-song-in-a-movie-while-yo/",
-          "author": "的野裕子",
-          "description": "Chrome拡張機能のShazamを使った方が便利な理由を紹介します。",
-          "link": "https://www.lifehacker.jp/article/google-chrome-can-identify-any-song-in-a-movie-while-yo/",
-          "publishedOn": "2022-01-18T01:00:00.000Z",
-          "wordCount": 109,
-          "title": "「Shazam」をChrome拡張機能で使うメリットとは",
-          "enclosure": {
-            "url": "https://media.loom.media-platform.com/dist/2022/01/13/7283055c-8353-474b-8952-1ffcb3daf3b2-w1280.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          }
-        },
-        {
-          "id": "https://www.lifehacker.jp/article/5-tech-tips-to-manage-your-personal-space-with-remote-work/",
-          "author": "春野ユリ",
-          "description": "在宅勤務でも生産性を上げるコツは、私生活と仕事の切り替えを上手に行なうこと。アプリやスマホの機能を用いて、自宅でも仕事に集中できるコツをご紹介します。",
-          "link": "https://www.lifehacker.jp/article/5-tech-tips-to-manage-your-personal-space-with-remote-work/",
-          "publishedOn": "2022-01-17T23:30:00.000Z",
-          "wordCount": 115,
-          "title": "在宅勤務で仕事と私生活のスペースを分けるコツ5つ",
-          "enclosure": {
-            "url": "https://media.loom.media-platform.com/dist/2022/01/14/e591455d-2594-40cc-baf0-5428c8e31a92-w1280.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          }
-        },
-        {
-          "id": "https://www.lifehacker.jp/article/book_to_read-910/",
-          "author": "印南敦史",
-          "description": "『アンガーマネジメントで読み解く なぜ日本人は怒りやすくなったのか?』（安藤俊介 著、秀和システム）より、ムダに怒らない！「アンガーマネジメント」に必要なことを解説します。",
-          "link": "https://www.lifehacker.jp/article/book_to_read-910/",
-          "publishedOn": "2022-01-17T22:00:00.000Z",
-          "wordCount": 93,
-          "title": "共感疲れしていない？「アンガーマネジメント」に必要なルール",
-          "enclosure": {
-            "url": "https://media.loom.media-platform.com/dist/2022/01/17/e105b510-ef07-4d93-a0de-02c747dff175-w1280.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          }
-        },
-        {
-          "id": "https://www.lifehacker.jp/article/247384lht-brush/",
-          "author": "カマタユキコ",
-          "description": "M.MOWBRAYのペネトレィトブラシのご紹介。1個440円とお手頃価格で、小ぶりなサイズ感が使い勝手が良く、革靴のお手入れを効率的にしてくれる。クリームをまんべんなく塗布したり、細かい部分までお手入れをすることができる。",
-          "link": "https://www.lifehacker.jp/article/247384lht-brush/",
-          "publishedOn": "2022-01-17T13:05:00.000Z",
-          "wordCount": 82,
-          "title": "使い勝手もコスパもいい！革靴用の小さなペネトレィトブラシ【今日のライフハックツール】",
-          "enclosure": {
-            "url": "https://media.loom.media-platform.com/dist/2022/01/07/7b3e21b2-1097-42a2-aea5-73a348e597b5-w1280.png",
-            "length": "0",
-            "type": "image/png"
-          }
-        },
-        {
-          "id": "https://www.lifehacker.jp/article/machi-ya-togo-review/",
-          "author": "Haruki Matsumoto",
-          "description": "「TOGO」はお好みの香水やアロマオイルで香り付けができるカーディフューザー。職人の手作業による華やかなデザインなため、より車内の香りやインテリアにもこだわりたい方必見のアイテムとなっています。",
-          "link": "https://www.lifehacker.jp/article/machi-ya-togo-review/",
-          "publishedOn": "2022-01-17T13:00:00.000Z",
-          "wordCount": 104,
-          "title": "好きな香りと共にドライブ。独自素材で半永久的に使える高級カーディフューザー「TOGO」を試してみた",
-          "enclosure": {
-            "url": "https://media.loom.media-platform.com/dist/2022/01/12/179aeadb-9a75-4552-9a81-ae06ae228df5-w1280.jpg",
             "length": "0",
             "type": "image/jpeg"
           }
