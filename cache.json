@@ -6,6 +6,256 @@
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
         {
+          "id": "https://www.itmedia.co.jp/news/articles/2204/14/news076.html",
+          "author": null,
+          "description": "TikTokは、コンテンツにつけられたコメントに「Dislike」するテストを開始した。コメントごとについている「いいね」（ハートボタン）の右隣に親指を下向きにしたボタンが表示されている。",
+          "link": "https://www.itmedia.co.jp/news/articles/2204/14/news076.html",
+          "publishedOn": "2022-04-14T00:17:00.000Z",
+          "wordCount": 144,
+          "title": "TikTok、コメントに「嫌い」を付ける機能のテストを開始",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2204/14/cover_news076.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2204/14/news061.html",
+          "author": null,
+          "description": "カセットテープから逆回転の歌が聴こえたら、それは良いニュースかもしれない。",
+          "link": "https://www.itmedia.co.jp/news/articles/2204/14/news061.html",
+          "publishedOn": "2022-04-13T23:53:00.000Z",
+          "wordCount": 158,
+          "title": "Macが生まれた年からの贈り物は、逆回転で「タイム・アフター・タイム」と囁く",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2204/14/cover_news061.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2204/14/news064.html",
+          "author": null,
+          "description": "JR西日本は、駅ホームから転落した人を赤外線センサーで自動検知し、電車を止めるシステムを開発したと発表した。検知から5秒程度で運転士に異常が伝わるといい、2022年度中に複数の駅で整備する。自動検知で異常を知らせるシステムは国内初という。",
+          "link": "https://www.itmedia.co.jp/news/articles/2204/14/news064.html",
+          "publishedOn": "2022-04-13T22:00:00.000Z",
+          "wordCount": 139,
+          "title": "線路への転落を自動検知、JR西が新システム開発",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2204/14/l_RT2UXM77LRMRFCRVSUI72TIK3A_1.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2204/14/news063.html",
+          "author": null,
+          "description": "LINEがNFT取引所を開設した。NFTはデジタルデータの唯一性を証明する技術で、オリジナルのデータは高値で取引されることもあり、企業の参入が相次いでいる。コピーが簡単なデジタルデータに新しい価値を生み出す取り組みとして注目される。",
+          "link": "https://www.itmedia.co.jp/news/articles/2204/14/news063.html",
+          "publishedOn": "2022-04-13T22:00:00.000Z",
+          "wordCount": 140,
+          "title": "LINEのNFT取引所オープン　参入相次ぐも価値は未知数",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2204/14/l_TCPT6NRX6JL3RJCIGQE5VZAFCY_1.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2204/14/news062.html",
+          "author": null,
+          "description": "2021年度下半期の乗用車販売で、電動車がエンジン車を逆転した。半期ベースで電動車がエンジン車を上回るのは初めて。ガソリン価格の歴史的な高値が続く中、エンジン車に比べて燃費がいい電動車の人気が一段と高まっている。",
+          "link": "https://www.itmedia.co.jp/news/articles/2204/14/news062.html",
+          "publishedOn": "2022-04-13T22:00:00.000Z",
+          "wordCount": 142,
+          "title": "電動車がエンジン車逆転　半期の販売で初、燃費良好",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2204/14/l_Y5M75UFHWVKFDPO2Y6JE2ZRC24_1.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2204/14/news052.html",
+          "author": null,
+          "description": "2022年入社の新卒エンジニアに本を1冊勧めるとしたら、何がいい？──サイバーエージェントが社内アンケートの結果を公開。ITエンジニア約40人から回答が集まったという。",
+          "link": "https://www.itmedia.co.jp/news/articles/2204/14/news052.html",
+          "publishedOn": "2022-04-13T22:00:00.000Z",
+          "wordCount": 147,
+          "title": "「新人エンジニアにおすすめの本ある？」　サイバーエージェントが社内アンケートの結果公開",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2204/14/cover_news052.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2204/14/news068.html",
+          "author": null,
+          "description": "米Nianticは14日、最新のAR技術を投入したスマートフォン向けの位置情報ゲーム「Peridot」（ペリドット）を発表した。今後、数週間かけて技術検証を行う。",
+          "link": "https://www.itmedia.co.jp/news/articles/2204/14/news068.html",
+          "publishedOn": "2022-04-13T17:01:00.000Z",
+          "wordCount": 160,
+          "title": "ポケモンGOの米Nianticが新たなARゲーム「ペリドット」公開　バーチャルペットを育てて繁殖",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2204/14/l_ts0153_peridot01.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2204/13/news183.html",
+          "author": null,
+          "description": "アンカー・ジャパンは、財布に最適なカード型スマートトラッカー「Eufy SmartTrack Card」と、鍵などに取り付けるタグ型スマートトラッカー「Eufy SmartTrack Link」を発表した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2204/13/news183.html",
+          "publishedOn": "2022-04-13T12:55:00.000Z",
+          "wordCount": 178,
+          "title": "Appleの「探す」と連携予定　Ankerから忘れ物防止タグ2機種　AirTagにはないカード型も",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2204/13/cover_news183.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2204/13/news181.html",
+          "author": null,
+          "description": "スポーツ動画配信サービス「DAZN」で不具合が発生し、一部ユーザーがログイン状態になっている。",
+          "link": "https://www.itmedia.co.jp/news/articles/2204/13/news181.html",
+          "publishedOn": "2022-04-13T11:59:00.000Z",
+          "wordCount": 155,
+          "title": "DAZNで不具合発生、一部ユーザーがログインできず　「野球中継が見れない」と怒りの声",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2204/13/cover_news181.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2204/13/news178.html",
+          "author": null,
+          "description": "あるユーザーがツイートした「有線イヤフォンを使っている人を見ると、ITリテラシーが低く感じられる」という旨の投稿が話題になっている。メーカーや著名人なども反応しているが「炎上商法ではないか」と指摘する声も挙がっている。",
+          "link": "https://www.itmedia.co.jp/news/articles/2204/13/news178.html",
+          "publishedOn": "2022-04-13T11:07:00.000Z",
+          "wordCount": 156,
+          "title": "「有線イヤフォン使いは厄介でITリテラシーが低い」？　音楽などの聴き方巡りSNSで物議、実は“炎上商法”かも",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2204/13/cover_news178.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2204/13/news175.html",
+          "author": null,
+          "description": "2022年度末までに、スマートフォンへのマイナンバーカード機能が実装される。同機能の官民での利用を推進する、デジタルアイデンティティ推進コンソーシアムの松田学代表理事は「日本が世界のデジタル革命を先導する」と活動への意気込みを話す。",
+          "link": "https://www.itmedia.co.jp/news/articles/2204/13/news175.html",
+          "publishedOn": "2022-04-13T10:27:00.000Z",
+          "wordCount": 150,
+          "title": "スマホにマイナンバーカード機能、22年度末までに　推進団体は「日本が世界のデジタル革命を先導する」",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2204/13/cover_news175.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2204/13/news166.html",
+          "author": null,
+          "description": "Twitterで、TP-Link製Bluetoothレシーバー同士でMACレシーバーが重複していることが話題になった。同社はほとんどのブランドが同様の仕様になっているとしているが、バッファローやアイ・オー・データ機器などは重複する事はないとしている。",
+          "link": "https://www.itmedia.co.jp/news/articles/2204/13/news166.html",
+          "publishedOn": "2022-04-13T09:30:00.000Z",
+          "wordCount": 147,
+          "title": "TP-Link製Bluetooth機器でMACアドレスが重複　「他社も同様」と説明　BUFFALO、IODATAは否定",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2204/13/cover_news166.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2204/13/news157.html",
+          "author": null,
+          "description": "アンカー・ジャパンは、同社のオーディオブランド「Soundcore」初のオーディオグラスを国内販売すると発表した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2204/13/news157.html",
+          "publishedOn": "2022-04-13T08:20:00.000Z",
+          "wordCount": 164,
+          "title": "Anker、「スピーカー付きメガネ」を国内販売へ　1万9990円　マイクも内蔵",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2204/13/cover_news157.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2204/13/news149.html",
+          "author": null,
+          "description": "法改正により、事業者を跨いだデータの活用に関する規制が複雑化した。一方で、この状況をビジネスチャンスにつなげるスタートアップも出ている。そのヒミツは「秘密計算」だ。",
+          "link": "https://www.itmedia.co.jp/news/articles/2204/13/news149.html",
+          "publishedOn": "2022-04-13T07:24:00.000Z",
+          "wordCount": 169,
+          "title": "企業横断のデータ活用に「秘密計算」で挑む　法改正の隙間に生まれた市場を狙うSaaSスタートアップ",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2204/13/cover_news149.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2204/13/news141.html",
+          "author": null,
+          "description": "ソースネクスト傘下のポケトークは、同社の翻訳デバイス「ポケトーク」と同等の機能をスマートフォンで使える翻訳アプリを25日から提供すると発表した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2204/13/news141.html",
+          "publishedOn": "2022-04-13T06:45:00.000Z",
+          "wordCount": 145,
+          "title": "「ポケトーク」にスマホアプリ登場　週額120円から　4月25日提供開始",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2204/13/cover_news141.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2204/13/news134.html",
+          "author": null,
+          "description": "アドビは、モーショングラフィックスやVFX合成を可能にする「Adobe After Effects」が「Appleシリコン」にネイティブ対応したと発表した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2204/13/news134.html",
+          "publishedOn": "2022-04-13T06:15:00.000Z",
+          "wordCount": 184,
+          "title": "「After Effects」がAppleシリコンにネイティブ対応　最大3倍高速に",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2204/13/cover_news134.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2204/13/news116.html",
+          "author": null,
+          "description": "ソフトバンクロボティクスグループは、一部で報道された人型ロボット「Pepper」事業の売却について、「事実ではない」とするコメントを発表した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2204/13/news116.html",
+          "publishedOn": "2022-04-13T04:50:00.000Z",
+          "wordCount": 152,
+          "title": "「Pepper事業は今後も強力に推進」　ソフトバンクロボティクスGが売却報道にコメント",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2204/13/cover_news116.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2204/13/news106.html",
+          "author": null,
+          "description": "バッファローは13日、PlayStation 5用アプリ「torne」のアップデートで「nasne」の「ニコニコ実況」連携機能が復活したと発表した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2204/13/news106.html",
+          "publishedOn": "2022-04-13T03:48:00.000Z",
+          "wordCount": 153,
+          "title": "「nasne」のニコニコ実況連携機能、PS5で復活　PS4とスマホは「順次」",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2204/13/cover_news106.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2204/13/news103.html",
+          "author": null,
+          "description": "日本アイ・ビー・エムと順天堂大学が、メタバース技術を活用した医療サービスの共同開発を始める。「順天堂バーチャルホスピタル」を構築する他、中期的にはバーチャル空間での活動がメンタルヘルスなどの疾患の改善に与える影響などを検証する。",
+          "link": "https://www.itmedia.co.jp/news/articles/2204/13/news103.html",
+          "publishedOn": "2022-04-13T03:30:00.000Z",
+          "wordCount": 149,
+          "title": "日本IBMがメタバースに病院構築へ　順天堂大と共同研究",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2204/13/cover_news103.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2204/13/news101.html",
+          "author": null,
+          "description": "「質問に回答していくだけであら不思議、著作権契約書ができる」──そんな口コミで話題になっているのが、文化庁が作成したWebフォーム「文化庁著作権契約書作成支援システム」だ。必要な項目を入力・選択するだけで、著作権契約書のひな型を作成できる。",
+          "link": "https://www.itmedia.co.jp/news/articles/2204/13/news101.html",
+          "publishedOn": "2022-04-13T03:19:00.000Z",
+          "wordCount": 153,
+          "title": "質問に答えるだけで著作権契約書が作れるWebフォームが話題　文化庁が作成、その狙いは？",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2204/13/cover_news101.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2204/13/news102.html",
+          "author": null,
+          "description": "ソニー損保は13日、コロナ禍の引っ越しでオンライン活用が進み、スピード引っ越しにつながったとする調査結果を発表した。一方でテレワークを理由にした転居は3.5％に止まった。",
+          "link": "https://www.itmedia.co.jp/news/articles/2204/13/news102.html",
+          "publishedOn": "2022-04-13T03:15:00.000Z",
+          "wordCount": 152,
+          "title": "テレワークのための引っ越しは3.5%止まり、オンライン活用でスピード転居に　ソニー損保調査",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2204/13/cover_news102.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2204/13/news097.html",
+          "author": null,
+          "description": "VRアバターによるコミュニケーションは、ビデオチャットより“素の自分”をさらけ出す――こんな実験結果を、東京都市大学などが発表した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2204/13/news097.html",
+          "publishedOn": "2022-04-13T02:54:00.000Z",
+          "wordCount": 144,
+          "title": "VRアバターはビデオチャットより“素の自分”さらけ出す　東京都市大など研究",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2204/13/cover_news097.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2204/13/news088.html",
+          "author": null,
+          "description": "マイナンバーカード交付率78.0％で全国市区別1位は、宮崎県都城（みやこのじょう）市だ。その理由は。",
+          "link": "https://www.itmedia.co.jp/news/articles/2204/13/news088.html",
+          "publishedOn": "2022-04-13T02:18:00.000Z",
+          "wordCount": 147,
+          "title": "マイナンバーカード交付率全国トップ　地方都市が達成した理由",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2204/13/cover_news088.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2204/13/news082.html",
+          "author": null,
+          "description": "NTTドコモが、5Gネットワークを活用したクラウド基盤「ドコモオープンイノベーションクラウド」の拠点を増やす。6月末までに東北、北陸エリアなど5カ所に新拠点を設ける。7月にはサービス名も「docomo MEC」（ドコモメック）に変更する。",
+          "link": "https://www.itmedia.co.jp/news/articles/2204/13/news082.html",
+          "publishedOn": "2022-04-13T01:49:00.000Z",
+          "wordCount": 152,
+          "title": "ドコモの5G活用クラウド基盤、東北など5カ所に拠点増設　サービス名も変更へ",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2204/13/cover_news082.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2204/13/news083.html",
+          "author": null,
+          "description": "ソフトバンクロボティクスグループは、人型ロボット「Pepper」を開発した仏子会社を、独United Robotics Groupが買収すると発表した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2204/13/news083.html",
+          "publishedOn": "2022-04-13T01:30:00.000Z",
+          "wordCount": 153,
+          "title": "ソフトバンクG、「Pepper」開発元を独企業に売却へ　社名は元の「アルデバラン」に",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2204/13/cover_news083.jpg"
+        },
+        {
           "id": "https://www.itmedia.co.jp/news/articles/2204/13/news070.html",
           "author": null,
           "description": "政府は「スーパーシティ」に茨城県つくば市と大阪市を指定するため、国家戦略特区を定める政令改正を閣議決定した。政府は今後、それぞれの特区について自治体首長らが参加する国家戦略特区会議を設置し、区域計画案を作成する。",
@@ -384,256 +634,6 @@
           "wordCount": 168,
           "title": "ソニー、Epic Gamesに10億ドル(約1254億円）の追加出資",
           "imageUrl": "https://image.itmedia.co.jp/news/articles/2204/12/cover_news069.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2204/11/news161.html",
-          "author": null,
-          "description": "スマートリモコン「Nature Remo」などを手掛けるNatureは4月11日、電力小売サービス「Natureスマート電気」を終了すると発表した。",
-          "link": "https://www.itmedia.co.jp/news/articles/2204/11/news161.html",
-          "publishedOn": "2022-04-11T11:40:00.000Z",
-          "wordCount": 146,
-          "title": "電力価格高騰で「採算性の担保が困難」――新電力「Natureスマート電気」終了へ　6月30日で供給停止",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2204/11/cover_news161.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2204/11/news160.html",
-          "author": null,
-          "description": "経済産業省の産業サイバーセキュリティ研究会が「産業界へのメッセージ」を発表した。サイバー攻撃が増加傾向にあるとして、対策の徹底、攻撃を受けた際の適切な対応、支援制度の活用を呼び掛けた。",
-          "link": "https://www.itmedia.co.jp/news/articles/2204/11/news160.html",
-          "publishedOn": "2022-04-11T11:15:00.000Z",
-          "wordCount": 145,
-          "title": "増えるサイバー攻撃に経産省が警鐘　産業界へ「セキュリティ対策徹底」呼び掛け",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2204/11/cover_news160.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2204/11/news159.html",
-          "author": null,
-          "description": "集英社が漫画アプリ「ジャンプ＋」で公開した、漫画「チェンソーマン」作者・藤本タツキさん新作読み切り「さよなら絵梨」が話題だ。閲覧数は公開から1日足らずで220万回を突破。Twitterでも「 ＃さよなら絵梨」といったワードがトレンド入りした。",
-          "link": "https://www.itmedia.co.jp/news/articles/2204/11/news159.html",
-          "publishedOn": "2022-04-11T10:56:00.000Z",
-          "wordCount": 150,
-          "title": "「チェンソーマン」作者の新作読み切り「さよなら絵梨」、公開から1日足らずで閲覧数220万超え　ジャンプ＋で無料公開中",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2204/11/cover_news159.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2204/11/news158.html",
-          "author": null,
-          "description": "経済産業省は11日、夏前のエアコン試運転を呼びかけた。今年はエアコンメーカーや業界団体も歩調を合わせて早期の試運転を呼び掛け始めた。",
-          "link": "https://www.itmedia.co.jp/news/articles/2204/11/news158.html",
-          "publishedOn": "2022-04-11T10:48:00.000Z",
-          "wordCount": 149,
-          "title": "早めの「エアコン試運転」、経産省など呼び掛け　去年は購入者の3割が“2週間待ち”に",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2204/11/cover_news158.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2204/11/news156.html",
-          "author": null,
-          "description": "民法公式テレビ配信サービス「TVer」が、民放が放送する番組のリアルタイム配信を4月11日午後6時からスタートした。ゴールデン・プライムタイムを中心に全国で視聴できる。",
-          "link": "https://www.itmedia.co.jp/news/articles/2204/11/news156.html",
-          "publishedOn": "2022-04-11T10:20:00.000Z",
-          "wordCount": 143,
-          "title": "「TVer」で民放5社のリアルタイム配信開始　プライム帯などの番組を全国で",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2204/11/cover_news156.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2204/11/news152.html",
-          "author": null,
-          "description": "「人事部門に丸投げではクラウド人材育成は進まない」──AWSジャパンが日本のクラウド人材育成に危機感をあらわに。経営陣の理解不足を補うサービスとして、人材育成に向けた計画立案や学習コンテンツの調達などを包括的に支援するサービスを提供する。",
-          "link": "https://www.itmedia.co.jp/news/articles/2204/11/news152.html",
-          "publishedOn": "2022-04-11T10:05:00.000Z",
-          "wordCount": 176,
-          "title": "「人事に丸投げではクラウド人材育成は進まない」──AWSジャパンが危機感　包括的な育成支援サービス提供へ",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2204/11/cover_news152.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2204/11/news148.html",
-          "author": null,
-          "description": "明治大学とキリンホールディングスは、減塩食品の味わいを増強させる箸型デバイスを開発した。減塩食を食べたときに感じる塩味が1.5倍程度に増強されることを世界で初めて確認したという。",
-          "link": "https://www.itmedia.co.jp/news/articles/2204/11/news148.html",
-          "publishedOn": "2022-04-11T09:49:00.000Z",
-          "wordCount": 152,
-          "title": "減塩食を“しょっぱく”感じる箸型デバイス、明大とキリンが開発　電気で味覚を操作",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2204/11/cover_news148.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2204/11/news144.html",
-          "author": null,
-          "description": "サイボウズがノーコード開発ツール「kintone」を、50の自治体限定で1年間無料提供する。",
-          "link": "https://www.itmedia.co.jp/news/articles/2204/11/news144.html",
-          "publishedOn": "2022-04-11T09:30:00.000Z",
-          "wordCount": 142,
-          "title": "kintone、自治体向けに1年間無料提供キャンペーン　50団体限定で",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2204/11/cover_news144.png"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2204/11/news138.html",
-          "author": null,
-          "description": "米Appleは、米Analysis Groupのエコノミストが発表したサードパーティーアプリに関する報告書を紹介する形で、自社アプリよりもサードパーティーアプリが人気を獲得しているとの分析を発表した。",
-          "link": "https://www.itmedia.co.jp/news/articles/2204/11/news138.html",
-          "publishedOn": "2022-04-11T09:30:00.000Z",
-          "wordCount": 171,
-          "title": "Amazonプライム・ビデオ、日本だとApple TVより407倍人気　Appleが分析結果を公開",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2204/11/cover_news138.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2204/11/news131.html",
-          "author": null,
-          "description": "「スマホで日程を管理をするのに便利なアプリを教えてください」──河野太郎衆議院議員は4月10日、このようなツイートを投稿した。これに対して、Twitterユーザーたちはさまざまな日程管理アプリを勧めている。",
-          "link": "https://www.itmedia.co.jp/news/articles/2204/11/news131.html",
-          "publishedOn": "2022-04-11T08:05:00.000Z",
-          "wordCount": 171,
-          "title": "河野太郎議員「便利な日程管理アプリを教えて」　Twitterユーザーたちが勧めるカレンダーアプリは？",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2204/11/cover_news131.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2204/11/news121.html",
-          "author": null,
-          "description": "エディオングループが運用するサーバが不正アクセスを受け、8万件近いデータが削除された。データが流出した可能性もあるとして原因の調査を行う。",
-          "link": "https://www.itmedia.co.jp/news/articles/2204/11/news121.html",
-          "publishedOn": "2022-04-11T07:15:00.000Z",
-          "wordCount": 145,
-          "title": "エディオングループに不正アクセス　約8万件のデータが消される　流出の可能性も",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2204/11/cover_news121.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2204/11/news079.html",
-          "author": null,
-          "description": "Sansanが、名刺管理サービス「Sansan」の営業支援機能を強化する。まずは帝国データバンクと連携し、企業データベースを拡充する。「Sansan＝名刺のイメージを変え、営業に活用できるツールとしても認知を広げる」という。",
-          "link": "https://www.itmedia.co.jp/news/articles/2204/11/news079.html",
-          "publishedOn": "2022-04-11T06:00:00.000Z",
-          "wordCount": 146,
-          "title": "「“Sansan＝名刺”のイメージ変える」──Sansanが営業DX分野に本腰　まずは企業データベースを拡充",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2204/11/cover_news079.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2204/11/news099.html",
-          "author": null,
-          "description": "「これからの働き方を考える」調査レポートの結果を、小寺信良さんが読み解く。",
-          "link": "https://www.itmedia.co.jp/news/articles/2204/11/news099.html",
-          "publishedOn": "2022-04-11T04:57:00.000Z",
-          "wordCount": 152,
-          "title": "「働き方」はテレワークで変えられるのか　「完全リモートでも東京で暮らしたい」から考えた",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2204/11/cover_news099.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2204/11/news097.html",
-          "author": null,
-          "description": "ファクトリー10日、鳩のメタバース「ハトバース」のAndroid版の配信を始めた。ダウンロードは無料。",
-          "link": "https://www.itmedia.co.jp/news/articles/2204/11/news097.html",
-          "publishedOn": "2022-04-11T04:44:00.000Z",
-          "wordCount": 159,
-          "title": "2分で飽きると話題のメタバース「ハトバース」にAndroid版　家も建った",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2204/11/cover_news097.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2204/11/news093.html",
-          "author": null,
-          "description": "Twitterの筆頭株主となったイーロン・マスク氏は同社の取締役にならないと決断したと、米TwitterでCEOを務めるパラグ・アグラワル氏が明かした。",
-          "link": "https://www.itmedia.co.jp/news/articles/2204/11/news093.html",
-          "publishedOn": "2022-04-11T04:25:00.000Z",
-          "wordCount": 144,
-          "title": "イーロン・マスク氏、Twitterの取締役を辞退　同社CEOが明かす",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2204/11/cover_news093.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2204/11/news089.html",
-          "author": null,
-          "description": "曲名を入力するだけで自動作曲できるWebサイト「ポンコツ自動作曲ちゃん」が話題になっている。作詞や作曲、Web制作などを手掛けるクリエイターのdaniwellさんが制作したもので、好きな言葉を入れることで、数秒～数十秒程度の短めの音楽を自動生成する。",
-          "link": "https://www.itmedia.co.jp/news/articles/2204/11/news089.html",
-          "publishedOn": "2022-04-11T03:49:00.000Z",
-          "wordCount": 153,
-          "title": "曲名から自動で楽曲生成「ポンコツ自動作曲ちゃん」が話題　音楽は動画や配信でも利用可",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2204/11/cover_news089.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2204/11/news078.html",
-          "author": null,
-          "description": "松井証券の公式Webサイトや取引アプリで接続障害が発生した。障害は18分で解消したが、原因や影響範囲は調査中。障害により損失を出したと不満を漏らすユーザーも。",
-          "link": "https://www.itmedia.co.jp/news/articles/2204/11/news078.html",
-          "publishedOn": "2022-04-11T02:40:00.000Z",
-          "wordCount": 142,
-          "title": "松井証券で一時接続障害　注文通らず「損失出た」の声も",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2204/11/cover_news078.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2204/11/news023.html",
-          "author": null,
-          "description": "ユーザーコミュニティー施策に取り組むSmartHR。同社が期待するユーザーコミュニティー活性化の効果とは。専門チームのメンバーに聞く。",
-          "link": "https://www.itmedia.co.jp/news/articles/2204/11/news023.html",
-          "publishedOn": "2022-04-11T01:00:00.000Z",
-          "wordCount": 159,
-          "title": "SaaSビジネスにおけるユーザーコミュニティーの真価　解約率の改善にはつながる？　継続率99％超を保つSmartHRの考え",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2204/11/cover_news023.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2204/11/news043.html",
-          "author": null,
-          "description": "香港城市大学と米Microsoft Research、Microsoft Cloud+AIによる研究チームは、劣化の激しい古い白黒映画を修復しカラー映像に変換する深層学習フレームワークを開発した。古い映像にある独特のフィルムノイズなどを修復し、色付けを行う。",
-          "link": "https://www.itmedia.co.jp/news/articles/2204/11/news043.html",
-          "publishedOn": "2022-04-10T23:00:00.000Z",
-          "wordCount": 188,
-          "title": "古い白黒映画を“昨日撮影したかのように”AIが修復　フィルムノイズを除去しカラー",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2204/11/cover_news043.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2204/11/news042.html",
-          "author": null,
-          "description": "韓国のKorea Institute of Science and Technologyなどの究チームは、伸縮性があるリチウムイオン電池を開発した。電極、集電体、セパレータ、封止材など、全ての構成要素が伸縮自在。実験では衣服表面にプリントしてスマートウォッチの充電に成功した。",
-          "link": "https://www.itmedia.co.jp/news/articles/2204/11/news042.html",
-          "publishedOn": "2022-04-10T23:00:00.000Z",
-          "wordCount": 208,
-          "title": "伸縮性がある伸びる電池、服に印刷してスマートウォッチを充電　韓国の研究チームが開発",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2204/11/cover_news042.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2204/11/news058.html",
-          "author": null,
-          "description": "ロシアによる軍事侵攻で困窮するウクライナ人を支援しようと、大阪のベンチャー企業がウクライナ人起業家とともに、避難先でも可能なIT関連の仕事を避難民に紹介する事業を始めた。息の長い支援につながる可能性もあり、注目が集まっている。",
-          "link": "https://www.itmedia.co.jp/news/articles/2204/11/news058.html",
-          "publishedOn": "2022-04-10T22:00:00.000Z",
-          "wordCount": 146,
-          "title": "ウクライナのIT人材活用　18歳女性副社長が就労支援",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2204/11/l_7ZW2HBM4ZZPCJBSXQ6MNWNWSAI_1.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2204/11/news057.html",
-          "author": null,
-          "description": "エアコン業界では、省エネ性能の高いエアコンのサブスクリプション制度や、CO2排出量の少ない「ヒートポンプ式」暖房機器の増産など、脱炭素に軸足を置いたビジネスを各社が展開する。",
-          "link": "https://www.itmedia.co.jp/news/articles/2204/11/news057.html",
-          "publishedOn": "2022-04-10T22:00:00.000Z",
-          "wordCount": 153,
-          "title": "節電エアコンをサブスク　脱炭素時代の新世界戦略",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2204/11/l_PFASHI22HVMXBO2ERRWJHNQW7Q_1.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2204/11/news056.html",
-          "author": null,
-          "description": "「NewDays」で、4月中旬からPayPayの導入が始まることで、PayPayが全国のほぼ全てのコンビニエンスストアで利用可能になる見通しとなった。NewDaysではJR東が自社の電子マネー「Suica」を優先する姿勢のため、コード決済の導入が遅れていた。",
-          "link": "https://www.itmedia.co.jp/news/articles/2204/11/news056.html",
-          "publishedOn": "2022-04-10T22:00:00.000Z",
-          "wordCount": 140,
-          "title": "PayPay、全国のほぼ全てのコンビニを制覇　NewDaysで4月中旬から順次導入",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2204/11/l_3Z7Q44TXNNDXPHRMMZJ3TZTEMU_1.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2204/11/news046.html",
-          "author": null,
-          "description": "いわゆる“3大クラウド”（AWS、Azure、GCP）が提供するサービスのうち、設定ミスが起きやすいのは？──トレンドマイクロがこんな調査結果を発表。設定ミスが起きやすい機能などを、クラウドサービスごとに割り出した。",
-          "link": "https://www.itmedia.co.jp/news/articles/2204/11/news046.html",
-          "publishedOn": "2022-04-10T22:00:00.000Z",
-          "wordCount": 161,
-          "title": "“3大クラウド”での設定ミスランキング、トレンドマイクロが発表　中にはミス率98％のサービスも",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2204/11/cover_news046.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2204/11/news062.html",
-          "author": null,
-          "description": "Twitter株の9.2％を購入し、同社取締役に就任したイーロン・マスク氏が就任後の週末にTwitter改革に関連するツイートを連投した。サブスク版「Twitter Blue」に認証バッジを追加するべき、などだ。",
-          "link": "https://www.itmedia.co.jp/news/articles/2204/11/news062.html",
-          "publishedOn": "2022-04-10T21:59:00.000Z",
-          "wordCount": 147,
-          "title": "「Twitterは死にかけ？」「Blueに認証バッジを」──イーロン・マスク取締役が週末にツイート連投",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2204/11/cover_news062.jpg"
         }
       ]
     },
@@ -642,6 +642,106 @@
       "feedUrl": "https://qiita.com/popular-items/feed",
       "siteUrl": "https://qiita.com/popular-items",
       "articles": [
+        {
+          "id": "https://qiita.com/inukai-masanori/items/82eb0626fd75f3eb0922?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "始めに\n\n私は最近エンジニアに復帰し、現場で便利に思ったことを今後記事にできたらと思っています。\nそして1発目は、gitのオプションについて記事を書いてみようと思います。\n\n--fixup はどんな時…",
+          "link": "https://qiita.com/inukai-masanori/items/82eb0626fd75f3eb0922?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2022-04-13T12:37:09.000Z",
+          "wordCount": 376,
+          "title": "git commit --fixup が便利",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTkxNiZ0eHQ9Z2l0JTIwY29tbWl0JTIwLS1maXh1cCUyMCVFMyU4MSU4QyVFNCVCRSVCRiVFNSU4OCVBOSZ0eHQtY29sb3I9JTIzMjEyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1jbGlwPWVsbGlwc2lzJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnM9ZTQ4YmExZTk2YzFmY2Y0NWYwNGJkOGJhYzVjYmM4NmM&mark-x=142&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTYxNiZ0eHQ9JTQwaW51a2FpLW1hc2Fub3JpJnR4dC1jb2xvcj0lMjMyMTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LWFsaWduPWxlZnQlMkN0b3Amcz01YjhkNDFjOGQ4OWY0M2Y0MzM2YWNmZWNjNmJlMzdiNw&blend-x=142&blend-y=491&blend-mode=normal&s=894b67450b173de5e2b0304a45aa271a"
+        },
+        {
+          "id": "https://qiita.com/sugulu_Ogawa_ISID/items/36e2370c1ba2ed3de607?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "本記事では、「良い文章」を書くための重要スキルである「パラグラフライティング」について、内容の解説、実践方法、学び方を紹介します。\n\n（Qiitaでは現在、新人プログラマ応援 - みんなで新人を育てよ…",
+          "link": "https://qiita.com/sugulu_Ogawa_ISID/items/36e2370c1ba2ed3de607?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2022-04-13T08:46:41.000Z",
+          "wordCount": 281,
+          "title": "良い文章を書く重要スキル、「パラグラフライティング」の解説",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTkxNiZ0eHQ9JUU4JTg5JUFGJUUzJTgxJTg0JUU2JTk2JTg3JUU3JUFCJUEwJUUzJTgyJTkyJUU2JTlCJUI4JUUzJTgxJThGJUU5JTg3JThEJUU4JUE2JTgxJUUzJTgyJUI5JUUzJTgyJUFEJUUzJTgzJUFCJUUzJTgwJTgxJUUzJTgwJThDJUUzJTgzJTkxJUUzJTgzJUE5JUUzJTgyJUIwJUUzJTgzJUE5JUUzJTgzJTk1JUUzJTgzJUE5JUUzJTgyJUE0JUUzJTgzJTg2JUUzJTgyJUEzJUUzJTgzJUIzJUUzJTgyJUIwJUUzJTgwJThEJUUzJTgxJUFFJUU4JUE3JUEzJUU4JUFBJUFDJnR4dC1jb2xvcj0lMjMyMTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LWNsaXA9ZWxsaXBzaXMmdHh0LWFsaWduPWxlZnQlMkN0b3Amcz05ODk5ZTBhNWRlMzVlMGI3M2QyMWNkMWU1ZGY1ZTE1Yw&mark-x=142&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTYxNiZ0eHQ9JTQwc3VndWx1X09nYXdhX0lTSUQmdHh0LWNvbG9yPSUyMzIxMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZzPWIwMDEwYjBiMDFjODdkYmVjMTlkMjQ5ZGY0MjI4ODRi&blend-x=142&blend-y=491&blend-mode=normal&s=5cb21e5030d5f1a10e8a13e32799c3e7"
+        },
+        {
+          "id": "https://qiita.com/maskot1977/items/77008b9737218fa1c21d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "変分オートエンコーダー VAE (Variational Autoencoder) と 敵対的生成ネットワークGAN (Generative Adversarial Network) に入門する例と…",
+          "link": "https://qiita.com/maskot1977/items/77008b9737218fa1c21d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2022-04-13T03:06:53.000Z",
+          "wordCount": 4577,
+          "title": "VAEとGANで分子生成入門",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTkxNiZ0eHQ9VkFFJUUzJTgxJUE4R0FOJUUzJTgxJUE3JUU1JTg4JTg2JUU1JUFEJTkwJUU3JTk0JTlGJUU2JTg4JTkwJUU1JTg1JUE1JUU5JTk2JTgwJnR4dC1jb2xvcj0lMjMyMTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LWNsaXA9ZWxsaXBzaXMmdHh0LWFsaWduPWxlZnQlMkN0b3Amcz0zZjE5ZTZiOTJiYjE1ZjQwMjhiYWEzOWQ1OWZkODY2OQ&mark-x=142&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTYxNiZ0eHQ9JTQwbWFza290MTk3NyZ0eHQtY29sb3I9JTIzMjEyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnM9YjhmYWRhNmQ0ZGZkYWQ3YmVjNDllZGQ2NGVkM2VhMmU&blend-x=142&blend-y=491&blend-mode=normal&s=9985a82fddd99adf3c0ef2d194cbce46"
+        },
+        {
+          "id": "https://qiita.com/TMYTMY/items/a9f5bfbabc0744b2b1d2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "Android12とPixel6の発売のために、Googleのアプリの多くはすでにMaterialYou（Material Design 3）に更新されています。 2021年のAndroidDev…",
+          "link": "https://qiita.com/TMYTMY/items/a9f5bfbabc0744b2b1d2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2022-04-13T02:55:42.000Z",
+          "wordCount": 239,
+          "title": "Material 3 vs Material 2 !? UIコンポーネント比較まとめ−1",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTkxNiZ0eHQ9TWF0ZXJpYWwlMjAzJTIwdnMlMjBNYXRlcmlhbCUyMDIlMjAlMjElM0YlMjBVSSVFMyU4MiVCMyVFMyU4MyVCMyVFMyU4MyU5RCVFMyU4MyVCQyVFMyU4MyU4RCVFMyU4MyVCMyVFMyU4MyU4OCVFNiVBRiU5NCVFOCVCQyU4MyVFMyU4MSVCRSVFMyU4MSVBOCVFMyU4MiU4MSVFMiU4OCU5MjEmdHh0LWNvbG9yPSUyMzIxMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtY2xpcD1lbGxpcHNpcyZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZzPTZiN2QwODk4NmMxNWQxZDNhYmUzYjY3MDA2ZTU0ZmVl&mark-x=142&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTYxNiZ0eHQ9JTQwVE1ZVE1ZJnR4dC1jb2xvcj0lMjMyMTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LWFsaWduPWxlZnQlMkN0b3Amcz0yMmU2ZDA4MzhjODMyYjJkMzI4ODdiNzk5ZGFmNWE2OQ&blend-x=142&blend-y=491&blend-mode=normal&s=5b479a60815d2cff81b6ca6c5663585b"
+        },
+        {
+          "id": "https://qiita.com/Qiita/items/c07f3262d8f3b25f06c9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nQiitaでMermaidによるダイアグラムが使えるようになりました!\n\nhttps://qiita.com/release-notes#2022-04-12\n\nもともとQiitaではPla…",
+          "link": "https://qiita.com/Qiita/items/c07f3262d8f3b25f06c9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2022-04-13T02:30:31.000Z",
+          "wordCount": 485,
+          "title": "【Mermaidの紹介】Qiitaでダイアグラム・チャートが簡単に書けるようになりました！",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTkxNiZ0eHQ9JUUzJTgwJTkwTWVybWFpZCVFMyU4MSVBRSVFNyVCNCVCOSVFNCVCQiU4QiVFMyU4MCU5MVFpaXRhJUUzJTgxJUE3JUUzJTgzJTgwJUUzJTgyJUE0JUUzJTgyJUEyJUUzJTgyJUIwJUUzJTgzJUE5JUUzJTgzJUEwJUUzJTgzJUJCJUUzJTgzJTgxJUUzJTgzJUEzJUUzJTgzJUJDJUUzJTgzJTg4JUUzJTgxJThDJUU3JUIwJUExJUU1JThEJTk4JUUzJTgxJUFCJUU2JTlCJUI4JUUzJTgxJTkxJUUzJTgyJThCJUUzJTgyJTg4JUUzJTgxJTg2JUUzJTgxJUFCJUUzJTgxJUFBJUUzJTgyJThBJUUzJTgxJUJFJUUzJTgxJTk3JUUzJTgxJTlGJUVGJUJDJTgxJnR4dC1jb2xvcj0lMjMyMTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LWNsaXA9ZWxsaXBzaXMmdHh0LWFsaWduPWxlZnQlMkN0b3Amcz0xODI5YzU2YzExOTVmZjdmMTE0YWViNWM5YmMyN2MxMg&mark-x=142&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTYxNiZ0eHQ9JTQwUWlpdGEmdHh0LWNvbG9yPSUyMzIxMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZzPTExZjUzMjRiM2M5YTIwOGQ1OTc2Yjg5M2U5YjM2MThk&blend-x=142&blend-y=491&blend-mode=normal&s=423de3fb4472ee27028a169f796c425a"
+        },
+        {
+          "id": "https://qiita.com/shimajiri/items/aedeb4f0389a27d78858?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n新人プログラマ応援イベントの参加記事です。\n\nhttps://qiita.com/official-events/3f21c92121aa125807b4\n\n表題の件、何番煎じか分かりません…",
+          "link": "https://qiita.com/shimajiri/items/aedeb4f0389a27d78858?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2022-04-13T01:34:48.000Z",
+          "wordCount": 170,
+          "title": "git pushはgit push origin HEADが便利です",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTkxNiZ0eHQ9Z2l0JTIwcHVzaCVFMyU4MSVBRmdpdCUyMHB1c2glMjBvcmlnaW4lMjBIRUFEJUUzJTgxJThDJUU0JUJFJUJGJUU1JTg4JUE5JUUzJTgxJUE3JUUzJTgxJTk5JnR4dC1jb2xvcj0lMjMyMTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LWNsaXA9ZWxsaXBzaXMmdHh0LWFsaWduPWxlZnQlMkN0b3Amcz02Mzc2Yzk0N2FlNWY4NTE1ODliNTc1ZDQzZjEzZWE2ZA&mark-x=142&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTYxNiZ0eHQ9JTQwc2hpbWFqaXJpJnR4dC1jb2xvcj0lMjMyMTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LWFsaWduPWxlZnQlMkN0b3Amcz1lOWY2OTcyZjI4N2M0OTY5YTE0YzQxMTkzYWNjNjNlMQ&blend-x=142&blend-y=491&blend-mode=normal&s=4abcfbbff1af7e1f0a6a5e4ae33ac020"
+        },
+        {
+          "id": "https://qiita.com/e99h2121/items/9fcae9f340a8e96116c6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "チーズはどこへ消えた? | スペンサー ジョンソン, Johnson,Spencer, 門田 美鈴 |本 | 通販 | Amazon\n2000年頃流行った本である。ちょうど私が大学生であった頃だ。ジ…",
+          "link": "https://qiita.com/e99h2121/items/9fcae9f340a8e96116c6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2022-04-12T21:22:02.000Z",
+          "wordCount": 231,
+          "title": "「チーズはどこへ消えた？」を読んで、ソフトウェア開発に活きると思ったヒントの要点",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTkxNiZ0eHQ9JUUzJTgwJThDJUUzJTgzJTgxJUUzJTgzJUJDJUUzJTgyJUJBJUUzJTgxJUFGJUUzJTgxJUE5JUUzJTgxJTkzJUUzJTgxJUI4JUU2JUI2JTg4JUUzJTgxJTg4JUUzJTgxJTlGJUVGJUJDJTlGJUUzJTgwJThEJUUzJTgyJTkyJUU4JUFBJUFEJUUzJTgyJTkzJUUzJTgxJUE3JUUzJTgwJTgxJUUzJTgyJUJEJUUzJTgzJTk1JUUzJTgzJTg4JUUzJTgyJUE2JUUzJTgyJUE3JUUzJTgyJUEyJUU5JTk2JThCJUU3JTk5JUJBJUUzJTgxJUFCJUU2JUI0JUJCJUUzJTgxJThEJUUzJTgyJThCJUUzJTgxJUE4JUU2JTgwJTlEJUUzJTgxJUEzJUUzJTgxJTlGJUUzJTgzJTkyJUUzJTgzJUIzJUUzJTgzJTg4JUUzJTgxJUFFJUU4JUE2JTgxJUU3JTgyJUI5JnR4dC1jb2xvcj0lMjMyMTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LWNsaXA9ZWxsaXBzaXMmdHh0LWFsaWduPWxlZnQlMkN0b3Amcz1lZTAzZGZiYmY3NjA0ZjQ4NDdhYmRjMmViYjFhMjhhMQ&mark-x=142&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTYxNiZ0eHQ9JTQwZTk5aDIxMjEmdHh0LWNvbG9yPSUyMzIxMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZzPTQxMDRjZjUyZTZkOGY1MWZjMjE4OTBjYWQ3YTI4MDBk&blend-x=142&blend-y=491&blend-mode=normal&s=7a51c36d8fb8ad8ab482ac37b732cac3"
+        },
+        {
+          "id": "https://qiita.com/okinakamasayoshi/items/50aaa3212c2279bc761e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "これ0円で出来んじゃない？\n\nある小売業でずっと営業職(店長)をしていたアナログ人間です。\n 昨年あるプログラミングスクールに通い、LINEを使ったアプリを0から開発。\n クラウドファンディングにも挑戦…",
+          "link": "https://qiita.com/okinakamasayoshi/items/50aaa3212c2279bc761e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2022-04-12T16:11:33.000Z",
+          "wordCount": 593,
+          "title": "コピペでOK! 0円LINEチャットボットを作ろう! #LINEDC #GAS #クイックリプライ",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTkxNiZ0eHQ9JUUzJTgyJUIzJUUzJTgzJTk0JUUzJTgzJTlBJUUzJTgxJUE3T0slMjElMjAwJUU1JTg2JTg2TElORSVFMyU4MyU4MSVFMyU4MyVBMyVFMyU4MyU4MyVFMyU4MyU4OCVFMyU4MyU5QyVFMyU4MyU4MyVFMyU4MyU4OCVFMyU4MiU5MiVFNCVCRCU5QyVFMyU4MiU4RCVFMyU4MSU4NiUyMSUyMCUyM0xJTkVEQyUyMCUyM0dBUyUyMCUyMyVFMyU4MiVBRiVFMyU4MiVBNCVFMyU4MyU4MyVFMyU4MiVBRiVFMyU4MyVBQSVFMyU4MyU5NyVFMyU4MyVBOSVFMyU4MiVBNCZ0eHQtY29sb3I9JTIzMjEyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1jbGlwPWVsbGlwc2lzJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnM9ZTg2MDQ3MTQ0MDZlMzdiNmEyZDcxZDY2MDM0ZGRhMzY&mark-x=142&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTYxNiZ0eHQ9JTQwb2tpbmFrYW1hc2F5b3NoaSZ0eHQtY29sb3I9JTIzMjEyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnM9NzNmNzBlYzRhODk3NWI0N2Q0MmZiZGI3OTcxZTllZDU&blend-x=142&blend-y=491&blend-mode=normal&s=475c09f358b3976f67884d1cc41c2006"
+        },
+        {
+          "id": "https://qiita.com/yuulian/items/4d5477cbbbc48fd2a979?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "リモートワークの普及により、社内コミュニケーションにはメールではなくチャットツールを使っている会社も多いと思います。\n\nTeams,Chatwork,LINE Works…数あるチャットツールのなかで…",
+          "link": "https://qiita.com/yuulian/items/4d5477cbbbc48fd2a979?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2022-04-12T13:24:09.000Z",
+          "wordCount": 189,
+          "title": "Slackでの会話で絶対にしてはいけない3点",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTkxNiZ0eHQ9U2xhY2slRTMlODElQTclRTMlODElQUUlRTQlQkMlOUElRTglQTklQjElRTMlODElQTclRTclQjUlQjYlRTUlQUYlQkUlRTMlODElQUIlRTMlODElOTclRTMlODElQTYlRTMlODElQUYlRTMlODElODQlRTMlODElOTElRTMlODElQUElRTMlODElODQzJUU3JTgyJUI5JnR4dC1jb2xvcj0lMjMyMTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LWNsaXA9ZWxsaXBzaXMmdHh0LWFsaWduPWxlZnQlMkN0b3Amcz0wZDI5ODA5NGVmNjU0MzlkMjM4Y2IwMTYwMjQyZDU1ZA&mark-x=142&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTYxNiZ0eHQ9JTQweXV1bGlhbiZ0eHQtY29sb3I9JTIzMjEyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnM9YTdiNTA0YTZhMmQ5ZTZhMzE1NjA5ZTk2OTg2ZTg0Mjk&blend-x=142&blend-y=491&blend-mode=normal&s=281eaac9cf946257fa07a70b18a15bbd"
+        },
+        {
+          "id": "https://qiita.com/ma19891026/items/73c0acaf7030cba06f2e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nクラウド環境のセキュリティをNIST CSFを利用し、運用、環境構成、両面でセキュリティ対策を考えてみました。\n実際にやってみて大変だったことや、セキュリティ対策を実施する上で役に立った…",
+          "link": "https://qiita.com/ma19891026/items/73c0acaf7030cba06f2e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2022-04-12T12:54:35.000Z",
+          "wordCount": 314,
+          "title": "NIST CSFに準拠したAWSの運用を考えてみた",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTkxNiZ0eHQ9TklTVCUyMENTRiVFMyU4MSVBQiVFNiVCQSU5NiVFNiU4QiVBMCVFMyU4MSU5NyVFMyU4MSU5RkFXUyVFMyU4MSVBRSVFOSU4MSU4QiVFNyU5NCVBOCVFMyU4MiU5MiVFOCU4MCU4MyVFMyU4MSU4OCVFMyU4MSVBNiVFMyU4MSVCRiVFMyU4MSU5RiZ0eHQtY29sb3I9JTIzMjEyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1jbGlwPWVsbGlwc2lzJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnM9ZTBlMWUxZDA0NzlmYWJmNGViZGUwOGY2ZjljYTU0YWU&mark-x=142&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTYxNiZ0eHQ9JTQwbWExOTg5MTAyNiZ0eHQtY29sb3I9JTIzMjEyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnM9MGQ3ZGRlZjIxMzZhNzg4NzY5Yjc3MzBmM2U1MDUxNWQ&blend-x=142&blend-y=491&blend-mode=normal&s=669c9d11e08df0ceb2ee16badb2a8177"
+        },
         {
           "id": "https://qiita.com/uhooi/items/336935761a631f5ea9be?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
@@ -731,216 +831,6 @@
           "wordCount": 263,
           "title": "Braveはフォントを取得できないようにした。いっぽうChromeはフォントを根刮ぎ取得しようとしている。",
           "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTkxNiZ0eHQ9QnJhdmUlRTMlODElQUYlRTMlODMlOTUlRTMlODIlQTklRTMlODMlQjMlRTMlODMlODglRTMlODIlOTIlRTUlOEYlOTYlRTUlQkUlOTclRTMlODElQTclRTMlODElOEQlRTMlODElQUElRTMlODElODQlRTMlODIlODglRTMlODElODYlRTMlODElQUIlRTMlODElOTclRTMlODElOUYlRTMlODAlODIlRTMlODElODQlRTMlODElQTMlRTMlODElQkQlRTMlODElODZDaHJvbWUlRTMlODElQUYlRTMlODMlOTUlRTMlODIlQTklRTMlODMlQjMlRTMlODMlODglRTMlODIlOTIlRTYlQTAlQjklRTUlODglQUUlRTMlODElOEUlRTUlOEYlOTYlRTUlQkUlOTclRTMlODElOTclRTMlODIlODglRTMlODElODYlRTMlODElQTglRTMlODElOTclRTMlODElQTYlRTMlODElODQlRTMlODIlOEIlRTMlODAlODImdHh0LWNvbG9yPSUyMzIxMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtY2xpcD1lbGxpcHNpcyZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZzPTQwNTVlOThmY2NhMTM1ZDkyZTUxMjI3NDBiODZlMDQw&mark-x=142&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTYxNiZ0eHQ9JTQwcmFuYV9rdWFsdSZ0eHQtY29sb3I9JTIzMjEyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnM9OWEyOTM0NDEzMjY2OGY0ODNmNzM4MTFlNmFhMTMzY2U&blend-x=142&blend-y=491&blend-mode=normal&s=b791c1634dc9600728ae21a6ff43c337"
-        },
-        {
-          "id": "https://qiita.com/u2dayo/items/f7ba85d7a55111dc6168?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "ABC247のA,B,C,D,E,F問題を、Python3でなるべく丁寧に解説していきます。\n\nただ解けるだけの方法ではなく、次の3つのポイントを満たす解法を解説することを目指しています。\n\n\nシンプル：…",
-          "link": "https://qiita.com/u2dayo/items/f7ba85d7a55111dc6168?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2022-04-11T12:12:49.000Z",
-          "wordCount": 1739,
-          "title": "【AtCoder解説】PythonでABC247のA,B,C,D,E,F問題を制する！",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTkxNiZ0eHQ9JUUzJTgwJTkwQXRDb2RlciVFOCVBNyVBMyVFOCVBQSVBQyVFMyU4MCU5MVB5dGhvbiVFMyU4MSVBN0FCQzI0NyVFMyU4MSVBRUElMkNCJTJDQyUyQ0QlMkNFJTJDRiVFNSU5NSU4RiVFOSVBMSU4QyVFMyU4MiU5MiVFNSU4OCVCNiVFMyU4MSU5OSVFMyU4MiU4QiVFRiVCQyU4MSZ0eHQtY29sb3I9JTIzMjEyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1jbGlwPWVsbGlwc2lzJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnM9ODhlNWYzNDcxNWIyNWEyMTI1YmU0Y2E0ZTQzNDkxNTE&mark-x=142&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTYxNiZ0eHQ9JTQwdTJkYXlvJnR4dC1jb2xvcj0lMjMyMTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LWFsaWduPWxlZnQlMkN0b3Amcz03MzlhYTRkZWVhZDUwZTY5NzY0YTVhNmM5OGVmMTcwNA&blend-x=142&blend-y=491&blend-mode=normal&s=cce65d59563e3bfc72c149ef5e0cd1c1"
-        },
-        {
-          "id": "https://qiita.com/getty104/items/cfd98f5f0ea89ef07bf0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "これは何\n\n新人プログラマ応援イベントの参加記事です。\n\nhttps://qiita.com/official-events/3f21c92121aa125807b4\n\ngitにはreflogというコマ…",
-          "link": "https://qiita.com/getty104/items/cfd98f5f0ea89ef07bf0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2022-04-11T11:48:08.000Z",
-          "wordCount": 312,
-          "title": "Gitを使ってやらかした時、git reflogさえ使えればわりかしなんとかなる",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTkxNiZ0eHQ9R2l0JUUzJTgyJTkyJUU0JUJEJUJGJUUzJTgxJUEzJUUzJTgxJUE2JUUzJTgyJTg0JUUzJTgyJTg5JUUzJTgxJThCJUUzJTgxJTk3JUUzJTgxJTlGJUU2JTk5JTgyJUUzJTgwJTgxZ2l0JTIwcmVmbG9nJUUzJTgxJTk1JUUzJTgxJTg4JUU0JUJEJUJGJUUzJTgxJTg4JUUzJTgyJThDJUUzJTgxJUIwJUUzJTgyJThGJUUzJTgyJThBJUUzJTgxJThCJUUzJTgxJTk3JUUzJTgxJUFBJUUzJTgyJTkzJUUzJTgxJUE4JUUzJTgxJThCJUUzJTgxJUFBJUUzJTgyJThCJnR4dC1jb2xvcj0lMjMyMTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LWNsaXA9ZWxsaXBzaXMmdHh0LWFsaWduPWxlZnQlMkN0b3Amcz01NWY5NjQ4MWE4ZGZlNjBhNzMwNDJlZmEyOGE4N2NlMw&mark-x=142&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTYxNiZ0eHQ9JTQwZ2V0dHkxMDQmdHh0LWNvbG9yPSUyMzIxMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZzPTkwYWQ5YTc0NWMxZDM3ODRhMjY5YmYyZGJlOWQzMmNm&blend-x=142&blend-y=491&blend-mode=normal&s=1bc6e5fbd9e0fa989450d8c84122ac9c"
-        },
-        {
-          "id": "https://qiita.com/NagayamaToshiaki/items/dd36acb2658220c04b94?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "(2022/4/12) 英語版を書きました。よろしければ拡散お願いいたします。\n\nhttps://medium.com/@toshiakinagayama1990/this-page-might-be…",
-          "link": "https://qiita.com/NagayamaToshiaki/items/dd36acb2658220c04b94?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2022-04-11T07:57:15.000Z",
-          "wordCount": 225,
-          "title": "「阿部寛のホームページ」はHTML界のシーラカンスである",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTkxNiZ0eHQ9JUUzJTgwJThDJUU5JTk4JUJGJUU5JTgzJUE4JUU1JUFGJTlCJUUzJTgxJUFFJUUzJTgzJTlCJUUzJTgzJUJDJUUzJTgzJUEwJUUzJTgzJTlBJUUzJTgzJUJDJUUzJTgyJUI4JUUzJTgwJThEJUUzJTgxJUFGSFRNTCVFNyU5NSU4QyVFMyU4MSVBRSVFMyU4MiVCNyVFMyU4MyVCQyVFMyU4MyVBOSVFMyU4MiVBQiVFMyU4MyVCMyVFMyU4MiVCOSVFMyU4MSVBNyVFMyU4MSU4MiVFMyU4MiU4QiZ0eHQtY29sb3I9JTIzMjEyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1jbGlwPWVsbGlwc2lzJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnM9YzUzYmExNTAzZTIxOGFlYjllOGViNzE1ODczN2QxMzk&mark-x=142&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTYxNiZ0eHQ9JTQwTmFnYXlhbWFUb3NoaWFraSZ0eHQtY29sb3I9JTIzMjEyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnM9NzYwNWU0NzI5YjNiYWFjYTMxNDEyMGU2YjBjNDAzMDk&blend-x=142&blend-y=491&blend-mode=normal&s=6ab2790d8b53eea7fdc8320e1a2fc565"
-        },
-        {
-          "id": "https://qiita.com/Cherudim1108801/items/f9d33c33da2c89b3e662?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "はじめに\n\n精神疾患のために転職先も決まらぬまま退職を余儀なくされ、\n無職2か月目（投稿日時点）となりました。\n現在は手当金を受け取りつつエンジニア職での転職を目指しています。\n\n\nこれから業界に入る新…",
-          "link": "https://qiita.com/Cherudim1108801/items/f9d33c33da2c89b3e662?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2022-04-11T07:52:23.000Z",
-          "wordCount": 206,
-          "title": "うつ病エンジニア(仮)から未経験者に向けたアドバイス",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTkxNiZ0eHQ9JUUzJTgxJTg2JUUzJTgxJUE0JUU3JTk3JTg1JUUzJTgyJUE4JUUzJTgzJUIzJUUzJTgyJUI4JUUzJTgzJThCJUUzJTgyJUEyJTI4JUU0JUJCJUFFJTI5JUUzJTgxJThCJUUzJTgyJTg5JUU2JTlDJUFBJUU3JUI1JThDJUU5JUE4JTkzJUU4JTgwJTg1JUUzJTgxJUFCJUU1JTkwJTkxJUUzJTgxJTkxJUUzJTgxJTlGJUUzJTgyJUEyJUUzJTgzJTg5JUUzJTgzJTkwJUUzJTgyJUE0JUUzJTgyJUI5JnR4dC1jb2xvcj0lMjMyMTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LWNsaXA9ZWxsaXBzaXMmdHh0LWFsaWduPWxlZnQlMkN0b3Amcz1iZjg3ZjMxMWI2NGVmNzhjMTZjOGQ3NTAyNjNmM2IzYg&mark-x=142&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTYxNiZ0eHQ9JTQwQ2hlcnVkaW0xMTA4ODAxJnR4dC1jb2xvcj0lMjMyMTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LWFsaWduPWxlZnQlMkN0b3Amcz0zN2ZiMWRjNDg4MmFlNGNjNmQ3OWI5YTY4OWVjYTI3NQ&blend-x=142&blend-y=491&blend-mode=normal&s=13420a3f452e34cae8b62de5a531d910"
-        },
-        {
-          "id": "https://qiita.com/miya_gis/items/b55fb830b233d25a89e7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "はじめに\n\nこの投稿は、StudioとStudioXの違いについて、紹介する投稿です。\n\n実は、最近（2021-2022）のリリースで、StudioXとStudioの差が減っています。\n例えば「使用で…",
-          "link": "https://qiita.com/miya_gis/items/b55fb830b233d25a89e7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2022-04-11T07:03:17.000Z",
-          "wordCount": 309,
-          "title": "【UiPath】Studio・StudioXの出来る出来ない比較",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTkxNiZ0eHQ9JUUzJTgwJTkwVWlQYXRoJUUzJTgwJTkxU3R1ZGlvJUUzJTgzJUJCU3R1ZGlvWCVFMyU4MSVBRSVFNSU4NyVCQSVFNiU5RCVBNSVFMyU4MiU4QiVFNSU4NyVCQSVFNiU5RCVBNSVFMyU4MSVBQSVFMyU4MSU4NCVFNiVBRiU5NCVFOCVCQyU4MyZ0eHQtY29sb3I9JTIzMjEyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1jbGlwPWVsbGlwc2lzJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnM9ZWQxOTU0YWU2ZmJhZmY1NDIyNTEzY2U3NzU5ZmYzMDQ&mark-x=142&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTYxNiZ0eHQ9JTQwbWl5YV9naXMmdHh0LWNvbG9yPSUyMzIxMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZzPWQyMTUyNGMxYzk3ODdmZDVhZDVjMzY5MTYyNTEwOTc3&blend-x=142&blend-y=491&blend-mode=normal&s=e7fc1f8563a7ad3db00a34c6fb108a44"
-        },
-        {
-          "id": "https://qiita.com/access3151fq/items/aefbd5cbeaacdbc8a60e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "2022年6月リリースのDeno1.23で、deno runコマンドの挙動の「実行」の部分と「型チェック」の部分が切り分けられ、別のコマンドになります。\n\n\n\n更に、型チェックのデフォルトの挙動が「リモー…",
-          "link": "https://qiita.com/access3151fq/items/aefbd5cbeaacdbc8a60e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2022-04-11T05:44:40.000Z",
-          "wordCount": 297,
-          "title": "【Deno1.23～】`deno run`コマンドは型チェックしなくなる予定なので注意",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTkxNiZ0eHQ9JUUzJTgwJTkwRGVubzEuMjMlRUYlQkQlOUUlRTMlODAlOTElNjBkZW5vJTIwcnVuJTYwJUUzJTgyJUIzJUUzJTgzJTlFJUUzJTgzJUIzJUUzJTgzJTg5JUUzJTgxJUFGJUU1JTlFJThCJUUzJTgzJTgxJUUzJTgyJUE3JUUzJTgzJTgzJUUzJTgyJUFGJUUzJTgxJTk3JUUzJTgxJUFBJUUzJTgxJThGJUUzJTgxJUFBJUUzJTgyJThCJUU0JUJBJTg4JUU1JUFFJTlBJUUzJTgxJUFBJUUzJTgxJUFFJUUzJTgxJUE3JUU2JUIzJUE4JUU2JTg0JThGJnR4dC1jb2xvcj0lMjMyMTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LWNsaXA9ZWxsaXBzaXMmdHh0LWFsaWduPWxlZnQlMkN0b3Amcz1lMzgyYTEyMDBjMTVhMDc1YWQ4ODZhNzAzNzBkNjViNg&mark-x=142&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTYxNiZ0eHQ9JTQwYWNjZXNzMzE1MWZxJnR4dC1jb2xvcj0lMjMyMTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LWFsaWduPWxlZnQlMkN0b3Amcz0wZTVhYWNkZTI2NDczMWY0M2M3NTVjMzE5YThhNzg4ZQ&blend-x=142&blend-y=491&blend-mode=normal&s=bbf4807a039b6550506f83f954157399"
-        },
-        {
-          "id": "https://qiita.com/sugulu_Ogawa_ISID/items/41cd1866ca4cf3e29615?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "本記事ではSIerに所属する著者が3年間にわたり、私たちのグループで実践している「1on1」の内容を紹介します（グループの業務内容は主にAI系の自社製品開発です）。\n\n・1on1をこれから始める方\n・…",
-          "link": "https://qiita.com/sugulu_Ogawa_ISID/items/41cd1866ca4cf3e29615?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2022-04-11T03:33:34.000Z",
-          "wordCount": 543,
-          "title": "効果的で継続される1on1のコツ【2022年版】",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTkxNiZ0eHQ9JUU1JThBJUI5JUU2JTlFJTlDJUU3JTlBJTg0JUUzJTgxJUE3JUU3JUI2JTk5JUU3JUI2JTlBJUUzJTgxJTk1JUUzJTgyJThDJUUzJTgyJThCMW9uMSVFMyU4MSVBRSVFMyU4MiVCMyVFMyU4MyU4NCVFMyU4MCU5MDIwMjIlRTUlQjklQjQlRTclODklODglRTMlODAlOTEmdHh0LWNvbG9yPSUyMzIxMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtY2xpcD1lbGxpcHNpcyZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZzPTMzMzk0ZmUzNTYzOGFjNjE4NDhjZDNmMDc3ZDI2MWEy&mark-x=142&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTYxNiZ0eHQ9JTQwc3VndWx1X09nYXdhX0lTSUQmdHh0LWNvbG9yPSUyMzIxMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZzPWIwMDEwYjBiMDFjODdkYmVjMTlkMjQ5ZGY0MjI4ODRi&blend-x=142&blend-y=491&blend-mode=normal&s=23cf7c6467f97007fb1ffdc9d425c287"
-        },
-        {
-          "id": "https://qiita.com/fuziki/items/9869ab54ba95e9fc3c3a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "SwiftSyntax に入門してみた\n\n\nswift-syntax を利用することで、Swiftのソースコードを静的解析し、検査、生成、および変換する事ができます\nSwiftLint や mocko…",
-          "link": "https://qiita.com/fuziki/items/9869ab54ba95e9fc3c3a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2022-04-11T03:31:37.000Z",
-          "wordCount": 1376,
-          "title": "swift-syntaxに入門してみた",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTkxNiZ0eHQ9c3dpZnQtc3ludGF4JUUzJTgxJUFCJUU1JTg1JUE1JUU5JTk2JTgwJUUzJTgxJTk3JUUzJTgxJUE2JUUzJTgxJUJGJUUzJTgxJTlGJnR4dC1jb2xvcj0lMjMyMTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LWNsaXA9ZWxsaXBzaXMmdHh0LWFsaWduPWxlZnQlMkN0b3Amcz00MWI0YzgwMTRjYmZhNWIyY2RiYTMzNWY2OGUwOTI1OA&mark-x=142&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTYxNiZ0eHQ9JTQwZnV6aWtpJnR4dC1jb2xvcj0lMjMyMTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LWFsaWduPWxlZnQlMkN0b3Amcz1hOTRmNGZlZDVlZWQ0MTBhZDEwODNiM2MyYzc4ZjE3ZQ&blend-x=142&blend-y=491&blend-mode=normal&s=c59c5cdc0e20506e419de3e1aa2f0bf8"
-        },
-        {
-          "id": "https://qiita.com/mayobimu/items/9a3e5623cb69bb8816a6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "はじめに\n\nプロジェクトを起動するたび、同じ作業を行なっていませんか？\n私の場合、起動→名前の変更→コマンドの実行を4回も行っています。\n今回はTerminals Managerを使用して、この作業…",
-          "link": "https://qiita.com/mayobimu/items/9a3e5623cb69bb8816a6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2022-04-11T02:48:28.000Z",
-          "wordCount": 460,
-          "title": "Visual Studio Codeで自動的に複数のターミナルを起動しコマンドを実行させる方法",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTkxNiZ0eHQ9VmlzdWFsJTIwU3R1ZGlvJTIwQ29kZSVFMyU4MSVBNyVFOCU4NyVBQSVFNSU4QiU5NSVFNyU5QSU4NCVFMyU4MSVBQiVFOCVBNCU4NyVFNiU5NSVCMCVFMyU4MSVBRSVFMyU4MiVCRiVFMyU4MyVCQyVFMyU4MyU5RiVFMyU4MyU4QSVFMyU4MyVBQiVFMyU4MiU5MiVFOCVCNSVCNyVFNSU4QiU5NSVFMyU4MSU5NyVFMyU4MiVCMyVFMyU4MyU5RSVFMyU4MyVCMyVFMyU4MyU4OSVFMyU4MiU5MiVFNSVBRSU5RiVFOCVBMSU4QyVFMyU4MSU5NSVFMyU4MSU5QiVFMyU4MiU4QiVFNiU5NiVCOSVFNiVCMyU5NSZ0eHQtY29sb3I9JTIzMjEyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1jbGlwPWVsbGlwc2lzJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnM9NWQ5OGY1OWUyMTg4ZDkzMzA5ZjlkMjU0OTg5MmZlMTk&mark-x=142&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTYxNiZ0eHQ9JTQwbWF5b2JpbXUmdHh0LWNvbG9yPSUyMzIxMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZzPWQ3MWNhYzBmZDgzNDk3ZmUxMjczNWY4YzlhY2I0ZTMy&blend-x=142&blend-y=491&blend-mode=normal&s=105f15132b1c549e2ab32613cd10457b"
-        },
-        {
-          "id": "https://qiita.com/c-shiraga/items/4f759ab7a5d55b8d237e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "はじめに\n\n私は未経験からフロントエンドエンジニアとして転職し、現在、Vue、Reactでのフロント開発とフロントエンドエンジニアの採用面接を担当している者です。\n未経験から転職した私の経験に基づい…",
-          "link": "https://qiita.com/c-shiraga/items/4f759ab7a5d55b8d237e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2022-04-11T02:15:20.000Z",
-          "wordCount": 221,
-          "title": "未経験からフロントエンドエンジニアになるために作るべきポートフォリオ",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTkxNiZ0eHQ9JUU2JTlDJUFBJUU3JUI1JThDJUU5JUE4JTkzJUUzJTgxJThCJUUzJTgyJTg5JUUzJTgzJTk1JUUzJTgzJUFEJUUzJTgzJUIzJUUzJTgzJTg4JUUzJTgyJUE4JUUzJTgzJUIzJUUzJTgzJTg5JUUzJTgyJUE4JUUzJTgzJUIzJUUzJTgyJUI4JUUzJTgzJThCJUUzJTgyJUEyJUUzJTgxJUFCJUUzJTgxJUFBJUUzJTgyJThCJUUzJTgxJTlGJUUzJTgyJTgxJUUzJTgxJUFCJUU0JUJEJTlDJUUzJTgyJThCJUUzJTgxJUI5JUUzJTgxJThEJUUzJTgzJTlEJUUzJTgzJUJDJUUzJTgzJTg4JUUzJTgzJTk1JUUzJTgyJUE5JUUzJTgzJUFBJUUzJTgyJUFBJnR4dC1jb2xvcj0lMjMyMTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LWNsaXA9ZWxsaXBzaXMmdHh0LWFsaWduPWxlZnQlMkN0b3Amcz00NTIzNDBjY2I3NmQ5NGRkYTFlYzA0MzkxZDczN2IyOA&mark-x=142&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTYxNiZ0eHQ9JTQwYy1zaGlyYWdhJnR4dC1jb2xvcj0lMjMyMTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LWFsaWduPWxlZnQlMkN0b3Amcz0xMzVmYzA4NmUwY2IwZjYzN2I3YmQ0Nzk3MDc3YzYxZg&blend-x=142&blend-y=491&blend-mode=normal&s=f88dec57be0d5998207b31ba5f4b1d2c"
-        },
-        {
-          "id": "https://qiita.com/yukiHaga/items/8ef2051036e126eb00c6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "はじめに\n\nはじめまして！\n個人開発者のハガユウキと申します。\n\n突然ですが、皆さん正規表現はお好きですか？\n私は好きです。「複数の文字列を一つのパターンで表現できる」部分にすごく面白味を感じています。\nもっといろんな方に正規表現を知っていただきたい、好きになってほしいと思っています…",
-          "link": "https://qiita.com/yukiHaga/items/8ef2051036e126eb00c6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2022-04-11T01:10:39.000Z",
-          "wordCount": 284,
-          "title": "【個人開発】正規表現を学ぶ狩りに出ませんか？モンスターを倒しながら正規表現が学べるゲーム「Regex Hunting」を作りました",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTkxNiZ0eHQ9JUUzJTgwJTkwJUU1JTgwJThCJUU0JUJBJUJBJUU5JTk2JThCJUU3JTk5JUJBJUUzJTgwJTkxJUU2JUFEJUEzJUU4JUE2JThGJUU4JUExJUE4JUU3JThGJUJFJUUzJTgyJTkyJUU1JUFEJUE2JUUzJTgxJUI2JUU3JThCJUE5JUUzJTgyJThBJUUzJTgxJUFCJUU1JTg3JUJBJUUzJTgxJUJFJUUzJTgxJTlCJUUzJTgyJTkzJUUzJTgxJThCJUVGJUJDJTlGJUUzJTgzJUEyJUUzJTgzJUIzJUUzJTgyJUI5JUUzJTgyJUJGJUUzJTgzJUJDJUUzJTgyJTkyJUU1JTgwJTkyJUUzJTgxJTk3JUUzJTgxJUFBJUUzJTgxJThDJUUzJTgyJTg5JUU2JUFEJUEzJUU4JUE2JThGJUU4JUExJUE4JUU3JThGJUJFJUUzJTgxJThDJUU1JUFEJUE2JUUzJTgxJUI5JUUzJTgyJThCJUUzJTgyJUIyJUUzJTgzJUJDJUUzJTgzJUEwJUUzJTgwJThDUmVnZXglMjBIdW50aW5nJUUzJTgwJThEJUUzJTgyJTkyJUU0JUJEJTlDJUUyJTgwJUE2JnR4dC1jb2xvcj0lMjMyMTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LWNsaXA9ZWxsaXBzaXMmdHh0LWFsaWduPWxlZnQlMkN0b3Amcz0xZmMwNzQ3Yzc1ODM1ZDA2YmFmOTc0YTAyYzcxODZhOA&mark-x=142&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTYxNiZ0eHQ9JTQweXVraUhhZ2EmdHh0LWNvbG9yPSUyMzIxMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZzPTBmODE5MmJhMDEyMzM4YmMxZjliODkyMWI1YmNjYmM5&blend-x=142&blend-y=491&blend-mode=normal&s=605091045d267bb42450f2ef4bd35a56"
-        },
-        {
-          "id": "https://qiita.com/Dai_Kentaro/items/5d1ad150a9417a6b65cd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "今回は、FirebaseAnalyticsからBigQueryにエクスポートしたデータをQuickSight上で、表形式で閲覧したいという要件を実現するための過程を記事にしました。\n\n以前書いたこの記事の続きみたいな感じです…",
-          "link": "https://qiita.com/Dai_Kentaro/items/5d1ad150a9417a6b65cd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2022-04-11T00:49:50.000Z",
-          "wordCount": 570,
-          "title": "BigQuery・Glue・S3・QuickSightの連携",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTkxNiZ0eHQ9QmlnUXVlcnklRTMlODMlQkJHbHVlJUUzJTgzJUJCUzMlRTMlODMlQkJRdWlja1NpZ2h0JUUzJTgxJUFFJUU5JTgwJUEzJUU2JTkwJUJBJnR4dC1jb2xvcj0lMjMyMTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LWNsaXA9ZWxsaXBzaXMmdHh0LWFsaWduPWxlZnQlMkN0b3Amcz1mZDUwNGJhNTA2MTViNDU0MzE4YTRmOWFiM2NjYWY2Mg&mark-x=142&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTYxNiZ0eHQ9JTQwRGFpX0tlbnRhcm8mdHh0LWNvbG9yPSUyMzIxMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZzPTc4Nzc1YTY4YjFkNjdiZDc2ZTRmM2Y3NDBiMDJjZjM5&blend-x=142&blend-y=491&blend-mode=normal&s=961dca7d4daa9bffd2678ab946757244"
-        },
-        {
-          "id": "https://qiita.com/Naughty1029/items/6250e3f869033f63dd21?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "はじめに\n\nこんにちは。WEBエンジニアのmasakichiです。\n\nLaravelって自由度が高く拡張しやすい反面、「コードの書き方が煩雑化しやすい」と感じたことはありませんか？\n\nそんな方に向けたお…",
-          "link": "https://qiita.com/Naughty1029/items/6250e3f869033f63dd21?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2022-04-11T00:00:40.000Z",
-          "wordCount": 161,
-          "title": "Laravel初心者わい「このベストプラクティス集ええやん」",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTkxNiZ0eHQ9TGFyYXZlbCVFNSU4OCU5RCVFNSVCRiU4MyVFOCU4MCU4NSVFMyU4MiU4RiVFMyU4MSU4NCVFMyU4MCU4QyVFMyU4MSU5MyVFMyU4MSVBRSVFMyU4MyU5OSVFMyU4MiVCOSVFMyU4MyU4OCVFMyU4MyU5NyVFMyU4MyVBOSVFMyU4MiVBRiVFMyU4MyU4NiVFMyU4MiVBMyVFMyU4MiVCOSVFOSU5QiU4NiVFMyU4MSU4OCVFMyU4MSU4OCVFMyU4MiU4NCVFMyU4MiU5MyVFMyU4MCU4RCZ0eHQtY29sb3I9JTIzMjEyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1jbGlwPWVsbGlwc2lzJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnM9YjVhNDJjODg4ODBmOTllNmQ0ZDllZjJlOTU5NDAyMzM&mark-x=142&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTYxNiZ0eHQ9JTQwTmF1Z2h0eTEwMjkmdHh0LWNvbG9yPSUyMzIxMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZzPTVmNmRiYWU2MzgyNTA0NDY0OTg2NmY4NzhiMTg0OWQx&blend-x=142&blend-y=491&blend-mode=normal&s=6046503ede8534ed5e4759a3d27a8475"
-        },
-        {
-          "id": "https://qiita.com/hello_jun/items/418cca89c52eea13a3fa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "こんにちは、Slack で Developer Relations を担当している Jason と申します。🙇🏻‍♂️\n\n全国的に桜が咲き始めてきて、春めいた気分になってきましたね！春といえば「何か新…",
-          "link": "https://qiita.com/hello_jun/items/418cca89c52eea13a3fa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2022-04-10T23:50:03.000Z",
-          "wordCount": 654,
-          "title": "News API を使ってニュースを Slack で読んでみよう",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTkxNiZ0eHQ9TmV3cyUyMEFQSSUyMCVFMyU4MiU5MiVFNCVCRCVCRiVFMyU4MSVBMyVFMyU4MSVBNiVFMyU4MyU4QiVFMyU4MyVBNSVFMyU4MyVCQyVFMyU4MiVCOSVFMyU4MiU5MiUyMFNsYWNrJTIwJUUzJTgxJUE3JUU4JUFBJUFEJUUzJTgyJTkzJUUzJTgxJUE3JUUzJTgxJUJGJUUzJTgyJTg4JUUzJTgxJTg2JnR4dC1jb2xvcj0lMjMyMTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LWNsaXA9ZWxsaXBzaXMmdHh0LWFsaWduPWxlZnQlMkN0b3Amcz0wYmZiMjgyOTUxNDg0ZDFkY2JkODM1ZjJhMTcxZGJhMQ&mark-x=142&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTYxNiZ0eHQ9JTQwaGVsbG9fanVuJnR4dC1jb2xvcj0lMjMyMTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LWFsaWduPWxlZnQlMkN0b3Amcz1lZDY3ZDg1OTdkOWEwZDVkMjVhMGFmNjM0MTM4NTc5ZA&blend-x=142&blend-y=491&blend-mode=normal&s=d37273a22b5dfeabebd831c0fee0aa3b"
-        },
-        {
-          "id": "https://qiita.com/xrxoxcxox/items/dd3c4bcc54f7cc892005?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "この記事の概要\n\n昨年、デザインに関する社内研修を実施し、その内容をQiitaでも共有してみたところ多くの反響をいただきました。\n\nhttps://qiita.com/xrxoxcxox/items/…",
-          "link": "https://qiita.com/xrxoxcxox/items/dd3c4bcc54f7cc892005?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2022-04-10T22:27:07.000Z",
-          "wordCount": 683,
-          "title": "デザインの役割や価値（社内研修資料）",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTkxNiZ0eHQ9JUUzJTgzJTg3JUUzJTgyJUI2JUUzJTgyJUE0JUUzJTgzJUIzJUUzJTgxJUFFJUU1JUJEJUI5JUU1JTg5JUIyJUUzJTgyJTg0JUU0JUJFJUExJUU1JTgwJUE0JUVGJUJDJTg4JUU3JUE0JUJFJUU1JTg2JTg1JUU3JUEwJTk0JUU0JUJGJUFFJUU4JUIzJTg3JUU2JTk2JTk5JUVGJUJDJTg5JnR4dC1jb2xvcj0lMjMyMTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LWNsaXA9ZWxsaXBzaXMmdHh0LWFsaWduPWxlZnQlMkN0b3Amcz1iZWY1Yjk5MTMxNGFmZjVhYjdhMGFlZGFmM2Y5NTYyNw&mark-x=142&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTYxNiZ0eHQ9JTQweHJ4b3hjeG94JnR4dC1jb2xvcj0lMjMyMTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LWFsaWduPWxlZnQlMkN0b3Amcz0yNjU4MjM4ZGFhYWFkMzNlOGZhNTgzOTgzMDQyNjU5MQ&blend-x=142&blend-y=491&blend-mode=normal&s=91a8910bca3bef219b054a06a27788fd"
-        },
-        {
-          "id": "https://qiita.com/matsuken314/items/2ae660c7635cca726283?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "1.はじめに\n\n本記事を閲覧いただきありがとうございます！\n転職活動用のポートフォリオとしてRailsでサ活(サウナ活動)の記録を管理するためのアプリを作りました。この記事はアプリの紹介や作成した経…",
-          "link": "https://qiita.com/matsuken314/items/2ae660c7635cca726283?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2022-04-10T22:16:31.000Z",
-          "wordCount": 408,
-          "title": "【開発未経験】Railsでサ活(サウナ活動)を管理できるアプリを作成しました。",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTkxNiZ0eHQ9JUUzJTgwJTkwJUU5JTk2JThCJUU3JTk5JUJBJUU2JTlDJUFBJUU3JUI1JThDJUU5JUE4JTkzJUUzJTgwJTkxUmFpbHMlRTMlODElQTclRTMlODIlQjUlRTYlQjQlQkIlMjglRTMlODIlQjUlRTMlODIlQTYlRTMlODMlOEElRTYlQjQlQkIlRTUlOEIlOTUlMjklRTMlODIlOTIlRTclQUUlQTElRTclOTAlODYlRTMlODElQTclRTMlODElOEQlRTMlODIlOEIlRTMlODIlQTIlRTMlODMlOTclRTMlODMlQUElRTMlODIlOTIlRTQlQkQlOUMlRTYlODglOTAlRTMlODElOTclRTMlODElQkUlRTMlODElOTclRTMlODElOUYlRTMlODAlODImdHh0LWNvbG9yPSUyMzIxMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtY2xpcD1lbGxpcHNpcyZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZzPTE4MTNlMzkzYWEzMjY0MTUzOGJmNTZlOWIxZGU0Mzlj&mark-x=142&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTYxNiZ0eHQ9JTQwbWF0c3VrZW4zMTQmdHh0LWNvbG9yPSUyMzIxMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZzPTRhZjBhODljMjljYzk3MTVmY2Q4MWM0OWQ0MTBmZDZh&blend-x=142&blend-y=491&blend-mode=normal&s=9f3edc1f6e5f4295df8d696753882be9"
-        },
-        {
-          "id": "https://qiita.com/ponnhide/items/14358e62bd9f82467659?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "Pycircosをの紹介\n\nこの記事は自分が開発している、pyCircosについての紹介記事である。\n- https://github.com/ponnhide/pyCircos\n\n開発の背景\n\n派手な…",
-          "link": "https://qiita.com/ponnhide/items/14358e62bd9f82467659?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2022-04-10T20:16:22.000Z",
-          "wordCount": 194,
-          "title": "matplotlibで派手な円形の図を作るライブラリを開発してみた。",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTkxNiZ0eHQ9bWF0cGxvdGxpYiVFMyU4MSVBNyVFNiVCNCVCRSVFNiU4OSU4QiVFMyU4MSVBQSVFNSU4NiU4NiVFNSVCRCVBMiVFMyU4MSVBRSVFNSU5QiVCMyVFMyU4MiU5MiVFNCVCRCU5QyVFMyU4MiU4QiVFMyU4MyVBOSVFMyU4MiVBNCVFMyU4MyU5NiVFMyU4MyVBOSVFMyU4MyVBQSVFMyU4MiU5MiVFOSU5NiU4QiVFNyU5OSVCQSVFMyU4MSU5NyVFMyU4MSVBNiVFMyU4MSVCRiVFMyU4MSU5RiVFMyU4MCU4MiZ0eHQtY29sb3I9JTIzMjEyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1jbGlwPWVsbGlwc2lzJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnM9YmZhNWQyMWVlMWRhZmQwODQzYjEwMjU3ZGM5NjVkMzQ&mark-x=142&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTYxNiZ0eHQ9JTQwcG9ubmhpZGUmdHh0LWNvbG9yPSUyMzIxMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZzPWE5ZTkyMTUwZWM1ZjExZTYyYmVhNDkyZTVhMWNjYWUx&blend-x=142&blend-y=491&blend-mode=normal&s=67e086b230a4bad649ea17cecb3313b8"
-        },
-        {
-          "id": "https://qiita.com/suin/items/3da4fb016728c024eaca?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "この投稿ではJavaScriptで文字数をできるだけ正確にカウントする方法について取り上げます。\n\n文字数とは？\n\n要件で「文字数を表示してほしい」「○文字以上はバリデーションエラーにしたい」と文字数を…",
-          "link": "https://qiita.com/suin/items/3da4fb016728c024eaca?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2022-04-10T20:15:27.000Z",
-          "wordCount": 389,
-          "title": "JavaScript: 文字数を正確にカウントするには？",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTkxNiZ0eHQ9SmF2YVNjcmlwdCUzQSUyMCVFNiU5NiU4NyVFNSVBRCU5NyVFNiU5NSVCMCVFMyU4MiU5MiVFNiVBRCVBMyVFNyVBMiVCQSVFMyU4MSVBQiVFMyU4MiVBQiVFMyU4MiVBNiVFMyU4MyVCMyVFMyU4MyU4OCVFMyU4MSU5OSVFMyU4MiU4QiVFMyU4MSVBQiVFMyU4MSVBRiVFRiVCQyU5RiZ0eHQtY29sb3I9JTIzMjEyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1jbGlwPWVsbGlwc2lzJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnM9MjNhNGY1OTMzNzI5NzUyMzVhZmExNzlmYzRhM2FjZWU&mark-x=142&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTYxNiZ0eHQ9JTQwc3VpbiZ0eHQtY29sb3I9JTIzMjEyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnM9NGFlNjk2NWUyOWFiNjg4MmRlNmViY2E4NDc2NWMxMjA&blend-x=142&blend-y=491&blend-mode=normal&s=9d88d504585a6dcc95c1113be193d2da"
-        },
-        {
-          "id": "https://qiita.com/YuukiMiyoshi/items/77e963898a433aff36a3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "オープンソースの金融データ取得／投資分析プラットフォームのOpenBB Terminalのインストールと基本的な使い方を紹介します。\n\nはじめに\n\nBloomberg（略称：BB）といえば世界トップの金…",
-          "link": "https://qiita.com/YuukiMiyoshi/items/77e963898a433aff36a3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2022-04-10T15:42:17.000Z",
-          "wordCount": 1108,
-          "title": "OpenBB Terminal～フリーの金融分析プラットフォーム - 基礎編～",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTkxNiZ0eHQ9T3BlbkJCJTIwVGVybWluYWwlRUYlQkQlOUUlRTMlODMlOTUlRTMlODMlQUElRTMlODMlQkMlRTMlODElQUUlRTklODclOTElRTglOUUlOEQlRTUlODglODYlRTYlOUUlOTAlRTMlODMlOTclRTMlODMlQTklRTMlODMlODMlRTMlODMlODglRTMlODMlOTUlRTMlODIlQTklRTMlODMlQkMlRTMlODMlQTAlMjAtJTIwJUU1JTlGJUJBJUU3JUE0JThFJUU3JUI3JUE4JUVGJUJEJTlFJnR4dC1jb2xvcj0lMjMyMTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LWNsaXA9ZWxsaXBzaXMmdHh0LWFsaWduPWxlZnQlMkN0b3Amcz1kZTI0OGYxMTQxYWE5N2FkYzMzMTZlZTg4YmZjOTZiNQ&mark-x=142&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTYxNiZ0eHQ9JTQwWXV1a2lNaXlvc2hpJnR4dC1jb2xvcj0lMjMyMTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LWFsaWduPWxlZnQlMkN0b3Amcz1kYWY0ZWI5NGJkMjgyNGQwMTk1YWY3YzFmZTQxMmQyYQ&blend-x=142&blend-y=491&blend-mode=normal&s=4ff23784603f8784dbbf731e839782c4"
-        },
-        {
-          "id": "https://qiita.com/long66tail/items/eeef4580aca0af9ed332?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "記事を読んでもらえるような工夫が必要\n\nQiitaで記事を書くからには、読まれるということを意識した方がいいように思う。\n今回初回の記事を書くにあたって、\n「どのくらいの文字数なら読まれるのだろうか」\nということを疑問に思ったので、人気な記事の文章量を調べてみることにした…",
-          "link": "https://qiita.com/long66tail/items/eeef4580aca0af9ed332?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2022-04-10T14:33:35.000Z",
-          "wordCount": 233,
-          "title": "Qiitaの人気記事とその記事の文字数は？",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTkxNiZ0eHQ9UWlpdGElRTMlODElQUUlRTQlQkElQkElRTYlQjAlOTclRTglQTglOTglRTQlQkElOEIlRTMlODElQTglRTMlODElOUQlRTMlODElQUUlRTglQTglOTglRTQlQkElOEIlRTMlODElQUUlRTYlOTYlODclRTUlQUQlOTclRTYlOTUlQjAlRTMlODElQUYlRUYlQkMlOUYmdHh0LWNvbG9yPSUyMzIxMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtY2xpcD1lbGxpcHNpcyZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZzPTI1MTBlYWEzMTIyYWQ0M2ZhMWMwOWIxNWQzYTEzYjQz&mark-x=142&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTYxNiZ0eHQ9JTQwbG9uZzY2dGFpbCZ0eHQtY29sb3I9JTIzMjEyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnM9NmViODg1MjIxNDU0MmQ0ODYzYTJiN2NkYmUyNmFjMjQ&blend-x=142&blend-y=491&blend-mode=normal&s=6382370a2af2944b8fde011edf8a125d"
-        },
-        {
-          "id": "https://qiita.com/daifuku10/items/d1fc52590b3a515565c0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "はじめに\n\nPythonプログラムで即業務に役立つサンプルプログラムとして、PDFファイルを分割、結合、並び替えできるアプリを作成してみましたので、備忘録も兼ねて掲載します。\nプログラムは、PDFフ…",
-          "link": "https://qiita.com/daifuku10/items/d1fc52590b3a515565c0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2022-04-10T13:09:13.000Z",
-          "wordCount": 446,
-          "title": "PythonでPDFファイルを結合・分割・並び替えアプリ作成",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTkxNiZ0eHQ9UHl0aG9uJUUzJTgxJUE3UERGJUUzJTgzJTk1JUUzJTgyJUExJUUzJTgyJUE0JUUzJTgzJUFCJUUzJTgyJTkyJUU3JUI1JTkwJUU1JTkwJTg4JUUzJTgzJUJCJUU1JTg4JTg2JUU1JTg5JUIyJUUzJTgzJUJCJUU0JUI4JUE2JUUzJTgxJUIzJUU2JTlCJUJGJUUzJTgxJTg4JUUzJTgyJUEyJUUzJTgzJTk3JUUzJTgzJUFBJUU0JUJEJTlDJUU2JTg4JTkwJnR4dC1jb2xvcj0lMjMyMTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LWNsaXA9ZWxsaXBzaXMmdHh0LWFsaWduPWxlZnQlMkN0b3Amcz01ODU1MTg2MmJjMTQxOWRiODU0NDE5NWY0MzVmMmVlZg&mark-x=142&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTYxNiZ0eHQ9JTQwZGFpZnVrdTEwJnR4dC1jb2xvcj0lMjMyMTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LWFsaWduPWxlZnQlMkN0b3Amcz1jYzRkMDZmYzA5ZmExMDMyY2MzYzlmMDQzNjExNTA1NQ&blend-x=142&blend-y=491&blend-mode=normal&s=b387a9c604bfc14cb25a955cd7281886"
         }
       ]
     },
@@ -955,6 +845,206 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/topstory.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/fortop/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/business/articles/2204/14/news074.html",
+          "author": null,
+          "description": "再び事業成長にフォーカスし、いったんの黒字化を経て投資を再度強化したマネーフォワード。4月13日に発表した第1四半期（2021年12月－2022年2月）決算は、計画を大きく上振れした着地となった。",
+          "link": "https://www.itmedia.co.jp/business/articles/2204/14/news074.html",
+          "publishedOn": "2022-04-14T00:40:00.000Z",
+          "wordCount": 123,
+          "title": "上方修正からさらに上振れのマネフォ決算　SaaS ARRは40％増の129億円に",
+          "imageUrl": "https://image.itmedia.co.jp/business/articles/2204/14/cover_news074.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2204/14/news076.html",
+          "author": null,
+          "description": "TikTokは、コンテンツにつけられたコメントに「Dislike」するテストを開始した。コメントごとについている「いいね」（ハートボタン）の右隣に親指を下向きにしたボタンが表示されている。",
+          "link": "https://www.itmedia.co.jp/news/articles/2204/14/news076.html",
+          "publishedOn": "2022-04-14T00:17:00.000Z",
+          "wordCount": 144,
+          "title": "TikTok、コメントに「嫌い」を付ける機能のテストを開始",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2204/14/cover_news076.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2204/14/news061.html",
+          "author": null,
+          "description": "カセットテープから逆回転の歌が聴こえたら、それは良いニュースかもしれない。",
+          "link": "https://www.itmedia.co.jp/news/articles/2204/14/news061.html",
+          "publishedOn": "2022-04-13T23:53:00.000Z",
+          "wordCount": 158,
+          "title": "Macが生まれた年からの贈り物は、逆回転で「タイム・アフター・タイム」と囁く",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2204/14/cover_news061.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/business/articles/2204/14/news033.html",
+          "author": null,
+          "description": "コーヒーメーカーは家電の中で一般的だが、紅茶をつくるティーメーカーは見当たらない。あっても不思議な感じがしないでもないが、このほどレコルトが「ミルクティーメーカー」を発売した。開発・販売元に機能のほか、誕生の経緯などを聞いた。",
+          "link": "https://www.itmedia.co.jp/business/articles/2204/14/news033.html",
+          "publishedOn": "2022-04-13T23:30:00.000Z",
+          "wordCount": 133,
+          "title": "ボタンを押すだけ！　本格「ミルクティーメーカー」は、どうやって開発したのか",
+          "imageUrl": "https://image.itmedia.co.jp/business/articles/2204/14/cover_news033.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2204/14/news072.html",
+          "author": null,
+          "description": "Googleが、iPhoneからAndroidに乗り換えるためのアプリ「Androidに移行」をApp Storeで“非表示公開”した。リンクからたどってインストールできる。Appleは2015年に「iOSに移行」を公開している。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2204/14/news072.html",
+          "publishedOn": "2022-04-13T23:06:00.000Z",
+          "wordCount": 435,
+          "title": "Google、iPhoneからAndroidに乗り換えしやすくする「Androidに移行」アプリ公開",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2204/14/l_yu_switch.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2204/14/news052.html",
+          "author": null,
+          "description": "2022年入社の新卒エンジニアに本を1冊勧めるとしたら、何がいい？──サイバーエージェントが社内アンケートの結果を公開。ITエンジニア約40人から回答が集まったという。",
+          "link": "https://www.itmedia.co.jp/news/articles/2204/14/news052.html",
+          "publishedOn": "2022-04-13T22:00:00.000Z",
+          "wordCount": 147,
+          "title": "「新人エンジニアにおすすめの本ある？」　サイバーエージェントが社内アンケートの結果公開",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2204/14/cover_news052.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2204/14/news058.html",
+          "author": null,
+          "description": "毎月、利用するデータ量は多くても5GB程度の筆者はドコモの「5Gギガライト」を利用しているが、「ahamo」の登場で事情が変わった。ahamoは月額2970円で20GBのデータが利用でき、国内通話は5分まで何度でも無料。そこで今回、重い腰を上げて、真剣に乗り換えを検討してみた。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2204/14/news058.html",
+          "publishedOn": "2022-04-13T21:00:00.000Z",
+          "wordCount": 483,
+          "title": "ドコモ「5Gギガライト」から「ahamo」へ、「dカード GOLD」から「dカード」への乗り換えを検討した結果",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2204/14/l_st52693_ahamogiga-01.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2204/14/news068.html",
+          "author": null,
+          "description": "米Nianticは14日、最新のAR技術を投入したスマートフォン向けの位置情報ゲーム「Peridot」（ペリドット）を発表した。今後、数週間かけて技術検証を行う。",
+          "link": "https://www.itmedia.co.jp/news/articles/2204/14/news068.html",
+          "publishedOn": "2022-04-13T17:01:00.000Z",
+          "wordCount": 160,
+          "title": "ポケモンGOの米Nianticが新たなARゲーム「ペリドット」公開　バーチャルペットを育てて繁殖",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2204/14/l_ts0153_peridot01.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2204/13/news183.html",
+          "author": null,
+          "description": "アンカー・ジャパンは、財布に最適なカード型スマートトラッカー「Eufy SmartTrack Card」と、鍵などに取り付けるタグ型スマートトラッカー「Eufy SmartTrack Link」を発表した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2204/13/news183.html",
+          "publishedOn": "2022-04-13T12:55:00.000Z",
+          "wordCount": 178,
+          "title": "Appleの「探す」と連携予定　Ankerから忘れ物防止タグ2機種　AirTagにはないカード型も",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2204/13/cover_news183.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2204/13/news181.html",
+          "author": null,
+          "description": "スポーツ動画配信サービス「DAZN」で不具合が発生し、一部ユーザーがログイン状態になっている。",
+          "link": "https://www.itmedia.co.jp/news/articles/2204/13/news181.html",
+          "publishedOn": "2022-04-13T11:59:00.000Z",
+          "wordCount": 155,
+          "title": "DAZNで不具合発生、一部ユーザーがログインできず　「野球中継が見れない」と怒りの声",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2204/13/cover_news181.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2204/13/news178.html",
+          "author": null,
+          "description": "あるユーザーがツイートした「有線イヤフォンを使っている人を見ると、ITリテラシーが低く感じられる」という旨の投稿が話題になっている。メーカーや著名人なども反応しているが「炎上商法ではないか」と指摘する声も挙がっている。",
+          "link": "https://www.itmedia.co.jp/news/articles/2204/13/news178.html",
+          "publishedOn": "2022-04-13T11:07:00.000Z",
+          "wordCount": 156,
+          "title": "「有線イヤフォン使いは厄介でITリテラシーが低い」？　音楽などの聴き方巡りSNSで物議、実は“炎上商法”かも",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2204/13/cover_news178.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2204/13/news175.html",
+          "author": null,
+          "description": "2022年度末までに、スマートフォンへのマイナンバーカード機能が実装される。同機能の官民での利用を推進する、デジタルアイデンティティ推進コンソーシアムの松田学代表理事は「日本が世界のデジタル革命を先導する」と活動への意気込みを話す。",
+          "link": "https://www.itmedia.co.jp/news/articles/2204/13/news175.html",
+          "publishedOn": "2022-04-13T10:27:00.000Z",
+          "wordCount": 150,
+          "title": "スマホにマイナンバーカード機能、22年度末までに　推進団体は「日本が世界のデジタル革命を先導する」",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2204/13/cover_news175.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2204/13/news157.html",
+          "author": null,
+          "description": "アンカー・ジャパンは、同社のオーディオブランド「Soundcore」初のオーディオグラスを国内販売すると発表した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2204/13/news157.html",
+          "publishedOn": "2022-04-13T08:20:00.000Z",
+          "wordCount": 164,
+          "title": "Anker、「スピーカー付きメガネ」を国内販売へ　1万9990円　マイクも内蔵",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2204/13/cover_news157.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/business/articles/2204/13/news144.html",
+          "author": null,
+          "description": "中央銀行発行のデジタル円、いわゆるCBDCは、概念実証のフェーズ1を終了し、4月からはフェーズ2に移行する。では現時点で日銀はデジタル通貨をどう考えているのか。日銀の内田眞一理事は「CBDCを発行するとすれば」と題した開会挨拶で、現時点でのデジタル通貨との向き合い方を話した。",
+          "link": "https://www.itmedia.co.jp/business/articles/2204/13/news144.html",
+          "publishedOn": "2022-04-13T07:25:00.000Z",
+          "wordCount": 121,
+          "title": "日銀はデジタル通貨をどう考えているのか？　実証実験フェーズ2開始のCBDC",
+          "imageUrl": "https://image.itmedia.co.jp/business/articles/2204/13/cover_news144.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2204/13/news149.html",
+          "author": null,
+          "description": "法改正により、事業者を跨いだデータの活用に関する規制が複雑化した。一方で、この状況をビジネスチャンスにつなげるスタートアップも出ている。そのヒミツは「秘密計算」だ。",
+          "link": "https://www.itmedia.co.jp/news/articles/2204/13/news149.html",
+          "publishedOn": "2022-04-13T07:24:00.000Z",
+          "wordCount": 169,
+          "title": "企業横断のデータ活用に「秘密計算」で挑む　法改正の隙間に生まれた市場を狙うSaaSスタートアップ",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2204/13/cover_news149.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2204/13/news141.html",
+          "author": null,
+          "description": "ソースネクスト傘下のポケトークは、同社の翻訳デバイス「ポケトーク」と同等の機能をスマートフォンで使える翻訳アプリを25日から提供すると発表した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2204/13/news141.html",
+          "publishedOn": "2022-04-13T06:45:00.000Z",
+          "wordCount": 145,
+          "title": "「ポケトーク」にスマホアプリ登場　週額120円から　4月25日提供開始",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2204/13/cover_news141.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2204/13/news134.html",
+          "author": null,
+          "description": "アドビは、モーショングラフィックスやVFX合成を可能にする「Adobe After Effects」が「Appleシリコン」にネイティブ対応したと発表した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2204/13/news134.html",
+          "publishedOn": "2022-04-13T06:15:00.000Z",
+          "wordCount": 184,
+          "title": "「After Effects」がAppleシリコンにネイティブ対応　最大3倍高速に",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2204/13/cover_news134.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2204/13/news116.html",
+          "author": null,
+          "description": "ソフトバンクロボティクスグループは、一部で報道された人型ロボット「Pepper」事業の売却について、「事実ではない」とするコメントを発表した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2204/13/news116.html",
+          "publishedOn": "2022-04-13T04:50:00.000Z",
+          "wordCount": 152,
+          "title": "「Pepper事業は今後も強力に推進」　ソフトバンクロボティクスGが売却報道にコメント",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2204/13/cover_news116.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2204/13/news106.html",
+          "author": null,
+          "description": "バッファローは13日、PlayStation 5用アプリ「torne」のアップデートで「nasne」の「ニコニコ実況」連携機能が復活したと発表した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2204/13/news106.html",
+          "publishedOn": "2022-04-13T03:48:00.000Z",
+          "wordCount": 153,
+          "title": "「nasne」のニコニコ実況連携機能、PS5で復活　PS4とスマホは「順次」",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2204/13/cover_news106.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2204/13/news105.html",
+          "author": null,
+          "description": "親が子どもにスマホを持たせようと考えたとき、ご家庭それぞれに理由があるでしょう。年齢によってニーズも異なり、必ずしもスマホでなくてもよいケースがあります。子ども用GPS機器、キッズケータイ、スマホ、それぞれのメリットを解説します。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2204/13/news105.html",
+          "publishedOn": "2022-04-13T03:32:00.000Z",
+          "wordCount": 464,
+          "title": "子ども向け端末の選び方　「GPS」「キッズケータイ」「スマホ」のどれがいい？",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2204/13/cover_news105.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2204/13/news051.html",
           "author": null,
@@ -1234,176 +1324,6 @@
           "wordCount": 548,
           "title": "「GalaxyのSIMフリースマホ」投入のワケ、Amazonの強い後押しで実現",
           "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2204/12/l_st52693_samsungint-01.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/pcuser/articles/2204/11/news165.html",
-          "author": null,
-          "description": "中国One-Netbook Technologyは、同社のWebページでRyzen 7 5800Uを搭載した超小型ポータブルPC「ONEXPLAYER mini」の注文受け付けを開始した。価格は1259ドルだ。",
-          "link": "https://www.itmedia.co.jp/pcuser/articles/2204/11/news165.html",
-          "publishedOn": "2022-04-11T13:00:00.000Z",
-          "wordCount": 452,
-          "title": "Ryzen 7 5800U搭載の「ONEXPLAYER mini」、日本では初夏に発売へ",
-          "imageUrl": "https://image.itmedia.co.jp/pcuser/articles/2204/11/cover_news165.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2204/11/news161.html",
-          "author": null,
-          "description": "スマートリモコン「Nature Remo」などを手掛けるNatureは4月11日、電力小売サービス「Natureスマート電気」を終了すると発表した。",
-          "link": "https://www.itmedia.co.jp/news/articles/2204/11/news161.html",
-          "publishedOn": "2022-04-11T11:40:00.000Z",
-          "wordCount": 146,
-          "title": "電力価格高騰で「採算性の担保が困難」――新電力「Natureスマート電気」終了へ　6月30日で供給停止",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2204/11/cover_news161.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2204/11/news160.html",
-          "author": null,
-          "description": "経済産業省の産業サイバーセキュリティ研究会が「産業界へのメッセージ」を発表した。サイバー攻撃が増加傾向にあるとして、対策の徹底、攻撃を受けた際の適切な対応、支援制度の活用を呼び掛けた。",
-          "link": "https://www.itmedia.co.jp/news/articles/2204/11/news160.html",
-          "publishedOn": "2022-04-11T11:15:00.000Z",
-          "wordCount": 145,
-          "title": "増えるサイバー攻撃に経産省が警鐘　産業界へ「セキュリティ対策徹底」呼び掛け",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2204/11/cover_news160.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2204/11/news159.html",
-          "author": null,
-          "description": "集英社が漫画アプリ「ジャンプ＋」で公開した、漫画「チェンソーマン」作者・藤本タツキさん新作読み切り「さよなら絵梨」が話題だ。閲覧数は公開から1日足らずで220万回を突破。Twitterでも「 ＃さよなら絵梨」といったワードがトレンド入りした。",
-          "link": "https://www.itmedia.co.jp/news/articles/2204/11/news159.html",
-          "publishedOn": "2022-04-11T10:56:00.000Z",
-          "wordCount": 150,
-          "title": "「チェンソーマン」作者の新作読み切り「さよなら絵梨」、公開から1日足らずで閲覧数220万超え　ジャンプ＋で無料公開中",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2204/11/cover_news159.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2204/11/news158.html",
-          "author": null,
-          "description": "経済産業省は11日、夏前のエアコン試運転を呼びかけた。今年はエアコンメーカーや業界団体も歩調を合わせて早期の試運転を呼び掛け始めた。",
-          "link": "https://www.itmedia.co.jp/news/articles/2204/11/news158.html",
-          "publishedOn": "2022-04-11T10:48:00.000Z",
-          "wordCount": 149,
-          "title": "早めの「エアコン試運転」、経産省など呼び掛け　去年は購入者の3割が“2週間待ち”に",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2204/11/cover_news158.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2204/11/news148.html",
-          "author": null,
-          "description": "明治大学とキリンホールディングスは、減塩食品の味わいを増強させる箸型デバイスを開発した。減塩食を食べたときに感じる塩味が1.5倍程度に増強されることを世界で初めて確認したという。",
-          "link": "https://www.itmedia.co.jp/news/articles/2204/11/news148.html",
-          "publishedOn": "2022-04-11T09:49:00.000Z",
-          "wordCount": 152,
-          "title": "減塩食を“しょっぱく”感じる箸型デバイス、明大とキリンが開発　電気で味覚を操作",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2204/11/cover_news148.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2204/11/news138.html",
-          "author": null,
-          "description": "米Appleは、米Analysis Groupのエコノミストが発表したサードパーティーアプリに関する報告書を紹介する形で、自社アプリよりもサードパーティーアプリが人気を獲得しているとの分析を発表した。",
-          "link": "https://www.itmedia.co.jp/news/articles/2204/11/news138.html",
-          "publishedOn": "2022-04-11T09:30:00.000Z",
-          "wordCount": 171,
-          "title": "Amazonプライム・ビデオ、日本だとApple TVより407倍人気　AppleがApp Store内のアプリを分析",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2204/11/cover_news138.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2204/11/news144.html",
-          "author": null,
-          "description": "サイボウズがノーコード開発ツール「kintone」を、50の自治体限定で1年間無料提供する。",
-          "link": "https://www.itmedia.co.jp/news/articles/2204/11/news144.html",
-          "publishedOn": "2022-04-11T09:30:00.000Z",
-          "wordCount": 142,
-          "title": "kintone、自治体向けに1年間無料提供キャンペーン　50団体限定で",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2204/11/cover_news144.png"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/pcuser/articles/2204/11/news128.html",
-          "author": null,
-          "description": "NVIDIAのハイエンドGPU「GeForce RTX 3090 Ti」搭載カードが、各社から続々と登場している。気にしている人は多いものの、購入には踏み込めずにいるという声も。それには3つの理由があるという。",
-          "link": "https://www.itmedia.co.jp/pcuser/articles/2204/11/news128.html",
-          "publishedOn": "2022-04-11T08:15:00.000Z",
-          "wordCount": 470,
-          "title": "GeForce RTX 3090 Ti搭載カードが続々登場するも導入に踏み切れない3つのハードル",
-          "imageUrl": "https://image.itmedia.co.jp/pcuser/articles/2204/11/cover_news128.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2204/11/news131.html",
-          "author": null,
-          "description": "「スマホで日程を管理をするのに便利なアプリを教えてください」──河野太郎衆議院議員は4月10日、このようなツイートを投稿した。これに対して、Twitterユーザーたちはさまざまな日程管理アプリを勧めている。",
-          "link": "https://www.itmedia.co.jp/news/articles/2204/11/news131.html",
-          "publishedOn": "2022-04-11T08:05:00.000Z",
-          "wordCount": 171,
-          "title": "河野太郎議員「便利な日程管理アプリを教えて」　Twitterユーザーたちが勧めるカレンダーアプリは？",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2204/11/cover_news131.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2204/11/news121.html",
-          "author": null,
-          "description": "エディオングループが運用するサーバが不正アクセスを受け、8万件近いデータが削除された。データが流出した可能性もあるとして原因の調査を行う。",
-          "link": "https://www.itmedia.co.jp/news/articles/2204/11/news121.html",
-          "publishedOn": "2022-04-11T07:15:00.000Z",
-          "wordCount": 145,
-          "title": "エディオングループに不正アクセス　約8万件のデータが消される　流出の可能性も",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2204/11/cover_news121.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/mobile/articles/2204/11/news095.html",
-          "author": null,
-          "description": "NTTドコモが公開している「Galaxy S22 SC-51C」「Galaxy S22 Ultra SC-52C」のスペック表に、今までなかった「デュアルSIMパターン」という表記が加わりました。これは、ドコモでもiPhone／iPad以外にデュアルSIMに対応する端末を発売するという「伏線」なのでしょうか……？",
-          "link": "https://www.itmedia.co.jp/mobile/articles/2204/11/news095.html",
-          "publishedOn": "2022-04-11T06:00:00.000Z",
-          "wordCount": 503,
-          "title": "ドコモのAndroidスマホのスペック表に「デュアルSIMパターン」が加わる　今後デュアルSIM端末が登場？",
-          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2204/11/l_si7101-Fone-01.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/mobile/articles/2204/11/news065.html",
-          "author": null,
-          "description": "外出先で、iPhoneのバッテリーが減ってもすぐに充電ができないときは、バッテリーを長持ちさせる設定を試してみましょう。バッテリーを消費しがちな機能の設定を変更して、消費電力を抑えられます。低電力モードを有効にしたり、画面の明るさを調整したりすることから始めてみてください。",
-          "link": "https://www.itmedia.co.jp/mobile/articles/2204/11/news065.html",
-          "publishedOn": "2022-04-11T00:11:00.000Z",
-          "wordCount": 455,
-          "title": "iPhoneのバッテリーを長持ちさせる方法7選（2022年最新版）",
-          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2204/11/l_st52693_iphoneba-01.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2204/11/news042.html",
-          "author": null,
-          "description": "韓国のKorea Institute of Science and Technologyなどの究チームは、伸縮性があるリチウムイオン電池を開発した。電極、集電体、セパレータ、封止材など、全ての構成要素が伸縮自在。実験では衣服表面にプリントしてスマートウォッチの充電に成功した。",
-          "link": "https://www.itmedia.co.jp/news/articles/2204/11/news042.html",
-          "publishedOn": "2022-04-10T23:00:00.000Z",
-          "wordCount": 208,
-          "title": "伸縮性がある伸びる電池、服に印刷してスマートウォッチを充電　韓国の研究チームが開発",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2204/11/cover_news042.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2204/11/news043.html",
-          "author": null,
-          "description": "香港城市大学と米Microsoft Research、Microsoft Cloud+AIによる研究チームは、劣化の激しい古い白黒映画を修復しカラー映像に変換する深層学習フレームワークを開発した。古い映像にある独特のフィルムノイズなどを修復し、色付けを行う。",
-          "link": "https://www.itmedia.co.jp/news/articles/2204/11/news043.html",
-          "publishedOn": "2022-04-10T23:00:00.000Z",
-          "wordCount": 188,
-          "title": "古い白黒映画を“昨日撮影したかのように”AIが修復　フィルムノイズを除去しカラー",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2204/11/cover_news043.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2204/11/news046.html",
-          "author": null,
-          "description": "いわゆる“3大クラウド”（AWS、Azure、GCP）が提供するサービスのうち、設定ミスが起きやすいのは？──トレンドマイクロがこんな調査結果を発表。設定ミスが起きやすい機能などを、クラウドサービスごとに割り出した。",
-          "link": "https://www.itmedia.co.jp/news/articles/2204/11/news046.html",
-          "publishedOn": "2022-04-10T22:00:00.000Z",
-          "wordCount": 161,
-          "title": "“3大クラウド”での設定ミスランキング、トレンドマイクロが発表　中にはミス率98％のサービスも",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2204/11/cover_news046.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2204/11/news062.html",
-          "author": null,
-          "description": "Twitter株の9.2％を購入し、同社取締役に就任したイーロン・マスク氏が就任後の週末にTwitter改革に関連するツイートを連投した。サブスク版「Twitter Blue」に認証バッジを追加するべき、などだ。",
-          "link": "https://www.itmedia.co.jp/news/articles/2204/11/news062.html",
-          "publishedOn": "2022-04-10T21:59:00.000Z",
-          "wordCount": 147,
-          "title": "「Twitterは死にかけ？」「Blueに認証バッジを」──イーロン・マスク取締役が週末にツイート連投",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2204/11/cover_news062.jpg"
         }
       ]
     },
@@ -1412,6 +1332,246 @@
       "feedUrl": "https://www.lifehacker.jp/feed/index.xml",
       "siteUrl": "https://www.lifehacker.jp",
       "articles": [
+        {
+          "id": "https://www.lifehacker.jp/article/2204-elon-musk-reveals-his-innovation-equation-its-an-easy-way-to-gauge-if-a-business-idea-is-viable/",
+          "author": "春野ユリ",
+          "description": "数々のビジネスで成功をおさめる起業家、イーロン・マスクの思考法は意外なほどシンプルなものでした。内容をご紹介します。",
+          "link": "https://www.lifehacker.jp/article/2204-elon-musk-reveals-his-innovation-equation-its-an-easy-way-to-gauge-if-a-business-idea-is-viable/",
+          "publishedOn": "2022-04-14T01:00:00.000Z",
+          "wordCount": 109,
+          "title": "イーロン・マスクの思考法。シンプルな「イノベーションの方程式」とは？",
+          "enclosure": {
+            "url": "https://media.loom.media-platform.com/dist/2022/04/12/dbd8a75d-89f7-4d16-95e3-a3e18663cb9a-w1280.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://media.loom.media-platform.com/dist/2022/04/12/dbd8a75d-89f7-4d16-95e3-a3e18663cb9a-w1280.png"
+        },
+        {
+          "id": "https://www.lifehacker.jp/article/2204book_to_read-969/",
+          "author": "印南敦史",
+          "description": "『うまくいく人の考え方』（永松茂久 著、SBクリエイティブ）より、うまくいく人の習慣力と考え方の違いについて解説します。",
+          "link": "https://www.lifehacker.jp/article/2204book_to_read-969/",
+          "publishedOn": "2022-04-13T23:00:00.000Z",
+          "wordCount": 93,
+          "title": "「うまくいく人」と「うまくいかない人」との決定的な違い",
+          "enclosure": {
+            "url": "https://media.loom.media-platform.com/dist/2022/04/13/f70ee564-3fe5-4cd6-b028-5a59703153f5-w1280.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://media.loom.media-platform.com/dist/2022/04/13/f70ee564-3fe5-4cd6-b028-5a59703153f5-w1280.jpg"
+        },
+        {
+          "id": "https://www.lifehacker.jp/article/2204_lht_serapist_pillow/",
+          "author": "saori",
+          "description": "背ラピストが販売する、寝ながら姿勢を正す「ゴッチョ背まくら」の使用レビュー。姿勢を整えることで呼吸や肩こりなどが改善される効果をご紹介します。",
+          "link": "https://www.lifehacker.jp/article/2204_lht_serapist_pillow/",
+          "publishedOn": "2022-04-13T13:05:00.000Z",
+          "wordCount": 102,
+          "title": "姿勢をケアする「ゴッチョ背まくら」を試したら、心身ともに疲れから解放された！【今日のライフハックツール】",
+          "enclosure": {
+            "url": "https://media.loom.media-platform.com/dist/2022/04/11/730e2d63-bfb3-48b9-af25-aa76441a6d49-w1280.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://media.loom.media-platform.com/dist/2022/04/11/730e2d63-bfb3-48b9-af25-aa76441a6d49-w1280.jpg"
+        },
+        {
+          "id": "https://www.lifehacker.jp/article/machi-ya-avantairmax-review/",
+          "author": "山田洋路",
+          "description": "ROCK JAW AUDIOの「AVANT AIR MAX」は、15Hz～65KHzまでの全音域をクリアに再現すべく開発されたプレミアムイヤホンです。お借りしたサンプルを試用した感想をお届けします！",
+          "link": "https://www.lifehacker.jp/article/machi-ya-avantairmax-review/",
+          "publishedOn": "2022-04-13T13:00:00.000Z",
+          "wordCount": 103,
+          "title": "装着すればライブ会場気分！ 業界人が開発に携わったワイヤレスイヤホンを試してみた",
+          "enclosure": {
+            "url": "https://media.loom.media-platform.com/dist/2022/04/13/b2087f5f-a825-447e-afc2-199832d93604-w1280.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://media.loom.media-platform.com/dist/2022/04/13/b2087f5f-a825-447e-afc2-199832d93604-w1280.png"
+        },
+        {
+          "id": "https://www.lifehacker.jp/article/2204_trampolin_training/",
+          "author": "ライフハッカー編集部",
+          "description": "トランポリンで宅トレしよう！ トランポリンで運動することの利点と習慣化させるコツを紹介します。",
+          "link": "https://www.lifehacker.jp/article/2204_trampolin_training/",
+          "publishedOn": "2022-04-13T12:30:00.000Z",
+          "wordCount": 136,
+          "title": "宅トレ習慣化3つの秘訣〜「トランポリン」で有酸素運動を手軽に",
+          "enclosure": {
+            "url": "https://media.loom.media-platform.com/dist/2022/04/12/c7d84420-e76b-4328-8624-d638dfa8be8f-w1280.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://media.loom.media-platform.com/dist/2022/04/12/c7d84420-e76b-4328-8624-d638dfa8be8f-w1280.jpg"
+        },
+        {
+          "id": "https://www.lifehacker.jp/article/machi-ya-soloquilt-start/",
+          "author": "飯田あゆみ",
+          "description": "ヒマラヤ登山を経験した冒険家が開発した寝袋「ソロキルト」は、マイナス20℃でも暖かく快眠できるのが特長。米軍で使用される合成素材を採用し湿気にも強く、軽量。自宅で洗濯できるのでお手入れも簡単です。",
+          "link": "https://www.lifehacker.jp/article/machi-ya-soloquilt-start/",
+          "publishedOn": "2022-04-13T12:00:00.000Z",
+          "wordCount": 100,
+          "title": "－20℃でも快眠を提供！ ヒマラヤ登山家が絶賛する寝袋「ソロキルト」",
+          "enclosure": {
+            "url": "https://media.loom.media-platform.com/dist/2022/03/23/a0ed34e2-c298-47a4-beeb-217c71312945-w1280.gif",
+            "length": "0",
+            "type": "image/gif"
+          },
+          "imageUrl": "https://media.loom.media-platform.com/dist/2022/03/23/a0ed34e2-c298-47a4-beeb-217c71312945-w1280.gif"
+        },
+        {
+          "id": "https://www.lifehacker.jp/article/2204how-to-deal-with-a-brilliant-asshole-at-work/",
+          "author": "ガリレオ",
+          "description": "社会人になるといずれは、仕事はできても人としては「最低な同僚や上司（Brilliant Jerk）」に悩まされる日がやってくるでしょう。「最低な同僚や上司（Brilliant Jerk）」は、どこの職場にも存在します。",
+          "link": "https://www.lifehacker.jp/article/2204how-to-deal-with-a-brilliant-asshole-at-work/",
+          "publishedOn": "2022-04-13T11:00:00.000Z",
+          "wordCount": 93,
+          "title": "仕事ができる「嫌な同僚や上司」に対処する方法",
+          "enclosure": {
+            "url": "https://media.loom.media-platform.com/dist/2022/04/13/557dac2f-e657-46c1-8f77-62d817b32eaa-w1280.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://media.loom.media-platform.com/dist/2022/04/13/557dac2f-e657-46c1-8f77-62d817b32eaa-w1280.jpg"
+        },
+        {
+          "id": "https://www.lifehacker.jp/article/amazon-timesale-2022-0413-1/",
+          "author": "メディアジーンメディアコマース",
+          "description": "Amazon（アマゾン）で毎日開催されているタイムセール。本日2022年4月13日は、明るさ最大2526lmの充電式ハンディライトが27％オフ、温熱+EMS機能のリラクゼーション器が20%オフなど、今すぐ欲しい人気のアイテムがお得に多数登場しています。",
+          "link": "https://www.lifehacker.jp/article/amazon-timesale-2022-0413-1/",
+          "publishedOn": "2022-04-13T10:30:00.000Z",
+          "wordCount": 422,
+          "title": "【Amazonタイムセール中！】明るさ最大2526lmの充電式ハンディライトが27％オフ、温熱+EMS機能のリラクゼーション器が20%オフなど",
+          "enclosure": {
+            "url": "https://media.loom.media-platform.com/dist/2022/04/13/1ae9c218-07ba-45f7-8bb8-e2de6157afeb-w1280.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://media.loom.media-platform.com/dist/2022/04/13/1ae9c218-07ba-45f7-8bb8-e2de6157afeb-w1280.jpg"
+        },
+        {
+          "id": "https://www.lifehacker.jp/article/machi-ya-carbonmoduletable-start/",
+          "author": "kotoha ozawa",
+          "description": "「カーボンモジュールテーブル」は、S/M/Lの3サイズの天板を組み合わせて使うことができるモジュール式テーブル。天板の数に合わせて横や縦に拡張も可能で自分だけの組み合わせを楽しめます。カーボン製で軽量高剛性なのもアウトドア向きですが、ミニマルな家具として自宅でも楽しめそうな製品となっています。",
+          "link": "https://www.lifehacker.jp/article/machi-ya-carbonmoduletable-start/",
+          "publishedOn": "2022-04-13T10:00:00.000Z",
+          "wordCount": 103,
+          "title": "ミニマルだけど拡張性抜群！ キャンプサイトに映える「カーボンモジュールテーブル」",
+          "enclosure": {
+            "url": "https://media.loom.media-platform.com/dist/2022/04/09/1ce615e5-2669-4afc-b217-f2f47802ad97-w1280.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://media.loom.media-platform.com/dist/2022/04/09/1ce615e5-2669-4afc-b217-f2f47802ad97-w1280.jpg"
+        },
+        {
+          "id": "https://www.lifehacker.jp/article/2204-gizmodo-route-board/",
+          "author": "ライフハッカー編集部",
+          "description": "キングジムの｢Route Board｣は、ケーブル整理を格段に便利にしてくれます。その魅力をご紹介します。",
+          "link": "https://www.lifehacker.jp/article/2204-gizmodo-route-board/",
+          "publishedOn": "2022-04-13T07:00:00.000Z",
+          "wordCount": 104,
+          "title": "キングジムの「ケーブル整理ボード」で収納さえもスタイリッシュに",
+          "enclosure": {
+            "url": "https://media.loom.media-platform.com/dist/2022/04/11/e4a06d0e-05f7-4aae-b49b-1ee53ebff6af-w1280.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://media.loom.media-platform.com/dist/2022/04/11/e4a06d0e-05f7-4aae-b49b-1ee53ebff6af-w1280.jpg"
+        },
+        {
+          "id": "https://www.lifehacker.jp/article/machi-ya-origer-end/",
+          "author": "muu",
+          "description": "「ORIGER」は、箸のように折り畳めるスリム＆コンパクトな軽量ハンガー。 持ってきたことを忘れる程のサイズ感で、サビに強く軽量で頑丈なアルミ製。脱いだジャケットを掛けたい時や、濡れたタオルを乾かしたい時など、様々なシーンで役立ちます。",
+          "link": "https://www.lifehacker.jp/article/machi-ya-origer-end/",
+          "publishedOn": "2022-04-13T06:00:00.000Z",
+          "wordCount": 90,
+          "title": "旅行やキャンプにあると便利な超軽量折りたたみハンガー「ORIGER」",
+          "enclosure": {
+            "url": "https://media.loom.media-platform.com/dist/2022/02/28/d3e0d1f0-b36f-4180-bebc-3571750f3a5f-w1280.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://media.loom.media-platform.com/dist/2022/02/28/d3e0d1f0-b36f-4180-bebc-3571750f3a5f-w1280.jpg"
+        },
+        {
+          "id": "https://www.lifehacker.jp/article/amazon-kashimura-wirelessneckspeaker/",
+          "author": "田中宏和",
+          "description": "夜中など、周囲に配慮して音を鳴らしたい。でも、イヤホンで耳が痛くなるのはイヤ。そんな人にピッタリなネックスピーカー。有名メーカー製になると、それなりに高価なものが多いジャンルですが、カシムラの「ワイヤレス ネックスピーカー BL-92」は5,000円でお釣りが来る（執筆時点）アイテム。",
+          "link": "https://www.lifehacker.jp/article/amazon-kashimura-wirelessneckspeaker/",
+          "publishedOn": "2022-04-13T04:00:00.000Z",
+          "wordCount": 125,
+          "title": "コスパの良さに要注目！ 音質にも納得なカシムラのワイヤレス ネックスピーカー",
+          "enclosure": {
+            "url": "https://media.loom.media-platform.com/dist/2022/04/08/dcc2e129-520a-41eb-b5ce-4a3811874854-w1280.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://media.loom.media-platform.com/dist/2022/04/08/dcc2e129-520a-41eb-b5ce-4a3811874854-w1280.jpg"
+        },
+        {
+          "id": "https://www.lifehacker.jp/article/2204_how-to-stop-saying-like-and-other-distracting-filler-w/",
+          "author": "的野裕子",
+          "description": "WORK FAST, LIVE SLOW.仕事を充実させ、生活を楽しむ。ビジネスはスマートに、暮らしは豊かに。ポジティブに生きるために現実を見据えて考えたい人のための自分グロースメディア。",
+          "link": "https://www.lifehacker.jp/article/2204_how-to-stop-saying-like-and-other-distracting-filler-w/",
+          "publishedOn": "2022-04-13T03:00:00.000Z",
+          "wordCount": 92,
+          "title": "えーと、あーの多用はNG。口癖・つなぎ言葉を減らし、わかりやすい話し方を手に入れる5ステップ",
+          "enclosure": {
+            "url": "https://media.loom.media-platform.com/dist/2022/04/01/90a7e7c8-6e2a-496e-ae4c-7ad8c2a94f87-w1280.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://media.loom.media-platform.com/dist/2022/04/01/90a7e7c8-6e2a-496e-ae4c-7ad8c2a94f87-w1280.jpg"
+        },
+        {
+          "id": "https://www.lifehacker.jp/article/machi-ya-samurasuper5-end/",
+          "author": "Haruki Matsumoto",
+          "description": "「サムラ Super5」は、プロの料理人からも厚く支持される高級ダマスカス包丁。ヨーロッパと日本の最高技術が融合した設計で、耐久性と切れ味、そして無骨ながらも美しいデザインなのが特長。まもなくキャンペーン終了なので、改めて詳細をチェックしておきましょう。",
+          "link": "https://www.lifehacker.jp/article/machi-ya-samurasuper5-end/",
+          "publishedOn": "2022-04-13T02:15:00.000Z",
+          "wordCount": 100,
+          "title": "切れ味で料理も差がつく？ 北欧発のプロ仕様ダマスカス包丁「サムラ Super5」",
+          "enclosure": {
+            "url": "https://media.loom.media-platform.com/dist/2022/04/08/03f1a515-546d-43b7-8615-69eb0f7a8976-w1280.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://media.loom.media-platform.com/dist/2022/04/08/03f1a515-546d-43b7-8615-69eb0f7a8976-w1280.jpg"
+        },
+        {
+          "id": "https://www.lifehacker.jp/article/2204_hatawarawide_ruby_matsumoto_hiroyuki/",
+          "author": "ライフハッカー編集部",
+          "description": "今や世界的なプログラミング言語であり、名だたる有名なアプリやサービスの開発に使用されている「Ruby」。その開発者であるまつもとゆきひろさんのこれまでのキャリアとストーリーを振り返ります。",
+          "link": "https://www.lifehacker.jp/article/2204_hatawarawide_ruby_matsumoto_hiroyuki/",
+          "publishedOn": "2022-04-13T02:00:00.000Z",
+          "wordCount": 84,
+          "title": "成功の鍵は「無欲」？ 「Ruby」開発者が考える夢を実現する力",
+          "enclosure": {
+            "url": "https://media.loom.media-platform.com/dist/2022/04/08/eef46cb0-a1c2-4be0-8a45-5befbf5fe497-w1280.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://media.loom.media-platform.com/dist/2022/04/08/eef46cb0-a1c2-4be0-8a45-5befbf5fe497-w1280.jpg"
+        },
+        {
+          "id": "https://www.lifehacker.jp/article/2204-you-need-to-update-your-pixel-devices-right-now/",
+          "author": "春野ユリ",
+          "description": "Pixel向けにリリースされた最新のアップデートは、重大なセキュリティ欠陥を修正します。詳細を解説します。",
+          "link": "https://www.lifehacker.jp/article/2204-you-need-to-update-your-pixel-devices-right-now/",
+          "publishedOn": "2022-04-13T01:00:00.000Z",
+          "wordCount": 141,
+          "title": "Pixelユーザーは、今すぐセキュリティアップデートを",
+          "enclosure": {
+            "url": "https://media.loom.media-platform.com/dist/2022/04/11/c2fd7301-86f9-42e0-81d3-452efc9482e4-w1280.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://media.loom.media-platform.com/dist/2022/04/11/c2fd7301-86f9-42e0-81d3-452efc9482e4-w1280.jpg"
+        },
         {
           "id": "https://www.lifehacker.jp/article/2204book_to_read-968/",
           "author": "印南敦史",
@@ -1741,246 +1901,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://media.loom.media-platform.com/dist/2022/04/06/bca44df9-e38b-4488-8d29-e041c4a38a1f-w1280.jpg"
-        },
-        {
-          "id": "https://www.lifehacker.jp/article/2204_lht_post_coffee/",
-          "author": "山田洋路",
-          "description": "コーヒーのサブスクリプションサービス「PostCoffee」の利用レビュー。150万の組み合わせから好みの3種類を選べるという、より満足のいくコーヒーライフを堪能できる特徴をご紹介します。",
-          "link": "https://www.lifehacker.jp/article/2204_lht_post_coffee/",
-          "publishedOn": "2022-04-11T13:05:00.000Z",
-          "wordCount": 116,
-          "title": "コーヒーの選び方・解像度が変わる！ サブスク「PostCoffee」を試してみた【今日のライフハックツール】",
-          "enclosure": {
-            "url": "https://media.loom.media-platform.com/dist/2022/04/07/84e7ee3c-cfe7-4ee1-898a-0ceb5b4c6339-w1280.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://media.loom.media-platform.com/dist/2022/04/07/84e7ee3c-cfe7-4ee1-898a-0ceb5b4c6339-w1280.jpg"
-        },
-        {
-          "id": "https://www.lifehacker.jp/article/machi-ya-atonce-end/",
-          "author": "山田洋路",
-          "description": "コーヒー豆を挽くところから抽出、カップまでを全てひとつで行う画期的なプロダクトが登場しました。「ATONCE」はミル付きポータブルコーヒーメーカー。プロ並みのハンドドリップが可能に粗挽きから細挽きまで、お好みのテイストに調整可能自動オフ機能を備えた安全なモーターを搭載。",
-          "link": "https://www.lifehacker.jp/article/machi-ya-atonce-end/",
-          "publishedOn": "2022-04-11T13:00:00.000Z",
-          "wordCount": 117,
-          "title": "豆挽きから抽出まで1つでできるミル付きポータブルコーヒーメーカー",
-          "enclosure": {
-            "url": "https://media.loom.media-platform.com/dist/2022/04/07/311ed861-a519-4942-af83-d9a5d4c66572-w1280.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "https://media.loom.media-platform.com/dist/2022/04/07/311ed861-a519-4942-af83-d9a5d4c66572-w1280.png"
-        },
-        {
-          "id": "https://www.lifehacker.jp/article/2204_blt_16_how_to_be_a_good_writer/",
-          "author": "ライフハッカー編集部",
-          "description": "『「書くのが苦手」な人のための文章術 』の著者であり、書評家・作家の印南敦史さんをお招きし、人を魅了する文章を書くコツなど、文章術について伺います。",
-          "link": "https://www.lifehacker.jp/article/2204_blt_16_how_to_be_a_good_writer/",
-          "publishedOn": "2022-04-11T12:30:00.000Z",
-          "wordCount": 114,
-          "title": "「書くこと」が苦手な人必見！  言葉のプロ直伝\"刺さる\"文章術｜4/28開催【BOOK LAB TALK #16】",
-          "enclosure": {
-            "url": "https://media.loom.media-platform.com/dist/2022/04/08/486340f7-1549-4ad0-ae84-b3cb0f8700ab-w1280.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://media.loom.media-platform.com/dist/2022/04/08/486340f7-1549-4ad0-ae84-b3cb0f8700ab-w1280.jpg"
-        },
-        {
-          "id": "https://www.lifehacker.jp/article/2204_how_to_create_a_wiki_in_notion/",
-          "author": "的野裕子",
-          "description": "Notionで「Wiki」（情報や資料を要約したページ。誰でもそのページに情報を提供したり、コメントすることができる）を作成し、共有する方法をご紹介します。",
-          "link": "https://www.lifehacker.jp/article/2204_how_to_create_a_wiki_in_notion/",
-          "publishedOn": "2022-04-11T12:30:00.000Z",
-          "wordCount": 130,
-          "title": "Notion「Wiki」で情報を整理しよう｜作成〜カスタマイズ方法まで",
-          "enclosure": {
-            "url": "https://media.loom.media-platform.com/dist/2022/03/30/1ea92e69-5f7e-4d57-8a93-77f2d1d90912-w1280.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://media.loom.media-platform.com/dist/2022/03/30/1ea92e69-5f7e-4d57-8a93-77f2d1d90912-w1280.jpg"
-        },
-        {
-          "id": "https://www.lifehacker.jp/article/2204how-to-stop-being-such-a-control-freak/",
-          "author": "的野裕子",
-          "description": "変化があると不安になり、サプライズは楽しくなく、トロいことにイライラして、自分の計画通りにいかないと満足しません。他の人の洗濯や食器洗いのやり方が気に入らない場合、口汚い言葉で罵ったりしていませんか？",
-          "link": "https://www.lifehacker.jp/article/2204how-to-stop-being-such-a-control-freak/",
-          "publishedOn": "2022-04-11T11:00:00.000Z",
-          "wordCount": 115,
-          "title": "イライラが止まらない。「支配欲」が強い人の特徴",
-          "enclosure": {
-            "url": "https://media.loom.media-platform.com/dist/2022/04/11/4acdcede-5e53-4eba-950b-d5ec8d8a630b-w1280.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://media.loom.media-platform.com/dist/2022/04/11/4acdcede-5e53-4eba-950b-d5ec8d8a630b-w1280.jpg"
-        },
-        {
-          "id": "https://www.lifehacker.jp/article/amazon-timesale-2022-0411-1/",
-          "author": "メディアジーン メディアコマース",
-          "description": "Amazon（アマゾン）で毎日開催されているタイムセール。\n本日2022年4月11日は、20%オフのサーモス保冷ボトルや1個29円バブ詰め合わせセットなど、今すぐ欲しい人気のアイテムがお得に多数登場しています。",
-          "link": "https://www.lifehacker.jp/article/amazon-timesale-2022-0411-1/",
-          "publishedOn": "2022-04-11T10:30:00.000Z",
-          "wordCount": 402,
-          "title": "【Amazonタイムセール中！】炭酸水やコーラもOK！ 20%オフのサーモス保冷ボトルや1個29円バブ詰め合わせセットなど",
-          "enclosure": {
-            "url": "https://media.loom.media-platform.com/dist/2022/04/11/a55a85d9-5d58-4261-a47b-16a08d1afc27-w1280.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "https://media.loom.media-platform.com/dist/2022/04/11/a55a85d9-5d58-4261-a47b-16a08d1afc27-w1280.png"
-        },
-        {
-          "id": "https://www.lifehacker.jp/article/machi-ya-cuitisanflora-start/",
-          "author": "kotoha ozawa",
-          "description": "「Cuitisan FLORA」はステンレス容器なのに電子レンジで加熱もOKな多機能フードコンテナです。特殊なステンレス素材を使うことで、今までは実現できなかった機能を実装した画期的な製品となっています。プラスチックコンテナではニオイ移りや油汚れが残るということも多いですが、ステンレス製の「Cuitisan FLORA」はその心配も無用だそうですよ。",
-          "link": "https://www.lifehacker.jp/article/machi-ya-cuitisanflora-start/",
-          "publishedOn": "2022-04-11T10:00:00.000Z",
-          "wordCount": 116,
-          "title": "ステンレスなのにレンチンOK！保存や調理に便利なフードコンテナ「Cuitisan FLORA」",
-          "enclosure": {
-            "url": "https://media.loom.media-platform.com/dist/2022/04/01/5358c6d8-dca0-4eaa-9fe2-bf730725901d-w1280.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "https://media.loom.media-platform.com/dist/2022/04/01/5358c6d8-dca0-4eaa-9fe2-bf730725901d-w1280.png"
-        },
-        {
-          "id": "https://www.lifehacker.jp/article/machi-ya-pochette-end/",
-          "author": "飯田あゆみ",
-          "description": "「スマホポシェット」は最低限のサイズにこだわりながらも、スマートフォン、カード、イヤホン、鍵など収納でき使いやすく、大容量になるように工夫して設計。またファスナー収納ポケットには、パスポートも収納可能。",
-          "link": "https://www.lifehacker.jp/article/machi-ya-pochette-end/",
-          "publishedOn": "2022-04-11T08:00:00.000Z",
-          "wordCount": 105,
-          "title": "手ぶらで外出！ カード、鍵が入る本革スマホポシェットが終了間近",
-          "enclosure": {
-            "url": "https://media.loom.media-platform.com/dist/2022/04/06/d411bfe1-e163-4634-a4c9-cb521e98a696-w1280.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://media.loom.media-platform.com/dist/2022/04/06/d411bfe1-e163-4634-a4c9-cb521e98a696-w1280.jpg"
-        },
-        {
-          "id": "https://www.lifehacker.jp/article/rakuten-sale-2022-0411-1/",
-          "author": "メディアジーン メディアコマース",
-          "description": "楽天市場では、複数ショップでの買い回りで還元ポイントがアップする｢お買い物マラソン｣が4月16日（土）1:59まで開催中。\n現在、Jabraのワイヤレスイヤホンが50％ポイント還元、エレクトロラックスの掃除機が30%還元など、お得な商品が多数登場しています。",
-          "link": "https://www.lifehacker.jp/article/rakuten-sale-2022-0411-1/",
-          "publishedOn": "2022-04-11T07:30:00.000Z",
-          "wordCount": 436,
-          "title": "【楽天お買い物マラソン】Jabraのワイヤレスイヤホンが50％ポイント還元、エレクトロラックスの掃除機が30%還元など",
-          "enclosure": {
-            "url": "https://media.loom.media-platform.com/dist/2022/04/11/416b98b9-4bad-444f-90fc-d896342d468d-w1280.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://media.loom.media-platform.com/dist/2022/04/11/416b98b9-4bad-444f-90fc-d896342d468d-w1280.jpg"
-        },
-        {
-          "id": "https://www.lifehacker.jp/article/2204-newstandard-interview-hyuk-02/",
-          "author": "大森りえ",
-          "description": "美容系YouTuberとして活躍する­Hyukさんに、常に“パイオニア”であり続けるために欠かさない挑戦や、一度は諦めた夢への道を歩む原動力についてインタビュー。ビジネスパーソンにとっても学び多き、自身の“ニュースタンダード”についてお話を聞きました。今回は後編です。",
-          "link": "https://www.lifehacker.jp/article/2204-newstandard-interview-hyuk-02/",
-          "publishedOn": "2022-04-11T07:00:00.000Z",
-          "wordCount": 122,
-          "title": "「挑戦し続ければ失敗にならない」YouTuber・Hyukの自己実現の原動力",
-          "enclosure": {
-            "url": "https://media.loom.media-platform.com/dist/2022/04/07/a81f1e74-afd8-4304-84bc-c639c5605bdf-w1280.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "https://media.loom.media-platform.com/dist/2022/04/07/a81f1e74-afd8-4304-84bc-c639c5605bdf-w1280.png"
-        },
-        {
-          "id": "https://www.lifehacker.jp/article/machi-ya-hoto-hpwm-x6-start/",
-          "author": "Haruki Matsumoto",
-          "description": "今回ご紹介する「HOTO HPWM X6」は、電源や水道を不要とした自吸式を採用した高圧洗浄機。水を用意すれば場所を選ばずどこでも使えるのが最大のメリット。水圧は2.4MPaにまで対応しており、ブロック塀や石畳の洗浄にも利用可能となっています。",
-          "link": "https://www.lifehacker.jp/article/machi-ya-hoto-hpwm-x6-start/",
-          "publishedOn": "2022-04-11T06:00:00.000Z",
-          "wordCount": 114,
-          "title": "洗車やバルコニー掃除にも便利！ ポータブルで使える高圧洗浄機「HOTO HPWM X6」",
-          "enclosure": {
-            "url": "https://media.loom.media-platform.com/dist/2022/03/31/1db7ca85-56aa-484d-b11d-2b7b0b2f4a4f-w1280.gif",
-            "length": "0",
-            "type": "image/gif"
-          },
-          "imageUrl": "https://media.loom.media-platform.com/dist/2022/03/31/1db7ca85-56aa-484d-b11d-2b7b0b2f4a4f-w1280.gif"
-        },
-        {
-          "id": "https://www.lifehacker.jp/article/machi-ya-pieces-start/",
-          "author": "saori",
-          "description": "「巨匠の破片 Pieces of the Masters」はアートを紡ぐ両面ジグソーパズル。専用フレームも両面のパズル作品をインテリアとして楽しめるように設計をしています。ダ・ヴィンチ、クリムト、ゴッホなど有名画家5人の作品のミニチュアを作ることができます。",
-          "link": "https://www.lifehacker.jp/article/machi-ya-pieces-start/",
-          "publishedOn": "2022-04-11T06:00:00.000Z",
-          "wordCount": 107,
-          "title": "ゴッホやダ・ヴィンチを作って楽しむ。世界の名作が楽しめる大人向けアートパズル",
-          "enclosure": {
-            "url": "https://media.loom.media-platform.com/dist/2022/03/24/303fdf53-1e13-4b79-aba2-33747e1b3c30-w1280.gif",
-            "length": "0",
-            "type": "image/gif"
-          },
-          "imageUrl": "https://media.loom.media-platform.com/dist/2022/03/24/303fdf53-1e13-4b79-aba2-33747e1b3c30-w1280.gif"
-        },
-        {
-          "id": "https://www.lifehacker.jp/article/2204-common-mistakes-managers-make-according-to-their-workers/",
-          "author": "ライフハッカー編集部",
-          "description": "過去5年にわたる職場での調査の結果、マネージャーがやりがちな間違いのパターンが浮かび上がりました。従業員のやる気を削いでしまうNGマネジメント5選をご紹介します。",
-          "link": "https://www.lifehacker.jp/article/2204-common-mistakes-managers-make-according-to-their-workers/",
-          "publishedOn": "2022-04-11T03:00:00.000Z",
-          "wordCount": 126,
-          "title": "社員のやる気をなくす「やりがちなNGマネジメント」5選",
-          "enclosure": {
-            "url": "https://media.loom.media-platform.com/dist/2022/04/08/5ce23075-5776-44cb-80cf-a95843366667-w1280.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "https://media.loom.media-platform.com/dist/2022/04/08/5ce23075-5776-44cb-80cf-a95843366667-w1280.png"
-        },
-        {
-          "id": "https://www.lifehacker.jp/article/2204what-is-dopamine-dressing-and-can-it-really-make-you/",
-          "author": "遠藤康子（ガリレオ）",
-          "description": "朝起きたときに、どんな色の洋服を着ようかと、時間をかけて考える人もいれば、あまり気にしない人もいるでしょう。しかし、洋服でモチベーションが上がるなら、注意深く選ぶことになるかもしれません。",
-          "link": "https://www.lifehacker.jp/article/2204what-is-dopamine-dressing-and-can-it-really-make-you/",
-          "publishedOn": "2022-04-11T01:00:00.000Z",
-          "wordCount": 104,
-          "title": "仕事のやる気に影響！ 幸福ホルモン「ドーパミン」が高まる洋服の選び方",
-          "enclosure": {
-            "url": "https://media.loom.media-platform.com/dist/2022/04/08/9c764ae2-b580-4801-b3d3-9264ece975bb-w1280.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "https://media.loom.media-platform.com/dist/2022/04/08/9c764ae2-b580-4801-b3d3-9264ece975bb-w1280.png"
-        },
-        {
-          "id": "https://www.lifehacker.jp/article/2204book_to_read-966/",
-          "author": "印南敦史",
-          "description": "『今日からできる　ゼロストレス営業』（河合克仁 著、すばる舎）より、ストレスなく確実に成果を出す営業フレーズについて解説します。",
-          "link": "https://www.lifehacker.jp/article/2204book_to_read-966/",
-          "publishedOn": "2022-04-10T23:00:00.000Z",
-          "wordCount": 90,
-          "title": "この2つの「営業フレーズ」で、ストレスなく確実に成果を出す",
-          "enclosure": {
-            "url": "https://media.loom.media-platform.com/dist/2022/04/10/5831926b-ac10-40a3-8144-faf895254cc1-w1280.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://media.loom.media-platform.com/dist/2022/04/10/5831926b-ac10-40a3-8144-faf895254cc1-w1280.jpg"
-        },
-        {
-          "id": "https://www.lifehacker.jp/article/vacuumcleaner_single/",
-          "author": "かいサポ",
-          "description": "一人暮らしの掃除機選びは「収納スペースがない」「夜にしか掃除ができない」「予算がない」など色々な制約が。新生活などのタイミングで一人暮らしを始める人に向け機能やコスパ別におすすめの掃除機を紹介します。ダイソン、マキタやアイリスオーヤマといったamazonで買えるブランドやロボット掃除機など自分に合うものを選んでください！",
-          "link": "https://www.lifehacker.jp/article/vacuumcleaner_single/",
-          "publishedOn": "2022-04-10T13:35:00.000Z",
-          "wordCount": 335,
-          "title": "時間も予算も収納スペースもないあなたへ。一人暮らしにおすすめ掃除機15選を紹介",
-          "enclosure": {
-            "url": "https://media.loom.media-platform.com/dist/2022/04/02/5ab729c5-2a98-493f-afb6-895855961bed-w1280.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://media.loom.media-platform.com/dist/2022/04/02/5ab729c5-2a98-493f-afb6-895855961bed-w1280.jpg"
         }
       ]
     }
