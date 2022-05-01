@@ -2,10 +2,368 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joyc.github.io/my-rss/index.html</id>
     <title>IT::News</title>
-    <updated>2022-04-30T01:17:32.762Z</updated>
+    <updated>2022-05-01T01:26:30.821Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joyc.github.io/my-rss/index.html"/>
     <link rel="self" href="https://joyc.github.io/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[引き戸レールを簡単に掃除する方法]]></title>
+        <id>https://www.lifehacker.jp/article/2204the-easiest-way-to-clean-gunk-out-of-your-sliding-door/</id>
+        <link href="https://www.lifehacker.jp/article/2204the-easiest-way-to-clean-gunk-out-of-your-sliding-door/"/>
+        <updated>2022-05-01T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[家に引き戸がある人は、汚れや黒ずみがたまった引き戸レールには慣れっこかもしれません。そんな引き戸レールの掃除は、後回しにしがちかもしれませんが、ドアの滑りが悪くなってきたら（あるいは、全く動かなくなったら）、さすがに掃除が必要です。]]></summary>
+        <author>
+            <name>ライフハッカー編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Androidのバッテリーを長持ちさせる方法9選（2022年最新版）]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2205/01/news032.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2205/01/news032.html"/>
+        <updated>2022-05-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[バッテリーが残りわずかになってきた場合は、長持ちさせるために9つの設定を試してみてください。Androidには、バッテリー消費を抑えるための「バッテリーセーバー」機能があるので、まずはこれを有効にしましょう。「設定」アプリの「バッテリー」では、アプリごとのバッテリー使用状況を閲覧できます。]]></summary>
+        <author>
+            <name>ITmedia TOP STORIES 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「小型フードプロセッサー」でつくる自家製ソースで、家ごはんに革命が！]]></title>
+        <id>https://www.lifehacker.jp/article/2205-roomie-recolte-chopper/</id>
+        <link href="https://www.lifehacker.jp/article/2205-roomie-recolte-chopper/"/>
+        <updated>2022-04-30T23:30:00.000Z</updated>
+        <summary type="html"><![CDATA[レコルトの「コードレスミニチョッパー」を使えば、手軽にソースやドレッシングをつくることができます。便利な機能をご紹介します。]]></summary>
+        <author>
+            <name>ライフハッカー編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nゲージの模型をラズパイで動かす　“らずてつ”その8――スタートボタンを取り付けてみる]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2205/01/news024.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2205/01/news024.html"/>
+        <updated>2022-04-30T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[鉄道模型の運転をラズパイで制御する仕組みに挑戦。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[著者トークイベントから考える「良いコード/悪いコードで学ぶ設計入門」の読み方]]></title>
+        <id>https://qiita.com/NMRt/items/37a9a56c2cb113615f17?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/NMRt/items/37a9a56c2cb113615f17?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2022-04-30T14:08:35.000Z</updated>
+        <summary type="html"><![CDATA[こちらの著者トークイベントに参加してまいりました
+
+https://modeling-how-to-learn.connpass.com/event/242976/
+
+参加を踏まえて、どんな人にこの本…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VSCodeおすすめ設定大公開！！おすすめ拡張機能も]]></title>
+        <id>https://qiita.com/papi_tokei/items/c639dc7d1e0f5ad68a74?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/papi_tokei/items/c639dc7d1e0f5ad68a74?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2022-04-30T13:39:43.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+皆さんVisual Studio Code(以下VSCode)使ってますか？
+私はメインで使っているのですが、自分なりにしっくりくる設定や拡張機能がある程度揃ってきたので公開しちゃいます。
+おすすめ設定だけではなく、おすすめの機能もできる限り紹介したいと思いますので、最後までぜひお付き合いください…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter買収、イーロンマスク氏の「失敗を恐れない生き方」まとめ]]></title>
+        <id>https://www.lifehacker.jp/article/2205matome_philosophy_of_elon_musk/</id>
+        <link href="https://www.lifehacker.jp/article/2205matome_philosophy_of_elon_musk/"/>
+        <updated>2022-04-30T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[前代未聞の偉業とともに、想定外の言動がメディアを賑わせるイーロン・マスク氏。直近では米ツイッター社を買収したことでも話題を集めています。ときに議論を呼ぶこともあるマスク氏ですが、そこに至るまでの背景や価値観を垣間見ておくと、また別の角度から彼の決断を理解・共感することができるかもしれません。]]></summary>
+        <author>
+            <name>ライフハッカー編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[腰が伸びて気持ちいい！ ストレッチできる座椅子で過ごしてみた]]></title>
+        <id>https://www.lifehacker.jp/article/1cc68393-1c03-425c-af43-a5ccc8c91980/</id>
+        <link href="https://www.lifehacker.jp/article/1cc68393-1c03-425c-af43-a5ccc8c91980/"/>
+        <updated>2022-04-30T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[「ストレッチ座椅子」は、からだファクトリーの整体師がおすすめする座りながらストレッチができる座椅子です。背もたれに特殊なスプリングが入っていて後ろに倒れて腰や背中を伸ばすことができます。さらに14段階リクライニング対応。]]></summary>
+        <author>
+            <name>ワタナベマイコ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Google Apps Script】英文のGoogleドキュメントをDeepL APIで翻訳してドキュメントに書き込む]]></title>
+        <id>https://qiita.com/kamimi01/items/a0fe72000bb6495d8c9a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/kamimi01/items/a0fe72000bb6495d8c9a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2022-04-30T11:06:36.000Z</updated>
+        <summary type="html"><![CDATA[実現したこと
+
+英文のGoogleドキュメント を 日本語に翻訳 して、Googleドキュメントに書き込む
+
+
+
+今回のきっかけ
+
+以下3つがきっかけでした。
+
+
+ウェブ版のDeepLだと、無料プランでは一度に…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ライフハッカー編集部員が「母の日」に贈りたい体調管理・癒しギフト15選]]></title>
+        <id>https://www.lifehacker.jp/article/2204_mothers_day_gift_rakuten/</id>
+        <link href="https://www.lifehacker.jp/article/2204_mothers_day_gift_rakuten/"/>
+        <updated>2022-04-30T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[母の日のギフトに、健康管理、身体のメンテナンスレベルを向上させるアイテムを楽天市場から厳選してご紹介します。]]></summary>
+        <author>
+            <name>ライフハッカー編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS認定 ソリューションアーキテクト プロフェッショナル(SAP) 合格記]]></title>
+        <id>https://qiita.com/sub3_15Ts/items/15bb2b22ad15cf9deaed?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/sub3_15Ts/items/15bb2b22ad15cf9deaed?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2022-04-30T10:50:33.000Z</updated>
+        <summary type="html"><![CDATA[2022年4月9日にAWS認定ソリューションアーキテクト プロフェッショナル(SAP)を受験し無事合格することができました。
+
+
+
+近年、AWS認定試験を受験する人が増えています。
+その中でも、SAAの…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R/R Studioドキュメントまとめ]]></title>
+        <id>https://qiita.com/MTRBEKTCBT/items/ddcdc706ad49d6434914?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/MTRBEKTCBT/items/ddcdc706ad49d6434914?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2022-04-30T10:17:52.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+R/RStudio/Markdownの記事へのリンク集です。
+できるだけ著者・開発者を記すようにしました。
+()内はパッケージの例です。
+
+base R・全般
+
+
+R-Tips
+データ科学便覧…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コード短く簡単に「画像をとことこ歩かせる」コピペ可]]></title>
+        <id>https://qiita.com/tatsukikane/items/4bcc93895ef7e4d16ebd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/tatsukikane/items/4bcc93895ef7e4d16ebd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2022-04-30T08:43:11.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+
+
+こんな風に画像を「とことこ歩かせるアニメーション」を、HTMLとjQueryとjRumbleというプラグインを使って実装します！
+名前だけ見ると難しそうですが、コードは短くコピペでも動く…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【楽天OUTDOOR DAY】48時間限定！ コールマンのBBQコンロやワンタッチテントがポイント5倍に]]></title>
+        <id>https://www.lifehacker.jp/article/rakuten-sale-2022-0430-1/</id>
+        <link href="https://www.lifehacker.jp/article/rakuten-sale-2022-0430-1/"/>
+        <updated>2022-04-30T07:30:00.000Z</updated>
+        <summary type="html"><![CDATA[楽天市場では、48時間限定イベント「OUTDOOR DAY」を開催中。
+エントリーすると対象ショップ限定でポイント5倍に。コールマンのBBQコンロやワンタッチテントなど、人気商品が対象となっているのでぜひチェックを。]]></summary>
+        <author>
+            <name>メディアジーンメディアコマース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“同人ハード”が「CES」で賞を取るまで　メタバース住人が愛用する「HaritoraX」誕生の軌跡]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2204/30/news060.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2204/30/news060.html"/>
+        <updated>2022-04-30T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[同人発のハードウェアが大ヒット。商業製品として量産化し、世界的な展示会で受賞して海外展開へ――絵に描いたような夢物語だが、VR用モーショントラッキングデバイス「HaritoraX」が叶えた実話だ。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「1000台売る覚悟があればいける」──飛騨高山にオープンした自作キーボード専門店「白銀ラボ」インタビュー]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2204/30/news045.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2204/30/news045.html"/>
+        <updated>2022-04-30T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[1月に飛騨高山で自作キーボードの専門店「白銀ラボ」をオープンしたヨーキース（西洋介、@Yowkees）さんにインタビュー。自作キーボードを始めたきっかけや、飛騨高山に国内2例目の実店舗を開くに至った経緯について話を聞いた。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「1000台売る覚悟があればいける」──飛騨高山にオープンした自作キーボード専門店「白銀ラボ」インタビュー]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2204/30/news045.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2204/30/news045.html"/>
+        <updated>2022-04-30T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[1月に飛騨高山で自作キーボードの専門店「白銀ラボ」をオープンしたヨーキース（西洋介、@Yowkees）さんにインタビュー。自作キーボードを始めたきっかけや、飛騨高山に国内2例目の実店舗を開くに至った経緯について話を聞いた。]]></summary>
+        <author>
+            <name>ITmedia TOP STORIES 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ゆるりと満ちる香りに癒される。火を使わないキャンドルウォーマー]]></title>
+        <id>https://www.lifehacker.jp/article/machi-ya-warmthrow-review/</id>
+        <link href="https://www.lifehacker.jp/article/machi-ya-warmthrow-review/"/>
+        <updated>2022-04-30T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[火を使わずにアロマの香りを楽しむキャンドルウォーマー「Warmthrow DIFFUSA」がmachi-yaに登場しました。アロマキャンドルを小さなお子様やペットがいると危なくてできないと悩んでいた人にとっておきのプロダクト。リビング、玄関、ベッドサイドなど好きな場所で楽しめます。]]></summary>
+        <author>
+            <name>ライフハッカー［日本版］</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【JavaScript問題】「700 / 500 | 0 」の出力結果は？]]></title>
+        <id>https://qiita.com/yamayamasou/items/5519546803841da9990a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/yamayamasou/items/5519546803841da9990a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2022-04-30T04:36:46.000Z</updated>
+        <summary type="html"><![CDATA[なんだこの書き方は？っというのがあったので調べて理解したので、投稿しておきます
+
+答え
+
+700 / 500 | 0
+= > 1
+
+
+理由
+
+まず、700 / 500 = 1.4 です。
+"|"はビットの論理…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[脚立を使わずに、車のルーフキャリアに荷物を積む方法｢車用ドアペダル 折りたたみ式｣]]></title>
+        <id>https://www.lifehacker.jp/article/tooenjoy/</id>
+        <link href="https://www.lifehacker.jp/article/tooenjoy/"/>
+        <updated>2022-04-30T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[車のルーフキャリアに荷物を積むときや、背が高い車を洗車したあとルーフを拭き上げるとき、脚立がないとどうにもなりませんよね。TOOENJOYの「車用ドアペダル 折りたたみ式」は、こんなときに使えるスグレモノ。ドアキャッチ（フック）に引っ掛けてセットすればOKという、簡単設置が特長のアイテムです。]]></summary>
+        <author>
+            <name>田中宏和</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[未経験文系初学者 Elixirを学ぶ 『プログラミングElixir』-第4章]]></title>
+        <id>https://qiita.com/Alicesky2127/items/804c41110b0033fb7770?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/Alicesky2127/items/804c41110b0033fb7770?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2022-04-30T03:24:11.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは！
+プログラミング未経験文系出身、Elixirの国に迷い込んだ？！見習いアルケミストのaliceと申します。
+今回はElixirの教科書『プログラミングElixir』第4章を読んで、学んだ…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【jQuery+CSS】マウスカーソル変更＆マウスストーカー実装]]></title>
+        <id>https://qiita.com/shiho97797/items/703b791cb708d88b6ff9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/shiho97797/items/703b791cb708d88b6ff9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2022-04-30T03:21:52.000Z</updated>
+        <summary type="html"><![CDATA[コード
+
+
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[30代でも間に合うおすすめスポーツ8選]]></title>
+        <id>https://www.lifehacker.jp/article/2204sports-you-can-still-compete-in-if-youre-old/</id>
+        <link href="https://www.lifehacker.jp/article/2204sports-you-can-still-compete-in-if-youre-old/"/>
+        <updated>2022-04-30T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[学生時代が終わり実社会に入って困ることの1つは、団体スポーツの競技会に参加する機会がないことです。
+しかし、社会人が参加できる大会はたくさんあり、中には意外なものもあります。]]></summary>
+        <author>
+            <name>ライフハッカー編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[プログラマー孔子「学而不思則罔」]]></title>
+        <id>https://qiita.com/lunar_sword3/items/ce6e297e40e1f64f6f96?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/lunar_sword3/items/ce6e297e40e1f64f6f96?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2022-04-30T02:22:47.000Z</updated>
+        <summary type="html"><![CDATA[プログラマー孔子が言いました
+「新しいプログラミング言語を勉強しただけで、実際にプロダクトを作ってみないと身につかない。ほんとやべーぐらいすぐ忘れる。
+でもコーディングするだけで他人のコードを読まな…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コーヒー向けの水に硬度を調整可能。魔法のピッチャーを使ってみた]]></title>
+        <id>https://www.lifehacker.jp/article/machi-ya-peakwater-review/</id>
+        <link href="https://www.lifehacker.jp/article/machi-ya-peakwater-review/"/>
+        <updated>2022-04-30T02:15:00.000Z</updated>
+        <summary type="html"><![CDATA[「PeakWater」は水の硬度を調整できるフィルタリングピッチャー。イギリスバリスタチャンピオンが徹底的にこだわってプロデュース。お家のコーヒーを簡単にプロの味に。料理でも活用できます。]]></summary>
+        <author>
+            <name>山田洋路</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[phpでcsvを読み込んでyaml形式で出力する]]></title>
+        <id>https://qiita.com/masa9436/items/7d93a500f145c208b837?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/masa9436/items/7d93a500f145c208b837?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2022-04-30T01:52:44.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+csvを読み込んで、yaml形式で出力します。
+コマンドを実行したときに、outputディレクトリにyamlファイルが生成されるところまでを作成します。
+
+今回はフレームワークは使用せず、…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[汗ばむ季節のニオイ対策に。シューズ除菌＆乾燥機「 BORN&amp;MADE」]]></title>
+        <id>https://www.lifehacker.jp/article/machi-ya-bornmade-start/</id>
+        <link href="https://www.lifehacker.jp/article/machi-ya-bornmade-start/"/>
+        <updated>2022-04-30T01:30:00.000Z</updated>
+        <summary type="html"><![CDATA[「BORN&MADE（ボーンアンドメイド」は、UV-C除菌と自然風乾燥のダブル機能で、靴を清潔に保つシューズケアガジェットです。毎日10分でOK。2wayの充電方式で充電し忘れても利用できます。]]></summary>
+        <author>
+            <name>saori</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イーロン・マスクが唱える「自由なTwitter」の功罪　買収がもたらす“変化”とは]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2204/30/news042.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2204/30/news042.html"/>
+        <updated>2022-04-30T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[イーロン・マスク氏が、Twitterの全株式を買収し、運営に携わることとなった。マスク氏は、Twitterを誰もが自由に話せるべき場所にしたい、と考えているようだが、この「自由」とはどんな意味を持つだろうか。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Y!mobileとUQ mobileのキャンペーンまとめ【4月30日最新版】　特価スマホや高額還元を見逃すな]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2204/30/news017.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2204/30/news017.html"/>
+        <updated>2022-04-30T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ソフトバンクのサブブランドであるY!mobileとauのサブブランドUQ mobileでは、メインブランドに劣らないキャンペーンを実施している。大手MNOのブランドでもあるため、PayPayポイントやau PAY残高でのポイント還元特典が多い。]]></summary>
+        <author>
+            <name>ITmedia TOP STORIES 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[自宅で宇宙を独り占め――日食も流星群も、惑星が並ぶ天文ショーも再現　“バーチャル星空観察”のススメ]]></title>
         <id>https://www.itmedia.co.jp/news/articles/2204/30/news044.html</id>
@@ -107,6 +465,18 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[CatapultでSymbolのコピーチェーンを構築する]]></title>
+        <id>https://qiita.com/monakaJP/items/59cbcda9ecc72431c71f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/monakaJP/items/59cbcda9ecc72431c71f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2022-04-29T16:32:08.000Z</updated>
+        <summary type="html"><![CDATA[Catapultを利用してSymbolのコピーチェーンを作る
+
+SymbolのブロックチェーンはXYMを買わないと利用できないと思えてしまいますが，Symbolの土台であるCatapultはOSSで…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Bashで簡単にCSVファイルを読み込んで処理する方法]]></title>
         <id>https://qiita.com/b-mente/items/182e21126ad69224cff9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
         <link href="https://qiita.com/b-mente/items/182e21126ad69224cff9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -131,6 +501,19 @@ cutコマンドでカラムを変数に格納する方法
 最近は本業の傍ら、Elixirコミュニティの方で副業しており、実務に基づく知見が色々溜まってきたので公開したいと思います。
 
 https://zenn.dev/k…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ラズパイとAndroidスマホでルーター作った]]></title>
+        <id>https://qiita.com/kmikage/items/f6bd10fad43f8b0b493f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/kmikage/items/f6bd10fad43f8b0b493f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2022-04-29T14:32:53.000Z</updated>
+        <summary type="html"><![CDATA[Androidスマホをラズパイでルーターつくった
+
+引っ越しを控え、現宅のフレッツ光の移設手続きをしていたのですが、諸事情で1ヶ月以上回線が引けない状況になりました。
+仕方ないので、ルーターを自作し…]]></summary>
         <author>
             <name>Qiita - 人気の記事</name>
         </author>
@@ -249,6 +632,18 @@ https://zenn.dev/k…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【JavaScript】Angular, React, Vue.js とフロントエンドの本まとめ]]></title>
+        <id>https://qiita.com/iwasiman/items/993372d3c40740a89929?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/iwasiman/items/993372d3c40740a89929?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2022-04-29T07:07:48.000Z</updated>
+        <summary type="html"><![CDATA[JSフレームワークの本まとめ
+
+　まだJavaScriptがHTMLページのオマケ扱いでセキュリティ面からも忌み嫌われていた不遇の時代、2005年にGoogle Mapの衝撃が走りAjaxのワードが…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[KV260 が Linux をブートするまでのシーケンス]]></title>
         <id>https://qiita.com/ikwzm/items/aca938c98b636c0048bc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
         <link href="https://qiita.com/ikwzm/items/aca938c98b636c0048bc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -275,6 +670,19 @@ https://zenn.dev/k…]]></summary>
         <updated>2022-04-29T06:39:15.000Z</updated>
         <summary type="html"><![CDATA[世の中にはよい機械学習の結果が存在する。高い精度で推論（分類・検出）できるものがある。
 だから、データの特性が、元々の想定から変わった時にも「機械学習だから、学習させればなんとかなるよね」と期待する…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Go】Go言語を学べるおすすめ本まとめ【Golang】]]></title>
+        <id>https://qiita.com/iwasiman/items/b04673c69c889fe968c9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/iwasiman/items/b04673c69c889fe968c9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2022-04-29T06:30:30.000Z</updated>
+        <summary type="html"><![CDATA[入門本でGoの世界にGo!(言ってみたかっただけ)
+
+　2009年にあのGoogle発、Better Cの立ち位置でマスコットのゴーファー君とともに人気を伸ばしてきたGo言語。
+　コンテナやマイクロ…]]></summary>
         <author>
             <name>Qiita - 人気の記事</name>
         </author>
@@ -552,6 +960,19 @@ https://modeling-how-to-learn.connpass.com/event…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Glideで作成したアプリをGoogleAnalyticsを使ってアクセス解析してみる]]></title>
+        <id>https://qiita.com/yukima77/items/ad1e6fadc0161c29af71?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/yukima77/items/ad1e6fadc0161c29af71?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2022-04-29T00:48:59.000Z</updated>
+        <summary type="html"><![CDATA[やること
+
+Glideで作成したアプリに対して、アクセス解析をやりたいと思います。
+Glideでのアクセス解析の方法をいろいろ調べてみたのですが、GoogleAnalyticsを使用する方法が無難な…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Appleの2022年度第2四半期、過去最高を記録　前年同期比9％増の973億ドル]]></title>
         <id>https://www.itmedia.co.jp/news/articles/2204/29/news047.html</id>
         <link href="https://www.itmedia.co.jp/news/articles/2204/29/news047.html"/>
@@ -742,969 +1163,6 @@ CdS感光センサー
         <summary type="html"><![CDATA[ゴールデンカムイの最終回が4月28日に公開された。Twitterでも大きな話題となり、複数のワードがトレンド入りしたが、ランキング内で気になる記述を見つけた。]]></summary>
         <author>
             <name>ITmedia TOP STORIES 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーロン・マスク氏によるツイッター買収は終わりの始まりか、あるいは何かの始まりなのか]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2204/28/news221.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2204/28/news221.html"/>
-        <updated>2022-04-28T13:20:00.000Z</updated>
-        <summary type="html"><![CDATA[イーロン・マスク氏によるTwitter買収が世界中で波紋を起こしている。彼が目指す自由な発言の場とはどういうことか。TwitterというSNSの特性から読み解く。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーロン・マスク氏によるツイッター買収は終わりの始まりか、あるいは何かの始まりなのか]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2204/28/news221.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2204/28/news221.html"/>
-        <updated>2022-04-28T13:20:00.000Z</updated>
-        <summary type="html"><![CDATA[イーロン・マスク氏によるTwitter買収が世界中で波紋を起こしている。彼が目指す自由な発言の場とはどういうことか。TwitterというSNSの特性から読み解く。]]></summary>
-        <author>
-            <name>ITmedia TOP STORIES 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2週間で意識や行動に意外な変化が。メンタル記録アプリ使ってみたら…【今日のライフハックツール】]]></title>
-        <id>https://www.lifehacker.jp/article/2204_recor_mental_health_check_app/</id>
-        <link href="https://www.lifehacker.jp/article/2204_recor_mental_health_check_app/"/>
-        <updated>2022-04-28T13:05:00.000Z</updated>
-        <summary type="html"><![CDATA[メンタルの健康維持をサポートするアプリ「RECOR」の使用レビュー。言葉にし難い感情の言語化、可視化を手助けすることによる効果的なメンタルケアをご紹介します。]]></summary>
-        <author>
-            <name>saori</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[リコーが「HHKB」などキーボード事業に言及　「この事業を大切にしたい」]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2204/28/news220.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2204/28/news220.html"/>
-        <updated>2022-04-28T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[リコー コーポレート上席執行役員 リコーデジタルプロダクツビジネスユニット プレジデントの中田克典氏は、PFU買収に関する会見において、HHKBなどのキーボード事業について「大切にしたい」と発言した。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[リコーが「HHKB」などキーボード事業の今後について言及　「この事業を大切にしたい」]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2204/28/news220.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2204/28/news220.html"/>
-        <updated>2022-04-28T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[リコー コーポレート上席執行役員 リコーデジタルプロダクツビジネスユニット プレジデントの中田克典氏は、PFU買収に関する会見において、HHKBなどのキーボード事業について「大切にしたい」と発言した。]]></summary>
-        <author>
-            <name>ITmedia TOP STORIES 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[斜め開きが動きやすい！ 暴風雨対応型レインコートを試してみた]]></title>
-        <id>https://www.lifehacker.jp/article/machi-ya-morr2-review/</id>
-        <link href="https://www.lifehacker.jp/article/machi-ya-morr2-review/"/>
-        <updated>2022-04-28T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[「MORR 2.0」は、雨が多い台湾で生まれた超高品質レインコート。防水加工が施された生地と3層の防水設計を採用し、暴風雨もものともしない防水性が特長。斜め前開きのジッパーなので、自転車や原付バイクでも、雨水が自然と流れる設計です。]]></summary>
-        <author>
-            <name>山田洋路</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grafana Lokiを試してみる]]></title>
-        <id>https://qiita.com/rk05231977/items/adba496b8523addd0d27?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/rk05231977/items/adba496b8523addd0d27?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2022-04-28T12:58:34.000Z</updated>
-        <summary type="html"><![CDATA[Elastic Searchとかもう勘弁だ、と思うオンプレ運用管理者の間で、代替としてGrafana Loki使えないの？と言う向きが増えており、とりあえず試してみようと思ったメモ。
-
-環境
-
-必要メモ…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「値上げラッシュ」をどう乗り切る？  FPが2022年最強の家計管理＆節約術を伝授]]></title>
-        <id>https://www.lifehacker.jp/article/2204_money_column_how_to_manage_your_budget_in_price_hike/</id>
-        <link href="https://www.lifehacker.jp/article/2204_money_column_how_to_manage_your_budget_in_price_hike/"/>
-        <updated>2022-04-28T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[本格的な値上がり時代の到来となった2022年。物価上昇に負けずに対応するために意識したい家計管理と節約術をFP山崎俊輔さんが提案します。]]></summary>
-        <author>
-            <name>山崎俊輔</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基礎がわかれば怖くない。「手堅い投資」のはじめ方ガイド]]></title>
-        <id>https://www.lifehacker.jp/article/matome-investing-for-beginner/</id>
-        <link href="https://www.lifehacker.jp/article/matome-investing-for-beginner/"/>
-        <updated>2022-04-28T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[投資をどうやってはじめたら良いのか。投資初心者の方向けに投資をはじめる上でのポイントをまとめてみました。]]></summary>
-        <author>
-            <name>ライフハッカー編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[これ1本で顔・体・食器が洗える！ 天然由来成分100％オーガニックソープは今が買い【24時間の特別割引】]]></title>
-        <id>https://www.lifehacker.jp/article/4f77fe5c-e554-4352-960e-4b2b40618d67/</id>
-        <link href="https://www.lifehacker.jp/article/4f77fe5c-e554-4352-960e-4b2b40618d67/"/>
-        <updated>2022-04-28T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[WORK FAST, LIVE SLOW.仕事を充実させ、生活を楽しむ。ビジネスはスマートに、暮らしは豊かに。ポジティブに生きるために現実を見据えて考えたい人のための自分グロースメディア。]]></summary>
-        <author>
-            <name>ワタナベマイコ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[もうチェックした？　GW中にサービス停止するアレコレ　今のうちに確認しよう]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2204/28/news215.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2204/28/news215.html"/>
-        <updated>2022-04-28T11:14:00.000Z</updated>
-        <summary type="html"><![CDATA[迫るゴールデンウイーク。連休の間は使えないサービスがあるかもしれない。今のうちにチェックしておこう。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iOS 15.4の新機能！ iPhoneでApple Watchを復旧する方法]]></title>
-        <id>https://www.lifehacker.jp/article/2204how-to-restore-apple-watch-using-iphone/</id>
-        <link href="https://www.lifehacker.jp/article/2204how-to-restore-apple-watch-using-iphone/"/>
-        <updated>2022-04-28T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Apple Watchに問題が生じたとき、iPhoneで復旧できるって知っていましたか？これは、Apple WatchのwatchOS 8.5とiPhoneのiOS 15.4に含まれている新機能です。知っていて損はありません。]]></summary>
-        <author>
-            <name>ぬえよしこ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Amazonタイムセール中！】最大30%オフのFire TVシリーズや3,190円の見守りカメラなど]]></title>
-        <id>https://www.lifehacker.jp/article/amazon-timesale-2022-0428-1/</id>
-        <link href="https://www.lifehacker.jp/article/amazon-timesale-2022-0428-1/"/>
-        <updated>2022-04-28T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Amazon（アマゾン）で毎日開催されているタイムセール。本日2022年4月28日は、最大30%オフのFire TVシリーズや3,190円の見守りカメラなど、今すぐ欲しい人気のアイテムがお得に多数登場しています。]]></summary>
-        <author>
-            <name>メディアジーンメディアコマース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[130円台まで円安加速　通貨防衛はもはや”無理ゲー”？]]></title>
-        <id>https://www.itmedia.co.jp/business/articles/2204/28/news203.html</id>
-        <link href="https://www.itmedia.co.jp/business/articles/2204/28/news203.html"/>
-        <updated>2022-04-28T10:20:00.000Z</updated>
-        <summary type="html"><![CDATA[4月28日のドル円相場は、1ドル130円台まで下落し、20年ぶりの円安水準を更新した。きっかけとなったのは日銀だ。今回の金融政策決定会合の結果を公表し、「いまの大規模な金融緩和策を維持」としたからだ。]]></summary>
-        <author>
-            <name>ITmedia TOP STORIES 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[にじさんじ運営のANYCOLOR、東証グロースに上場　創業から約5年で]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2204/28/news209.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2204/28/news209.html"/>
-        <updated>2022-04-28T10:12:00.000Z</updated>
-        <summary type="html"><![CDATA[バーチャルYouTuber（VTuber）グループ「にじさんじ」を運営するANYCOLORは、東京証券取引所グロース市場へ新規上場が承認されたと発表した。上場日は6月8日予定。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[にじさんじ運営のANYCOLOR、東証グロースに上場　創業から約5年で]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2204/28/news209.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2204/28/news209.html"/>
-        <updated>2022-04-28T10:12:00.000Z</updated>
-        <summary type="html"><![CDATA[バーチャルYouTuber（VTuber）グループ「にじさんじ」を運営するANYCOLORは、東京証券取引所グロース市場へ新規上場が承認されたと発表した。上場日は6月8日予定。]]></summary>
-        <author>
-            <name>ITmedia TOP STORIES 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メルカリ、不正増加で16億円の追加出費　クレカ不正利用とフィッシング詐欺で成長も鈍化]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2204/28/news207.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2204/28/news207.html"/>
-        <updated>2022-04-28T10:10:00.000Z</updated>
-        <summary type="html"><![CDATA[メルカリは、アプリにおけるクレジットカードの不正利用とフィッシング詐欺の増加により、流通取引総額の成長率が鈍化した上、ユーザーへの補填金として第3四半期のみで合計16億円の出費があったと明らかにした。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メルカリ、不正増加で16億円の追加出費　クレカ不正利用とフィッシング詐欺で成長も鈍化]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2204/28/news207.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2204/28/news207.html"/>
-        <updated>2022-04-28T10:10:00.000Z</updated>
-        <summary type="html"><![CDATA[メルカリは、アプリにおけるクレジットカードの不正利用とフィッシング詐欺の増加により、流通取引総額の成長率が鈍化した上、ユーザーへの補填金として第3四半期のみで合計16億円の出費があったと明らかにした。]]></summary>
-        <author>
-            <name>ITmedia TOP STORIES 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[温度も風味もキープ！セラミックコートの漏れないタンブラー「STTOKE」を使ってみた]]></title>
-        <id>https://www.lifehacker.jp/article/machi-ya-sttokegrande-review2/</id>
-        <link href="https://www.lifehacker.jp/article/machi-ya-sttokegrande-review2/"/>
-        <updated>2022-04-28T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[「STOKE」は見た目にも美しいオーストリア発の真空二重タンブラー。高い保温性能を備えながら、セラミックコーティングによって金属臭のない上質な口当たりとドリンクの風味を提供してくれます。さらに新作では横や逆さまにしても漏れないリークプルーフ仕様になっています。]]></summary>
-        <author>
-            <name>kotoha ozawa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScriptにおける this とは？]]></title>
-        <id>https://qiita.com/kenny_J_7/items/9fd18834c8bc0bb3c576?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/kenny_J_7/items/9fd18834c8bc0bb3c576?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2022-04-28T09:57:03.000Z</updated>
-        <summary type="html"><![CDATA[JavaやKotlin、Swiftなど、多くのオブジェクト指向言語では、this はクラス内メソッドなどで利用され、そのインスタンス自身を指します。
-JavaScriptでは挙動が異なります。
-本記…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[にじさんじ運営、公式グッズのコピー商品に注意喚起　「違法な海賊版の製造、販売は法的措置をとる」]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2204/28/news204.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2204/28/news204.html"/>
-        <updated>2022-04-28T09:57:00.000Z</updated>
-        <summary type="html"><![CDATA[バーチャルYouTuber（VTuber）グループ「にじさんじ」を運営するANYCOLORは、英語圏を中心に活動するVTuberプロジェクト「NIJISANJI EN」で販売している商品を利用し、非公式・違法グッズが販売されていると注意喚起した。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[にじさんじ運営、公式グッズのコピー商品に注意喚起　「違法な海賊版の製造、販売は法的措置をとる」]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2204/28/news204.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2204/28/news204.html"/>
-        <updated>2022-04-28T09:57:00.000Z</updated>
-        <summary type="html"><![CDATA[バーチャルYouTuber（VTuber）グループ「にじさんじ」を運営するANYCOLORは、英語圏を中心に活動するVTuberプロジェクト「NIJISANJI EN」で販売している商品を利用し、非公式・違法グッズが販売されていると注意喚起した。]]></summary>
-        <author>
-            <name>ITmedia TOP STORIES 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スタートアップのWebアプリ開発に使った11の無料ツールたち]]></title>
-        <id>https://qiita.com/Yaguchi-Haruo/items/848ae5cdc62102d820e7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/Yaguchi-Haruo/items/848ae5cdc62102d820e7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2022-04-28T09:37:26.000Z</updated>
-        <summary type="html"><![CDATA[多機能ツールたちに感謝の正拳突きしてる。
-
-はじめに
-
-こんにちは、やぐちはるおです。
-先日旅行者向けアプリの記事を書いていた者です。
-
-https://qiita.com/Yaguchi-Haruo/i…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[採用試験「STYLYからの挑戦状 Vol.3 サーバーサイド長からの奇問」の解説]]></title>
-        <id>https://qiita.com/kotauchisunsun/items/4c86335093fa7d73a59d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/kotauchisunsun/items/4c86335093fa7d73a59d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2022-04-28T08:57:01.000Z</updated>
-        <summary type="html"><![CDATA[前書き
-
-先日、「STYLYからの挑戦状 Vol.3 サーバーサイド長からの奇問」という企画を公開させていただきました。
-
-https://www.wantedly.com/companies/psy…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Uipath】　アクティビティを表示する方法]]></title>
-        <id>https://qiita.com/techcamp_94nao/items/f233d50dafd05a48daf7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/techcamp_94nao/items/f233d50dafd05a48daf7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2022-04-28T08:19:47.000Z</updated>
-        <summary type="html"><![CDATA[UiPath Academyで使用されているアクティビティが見当たらない
-
-UiPath Academyにて学習中、UiPath Studioで実装しようとしました。
-しかし、UiPath Stud…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NECパーソナルコンピュータ、GIGAスクール向けChromebookなどを約124万台リコール]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2204/28/news184.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2204/28/news184.html"/>
-        <updated>2022-04-28T07:50:00.000Z</updated>
-        <summary type="html"><![CDATA[ネジの混入によりバッテリーが破損し、発煙の事案があったとして、ChromebookとWindows端末124万台をリコールした。]]></summary>
-        <author>
-            <name>ITmedia TOP STORIES 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[リコーとサイボウズが業務提携　「リコー版kintone」を巡る両社の思惑は？]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2204/28/news187.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2204/28/news187.html"/>
-        <updated>2022-04-28T07:48:00.000Z</updated>
-        <summary type="html"><![CDATA[リコーとサイボウズが業務提携を結ぶと発表した。ノーコード開発ツール「kintone」をベースに「リコーブランド版kintone」（仮称）を共同開発。10月に国内で提供を開始する。北米、欧州にも順次展開し、2026年3月までに100億円規模の売り上げを目指す。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【楽天タイムセール】28°C以下で自然凍結！ ネッククーラー「ICE RING」が20％還元。31％オフのDysonコードレス掃除機も]]></title>
-        <id>https://www.lifehacker.jp/article/rakuten-sale-2022-0428-1/</id>
-        <link href="https://www.lifehacker.jp/article/rakuten-sale-2022-0428-1/"/>
-        <updated>2022-04-28T07:30:00.000Z</updated>
-        <summary type="html"><![CDATA[本日2022年4月28日（木）は、 「ICERING」が20％還元、Dysonコードレス掃除機が31％オフなど、お得な商品が多数登場しています。]]></summary>
-        <author>
-            <name>メディアジーンメディアコマース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[リコー、PFU買収を正式発表　842億円で　「ScanSnap」や「HHKB」手掛ける]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2204/28/news176.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2204/28/news176.html"/>
-        <updated>2022-04-28T07:27:00.000Z</updated>
-        <summary type="html"><![CDATA[リコーは、富士通の子会社であるPFUを子会社化すると発表した。富士通が保有するPFUの発行済株式のうち80％を、計842億円で取得する予定。株式取得予定日は7月1日。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[リコー、PFU買収を正式発表　842億円で　「ScanSnap」や「HHKB」開発・販売]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2204/28/news176.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2204/28/news176.html"/>
-        <updated>2022-04-28T07:27:00.000Z</updated>
-        <summary type="html"><![CDATA[リコーは、富士通の子会社であるPFUを子会社化すると発表した。富士通が保有するPFUの発行済株式のうち80％を、計842億円で取得する予定。株式取得予定日は7月1日。]]></summary>
-        <author>
-            <name>ITmedia TOP STORIES 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[子供向けのスマートフォン、iPhoneとAndroidのどちらを選ぶべき？]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2204/28/news174.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2204/28/news174.html"/>
-        <updated>2022-04-28T07:18:00.000Z</updated>
-        <summary type="html"><![CDATA[子どもに与えるスマートフォンをiPhoneにするかAndroidにするかは悩ましいところです。新しいスマホを買う、中古スマホを買う、親のおさがりを渡すなどの選択肢もあります。さらにキャリアかMVNOかも悩みどころでしょう。]]></summary>
-        <author>
-            <name>ITmedia TOP STORIES 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[C# SWITCHの進化]]></title>
-        <id>https://qiita.com/takeshitou/items/9d27cd58ecca61be1e39?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/takeshitou/items/9d27cd58ecca61be1e39?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2022-04-28T07:17:35.000Z</updated>
-        <summary type="html"><![CDATA[概要
-
-C#のバージョンアップでSwitchにいろいろな使い方が増えたから、メモとして使い方を纏めてみました。
-文書で説明するのが大変だから、文書少なめでプログラムがメインに記述しました。
-
-今までの…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[古い一眼レフをiPhoneでデジタル化　「デジスワップ」が生み出す写真が味わい深い]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2204/28/news173.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2204/28/news173.html"/>
-        <updated>2022-04-28T07:06:00.000Z</updated>
-        <summary type="html"><![CDATA[まだ開発中という「DIGI SWAP」（デジスワップ）を借りて試した。わざわざ古いフィルムカメラを引っ張り出してiPhoneを装着して遊ぶという、極めて趣味性の高いガジェットは、味わい深い写真の世界を見せてくれた。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[古い一眼レフをiPhoneでデジタル化　「デジスワップ」が生み出す写真が味わい深い]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2204/28/news173.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2204/28/news173.html"/>
-        <updated>2022-04-28T07:06:00.000Z</updated>
-        <summary type="html"><![CDATA[まだ開発中という「DIGI SWAP」（デジスワップ）を借りて試した。わざわざ古いフィルムカメラを引っ張り出してiPhoneを装着して遊ぶという、極めて趣味性の高いガジェットは、味わい深い写真の世界を見せてくれた。]]></summary>
-        <author>
-            <name>ITmedia TOP STORIES 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cygames、ブシロードが仕掛けるTCG版「シャドウバース」　デジタルからアナログへの展開の狙い]]></title>
-        <id>https://www.itmedia.co.jp/business/articles/2204/28/news141.html</id>
-        <link href="https://www.itmedia.co.jp/business/articles/2204/28/news141.html"/>
-        <updated>2022-04-28T07:01:00.000Z</updated>
-        <summary type="html"><![CDATA[eスポーツ種目としても社会的に広がっている『シャドウバース』。実際の紙を使ったトレーディングカードゲーム（TCG）への展開も進めている。このTCG版の名称は『Shadowverse EVOLVE（シャドウバース エボルヴ）』で、スターターデッキを発売した。]]></summary>
-        <author>
-            <name>ITmedia TOP STORIES 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[休暇中は「ネット接続がない場所にいる」と同僚に伝えるべき理由]]></title>
-        <id>https://www.lifehacker.jp/article/2204_you_should_lie_about_your_internet_access/</id>
-        <link href="https://www.lifehacker.jp/article/2204_you_should_lie_about_your_internet_access/"/>
-        <updated>2022-04-28T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[長期休暇で仕事から離れ、ゆっくり過ごすハックの1つ「インターネットが繋がらない」と同僚に伝えておくことのメリットをご紹介します。]]></summary>
-        <author>
-            <name>春野ユリ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仕事量を減らすことが、生産性向上の秘訣かもしれない]]></title>
-        <id>https://www.lifehacker.jp/article/2204-you-just-might-be-more-productive-if-you-work-less/</id>
-        <link href="https://www.lifehacker.jp/article/2204-you-just-might-be-more-productive-if-you-work-less/"/>
-        <updated>2022-04-28T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[仕事から離れることが仕事の成功につながることがあります。その理由を解説します。]]></summary>
-        <author>
-            <name>風見隆（ガリレオ）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Playの有料ゲームが定額遊び放題、アプリのサブスクが日本でも　月600円でAppleの競合サービスと同価格]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2204/28/news166.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2204/28/news166.html"/>
-        <updated>2022-04-28T06:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Google Playストアで配信している一部の有料アプリやアプリ内購入のあるゲームを、広告なしで無料で使い放題にするサブスクサービス「Google Play Pass」の提供が日本でも始まる。価格は月額600円または年額5400円（いずれも税込）。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コロナにかかったら、SMS通知が止まらなくなった話]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2204/28/news147.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2204/28/news147.html"/>
-        <updated>2022-04-28T06:30:00.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナウイルス感染症にかかった。それから3週間近く。全快した後も保健所から毎日、コロナ関連のSMSがスマホに届き続けた……。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[とりあえず試してみる系-サクッとモブプロやってみた]]></title>
-        <id>https://qiita.com/k-ic/items/58aaa8a831d1ba4973eb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/k-ic/items/58aaa8a831d1ba4973eb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2022-04-28T06:00:15.000Z</updated>
-        <summary type="html"><![CDATA[この記事を読む人
-
-モブプロよく聞くけど、どうやるんだろうと悩んでる人
-※モブプロとは、複数人でコミュニケーションを取りながら実装する手法
-
-きっかけ
-
-DevOpsDays Tokyoというイベントに…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[親指サイズの防水チタンLEDライト、まもなくプロジェクト終了]]></title>
-        <id>https://www.lifehacker.jp/article/machi-ya-daumen-end/</id>
-        <link href="https://www.lifehacker.jp/article/machi-ya-daumen-end/"/>
-        <updated>2022-04-28T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[超小型でありながら30m先まで照らせるアウトドアの強い味方、チタン製防水LEDライト｢DAUMEN｣。machi-yaで実施中のプロジェクトが、終了間近となりました。その魅力、改めてご紹介します。]]></summary>
-        <author>
-            <name>飯田あゆみ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta、Questやスマートグラスを体験できる実店舗1号店オープンへ]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2204/28/news155.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2204/28/news155.html"/>
-        <updated>2022-04-28T05:36:00.000Z</updated>
-        <summary type="html"><![CDATA[Metaは、メタバース構築部門Reality Labsのキャンパス内に初の実店舗をオープンする。同部門で開発するVRヘッドセットやスマートグラスを体験・購入できる。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[連休中の勉強にいかが？　パブリッククラウドの教材情報4選、2022年版]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2204/28/news146.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2204/28/news146.html"/>
-        <updated>2022-04-28T05:30:00.000Z</updated>
-        <summary type="html"><![CDATA[2022年もゴールデンウイークが始まる。連休中の勉強のお供として、ITmediaで2022年に取り上げた記事の中から、パブリッククラウドの学習に使える教材を4つ紹介する。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Blazor]MatBlazor使ってみた]]></title>
-        <id>https://qiita.com/minoura_a/items/5cf093f6843307272823?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/minoura_a/items/5cf093f6843307272823?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2022-04-28T05:24:06.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-
-Blazor向けのUIフレームワークであるMatBlazorのコンポーネントをいくつか使ってみたので、その備忘録です。
-MatBlazorを使えば簡単に見た目をマテリアルデザインにできま…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pythonで作るスネークゲーム]]></title>
-        <id>https://qiita.com/kai-utsunomiya/items/f49a6ad948cea31379cb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/kai-utsunomiya/items/f49a6ad948cea31379cb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2022-04-28T04:50:04.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-
-　今回はPythonで、ヘビ状のオブジェクトにエサを食べさせて成長させる「スネークゲーム」を作ってみたいと思います。前回の記事で取り上げたPing Pongゲームに引き続き、Python…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[光ファイバーでできたUSBケーブル登場　転送速度10Gbps、最長15m]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2204/28/news142.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2204/28/news142.html"/>
-        <updated>2022-04-28T04:45:00.000Z</updated>
-        <summary type="html"><![CDATA[業務用映像機器メーカーのエーディテクノが、光ファイバーを使ったUSBケーブルを発売する。USB3.2 Gen2に対応し、データ転送速度は10Gbps。ケーブルの長さは最長15m。想定価格は3万円台。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft、ロシアによるウクライナ侵攻に伴うサイバー攻撃について詳解　支援国にも警告]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2204/28/news138.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2204/28/news138.html"/>
-        <updated>2022-04-28T04:22:00.000Z</updated>
-        <summary type="html"><![CDATA[Microsoftは、ロシアとウクライナの「ハイブリッド戦争」におけるロシアのサイバー攻撃についてのレポートを公開した。ウクライナ侵攻直前から数百回の作戦が実行されているとしている。ウクライナ支援国への攻撃の可能性もあると警告している。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「Web上に記事が残らない」ことは何が問題なのか]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2204/28/news136.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2204/28/news136.html"/>
-        <updated>2022-04-28T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Engadget日本版の記事が4月末に全て削除されてしまうことで、Webから記事が消えてしまう問題が大きく取り上げられた。西田宗千佳さんがこのテーマについてまとめた。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SaaS導入で従業員の休みが増えた　人不足の地方中小がクラウド活用で変わった話]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2204/28/news065.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2204/28/news065.html"/>
-        <updated>2022-04-28T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[事業拡大の一方、人不足による業務の属人化と、情報共有の不備に課題を抱えていた中小企業。複数のSaaSを導入し業務改善を図ったところ、従業員の負荷を減らし、休みを増やすこともできたという。成功のカギはSaaSを使わざるを得ない仕組み作りにあった。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[漫画「ゴールデンカムイ」全話無料配信に最終話を追加　全話イッキ読みできる状況に]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2204/28/news132.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2204/28/news132.html"/>
-        <updated>2022-04-28T03:46:00.000Z</updated>
-        <summary type="html"><![CDATA[「ゴールデンカムイ」の全話無料配信が4月28日に最終日を迎え、最終回（314話）の配信が始まった。1日限定で全話イッキ読みもできる。Twitterではトレンド上位を関連ワードが占めた]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「povo2.0」で「24時間データ使い放題」が1回無料に　KDDIがGW向け施策]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2204/28/news134.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2204/28/news134.html"/>
-        <updated>2022-04-28T03:45:00.000Z</updated>
-        <summary type="html"><![CDATA[KDDIのオンライン専用プラン「povo2.0」が、ゴールデンウィーク期間（29日～5月8日）中に利用できるプロモコードを配布。「データ使い放題（24時間）」が1回分無料になるという。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[満足度の高い名刺管理ツール　2位「Eight」を超えた1位は？【2022年4月版】]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2204/28/news122.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2204/28/news122.html"/>
-        <updated>2022-04-28T03:30:00.000Z</updated>
-        <summary type="html"><![CDATA[ユーザー満足度の高い名刺管理ツールサービスは？　IT製品レビューサイト「ITreview」に寄せられたレビューを基に、ランキング形式でまとめた。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[庵野秀明さんが紫綬褒章を受章　コメント全文]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2204/28/news124.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2204/28/news124.html"/>
-        <updated>2022-04-28T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[カラー代表で映画監督の庵野秀明さんが紫綬褒章を受章した。芸術文化に関わる功績での受章という。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[グッドカンパニー研究 Vol.4｜偶発的な出会いが創造性を育む日清食品ホールディングス「NISSIN GARAGE」]]></title>
-        <id>https://www.lifehacker.jp/article/2204-good-company-lab-vol4/</id>
-        <link href="https://www.lifehacker.jp/article/2204-good-company-lab-vol4/"/>
-        <updated>2022-04-28T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[オフィスのありかたから働き方を探求する連載企画「グッドカンパニー研究」第4回は、日清食品ホールディングス株式会社 東京本社の「NISSIN GARAGE」を訪問取材。横石崇さんと良い会社とは何か？探ります。]]></summary>
-        <author>
-            <name>田邉愛理</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[円盤本社は見える？　Apple Parkビジターセンターの歩き方、撮影スポット教えます]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2204/28/news121.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2204/28/news121.html"/>
-        <updated>2022-04-28T02:56:00.000Z</updated>
-        <summary type="html"><![CDATA[円盤スタイルのApple本社は観光スポットでもあります。その見どころをお教えしましょう。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[バンナム、約42万フレーム分のモーションデータ無償公開　歩行、格闘、ダンスなど　研究用に]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2204/28/news118.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2204/28/news118.html"/>
-        <updated>2022-04-28T02:50:00.000Z</updated>
-        <summary type="html"><![CDATA[バンダイナムコ研究所が、人間の3DモーションデータをAIの研究開発向けにGitHubで無料公開した。歩行やダンスなどのモーションを合計約42万フレーム分提供する。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Tips】Auth0 Twilioを使った通話認証を日本語ユーザ向けにちょっとリッチにする]]></title>
-        <id>https://qiita.com/elephantt/items/2e0e47875e59ccde1fab?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/elephantt/items/2e0e47875e59ccde1fab?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2022-04-28T02:47:12.000Z</updated>
-        <summary type="html"><![CDATA[想定読者
-
-本記事の想定読者は、Auth0の通話認証を利用されていて、
-カスタム設定まで実施されていない方、
-もしくは今からAuth0　の通話認証を設定される方向けの記事になります。
-
-背景
-
-Auth…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windowsでの開発で愛用しているツール紹介]]></title>
-        <id>https://qiita.com/k-akie/items/eeb2f0dfdacfb2ea0fd2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/k-akie/items/eeb2f0dfdacfb2ea0fd2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2022-04-28T02:42:19.000Z</updated>
-        <summary type="html"><![CDATA[前置き
-
-私は開発も私用もPCはWindowsを使っています。
-共有用にWindowsで作業・開発するならこのツールは必須だな、よく使うなというものをまとめました。
-
-凡例
-
-### ツール名
-概要
-ダ…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YOLOv4 - Quick setup with conda and GPU training]]></title>
-        <id>https://qiita.com/sebastianrettig/items/33ead90d3bde4cc9b6b0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/sebastianrettig/items/33ead90d3bde4cc9b6b0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2022-04-28T02:00:57.000Z</updated>
-        <summary type="html"><![CDATA[Dependencies only installed in conda environment -  no system wide CUDA-Toolkit installation
-
-
-
-日本語版 (…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YOLOv4 - condaでのクイックセットアップとGPUで学習する]]></title>
-        <id>https://qiita.com/sebastianrettig/items/2457b9a429e2d8a309f7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/sebastianrettig/items/2457b9a429e2d8a309f7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2022-04-28T02:00:48.000Z</updated>
-        <summary type="html"><![CDATA[依存関係はシステム全体ではなく、conda 環境のみでインストールされます。
-
-
-
-English Version (英語版)
-
-
-前書き
-
-エッジデバイスでの高速物体検出のためにYOLOv4モデルを学習させ…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta（旧Facebook)は1桁増収2桁減益　メタバース収益化は長期計画とCEO]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2204/28/news097.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2204/28/news097.html"/>
-        <updated>2022-04-28T01:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Meta（旧Facebook）の1～3月期決算は、増収減益だった。売上高増が1桁になったのは上場以来初。FacebookのDAUは増加に転じた。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta（旧Facebook)は1桁増収2桁減益　メタバース収益化は長期計画とCEO]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2204/28/news097.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2204/28/news097.html"/>
-        <updated>2022-04-28T01:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Meta（旧Facebook）の1～3月期決算は、増収減益だった。売上高増が1桁になったのは上場以来初。FacebookのDAUは増加に転じた。]]></summary>
-        <author>
-            <name>ITmedia TOP STORIES 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マネフォが楽天銀行とのAPI連携を解除しなかったワケ　背景に隠れた「SaaSならでは」の戦略]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2204/27/news182.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2204/27/news182.html"/>
-        <updated>2022-04-28T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[楽天銀行とのAPI連携は解除しない──競合・freeeとは反対の判断を下したマネーフォワード。その裏側には、SaaSベンダーならではのある戦略が隠れていた。同社の山田CSOに判断の背景を聞く。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マネフォが楽天銀行とのAPI連携を解除しなかったワケ　背景に隠れた「SaaSならでは」の戦略]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2204/27/news182.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2204/27/news182.html"/>
-        <updated>2022-04-28T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[楽天銀行とのAPI連携は解除しない──競合・freeeとは反対の判断を下したマネーフォワード。その裏側には、SaaSベンダーならではのある戦略が隠れていた。同社の山田CSOに判断の背景を聞く。]]></summary>
-        <author>
-            <name>ITmedia TOP STORIES 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「Windows 11」「Windows 365」の新機能はビジネスにどういうメリットをもたらす？　日本マイクロソフトが説明]]></title>
-        <id>https://www.itmedia.co.jp/pcuser/articles/2204/28/news081.html</id>
-        <link href="https://www.itmedia.co.jp/pcuser/articles/2204/28/news081.html"/>
-        <updated>2022-04-28T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[日本マイクロソフトが法人ユーザーを対象に「Windows 11」「Windows 365」の新機能を紹介するイベントを開催した。Windows 11に搭載される（予定）の新機能は、ビジネスにどのようなメリットをもたらすのだろうか。]]></summary>
-        <author>
-            <name>ITmedia TOP STORIES 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中央アフリカ、ビットコインを法定通貨に　世界で2カ国目]]></title>
-        <id>https://www.itmedia.co.jp/business/articles/2204/28/news093.html</id>
-        <link href="https://www.itmedia.co.jp/business/articles/2204/28/news093.html"/>
-        <updated>2022-04-28T00:16:00.000Z</updated>
-        <summary type="html"><![CDATA[中央アフリカ共和国は4月27日、ビットコインを法定通貨として採用したと発表した。ロイター通信が伝えた。ビットコインの法定通貨化は、中米エルサルバドルに次いで2カ国目。]]></summary>
-        <author>
-            <name>ITmedia TOP STORIES 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「スマホOSの寡占」問題　政府の思惑は「日本独自OS」を作ることではない]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2204/28/news092.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2204/28/news092.html"/>
-        <updated>2022-04-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[日本政府が、スマートフォン用OSの寡占状態を懸念している。そこから、「日本政府が独自OSを欲している」との解釈も広がっている。結論からいうとその解釈は正しくない。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[隕石から塩基全5種の検出成功　はやぶさ2試料分析にも応用へ　北大など]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2204/28/news091.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2204/28/news091.html"/>
-        <updated>2022-04-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[北海道大などの研究チームは、太陽系が誕生したころの宇宙に存在した物質を豊富に含む炭素質隕石を調べた結果、核酸を構成する5種類の塩基全ての検出に成功したと発表した。地球の生命の源は約40億年前に宇宙から飛来したという説が、さらに補強された格好だ。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[世界初のEVタンカーに潜入　操縦はジョイスティック]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2204/28/news090.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2204/28/news090.html"/>
-        <updated>2022-04-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[世界初のEVタンカー「あさひ」が建造され、4月下旬に千葉から横浜までの初航海を行った。あさひは、騒音や振動、においなどが低減されており、船員の負担も少ないのも特徴だ。建造したのは、香川県丸亀市の興亜産業。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[味、原材料……アイデア入力でAIがレシピ　キリン、新商品開発に活用]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2204/28/news089.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2204/28/news089.html"/>
-        <updated>2022-04-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[キリンビバレッジが、商品開発にAIを導入する。熟練開発者の思考パターンを基にした専用ツール「アセスメントAI」の開発に成功し、4月から試験運用を始めた。開発工程のDXで、高いレベルの品質が求められる健康関連商品の開発を加速させる。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[画像異常検知の新展開！MVTec LOCO AD Dataset]]></title>
-        <id>https://qiita.com/bezilla/items/ea274d081284d83d7843?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/bezilla/items/ea274d081284d83d7843?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2022-04-27T23:35:44.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-
-MVTec ADとは産業向けのビジョンソフトを手がけるMVTec Software社^1が提供する外観検査向けデータセットです。
-- MVTEC ANOMALY DETECTION DA…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[角膜に写る自分の姿から、スマートフォンの持ち方を特定する技術　慶應大などのチームが開発]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2204/28/news062.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2204/28/news062.html"/>
-        <updated>2022-04-27T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[慶應義塾大学 lifestyle Computing LabとYahoo! JAPAN研究所、東京工科大学の研究チームは、ユーザーの角膜に写るスマートフォンの像をインカメラで取得し、操作しているスマートフォンの持ち方を識別する技術を開発した。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2000人が登録待ち！　サブスク別荘「SANU」行って分かった人気のワケ]]></title>
-        <id>https://www.itmedia.co.jp/business/articles/2204/28/news025.html</id>
-        <link href="https://www.itmedia.co.jp/business/articles/2204/28/news025.html"/>
-        <updated>2022-04-27T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[月会費5万5000円でセカンドホームを持てるサブスクが人気を集めている。サービス名は「SANU 2nd Home」。登録待ちは2000人を超えているそうだが、一体どんなサービスなのか。創業者を取材した。]]></summary>
-        <author>
-            <name>ITmedia TOP STORIES 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[角膜に写る自分の姿から、スマートフォンの持ち方を特定する技術　慶應大などのチームが開発]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2204/28/news062.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2204/28/news062.html"/>
-        <updated>2022-04-27T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[慶應義塾大学 lifestyle Computing LabとYahoo! JAPAN研究所、東京工科大学の研究チームは、ユーザーの角膜に写るスマートフォンの像をインカメラで取得し、操作しているスマートフォンの持ち方を識別する技術を開発した。]]></summary>
-        <author>
-            <name>ITmedia TOP STORIES 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[どんな環境・時代にも役立つ、仕事に活きる「小さな気配り」マナー]]></title>
-        <id>https://www.lifehacker.jp/article/2204book_to_read-979/</id>
-        <link href="https://www.lifehacker.jp/article/2204book_to_read-979/"/>
-        <updated>2022-04-27T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[『ドアはあけたらおさえましょう』（ジョン・ブリッジズ 著、酒井章文 訳、サンマーク出版）より、仕事に活きる「小さな気配り」マナーについて解説します。]]></summary>
-        <author>
-            <name>印南敦史</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google、検索結果からの個人情報削除リクエスト範囲を拡大　住所やメアドも]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2204/28/news087.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2204/28/news087.html"/>
-        <updated>2022-04-27T22:22:00.000Z</updated>
-        <summary type="html"><![CDATA[Googleは、検索結果からの個人情報削除リクエストの対象範囲を拡大した。身分証明書の画像や住所や電話番号、メールアドレスなどの連絡先情報などが追加された。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google、検索結果からの個人情報削除リクエスト範囲を拡大　住所やメアドも]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2204/28/news087.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2204/28/news087.html"/>
-        <updated>2022-04-27T22:22:00.000Z</updated>
-        <summary type="html"><![CDATA[Googleは、検索結果からの個人情報削除リクエストの対象範囲を拡大した。身分証明書の画像や住所や電話番号、メールアドレスなどの連絡先情報などが追加された。]]></summary>
-        <author>
-            <name>ITmedia TOP STORIES 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[脱Cookieも追い風に　ネットでテレビ広告を売る「TVer」が好調な理由]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2204/28/news079.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2204/28/news079.html"/>
-        <updated>2022-04-27T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[サードパーティーCookieの規制が進む中、民放の公式テレビ配信サービス「TVer」は自社で取得するデータをリッチ化して広告主のニーズに応えようとしている。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[口パクで音声入力できるマスク、東大などが開発　約8割の精度で音声を認識]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2204/28/news063.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2204/28/news063.html"/>
-        <updated>2022-04-27T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[東京大学と産業技術総合研究所の研究チームは、マスク着用時に口パク（無声発話）による音声入力が行えるマスク型デバイスを開発した。口パクによって変形するマスクを内蔵するセンサーで読み取り、音声アシスタントへの入力コマンドに変換する。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[脱Cookieも追い風に　ネットでテレビ広告を売る「TVer」が好調な理由]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2204/28/news079.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2204/28/news079.html"/>
-        <updated>2022-04-27T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[サードパーティーCookieの規制が進む中、民放の公式テレビ配信サービス「TVer」は自社で取得するデータをリッチ化して広告主のニーズに応えようとしている。]]></summary>
-        <author>
-            <name>ITmedia TOP STORIES 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[口パクで音声入力できるマスク、東大などが開発　約8割の精度で音声を認識]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2204/28/news063.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2204/28/news063.html"/>
-        <updated>2022-04-27T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[東京大学と産業技術総合研究所の研究チームは、マスク着用時に口パク（無声発話）による音声入力が行えるマスク型デバイスを開発した。口パクによって変形するマスクを内蔵するセンサーで読み取り、音声アシスタントへの入力コマンドに変換する。]]></summary>
-        <author>
-            <name>ITmedia TOP STORIES 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HISモバイルに聞く“290円プラン”誕生の背景　OCNに対抗して価格ナンバーワンを維持]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2204/28/news077.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2204/28/news077.html"/>
-        <updated>2022-04-27T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[5月中旬に新料金プランを導入するHISモバイルの目玉になっているが、1GBプランだ。通常だと550円（税込み）かかるが、1カ月のデータ使用量が100MB未満だった場合のみ、金額が290円まで下がる。290円という料金で狙うのが、フィーチャーフォンからの乗り換えを考えるユーザーだ。]]></summary>
-        <author>
-            <name>ITmedia TOP STORIES 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「魔改造の夜」に学ぶ、(エンジニアとして？)生きていくための心構え]]></title>
-        <id>https://qiita.com/na0y/items/8ad726dd640ac4b1daaa?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/na0y/items/8ad726dd640ac4b1daaa?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2022-04-27T16:45:11.000Z</updated>
-        <summary type="html"><![CDATA[先日、夜中にテレビをつけていたらNHKの番組「魔改造の夜」の再放送をしており、初めて知った番組だったのですが、面白くてついつい最後まで見てしまいました。
-
-https://www.nhk.jp/p/t…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScriptでシーン管理]]></title>
-        <id>https://qiita.com/mogamoga1337/items/d9fea3942152a5eba3fa?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/mogamoga1337/items/d9fea3942152a5eba3fa?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2022-04-27T16:08:11.000Z</updated>
-        <summary type="html"><![CDATA[前書き
-
-Vue.jsとかthree.jsとかとは無縁のVanillaJS的な話です。
-ぶっちゃけ99.9%の人にとってどうでもいいし、一生使わないような話です。
-なんでこんな面倒なことしてんの？ラ…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【delika】アカウントを作成して、データをダウンロードする]]></title>
-        <id>https://qiita.com/Aichi_Lover/items/f5ed4d44e464abcb6498?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/Aichi_Lover/items/f5ed4d44e464abcb6498?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2022-04-27T15:20:34.000Z</updated>
-        <summary type="html"><![CDATA[1.はじめに
-
-どうも、ARIの名古屋支社に勤務している愛知県民です♪
-(/・ω・)/
-
-Qiitaで面白そうなイベントがやっていたので、参加ボタンをポチりました。
-
-https://qiita.com…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple、iPhoneをユーザーが自分で修理可能に　パーツ、マニュアルも提供　まずは米国で開始]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2204/27/news187.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2204/27/news187.html"/>
-        <updated>2022-04-27T14:34:00.000Z</updated>
-        <summary type="html"><![CDATA[Appleは、自分でiPhoneを修理出来るセルフサービス修理プログラムの提供を開始した。]]></summary>
-        <author>
-            <name>ITmedia TOP STORIES 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pythonと比べて学ぶ競プロのためのRust]]></title>
-        <id>https://qiita.com/hinu1116/items/fead65fbe461b30acfdd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/hinu1116/items/fead65fbe461b30acfdd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2022-04-27T14:00:18.000Z</updated>
-        <summary type="html"><![CDATA[今までは Python で競技プログラミングをしていましたが、最近 Rust の勉強を始めました。同じように Python を書いたことがあり Rust へ入門しようと考えている人向けに AtCod…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【心理テスト】あなたの深層心理は？ いま本当に求めているものをチェック]]></title>
-        <id>https://www.lifehacker.jp/article/2204_psychological_test_spring_q/</id>
-        <link href="https://www.lifehacker.jp/article/2204_psychological_test_spring_q/"/>
-        <updated>2022-04-27T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[【心理テスト】春をもっと有意義に過ごす方法は？ まずは日常の満足度をチェックしながら、あなたの深層心理が求めている時間の過ごし方をアドバイス。人生を豊かに、もっと自分を知るきっかけにもなる「心理テスト」をお届けします。]]></summary>
-        <author>
-            <name>ライフハッカー編集部</name>
         </author>
     </entry>
 </feed>
